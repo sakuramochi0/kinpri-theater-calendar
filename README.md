@@ -2,8 +2,8 @@
 
 📆 キンプリの映画の上映スケジュールをiCalとして生成するプログラム。Googleカレンダーなどのカレンダーアプリに登録すると自動更新されて最新のスケジュールが確認できます。
 
-![新宿バルト9のキンプリ上映スケジュールが表示されたGoogleカレンダーのスクリーンショット](https://github.com/user-attachments/assets/8346d48b-2f12-4c0c-9a21-c108cfc5e6ff)
-![新宿バルト9とユナイテッド・シネマ幕張のキンプリ上映スケジュールが表示されたカレンダーアプリのスクリーンショット](https://github.com/user-attachments/assets/ffdbfe45-b7f7-4fd9-b132-31a3127a2399)
+<img alt="新宿バルト9のキンプリ上映スケジュールが表示されたGoogleカレンダーのスクリーンショット" src="https://github.com/user-attachments/assets/8346d48b-2f12-4c0c-9a21-c108cfc5e6ff" width="300">
+<img alt="新宿バルト9とユナイテッド・シネマ幕張のキンプリ上映スケジュールが表示されたカレンダーアプリのスクリーンショット" src="https://github.com/user-attachments/assets/ffdbfe45-b7f7-4fd9-b132-31a3127a2399" width="300">
 
 ## 現在の対応映画館
 - 新宿バルト9 ([iCal link](https://kinpri-theater-calendar.skrm.ch//data/新宿バルト9%20『KING%20OF%20PRISM%20-Dramatic%20PRISM.1-』上映時間.ics) / [JSON link](https://kinpri-theater-calendar.skrm.ch//data/新宿バルト9%20『KING%20OF%20PRISM%20-Dramatic%20PRISM.1-』上映時間.json))
