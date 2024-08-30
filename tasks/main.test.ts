@@ -67,32 +67,35 @@ test('グランドシネマサンシャイン池袋', async ({ page }) => {
   await page.goto('https://www.cinemasunshine.co.jp/theater/gdcs/');
   await page.locator('#check-close-btn').click()
 
-  const year = new Date().getFullYear()
-  const day = await page.locator('#schedule .active .day').evaluate(e=>e.textContent.trim())
-  const schedules: Schedule[] = (await page.locator('.content-item').evaluateAll(e =>
-    e.map(e => ({
-      time: e.querySelector('.time').textContent.trim(),
-      title: e.querySelector('.title').textContent.trim(),
-      purchase: e.querySelector('.purchase').textContent.trim(),
-      screenName: e.querySelector('.info').textContent.trim(),
-    }))
-  ))
-    .filter(rawSchedule => rawSchedule.title.includes('KING OF PRISM'))
-    .map(rawSchedule => {
-      /**
-       *   {
-       *     time: '21:30〜\n            22:44',
-       *     title: 'プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』BESTIA enhanced',
-       *     purchase: '◯ 購入',
-       *     info: 'シアター６ BESTIA'
-       *   }
-       */
-      const screenName = rawSchedule.screenName
-      const [_, startTimeString, endTimeString ] = rawSchedule.time.match(/(\d+:\d+)\D+(\d+:\d+)/)
-      const startTime = new Date(`${year}/${day} ${startTimeString} GMT+0900`)
-      const endTime = new Date(`${year}/${day} ${endTimeString} GMT+0900`)
-      return {screenName, startTime, endTime}
-    })
+  const schedules: Schedule[] =
+    await page.locator('#tab1_content .content-item')
+      .evaluateAll(movies => movies
+        .filter(movie => movie.querySelector('.title').textContent.includes('KING OF PRISM'))
+        .map(movie => [...movie.querySelectorAll('.schedule-item')]
+          .map(e => ({
+            time: e.querySelector('.time').textContent.trim(),
+            purchase: e.querySelector('.purchase').textContent.trim(),
+            screenName: e.querySelector('.info').textContent.trim(),
+          }))).flat()
+        .map(rawSchedule => {
+          /**
+           *   {
+           *     time: '21:30〜\n            22:44',
+           *     title: 'プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』BESTIA enhanced',
+           *     purchase: '◯ 購入',
+           *     info: 'シアター６ BESTIA'
+           *   }
+           */
+          const screenName = rawSchedule.screenName
+
+          const year = new Date().getFullYear()
+          const day = document.querySelector('#schedule .active .day').textContent.trim()
+          const [_, startTimeString, endTimeString] = rawSchedule.time.match(/(\d+:\d+)\D+(\d+:\d+)/)
+          const startTime = new Date(`${year}/${day} ${startTimeString} GMT+0900`)
+          const endTime = new Date(`${year}/${day} ${endTimeString} GMT+0900`)
+          return { screenName, startTime, endTime }
+        })
+      )
 
   console.log(schedules)
   saveJSON(theaterName, schedules)
