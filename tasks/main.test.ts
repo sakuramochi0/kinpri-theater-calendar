@@ -47,10 +47,11 @@ test('ユナイテッド・シネマ幕張', async ({ page }) => {
         const screenName = screen.querySelector('.screenNumber img').getAttribute('alt')
         let shows = [...screen.querySelectorAll('ol ol')];
         return shows.map(e => {
+          const year = new Date().getFullYear()
           const startTimeString = e.querySelector('.startTime').textContent
           const endTimeString = e.querySelector('.endTime').textContent.replace('～', '')
-          const startTime = new Date(`${dateString} ${startTimeString} GMT+0900`)
-          const endTime = new Date(`${dateString} ${endTimeString} GMT+0900`)
+          const startTime = new Date(`${year} ${dateString} ${startTimeString} GMT+0900`)
+          const endTime = new Date(`${year} ${dateString} ${endTimeString} GMT+0900`)
           return { screenName, startTime, endTime }
         })
       })
