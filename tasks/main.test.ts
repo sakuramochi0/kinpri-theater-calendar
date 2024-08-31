@@ -12,15 +12,20 @@ test('新宿バルト9', async ({ page }) => {
   const scheduleBox = await page.locator('.schedule-box')
   const date = await page.locator('.calendar-item.calendar-active').evaluate(e => e.dataset.date)
 
-  const schedules = await scheduleBox.evaluateAll(schedules => schedules.map(schedule => {
+  const rawSchedules = await scheduleBox.evaluateAll(schedules => schedules.map(schedule => {
     const screenName = schedule.querySelector('.theater-name').textContent.trim()
     const timeString = schedule.querySelector('.schedule-time').textContent.trim()
     const [[_, startTime, endTime]] = timeString.matchAll(/(\d+:\d+)\D+(\d+:\d+)/g)
     return { screenName, startTime, endTime }
   }))
-  const data: Schedule[] = schedules.map(schedule => {
+  const schedules: Schedule[] = rawSchedules.map(schedule => {
     // FIXME: handle after 24:00. use dayjs etc.
-    if (schedule.endTime.includes('24:')) {
+    const startHour = parseInt(schedule.startTime.split(':')[0])
+    const endHour = parseInt(schedule.endTime.split(':')[0])
+    if (startHour >= 24) {
+      schedule.startTime = '23:59'
+    }
+    if (endHour >= 24) {
       schedule.endTime = '23:59'
     }
 
@@ -28,8 +33,10 @@ test('新宿バルト9', async ({ page }) => {
     schedule.endTime = new Date(`${date} ${schedule.endTime}  GMT+0900`)
 
     return schedule
-  });
-  console.log(data)
+  })
+    .filter(e => isValidDate(e.startTime))
+
+  console.log(schedules)
   saveJSON(theaterName, schedules)
   generateICal(theaterName, schedules)
 });
@@ -107,6 +114,7 @@ function generateICal(theaterName: string, schedules: Schedule[]) {
   const calendar = ical({ name: calendarName });
 
   schedules.forEach(schedule => {
+    console.log(schedule)
     calendar.createEvent({
       start: schedule.startTime,
       end: schedule.endTime,
@@ -126,4 +134,8 @@ function saveJSON(theaterName: string, schedules: Schedule[]) {
   const filename = `data/${calendarName}.json`
   const content = JSON.stringify(schedules, null, 2)
   writeFileSync(filename, content)
+}
+
+function isValidDate(d) {
+  return d instanceof Date && !isNaN(d);
 }
