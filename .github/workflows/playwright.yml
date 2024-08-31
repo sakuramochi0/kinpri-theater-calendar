@@ -3,9 +3,9 @@ on:
   push:
     branches:
     - main
-  workflow_dispatch:
   schedule:
-  - '0 16 * * *' # 16:00 UTC == 1:00 JST
+  - cron: '0 16 * * *' # 16:00 UTC == 1:00 JST
+  workflow_dispatch:
 jobs:
   test:
     timeout-minutes: 60
