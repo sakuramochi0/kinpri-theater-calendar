@@ -21,6 +21,12 @@ jobs:
       run: pnpm exec playwright install --with-deps chromium
     - name: Run Playwright tests
       run: pnpm exec playwright test
+    - run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "chore: update calendar data"
+        git push
     - uses: actions/upload-artifact@v4
       if: always()
       with:
