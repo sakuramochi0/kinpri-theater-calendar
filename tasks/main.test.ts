@@ -38,7 +38,7 @@ test('新宿バルト9', async ({ page }) => {
 
   console.log(schedules)
   saveJSON(theaterName, schedules)
-  generateICal(theaterName, schedules)
+  generateICal(theaterName, url, schedules)
 });
 
 test('ユナイテッド・シネマ幕張', async ({ page }) => {
@@ -66,12 +66,13 @@ test('ユナイテッド・シネマ幕張', async ({ page }) => {
 
   console.log(schedules)
   saveJSON(theaterName, schedules)
-  generateICal(theaterName, schedules)
+  generateICal(theaterName, url, schedules)
 });
 
 test('グランドシネマサンシャイン池袋', async ({ page }) => {
   const theaterName = 'グランドシネマサンシャイン池袋'
-  await page.goto('https://www.cinemasunshine.co.jp/theater/gdcs/');
+  let url = 'https://www.cinemasunshine.co.jp/theater/gdcs/';
+  await page.goto(url);
   await page.locator('#check-close-btn').click()
 
   const schedules: Schedule[] =
@@ -106,10 +107,10 @@ test('グランドシネマサンシャイン池袋', async ({ page }) => {
 
   console.log(schedules)
   saveJSON(theaterName, schedules)
-  generateICal(theaterName, schedules)
+  generateICal(theaterName, url, schedules)
 });
 
-function generateICal(theaterName: string, schedules: Schedule[]) {
+function generateICal(theaterName: string, url: string, schedules: Schedule[]) {
   let calendarName = `${theaterName} 『KING OF PRISM -Dramatic PRISM.1-』上映時間`;
   const calendar = ical({ name: calendarName });
 
@@ -119,9 +120,9 @@ function generateICal(theaterName: string, schedules: Schedule[]) {
       start: schedule.startTime,
       end: schedule.endTime,
       summary: `${theaterName} ${schedule.screenName}`,
-      description: 'プリズムの煌めきをあなたに✨',
+      description: `プリズムの煌めきをあなたに✨\n上映スケジュール: ${url}`,
       location: `${theaterName} ${schedule.screenName}`,
-      url: 'https://kinpri.com'
+      url,
     })
   })
 

@@ -6,36 +6,39 @@ NAME:グランドシネマサンシャイン池袋 『KING OF PRISM -Drama
 X-WR-CALNAME:グランドシネマサンシャイン池袋 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:44079d25-9a16-4577-90dc-73ac39ba56a9
+UID:39dbe14d-75b7-4a38-bcf6-9688213b8b60
 SEQUENCE:0
-DTSTAMP:20240831T063037Z
+DTSTAMP:20240831T141518Z
 DTSTART:20240831T054000Z
 DTEND:20240831T065700Z
 SUMMARY:グランドシネマサンシャイン池袋 シアター３
 LOCATION:グランドシネマサンシャイン池袋 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.cinemasunshine.co.jp/theater/gdcs/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:5f1ff44d-0c26-4425-ae64-a6383d396d92
+UID:6600e40a-a7a8-431f-8171-76852bb77bab
 SEQUENCE:0
-DTSTAMP:20240831T063037Z
+DTSTAMP:20240831T141518Z
 DTSTART:20240831T125000Z
 DTEND:20240831T140700Z
 SUMMARY:グランドシネマサンシャイン池袋 シアター３
 LOCATION:グランドシネマサンシャイン池袋 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.cinemasunshine.co.jp/theater/gdcs/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:04d1e77a-1ca5-4034-b5bc-21172769bc91
+UID:14208ad7-dc82-4407-aae4-7e8198ea5309
 SEQUENCE:0
-DTSTAMP:20240831T063037Z
+DTSTAMP:20240831T141518Z
 DTSTART:20240830T230000Z
 DTEND:20240831T001400Z
 SUMMARY:グランドシネマサンシャイン池袋 シアター３
 LOCATION:グランドシネマサンシャイン池袋 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.cinemasunshine.co.jp/theater/gdcs/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 END:VCALENDAR

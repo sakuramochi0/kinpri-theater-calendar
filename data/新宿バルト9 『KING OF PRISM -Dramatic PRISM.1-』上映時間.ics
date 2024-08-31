@@ -5,102 +5,111 @@ NAME:新宿バルト9 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:新宿バルト9 『KING OF PRISM -Dramatic PRISM.1-』上映
  時間
 BEGIN:VEVENT
-UID:56434238-038b-458d-b89f-467660f2b895
+UID:7bc356be-4845-4a7a-a6f3-f8cf1c0787b2
 SEQUENCE:0
-DTSTAMP:20240831T063029Z
+DTSTAMP:20240831T141516Z
 DTSTART:20240831T130500Z
 DTEND:20240831T142000Z
 SUMMARY:新宿バルト9 シアター９
 LOCATION:新宿バルト9 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:e929edb0-4ab4-47f8-91a7-dda13643c1d2
+UID:724137ba-9351-48e9-bebc-6505a6f34228
 SEQUENCE:0
-DTSTAMP:20240831T063029Z
+DTSTAMP:20240831T141516Z
 DTSTART:20240830T230000Z
 DTEND:20240831T001500Z
 SUMMARY:新宿バルト9 シアター８
 LOCATION:新宿バルト9 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:3382555b-1b23-4e93-9889-a0e2c076b278
+UID:95e97e8d-483f-4383-b99f-3f9bd89308d0
 SEQUENCE:0
-DTSTAMP:20240831T063029Z
+DTSTAMP:20240831T141516Z
 DTSTART:20240831T012000Z
 DTEND:20240831T023500Z
 SUMMARY:新宿バルト9 シアター６
 LOCATION:新宿バルト9 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:b2aee5d6-e76f-48e3-a34d-df3697407d49
+UID:faff3fbb-6e3b-4215-9a82-86850c33513a
 SEQUENCE:0
-DTSTAMP:20240831T063029Z
+DTSTAMP:20240831T141516Z
 DTSTART:20240831T030500Z
 DTEND:20240831T042000Z
 SUMMARY:新宿バルト9 シアター６
 LOCATION:新宿バルト9 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:e6c41d32-18a4-47f6-a54d-3aa54bc6427f
+UID:25ab67ef-46d2-4114-b80d-062ec5ca0951
 SEQUENCE:0
-DTSTAMP:20240831T063029Z
+DTSTAMP:20240831T141516Z
 DTSTART:20240831T074500Z
 DTEND:20240831T090000Z
 SUMMARY:新宿バルト9 シアター６
 LOCATION:新宿バルト9 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:c8141ada-b5b1-49c8-813d-1afb7fc5104e
+UID:6a91ddac-fe86-4911-b2a5-d7f6a25c3976
 SEQUENCE:0
-DTSTAMP:20240831T063029Z
+DTSTAMP:20240831T141516Z
 DTSTART:20240831T094000Z
 DTEND:20240831T105500Z
 SUMMARY:新宿バルト9 シアター９
 LOCATION:新宿バルト9 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:e7fbb3b1-fbfc-4123-a638-76c0423870b8
+UID:46d6c304-e9ab-45b0-ac33-d20afb767020
 SEQUENCE:0
-DTSTAMP:20240831T063029Z
+DTSTAMP:20240831T141516Z
 DTSTART:20240831T112500Z
 DTEND:20240831T124000Z
 SUMMARY:新宿バルト9 シアター９
 LOCATION:新宿バルト9 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:55e262bb-fe62-47dd-b727-ec2dbbe31afa
+UID:e0c31fb9-adb6-4a34-a815-703ed8d0e686
 SEQUENCE:0
-DTSTAMP:20240831T063029Z
+DTSTAMP:20240831T141516Z
 DTSTART:20240831T144500Z
 DTEND:20240831T145900Z
 SUMMARY:新宿バルト9 シアター９
 LOCATION:新宿バルト9 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:0f9ed28e-606d-4036-b3f4-cea5865b0901
+UID:9013e5ca-96c8-48a0-8a37-3f8f0d4fda6b
 SEQUENCE:0
-DTSTAMP:20240831T063029Z
+DTSTAMP:20240831T141516Z
 DTSTART:20240831T145900Z
 DTEND:20240831T145900Z
 SUMMARY:新宿バルト9 シアター９
 LOCATION:新宿バルト9 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨
-URL;VALUE=URI:https://kinpri.com
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 END:VCALENDAR
