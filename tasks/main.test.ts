@@ -73,7 +73,10 @@ test('グランドシネマサンシャイン池袋', async ({ page }) => {
   const theaterName = 'グランドシネマサンシャイン池袋'
   let url = 'https://www.cinemasunshine.co.jp/theater/gdcs/';
   await page.goto(url);
-  await page.locator('#check-close-btn').click()
+  const dialogCloseButton = page.locator('#check-close-btn')
+  if (await dialogCloseButton.count() > 0) {
+    dialogCloseButton.click()
+  }
 
   const schedules: Schedule[] =
     await page.locator('#tab1_content .content-item')
