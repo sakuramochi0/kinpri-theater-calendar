@@ -32,6 +32,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: generate index.html from README.md
+        uses: docker://pandoc/core:3
+        with:
+          args: README.md -s -o index.html
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
