@@ -5,4 +5,72 @@ NAME:グランドシネマサンシャイン池袋 『KING OF PRISM -Drama
  tic PRISM.1-』上映時間
 X-WR-CALNAME:グランドシネマサンシャイン池袋 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:7df30d72-a522-4f39-9f55-64027a27aa8b
+SEQUENCE:0
+DTSTAMP:20240901T090129Z
+DTSTART:20240831T231000Z
+DTEND:20240901T002400Z
+SUMMARY:グランドシネマサンシャイン池袋 シアター５ BEST
+ IA
+LOCATION:グランドシネマサンシャイン池袋 シアター５ BES
+ TIA
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.cinemasunshine.co.jp/theater/gdcs/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
+BEGIN:VEVENT
+UID:2897d5a3-5488-409c-a0f8-b6a272aeace3
+SEQUENCE:0
+DTSTAMP:20240901T090129Z
+DTSTART:20240901T061000Z
+DTEND:20240901T072400Z
+SUMMARY:グランドシネマサンシャイン池袋 シアター６ BEST
+ IA
+LOCATION:グランドシネマサンシャイン池袋 シアター６ BES
+ TIA
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.cinemasunshine.co.jp/theater/gdcs/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
+BEGIN:VEVENT
+UID:3de67161-58ac-4c42-adb2-f8de2c0e2106
+SEQUENCE:0
+DTSTAMP:20240901T090129Z
+DTSTART:20240901T104500Z
+DTEND:20240901T115900Z
+SUMMARY:グランドシネマサンシャイン池袋 シアター６ BEST
+ IA
+LOCATION:グランドシネマサンシャイン池袋 シアター６ BES
+ TIA
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.cinemasunshine.co.jp/theater/gdcs/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
+BEGIN:VEVENT
+UID:4fae0011-e331-4766-8d8a-82ca918cdfab
+SEQUENCE:0
+DTSTAMP:20240901T090129Z
+DTSTART:20240901T123000Z
+DTEND:20240901T134400Z
+SUMMARY:グランドシネマサンシャイン池袋 シアター６ BEST
+ IA
+LOCATION:グランドシネマサンシャイン池袋 シアター６ BES
+ TIA
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.cinemasunshine.co.jp/theater/gdcs/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb45cdc8-1c28-49e5-8fab-c4687de3138d
+SEQUENCE:0
+DTSTAMP:20240901T090129Z
+DTSTART:20240901T014500Z
+DTEND:20240901T025900Z
+SUMMARY:グランドシネマサンシャイン池袋 シアター３
+LOCATION:グランドシネマサンシャイン池袋 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.cinemasunshine.co.jp/theater/gdcs/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
 END:VCALENDAR
