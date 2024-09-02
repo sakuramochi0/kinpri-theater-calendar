@@ -1,44 +1,19 @@
-import { test } from '@playwright/test';
+import { Page, test } from '@playwright/test';
 import ical from 'ical-generator';
 
 import { Schedule } from './types';
 import { writeFileSync } from 'node:fs';
 
-
 test('新宿バルト9', async ({ page }) => {
   const theaterName = '新宿バルト9'
   const url = 'https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864'
-  await page.goto(url)
-  const scheduleBox = await page.locator('.schedule-box')
-  const date = await page.locator('.calendar-item.calendar-active').evaluate(e => e.dataset.date)
+  await tjoy(page, url, theaterName)
+});
 
-  const rawSchedules = await scheduleBox.evaluateAll(schedules => schedules.map(schedule => {
-    const screenName = schedule.querySelector('.theater-name').textContent.trim()
-    const timeString = schedule.querySelector('.schedule-time').textContent.trim()
-    const [[_, startTime, endTime]] = timeString.matchAll(/(\d+:\d+)\D+(\d+:\d+)/g)
-    return { screenName, startTime, endTime }
-  }))
-  const schedules: Schedule[] = rawSchedules.map(schedule => {
-    // FIXME: handle after 24:00. use dayjs etc.
-    const startHour = parseInt(schedule.startTime.split(':')[0])
-    const endHour = parseInt(schedule.endTime.split(':')[0])
-    if (startHour >= 24) {
-      schedule.startTime = '23:59'
-    }
-    if (endHour >= 24) {
-      schedule.endTime = '23:59'
-    }
-
-    schedule.startTime = new Date(`${date} ${schedule.startTime} GMT+0900`)
-    schedule.endTime = new Date(`${date} ${schedule.endTime}  GMT+0900`)
-
-    return schedule
-  })
-    .filter(e => isValidDate(e.startTime))
-
-  console.log(schedules)
-  saveJSON(theaterName, schedules)
-  generateICal(theaterName, url, schedules)
+test('横浜ブルク13', async ({ page }) => {
+  const theaterName = '横浜ブルク13'
+  const url = 'https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864'
+  await tjoy(page, url, theaterName)
 });
 
 test('ユナイテッド・シネマ幕張', async ({ page }) => {
@@ -117,6 +92,42 @@ test('グランドシネマサンシャイン池袋', async ({ page }) => {
   generateICal(theaterName, url, schedules)
 });
 
+
+async function tjoy(page: Page, url: string, theaterName: string) {
+  await page.goto(url)
+  const scheduleBox = await page.locator('.schedule-box')
+  const date = await page.locator('.calendar-item.calendar-active').evaluate(e => e.dataset.date)
+
+  const rawSchedules = await scheduleBox.evaluateAll(schedules => schedules.map(schedule => {
+    const screenName = schedule.querySelector('.theater-name').textContent.trim()
+    const timeString = schedule.querySelector('.schedule-time').textContent.trim()
+    const [[_, startTime, endTime]] = timeString.matchAll(/(\d+:\d+)\D+(\d+:\d+)/g)
+    return { screenName, startTime, endTime }
+  }))
+  const schedules: Schedule[] = rawSchedules.map(schedule => {
+    // FIXME: handle after 24:00. use dayjs etc.
+    const startHour = parseInt(schedule.startTime.split(':')[0])
+    const endHour = parseInt(schedule.endTime.split(':')[0])
+    if (startHour >= 24) {
+      schedule.startTime = '23:59'
+    }
+    if (endHour >= 24) {
+      schedule.endTime = '23:59'
+    }
+
+    schedule.startTime = new Date(`${date} ${schedule.startTime} GMT+0900`)
+    schedule.endTime = new Date(`${date} ${schedule.endTime}  GMT+0900`)
+
+    return schedule
+  })
+    .filter(e => isValidDate(e.startTime))
+
+  console.log(schedules)
+  saveJSON(theaterName, schedules)
+  generateICal(theaterName, url, schedules)
+}
+
+
 function generateICal(theaterName: string, url: string, schedules: Schedule[]) {
   let calendarName = `${theaterName} 『KING OF PRISM -Dramatic PRISM.1-』上映時間`;
   const calendar = ical({ name: calendarName });
@@ -145,5 +156,5 @@ function saveJSON(theaterName: string, schedules: Schedule[]) {
 }
 
 function isValidDate(d) {
-  return d instanceof Date && !isNaN(d);
+  return d instanceof Date && !isNaN(d)
 }
