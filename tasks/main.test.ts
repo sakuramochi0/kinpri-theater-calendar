@@ -113,7 +113,7 @@ async function tjoy(page: Page, url: string, theaterName: string) {
   for (const day of days) {
     const daySelector = `[data-date="${day}"]`
     await page.locator(daySelector).click()
-    schedules.push(...await tjoyDay(page))
+    schedules.push(...await getTjoyDailySchedules(page))
   }
 
   console.log(theaterName, schedules)
@@ -121,7 +121,7 @@ async function tjoy(page: Page, url: string, theaterName: string) {
   generateICal(theaterName, url, schedules)
 }
 
-async function tjoyDay(page: Page) {
+async function getTjoyDailySchedules(page: Page) {
   const scheduleBox = await page.locator('.schedule-box')
   const date = await page.locator('.calendar-item.calendar-active').evaluate(e => e.dataset.date)
 
