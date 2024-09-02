@@ -11,7 +11,7 @@ export function generateICal(theaterName: string, url: string, schedules: Schedu
     calendar.createEvent({
       start: schedule.startTime,
       end: schedule.endTime,
-      summary: `${theaterName} ${schedule.screenName}`,
+      summary: `${schedule.status ? `[${schedule.status}] ` : ''}${theaterName} ${schedule.screenName} ${schedule.title ?? ''}`,
       description: `プリズムの煌めきをあなたに✨\n上映スケジュール: ${url}`,
       location: `${theaterName} ${schedule.screenName}`,
       url,

@@ -13,13 +13,17 @@ export async function getCinemaSunshineDailySchedules(page: Page) {
     .locator('#tab1_content .content-item')
     .evaluateAll(movies => movies
       .filter(movie => movie.querySelector('.title')!.textContent!.includes('KING OF PRISM'))
-      .map(movie => [...movie.querySelectorAll('.schedule-item')]
-        .map(e => ({
-          time: e.querySelector('.time')!.textContent!.trim(),
-          purchase: e.querySelector('.purchase')!.textContent!.trim(),
-          screenName: e.querySelector('.info')!.textContent!.trim(),
-        }))).flat()
-      .map(rawSchedule => {
+      .map(movie => {
+        const title = movie.querySelector('.title')!.textContent!.trim()
+        return [...movie.querySelectorAll('.schedule-item')]
+          .map(e => ({
+            title,
+            time: e.querySelector('.time')!.textContent!.trim(),
+            status: e.querySelector('.purchase')!.textContent!.trim(),
+            screenName: e.querySelector('.info')!.textContent!.trim(),
+          }));
+      }).flat()
+      .map(({ title, screenName, time, status }) => {
         /**
          *   {
          *     time: '21:30〜\n            22:44',
@@ -28,14 +32,13 @@ export async function getCinemaSunshineDailySchedules(page: Page) {
          *     info: 'シアター６ BESTIA'
          *   }
          */
-        const screenName = rawSchedule.screenName
 
         const year = new Date().getFullYear()
         const day = document.querySelector('#schedule .active .day')!.textContent!.trim()
-        const [_, startTimeString, endTimeString] = rawSchedule.time.match(/(\d+:\d+)\D+(\d+:\d+)/)!
+        const [_, startTimeString, endTimeString] = time.match(/(\d+:\d+)\D+(\d+:\d+)/)!
         const startTime = new Date(`${year}/${day} ${startTimeString} GMT+0900`)
         const endTime = new Date(`${year}/${day} ${endTimeString} GMT+0900`)
-        return { screenName, startTime, endTime }
+        return { title, screenName, startTime, endTime, status }
       })
     );
 }

@@ -42,10 +42,8 @@ test('グランドシネマサンシャイン池袋', async ({ page }) => {
   const schedules: Schedule[] = []
   const dayCount = await page.locator('.schedule-swiper__item').count()
   for (let i = 0; i < dayCount; i++) {
-    console.log(`i=${i}`)
     await page.locator('.schedule-swiper__item').nth(i).click()
     schedules.push(...await getCinemaSunshineDailySchedules(page))
-    console.log(schedules)
   }
 
   console.log(schedules)
