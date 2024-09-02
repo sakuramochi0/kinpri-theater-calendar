@@ -113,6 +113,12 @@ async function tjoy(page: Page, url: string, theaterName: string) {
   for (const day of days) {
     const daySelector = `[data-date="${day}"]`
     await page.locator(daySelector).click()
+    try {
+      // when clicking day button, daily data is fetched from server as HTML snippet containing `.film-item`
+      await page.waitForSelector('.film-item', { timeout: 3000 })
+    } catch (e) {
+      break
+    }
     schedules.push(...await getTjoyDailySchedules(page))
   }
 
