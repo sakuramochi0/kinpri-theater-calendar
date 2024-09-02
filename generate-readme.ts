@@ -21,8 +21,9 @@ function getCalendars(): Calendar[] {
     const rawBasename = ical.replace('.ics', '').replace('data/', '')
     const theaterName = rawBasename.replace(' 『KING OF PRISM -Dramatic PRISM.1-』上映時間', '')
     const basename = encodeURIComponent(rawBasename)
-    const icalURL = `https://kinpri-theater-calendar.skrm.ch/data/${basename}.ics`
-    const jsonURL = `https://kinpri-theater-calendar.skrm.ch/data/${basename}.json`
+    const baseURL = `https://kinpri-theater-calendar.skrm.ch/data/`;
+    const icalURL = `${baseURL}${basename}.ics`
+    const jsonURL = `${baseURL}${basename}.json`
     return {theaterName, icalURL, jsonURL}
   })
 }
