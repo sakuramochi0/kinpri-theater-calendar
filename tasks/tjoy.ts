@@ -58,10 +58,10 @@ async function getTjoyDailySchedules(page: Page) {
       schedule.endTime = '23:59'
     }
 
-    schedule.startTime = new Date(`${date} ${schedule.startTime} GMT+0900`)
-    schedule.endTime = new Date(`${date} ${schedule.endTime}  GMT+0900`)
+    const startTime = new Date(`${date} ${schedule.startTime} GMT+0900`)
+    const endTime = new Date(`${date} ${schedule.endTime}  GMT+0900`)
 
-    return schedule
+    return { ...schedule, startTime, endTime }
   })
     .filter(e => isValidDate(e.startTime))
 
