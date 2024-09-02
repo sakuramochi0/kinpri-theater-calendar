@@ -18,7 +18,7 @@ export async function getUnitedCinemasSchedules(page: Page, url: string, theater
     console.log('not found')
     return
   }
-  const movieLink = await link.evaluate(a => a.href)
+  const movieLink = await link.evaluate<any, HTMLLinkElement>(a => a.href)
   await page.goto(movieLink)
 
   const dailySchedules = await page.locator('[id="dailySchedule"]')
