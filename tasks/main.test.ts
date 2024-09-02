@@ -1,20 +1,20 @@
 import { Page, test } from '@playwright/test';
 import ical from 'ical-generator';
 
-import { Schedule } from './types';
+import { Schedule, Theater } from './types';
 import { writeFileSync } from 'node:fs';
 
-test('新宿バルト9', async ({ page }) => {
-  const theaterName = '新宿バルト9'
-  const url = 'https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864'
-  await tjoy(page, url, theaterName)
-});
+test('ティ・ジョイ系列', async ({ page, browser }) => {
+  await page.goto('https://tjoy.jp/')
+  const theaters: Theater[] = (await page.locator('.theater-list-info a').evaluateAll(
+    links => links.map((a: HTMLLinkElement) => ({ name: a.textContent.trim().split(' ')[0], url: a.href }))
+  ))
 
-test('横浜ブルク13', async ({ page }) => {
-  const theaterName = '横浜ブルク13'
-  const url = 'https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864'
-  await tjoy(page, url, theaterName)
-});
+  for (const { name, url } of theaters) {
+    const newPage = await browser.newPage()
+    await tjoy(newPage, url, name)
+  }
+})
 
 test('ユナイテッド・シネマ幕張', async ({ page }) => {
   const theaterName = 'ユナイテッド・シネマ幕張'
@@ -95,6 +95,20 @@ test('グランドシネマサンシャイン池袋', async ({ page }) => {
 
 async function tjoy(page: Page, url: string, theaterName: string) {
   await page.goto(url)
+
+  const notificationCloseButton = page.getByRole('button', { name: '閉じる' })
+  if (await notificationCloseButton.count() > 0) {
+    await notificationCloseButton.click()
+  }
+
+  await page.getByRole('link', { name: '作品情報' }).click()
+  const movieButton = page.getByRole('link', { name: /KING OF PRISM/ })
+  if (await movieButton.count() === 0) {
+    return
+  }
+  await movieButton.click()
+  await page.getByRole('link', { name: '上映スケジュール' }).nth(1).click()
+
   const scheduleBox = await page.locator('.schedule-box')
   const date = await page.locator('.calendar-item.calendar-active').evaluate(e => e.dataset.date)
 
@@ -122,7 +136,7 @@ async function tjoy(page: Page, url: string, theaterName: string) {
   })
     .filter(e => isValidDate(e.startTime))
 
-  console.log(schedules)
+  console.log(theaterName, schedules)
   saveJSON(theaterName, schedules)
   generateICal(theaterName, url, schedules)
 }

@@ -3,3 +3,8 @@ export type Schedule = {
   startTime: Date
   endTime: Date
 }
+
+export type Theater = {
+  name: string
+  url: string
+}
