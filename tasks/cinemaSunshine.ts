@@ -1,5 +1,4 @@
 import { Page } from '@playwright/test';
-import type { Schedule } from './types';
 
 export async function getCinemaSunshineDailySchedules(page: Page) {
   // wait for rendering of schedule data
