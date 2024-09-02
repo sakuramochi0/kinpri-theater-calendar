@@ -18,33 +18,20 @@ test('ティ・ジョイ系列', async ({ page, browser }) => {
   }
 })
 
-test('ユナイテッド・シネマ幕張', async ({ page }) => {
-  const theaterName = 'ユナイテッド・シネマ幕張'
-  const url = 'https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=daily'
-  await page.goto(url, { waitUntil: 'domcontentloaded' })
-  const dailySchedules = await page.locator('[id="dailySchedule"]')
-  const schedules: Schedule[] = (await dailySchedules.evaluateAll(dailySchedules => dailySchedules.map(
-    dailySchedule => {
-      const dateString = dailySchedule.querySelector('#topHead a').textContent
-      const screens = [...dailySchedule.querySelectorAll('.tl > li')]
-      return screens.map(screen => {
-        const screenName = screen.querySelector('.screenNumber img').getAttribute('alt')
-        let shows = [...screen.querySelectorAll('ol ol')];
-        return shows.map(e => {
-          const year = new Date().getFullYear()
-          const startTimeString = e.querySelector('.startTime').textContent
-          const endTimeString = e.querySelector('.endTime').textContent.replace('～', '')
-          const startTime = new Date(`${year} ${dateString} ${startTimeString} GMT+0900`)
-          const endTime = new Date(`${year} ${dateString} ${endTimeString} GMT+0900`)
-          return { screenName, startTime, endTime }
-        })
-      })
-    }))).flat(2)
+test('ユナイテッド・シネマ系列', async ({ page, browser }) => {
+  await page.goto('https://www.unitedcinemas.jp/index.html', {waitUntil: 'domcontentloaded'})
+  const theaters: Theater[] = (await page.locator('#theaterList a').evaluateAll(
+    links => links.map((a: HTMLLinkElement) => ({
+      name: `ユナイテッド・シネマ${a.querySelector('img').getAttribute('alt')}`,
+      url: a.href,
+    }))
+  ))
 
-  console.log(schedules)
-  saveJSON(theaterName, schedules)
-  generateICal(theaterName, url, schedules)
-});
+  for (const { name, url } of theaters) {  // TODO: debug
+    const newPage = await browser.newPage()
+    await getUnitedCinemasSchedules(newPage, url, name)
+  }
+})
 
 test('グランドシネマサンシャイン池袋', async ({ page }) => {
   const theaterName = 'グランドシネマサンシャイン池袋'
