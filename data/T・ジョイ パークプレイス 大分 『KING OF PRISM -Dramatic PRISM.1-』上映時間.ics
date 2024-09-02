@@ -5,4 +5,76 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
   PRISM.1-』上映時間
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:2e35f19f-8038-45cf-a6b2-a97b90cea7b0
+SEQUENCE:0
+DTSTAMP:20240902T221011Z
+DTSTART:20240903T020500Z
+DTEND:20240903T032000Z
+SUMMARY:T・ジョイ パークプレイス 大分 シアター３ 
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_parkplace_oita
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:48b2784e-6ddc-4789-a6a6-892372fb4ff5
+SEQUENCE:0
+DTSTAMP:20240902T221011Z
+DTSTART:20240903T052500Z
+DTEND:20240903T064000Z
+SUMMARY:T・ジョイ パークプレイス 大分 シアター３ 
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_parkplace_oita
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:02bd8ee0-b81e-4646-aa31-39ca591c671a
+SEQUENCE:0
+DTSTAMP:20240902T221011Z
+DTSTART:20240904T020500Z
+DTEND:20240904T032000Z
+SUMMARY:T・ジョイ パークプレイス 大分 シアター３ 
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_parkplace_oita
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:8454c4ed-88a8-457b-8028-74dcb3c7e89a
+SEQUENCE:0
+DTSTAMP:20240902T221011Z
+DTSTART:20240904T052500Z
+DTEND:20240904T064000Z
+SUMMARY:T・ジョイ パークプレイス 大分 シアター３ 
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_parkplace_oita
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:10885b6e-b8c4-43be-a226-98915878061a
+SEQUENCE:0
+DTSTAMP:20240902T221011Z
+DTSTART:20240905T020500Z
+DTEND:20240905T032000Z
+SUMMARY:T・ジョイ パークプレイス 大分 シアター３ 
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_parkplace_oita
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:d67cd570-fa66-4cab-af57-6775d24ac49b
+SEQUENCE:0
+DTSTAMP:20240902T221011Z
+DTSTART:20240905T052500Z
+DTEND:20240905T064000Z
+SUMMARY:T・ジョイ パークプレイス 大分 シアター３ 
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_parkplace_oita
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
 END:VCALENDAR

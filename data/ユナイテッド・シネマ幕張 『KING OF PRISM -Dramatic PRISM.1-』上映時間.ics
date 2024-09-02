@@ -6,171 +6,120 @@ NAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:3ac8d0f8-a138-4c6d-9ca1-8b824075656c
+UID:d6433d46-32b7-49d3-93ff-eeb6ad81f16f
 SEQUENCE:0
-DTSTAMP:20240902T121920Z
-DTSTART:20240902T063000Z
-DTEND:20240902T074700Z
-SUMMARY:ユナイテッド・シネマ幕張 2screen
-LOCATION:ユナイテッド・シネマ幕張 2screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
-END:VEVENT
-BEGIN:VEVENT
-UID:c28b356e-32a6-467f-bebb-6c3763470450
-SEQUENCE:0
-DTSTAMP:20240902T121920Z
-DTSTART:20240902T045000Z
-DTEND:20240902T061000Z
-SUMMARY:ユナイテッド・シネマ幕張 2screen
-LOCATION:ユナイテッド・シネマ幕張 2screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
-END:VEVENT
-BEGIN:VEVENT
-UID:b0e02f27-3e4c-468a-aa44-42398ce9f022
-SEQUENCE:0
-DTSTAMP:20240902T121920Z
-DTSTART:20240902T103000Z
-DTEND:20240902T115000Z
-SUMMARY:ユナイテッド・シネマ幕張 10screen
-LOCATION:ユナイテッド・シネマ幕張 10screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
-END:VEVENT
-BEGIN:VEVENT
-UID:bc40d7e2-e026-4db2-8504-05db97f9152a
-SEQUENCE:0
-DTSTAMP:20240902T121920Z
+DTSTAMP:20240902T222251Z
 DTSTART:20240903T063000Z
 DTEND:20240903T074700Z
-SUMMARY:ユナイテッド・シネマ幕張 2screen
+SUMMARY:ユナイテッド・シネマ幕張 2screen 
 LOCATION:ユナイテッド・シネマ幕張 2screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
+ ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
+ rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c8cb8c78-17d8-41aa-a85a-c4055969e1c9
+UID:b179654b-a8d5-4c53-9fd0-8c15a0280ba9
 SEQUENCE:0
-DTSTAMP:20240902T121920Z
+DTSTAMP:20240902T222251Z
 DTSTART:20240903T045000Z
 DTEND:20240903T061000Z
-SUMMARY:ユナイテッド・シネマ幕張 2screen
+SUMMARY:ユナイテッド・シネマ幕張 2screen 
 LOCATION:ユナイテッド・シネマ幕張 2screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
+ ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
+ rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:85fd7c4b-5b33-42cb-841a-5f9940a6a50b
+UID:07bb1c73-da4a-432c-9047-0abd7cccf97a
 SEQUENCE:0
-DTSTAMP:20240902T121920Z
+DTSTAMP:20240902T222251Z
 DTSTART:20240903T103000Z
 DTEND:20240903T115000Z
-SUMMARY:ユナイテッド・シネマ幕張 10screen
+SUMMARY:ユナイテッド・シネマ幕張 10screen 
 LOCATION:ユナイテッド・シネマ幕張 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
+ ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
+ rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:17ed6724-e0ad-4455-8772-f1e72517dd17
+UID:17f0e626-39f6-4604-84f8-f90c755b92d3
 SEQUENCE:0
-DTSTAMP:20240902T121920Z
+DTSTAMP:20240902T222251Z
 DTSTART:20240904T063000Z
 DTEND:20240904T074700Z
-SUMMARY:ユナイテッド・シネマ幕張 2screen
+SUMMARY:ユナイテッド・シネマ幕張 2screen 
 LOCATION:ユナイテッド・シネマ幕張 2screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
+ ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
+ rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e8a9c11d-9671-4785-8c00-a9741b356898
+UID:903afdff-4fd6-4cbc-b6e1-00dc55e19974
 SEQUENCE:0
-DTSTAMP:20240902T121920Z
+DTSTAMP:20240902T222251Z
 DTSTART:20240904T045000Z
 DTEND:20240904T061000Z
-SUMMARY:ユナイテッド・シネマ幕張 2screen
+SUMMARY:ユナイテッド・シネマ幕張 2screen 
 LOCATION:ユナイテッド・シネマ幕張 2screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
+ ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
+ rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b78926d4-930f-4c2c-bb79-8f6aef8c1bc2
+UID:dafbf8f8-e23f-4e6c-8082-06de53c9e55a
 SEQUENCE:0
-DTSTAMP:20240902T121920Z
+DTSTAMP:20240902T222251Z
 DTSTART:20240904T103000Z
 DTEND:20240904T115000Z
-SUMMARY:ユナイテッド・シネマ幕張 10screen
+SUMMARY:ユナイテッド・シネマ幕張 10screen 
 LOCATION:ユナイテッド・シネマ幕張 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
+ ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
+ rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:89545ec4-adce-4090-bcf8-cca14b976ccb
+UID:76a89df9-e92a-4b23-b353-c88981d2468d
 SEQUENCE:0
-DTSTAMP:20240902T121920Z
+DTSTAMP:20240902T222251Z
 DTSTART:20240905T063000Z
 DTEND:20240905T074700Z
-SUMMARY:ユナイテッド・シネマ幕張 2screen
+SUMMARY:ユナイテッド・シネマ幕張 2screen 
 LOCATION:ユナイテッド・シネマ幕張 2screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
+ ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
+ rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:359aa81b-bb60-4697-ae5a-edb09ca64be7
+UID:c5d5cded-a2dc-45ef-81fc-752e1eb00168
 SEQUENCE:0
-DTSTAMP:20240902T121920Z
+DTSTAMP:20240902T222251Z
 DTSTART:20240905T045000Z
 DTEND:20240905T061000Z
-SUMMARY:ユナイテッド・シネマ幕張 2screen
+SUMMARY:ユナイテッド・シネマ幕張 2screen 
 LOCATION:ユナイテッド・シネマ幕張 2screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
+ ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
+ rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3742126a-7f0a-46de-b5a1-472b64e0ceab
+UID:c200ef2d-a1ae-4f49-8058-69c7c598fee1
 SEQUENCE:0
-DTSTAMP:20240902T121920Z
+DTSTAMP:20240902T222251Z
 DTSTART:20240905T103000Z
 DTEND:20240905T115000Z
-SUMMARY:ユナイテッド・シネマ幕張 10screen
+SUMMARY:ユナイテッド・シネマ幕張 10screen 
 LOCATION:ユナイテッド・シネマ幕張 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=da
- ily
+ ール: https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=daily
+ rom=fm
 END:VEVENT
 END:VCALENDAR
