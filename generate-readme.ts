@@ -4,7 +4,9 @@ import Mustache from 'mustache'
 
 type Calendar = {
   theaterName: string
+  icalName: string
   icalURL: string
+  jsonName: string
   jsonURL: string
 }
 
@@ -20,11 +22,13 @@ function getCalendars(): Calendar[] {
   return icalFilenames.map(ical => {
     const rawBasename = ical.replace('.ics', '').replace('data/', '')
     const theaterName = rawBasename.replace(' 『KING OF PRISM -Dramatic PRISM.1-』上映時間', '')
+    const icalName = `${rawBasename}.ics`
+    const jsonName = `${rawBasename}.json`
     const basename = encodeURIComponent(rawBasename)
     const baseURL = `https://kinpri-theater-calendar.skrm.ch/data/`;
     const icalURL = `${baseURL}${basename}.ics`
     const jsonURL = `${baseURL}${basename}.json`
-    return {theaterName, icalURL, jsonURL}
+    return {theaterName, icalURL, jsonURL, icalName, jsonName}
   })
 }
 

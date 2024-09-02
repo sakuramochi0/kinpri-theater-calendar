@@ -11,10 +11,10 @@
 
 Googleカレンダーなどに読み込むときには、iCalをダウンロードするのではなく、URLをコピーしてカレンダーアプリにURLからカレンダーを追加する操作をしてください。iCalをダウンロードしてしまうと、ダウンロードした時点のスケジュールしか読み込まれず、自動更新されなくなってしまいます。
 
-| 映画館 | iCal URL | JSON URL |
-| -- | -- | -- |
+| 映画館 | iCalへのリンク | JSONへのリンク |
+| -- |-----------|  |
 {{ #calendars }}
-| {{ theaterName }} | [{{{ icalURL }}}]({{{ icalURL }}}) | [{{{ jsonURL }}}]({{{ jsonURL }}}) |
+| {{ theaterName }} | [{{{ icalName }}}]({{{ icalURL }}}) | [{{{ jsonName }}}]({{{ jsonURL }}}) |
 {{ /calendars }}
 
 ## 現在の対応作品
