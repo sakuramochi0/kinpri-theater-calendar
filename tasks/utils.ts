@@ -29,6 +29,7 @@ export function saveJSON(theaterName: string, schedules: Schedule[]) {
   writeFileSync(filename, content)
 }
 
-export function isValidDate(d) {
+export function isValidDate(d: Date) {
+  // @ts-ignore
   return d instanceof Date && !isNaN(d)
 }
