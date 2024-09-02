@@ -35,7 +35,7 @@ jobs:
       - name: generate index.html from README.md
         uses: docker://pandoc/core:3
         with:
-          args: README.md -s -o index.html -c pico.classless.orange.min.css -c style.css --metadata title=kinpri-theater-calendar -V title:''
+          args: 'README.md -s -o index.html -c pico.classless.orange.min.css -c style.css --metadata title=kinpri-theater-calendar -V title:'
       - name: commit and push
         run: |
           git config user.name "github-actions[bot]"
