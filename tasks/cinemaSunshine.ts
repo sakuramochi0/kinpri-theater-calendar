@@ -13,12 +13,12 @@ export async function getCinemaSunshineDailySchedules(page: Page) {
   return await page
     .locator('#tab1_content .content-item')
     .evaluateAll(movies => movies
-      .filter(movie => movie.querySelector('.title').textContent.includes('KING OF PRISM'))
+      .filter(movie => movie.querySelector('.title')!.textContent!.includes('KING OF PRISM'))
       .map(movie => [...movie.querySelectorAll('.schedule-item')]
         .map(e => ({
-          time: e.querySelector('.time').textContent.trim(),
-          purchase: e.querySelector('.purchase').textContent.trim(),
-          screenName: e.querySelector('.info').textContent.trim(),
+          time: e.querySelector('.time')!.textContent!.trim(),
+          purchase: e.querySelector('.purchase')!.textContent!.trim(),
+          screenName: e.querySelector('.info')!.textContent!.trim(),
         }))).flat()
       .map(rawSchedule => {
         /**
@@ -32,8 +32,8 @@ export async function getCinemaSunshineDailySchedules(page: Page) {
         const screenName = rawSchedule.screenName
 
         const year = new Date().getFullYear()
-        const day = document.querySelector('#schedule .active .day').textContent.trim()
-        const [_, startTimeString, endTimeString] = rawSchedule.time.match(/(\d+:\d+)\D+(\d+:\d+)/)
+        const day = document.querySelector('#schedule .active .day')!.textContent!.trim()
+        const [_, startTimeString, endTimeString] = rawSchedule.time.match(/(\d+:\d+)\D+(\d+:\d+)/)!
         const startTime = new Date(`${year}/${day} ${startTimeString} GMT+0900`)
         const endTime = new Date(`${year}/${day} ${endTimeString} GMT+0900`)
         return { screenName, startTime, endTime }
