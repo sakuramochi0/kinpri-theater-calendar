@@ -92,7 +92,6 @@ test('グランドシネマサンシャイン池袋', async ({ page }) => {
   generateICal(theaterName, url, schedules)
 });
 
-
 async function tjoy(page: Page, url: string, theaterName: string) {
   await page.goto(url)
 
@@ -109,6 +108,20 @@ async function tjoy(page: Page, url: string, theaterName: string) {
   await movieButton.click()
   await page.getByRole('link', { name: '上映スケジュール' }).nth(1).click()
 
+  const schedules = []
+  const days = await page.locator('.calendar-item').evaluateAll(days => days.map(day => day.dataset.date))
+  for (const day of days) {
+    const daySelector = `[data-date="${day}"]`
+    await page.locator(daySelector).click()
+    schedules.push(...await tjoyDay(page))
+  }
+
+  console.log(theaterName, schedules)
+  saveJSON(theaterName, schedules)
+  generateICal(theaterName, url, schedules)
+}
+
+async function tjoyDay(page: Page) {
   const scheduleBox = await page.locator('.schedule-box')
   const date = await page.locator('.calendar-item.calendar-active').evaluate(e => e.dataset.date)
 
@@ -136,11 +149,8 @@ async function tjoy(page: Page, url: string, theaterName: string) {
   })
     .filter(e => isValidDate(e.startTime))
 
-  console.log(theaterName, schedules)
-  saveJSON(theaterName, schedules)
-  generateICal(theaterName, url, schedules)
+  return schedules
 }
-
 
 function generateICal(theaterName: string, url: string, schedules: Schedule[]) {
   let calendarName = `${theaterName} 『KING OF PRISM -Dramatic PRISM.1-』上映時間`;
