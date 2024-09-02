@@ -5,4 +5,100 @@ NAME:T・ジョイ リバーウォーク 北九州 『KING OF PRISM -Drama
  tic PRISM.1-』上映時間
 X-WR-CALNAME:T・ジョイ リバーウォーク 北九州 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:7a05393a-e786-4acf-a00b-4da4c7458c2a
+SEQUENCE:0
+DTSTAMP:20240902T113244Z
+DTSTART:20240901T232000Z
+DTEND:20240902T003500Z
+SUMMARY:T・ジョイ リバーウォーク 北九州 シアター６
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+END:VEVENT
+BEGIN:VEVENT
+UID:6c193187-e111-4682-b66f-b74ef5bad54b
+SEQUENCE:0
+DTSTAMP:20240902T113244Z
+DTSTART:20240902T073000Z
+DTEND:20240902T084500Z
+SUMMARY:T・ジョイ リバーウォーク 北九州 シアター８
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+END:VEVENT
+BEGIN:VEVENT
+UID:b098774c-5113-44e4-a9a8-f02314b2e3cf
+SEQUENCE:0
+DTSTAMP:20240902T113244Z
+DTSTART:20240902T232000Z
+DTEND:20240903T003500Z
+SUMMARY:T・ジョイ リバーウォーク 北九州 シアター６
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+END:VEVENT
+BEGIN:VEVENT
+UID:491cc758-315d-41e2-9581-25174c62714e
+SEQUENCE:0
+DTSTAMP:20240902T113244Z
+DTSTART:20240903T073000Z
+DTEND:20240903T084500Z
+SUMMARY:T・ジョイ リバーウォーク 北九州 シアター８
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+END:VEVENT
+BEGIN:VEVENT
+UID:10c74f70-1ac1-4ebb-a3c5-b515244239ae
+SEQUENCE:0
+DTSTAMP:20240902T113244Z
+DTSTART:20240903T232000Z
+DTEND:20240904T003500Z
+SUMMARY:T・ジョイ リバーウォーク 北九州 シアター６
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+END:VEVENT
+BEGIN:VEVENT
+UID:6b740572-f267-44e9-9dd6-5220485d1c64
+SEQUENCE:0
+DTSTAMP:20240902T113244Z
+DTSTART:20240904T073000Z
+DTEND:20240904T084500Z
+SUMMARY:T・ジョイ リバーウォーク 北九州 シアター８
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+END:VEVENT
+BEGIN:VEVENT
+UID:17e2496f-d148-4aa3-91d5-74be71cf7745
+SEQUENCE:0
+DTSTAMP:20240902T113244Z
+DTSTART:20240904T232000Z
+DTEND:20240905T003500Z
+SUMMARY:T・ジョイ リバーウォーク 北九州 シアター６
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+END:VEVENT
+BEGIN:VEVENT
+UID:9410627d-37e3-406d-a50c-bdb04fc734f9
+SEQUENCE:0
+DTSTAMP:20240902T113244Z
+DTSTART:20240905T073000Z
+DTEND:20240905T084500Z
+SUMMARY:T・ジョイ リバーウォーク 北九州 シアター８
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
+END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:5c904808-8ff2-43cf-b72c-df1a6c8a810c
+UID:0339071c-a87b-4552-8d8e-213116c3f410
 SEQUENCE:0
-DTSTAMP:20240902T110948Z
+DTSTAMP:20240902T113011Z
 DTSTART:20240902T020500Z
 DTEND:20240902T032000Z
 SUMMARY:T・ジョイ パークプレイス 大分 シアター３
@@ -18,9 +18,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:ee3d1b2a-bde9-4b5a-baab-5ca00ea46bce
+UID:ba4f6447-8c41-4994-9571-554c309ea1f1
 SEQUENCE:0
-DTSTAMP:20240902T110948Z
+DTSTAMP:20240902T113011Z
 DTSTART:20240902T052500Z
 DTEND:20240902T064000Z
 SUMMARY:T・ジョイ パークプレイス 大分 シアター３
@@ -30,9 +30,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:0c107ec9-25fc-46ac-887c-60bd57b58856
+UID:b8dee114-004c-4a6c-ae3b-74ef824978f1
 SEQUENCE:0
-DTSTAMP:20240902T110948Z
+DTSTAMP:20240902T113011Z
 DTSTART:20240903T020500Z
 DTEND:20240903T032000Z
 SUMMARY:T・ジョイ パークプレイス 大分 シアター３
@@ -42,9 +42,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:51940cce-2be6-4ebf-a6c0-bd679c60bca7
+UID:85e746f8-f4c8-4d29-9f07-3791e7166c8f
 SEQUENCE:0
-DTSTAMP:20240902T110948Z
+DTSTAMP:20240902T113011Z
 DTSTART:20240903T052500Z
 DTEND:20240903T064000Z
 SUMMARY:T・ジョイ パークプレイス 大分 シアター３
@@ -54,9 +54,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:47f75d76-5389-4a3f-87d0-64397b142686
+UID:a55f853f-9134-42bc-adf7-907e40d6a8e7
 SEQUENCE:0
-DTSTAMP:20240902T110948Z
+DTSTAMP:20240902T113011Z
 DTSTART:20240904T020500Z
 DTEND:20240904T032000Z
 SUMMARY:T・ジョイ パークプレイス 大分 シアター３
@@ -66,9 +66,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:ccf2fbd5-51d1-441d-9fe7-c6922005bf36
+UID:edf7c143-34d2-41a0-abe0-e6be8883e0ec
 SEQUENCE:0
-DTSTAMP:20240902T110948Z
+DTSTAMP:20240902T113011Z
 DTSTART:20240904T052500Z
 DTEND:20240904T064000Z
 SUMMARY:T・ジョイ パークプレイス 大分 シアター３
@@ -78,9 +78,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:26ced1fc-38c0-47e4-a30f-7e647727d2b8
+UID:bcbd1311-10b6-4c7f-89c5-6c4c0dd0422f
 SEQUENCE:0
-DTSTAMP:20240902T110948Z
+DTSTAMP:20240902T113011Z
 DTSTART:20240905T020500Z
 DTEND:20240905T032000Z
 SUMMARY:T・ジョイ パークプレイス 大分 シアター３
@@ -90,155 +90,11 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:f54d9dbe-5b93-46ea-afaa-910e066af49d
+UID:5e8fd838-6c3c-4381-88cd-1b500dbe0925
 SEQUENCE:0
-DTSTAMP:20240902T110948Z
+DTSTAMP:20240902T113011Z
 DTSTART:20240905T052500Z
 DTEND:20240905T064000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:6a1ee14d-65a8-4d3e-95ed-9fd0fbbca1cc
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240906T020500Z
-DTEND:20240906T032000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:f78adc86-87eb-4cc1-bd52-587a7bcf4e6b
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240906T052500Z
-DTEND:20240906T064000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:ac2b2010-fba3-41a3-9cb0-271408961741
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240907T020500Z
-DTEND:20240907T032000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:eaa6fad3-d35b-4283-8b93-0b47d51e4361
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240907T052500Z
-DTEND:20240907T064000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:320997df-f505-49b2-a9b9-4b59464c5fba
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240908T020500Z
-DTEND:20240908T032000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:8787d060-dba1-4eb9-9657-7ae6eb3150b4
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240908T052500Z
-DTEND:20240908T064000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:36fe7c64-e3eb-4955-9681-416f1b2f2b04
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240909T020500Z
-DTEND:20240909T032000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:50f09c0f-3e68-469c-aee0-f5b44ad421a4
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240909T052500Z
-DTEND:20240909T064000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:8677b5ca-b8ab-47d2-9534-781a7280ed0b
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240910T020500Z
-DTEND:20240910T032000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:8063b660-4ab5-4449-812b-294e304679cc
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240910T052500Z
-DTEND:20240910T064000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:7ff45bab-b2e9-4718-8213-f22bff274adf
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240911T020500Z
-DTEND:20240911T032000Z
-SUMMARY:T・ジョイ パークプレイス 大分 シアター３
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_parkplace_oita
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:468ff314-6fab-4fe7-85bc-aaead285f492
-SEQUENCE:0
-DTSTAMP:20240902T110948Z
-DTSTART:20240911T052500Z
-DTEND:20240911T064000Z
 SUMMARY:T・ジョイ パークプレイス 大分 シアター３
 LOCATION:T・ジョイ パークプレイス 大分 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
