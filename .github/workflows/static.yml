@@ -35,7 +35,7 @@ jobs:
       - name: generate index.html from README.md
         uses: docker://pandoc/core:3
         with:
-          args: README.md -s -o index.html
+          args: README.md -s -o index.html -c pico.classless.orange.min.css -c style.css --metadata title=kinpri-theater-calendar -V title:''
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
