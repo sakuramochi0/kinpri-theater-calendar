@@ -4,4 +4,112 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
+BEGIN:VEVENT
+UID:fae2bc72-54a9-45d9-9797-bc86ff55da67
+SEQUENCE:0
+DTSTAMP:20240902T203906Z
+DTSTART:20240902T233500Z
+DTEND:20240903T005000Z
+SUMMARY:広島バルト11 シアター３ 
+LOCATION:広島バルト11 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:f9744f00-d717-4355-9c67-58e567e7be74
+SEQUENCE:0
+DTSTAMP:20240902T203906Z
+DTSTART:20240903T105000Z
+DTEND:20240903T120500Z
+SUMMARY:広島バルト11 シアター８ 
+LOCATION:広島バルト11 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:7aecc178-fbe4-40a2-a32f-bbf880180048
+SEQUENCE:0
+DTSTAMP:20240902T203906Z
+DTSTART:20240903T043500Z
+DTEND:20240903T055000Z
+SUMMARY:広島バルト11 シアター６ 
+LOCATION:広島バルト11 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:ce43db9a-4c36-4f75-a4ac-8d74bf9480a8
+SEQUENCE:0
+DTSTAMP:20240902T203906Z
+DTSTART:20240903T233500Z
+DTEND:20240904T005000Z
+SUMMARY:広島バルト11 シアター３ 
+LOCATION:広島バルト11 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:b42ec722-8661-44ad-8db3-e2ce201a83af
+SEQUENCE:0
+DTSTAMP:20240902T203906Z
+DTSTART:20240904T105000Z
+DTEND:20240904T120500Z
+SUMMARY:広島バルト11 シアター８ 
+LOCATION:広島バルト11 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:5a404ba9-b598-4950-9cdb-afae4925d9bc
+SEQUENCE:0
+DTSTAMP:20240902T203906Z
+DTSTART:20240904T043500Z
+DTEND:20240904T055000Z
+SUMMARY:広島バルト11 シアター６ 
+LOCATION:広島バルト11 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:ab572552-0ef5-4d91-b487-ca1e0d223db9
+SEQUENCE:0
+DTSTAMP:20240902T203906Z
+DTSTART:20240904T233500Z
+DTEND:20240905T005000Z
+SUMMARY:広島バルト11 シアター３ 
+LOCATION:広島バルト11 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:fea8618b-b912-48f7-907b-8ab0bbdf8e24
+SEQUENCE:0
+DTSTAMP:20240902T203906Z
+DTSTART:20240905T105000Z
+DTEND:20240905T120500Z
+SUMMARY:広島バルト11 シアター８ 
+LOCATION:広島バルト11 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:32dc7eb1-7492-4a5d-9400-75ed60b3479f
+SEQUENCE:0
+DTSTAMP:20240902T203906Z
+DTSTART:20240905T043500Z
+DTEND:20240905T055000Z
+SUMMARY:広島バルト11 シアター６ 
+LOCATION:広島バルト11 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
 END:VCALENDAR
