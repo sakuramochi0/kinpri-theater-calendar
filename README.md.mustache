@@ -1,0 +1,43 @@
+# kinpri-theater-calendar
+
+📆 キンプリの映画の上映スケジュールをiCalとして生成するプログラム。Googleカレンダーなどのカレンダーアプリに登録すると自動更新されて最新のスケジュールが確認できます。
+
+何らかの理由でカレンダーが正しく更新されない場合もあるので、予約前にリンクから映画館のスケジュールページも確認するようにしてください。
+
+<img alt="新宿バルト9のキンプリ上映スケジュールが表示されたGoogleカレンダーのスクリーンショット" src="https://github.com/user-attachments/assets/8346d48b-2f12-4c0c-9a21-c108cfc5e6ff" width="300">
+<img alt="新宿バルト9とユナイテッド・シネマ幕張のキンプリ上映スケジュールが表示されたカレンダーアプリのスクリーンショット" src="https://github.com/user-attachments/assets/ffdbfe45-b7f7-4fd9-b132-31a3127a2399" width="300">
+
+## 現在の対応映画館
+
+Googleカレンダーなどに読み込むときには、iCalをダウンロードするのではなく、URLをコピーしてカレンダーアプリにURLからカレンダーを追加する操作をしてください。iCalをダウンロードしてしまうと、ダウンロードした時点のスケジュールしか読み込まれず、自動更新されなくなってしまいます。
+
+| 映画館 | iCal URL | JSON URL |
+| -- | -- | -- |
+{{ #calendars }}
+| {{ theaterName }} | [{{{ icalURL }}}]({{{ icalURL }}}) | [{{{ jsonURL }}}]({{{ jsonURL }}}) |
+{{ /calendars }}
+
+## 現在の対応作品
+- 『KING OF PRISM -Dramatic PRISM.1-』
+
+## 既知の問題
+- 終了時刻が24:00を超える場合、実際より短い23:59に固定される。
+
+## ToDo
+- [ ] 応援上映かどうかが分かるようにタイトルを含める
+- [x] データをGitHub Actionsで自動更新する
+- [ ] 空席情報（○・△・☓）を追加する
+- [x] ホームページ（`index.html`）を作る
+- [ ] いろいろな映画館にも対応する
+  - [ ] 新宿バルト9
+    - [x] 当日
+    - [ ] 週間スケジュール
+  - [ ] ユナイテッド・シネマ幕張
+    - [x] 当日
+    - [ ] 週間スケジュール
+  - [x] グランドシネマサンシャイン池袋
+  - [ ] TOHOシネマズ 流山おおたかの森
+
+## Links
+
+- [GitHub repository](https://github.com/sakuramochi0/kinpri-theater-calendar)
