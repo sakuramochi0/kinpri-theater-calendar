@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上映時
+ 間
+X-WR-CALNAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上
+ 映時間
+BEGIN:VEVENT
+UID:87d48509-b2d1-4307-ba8d-eaaf48bcad1d
+SEQUENCE:0
+DTSTAMP:20240902T073044Z
+DTSTART:20240901T235000Z
+DTEND:20240902T010500Z
+SUMMARY:T・ジョイ博多 シアター８
+LOCATION:T・ジョイ博多 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_hakata
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b2bbdc-a549-4692-b03c-6b87cb7c0b03
+SEQUENCE:0
+DTSTAMP:20240902T073044Z
+DTSTART:20240902T062500Z
+DTEND:20240902T074000Z
+SUMMARY:T・ジョイ博多 シアター５
+LOCATION:T・ジョイ博多 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_hakata
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
+END:VEVENT
+BEGIN:VEVENT
+UID:bd830f40-1d71-482e-995b-f18668911536
+SEQUENCE:0
+DTSTAMP:20240902T073044Z
+DTSTART:20240902T103500Z
+DTEND:20240902T115000Z
+SUMMARY:T・ジョイ博多 シアター７
+LOCATION:T・ジョイ博多 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_hakata
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
+END:VEVENT
+END:VCALENDAR

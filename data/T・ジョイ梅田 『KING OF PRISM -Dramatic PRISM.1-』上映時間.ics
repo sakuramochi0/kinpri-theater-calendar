@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上映時
+ 間
+X-WR-CALNAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上
+ 映時間
+BEGIN:VEVENT
+UID:aa4a7e7e-129d-4ba4-b7a5-ef92d9c15f72
+SEQUENCE:0
+DTSTAMP:20240902T073020Z
+DTSTART:20240902T014000Z
+DTEND:20240902T025500Z
+SUMMARY:T・ジョイ梅田 シアター６
+LOCATION:T・ジョイ梅田 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_umeda
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda
+END:VEVENT
+BEGIN:VEVENT
+UID:b775c549-2614-46bf-a224-6f2dcc38902b
+SEQUENCE:0
+DTSTAMP:20240902T073020Z
+DTSTART:20240902T052500Z
+DTEND:20240902T064000Z
+SUMMARY:T・ジョイ梅田 シアター６
+LOCATION:T・ジョイ梅田 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_umeda
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda
+END:VEVENT
+BEGIN:VEVENT
+UID:13ebad6f-aff4-4b3f-b824-e81cf6797234
+SEQUENCE:0
+DTSTAMP:20240902T073020Z
+DTSTART:20240902T071500Z
+DTEND:20240902T083000Z
+SUMMARY:T・ジョイ梅田 シアター３
+LOCATION:T・ジョイ梅田 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_umeda
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda
+END:VEVENT
+BEGIN:VEVENT
+UID:dc24767c-8c39-4adf-b653-d90115b19a76
+SEQUENCE:0
+DTSTAMP:20240902T073020Z
+DTSTART:20240902T110000Z
+DTEND:20240902T121500Z
+SUMMARY:T・ジョイ梅田 シアター３
+LOCATION:T・ジョイ梅田 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_umeda
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda
+END:VEVENT
+BEGIN:VEVENT
+UID:746a55b0-8a41-4e55-84f5-bf40ad2752c5
+SEQUENCE:0
+DTSTAMP:20240902T073020Z
+DTSTART:20240902T033000Z
+DTEND:20240902T044500Z
+SUMMARY:T・ジョイ梅田 シアター７
+LOCATION:T・ジョイ梅田 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_umeda
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda
+END:VEVENT
+BEGIN:VEVENT
+UID:b29583d0-c23a-4b70-ac74-646cd8e7a76d
+SEQUENCE:0
+DTSTAMP:20240902T073020Z
+DTSTART:20240902T100000Z
+DTEND:20240902T111500Z
+SUMMARY:T・ジョイ梅田 シアター６
+LOCATION:T・ジョイ梅田 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_umeda
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda
+END:VEVENT
+END:VCALENDAR

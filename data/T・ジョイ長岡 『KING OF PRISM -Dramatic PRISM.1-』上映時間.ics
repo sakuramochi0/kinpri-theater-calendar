@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
+ 間
+X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
+ 映時間
+BEGIN:VEVENT
+UID:250f7ffd-6f68-4154-9ac5-4311da42030c
+SEQUENCE:0
+DTSTAMP:20240902T072938Z
+DTSTART:20240902T103000Z
+DTEND:20240902T114000Z
+SUMMARY:T・ジョイ長岡 シアター５
+LOCATION:T・ジョイ長岡 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_nagaoka
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
+END:VEVENT
+END:VCALENDAR
