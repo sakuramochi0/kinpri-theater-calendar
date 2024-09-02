@@ -1,0 +1,11 @@
+body {
+    padding: 2rem;
+}
+
+ul.task-list li {
+    list-style: none;
+}
+
+ul.task-list li input[type="checkbox"] {
+    width: 1.2rem;
+}
