@@ -8,6 +8,9 @@
     "dev": "playwright test --ui --debug",
     "generate-readme": "tsx generate-readme.ts"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "keywords": [],
   "author": "",
   "license": "GPL-3.0-or-later",
