@@ -5,40 +5,4 @@ NAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
-BEGIN:VEVENT
-UID:8a92bcbc-baca-4057-a2ca-0c2e53f338bd
-SEQUENCE:0
-DTSTAMP:20240902T073009Z
-DTSTART:20240902T104500Z
-DTEND:20240902T120000Z
-SUMMARY:T・ジョイ蘇我 シアター１２
-LOCATION:T・ジョイ蘇我 シアター１２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_soga
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga
-END:VEVENT
-BEGIN:VEVENT
-UID:27ff0392-44c4-4b4a-898b-13fb1bb9950e
-SEQUENCE:0
-DTSTAMP:20240902T073009Z
-DTSTART:20240902T063500Z
-DTEND:20240902T075000Z
-SUMMARY:T・ジョイ蘇我 シアター１２
-LOCATION:T・ジョイ蘇我 シアター１２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_soga
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga
-END:VEVENT
-BEGIN:VEVENT
-UID:92656e85-2535-4f44-b4d0-35f110611e7e
-SEQUENCE:0
-DTSTAMP:20240902T073009Z
-DTSTART:20240902T122000Z
-DTEND:20240902T133500Z
-SUMMARY:T・ジョイ蘇我 シアター１２
-LOCATION:T・ジョイ蘇我 シアター１２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/t-joy_soga
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga
-END:VEVENT
 END:VCALENDAR

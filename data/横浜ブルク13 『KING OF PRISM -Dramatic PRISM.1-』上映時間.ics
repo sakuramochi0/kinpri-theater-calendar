@@ -5,39 +5,351 @@ NAME:横浜ブルク13 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:横浜ブルク13 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:2bf3deb8-3a1b-497b-83b2-7c4130add452
+UID:fbfaea89-1769-4fb5-bfaa-876e17cb328a
 SEQUENCE:0
-DTSTAMP:20240902T070909Z
+DTSTAMP:20240902T083007Z
 DTSTART:20240901T235000Z
 DTEND:20240902T010500Z
 SUMMARY:横浜ブルク13 シアター１
 LOCATION:横浜ブルク13 シアター１
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
 END:VEVENT
 BEGIN:VEVENT
-UID:3a53315f-4652-4098-8f2f-f769cc489114
+UID:eac6dc99-137f-48bd-b3e1-b462f73aab5c
 SEQUENCE:0
-DTSTAMP:20240902T070909Z
+DTSTAMP:20240902T083008Z
 DTSTART:20240902T041500Z
 DTEND:20240902T053000Z
 SUMMARY:横浜ブルク13 シアター３
 LOCATION:横浜ブルク13 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
 END:VEVENT
 BEGIN:VEVENT
-UID:7f93603b-1209-4f33-ab00-c702794c7f22
+UID:9bc56098-67db-4644-a4b8-ee12018fe5b5
 SEQUENCE:0
-DTSTAMP:20240902T070909Z
+DTSTAMP:20240902T083008Z
 DTSTART:20240902T103500Z
 DTEND:20240902T115000Z
 SUMMARY:横浜ブルク13 シアター８
 LOCATION:横浜ブルク13 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:d749829e-d213-43eb-879e-f48b3e3297f0
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240902T235000Z
+DTEND:20240903T010500Z
+SUMMARY:横浜ブルク13 シアター１
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:41855311-d83f-4f64-b1c6-6a3c05eff179
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240903T041500Z
+DTEND:20240903T053000Z
+SUMMARY:横浜ブルク13 シアター３
+LOCATION:横浜ブルク13 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:e5c86c8a-c2e9-4eb1-a004-d14f5bcbfa7b
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240903T103500Z
+DTEND:20240903T115000Z
+SUMMARY:横浜ブルク13 シアター８
+LOCATION:横浜ブルク13 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ae38c3-7270-4eea-a93d-4716022f0b33
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240903T235000Z
+DTEND:20240904T010500Z
+SUMMARY:横浜ブルク13 シアター１
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:57917edb-8257-42c0-bb86-1d56cc81a7d5
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240904T041500Z
+DTEND:20240904T053000Z
+SUMMARY:横浜ブルク13 シアター３
+LOCATION:横浜ブルク13 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc9fb1e-b250-4dff-bdee-c80febf455d9
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240904T103500Z
+DTEND:20240904T115000Z
+SUMMARY:横浜ブルク13 シアター８
+LOCATION:横浜ブルク13 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:310da562-2715-459f-a90f-6b7b5b5a43bc
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240904T235000Z
+DTEND:20240905T010500Z
+SUMMARY:横浜ブルク13 シアター１
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:85babeb6-4b0b-4b17-a7e8-4a28426d1f37
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240905T041500Z
+DTEND:20240905T053000Z
+SUMMARY:横浜ブルク13 シアター３
+LOCATION:横浜ブルク13 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:83bc5a62-bb10-4cf0-abc7-67e4a7417f32
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240905T103500Z
+DTEND:20240905T115000Z
+SUMMARY:横浜ブルク13 シアター８
+LOCATION:横浜ブルク13 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:eadf8c5e-96d4-4656-a544-f54ffb33083f
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240905T235000Z
+DTEND:20240906T010500Z
+SUMMARY:横浜ブルク13 シアター１
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:a613062e-4593-40c7-8e79-fb6d5696de4b
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240906T041500Z
+DTEND:20240906T053000Z
+SUMMARY:横浜ブルク13 シアター３
+LOCATION:横浜ブルク13 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:55907943-bea5-47b3-b1b1-284b68c7e59c
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240906T103500Z
+DTEND:20240906T115000Z
+SUMMARY:横浜ブルク13 シアター８
+LOCATION:横浜ブルク13 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:ebabce4a-6537-4845-b6e7-d49550ccde95
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240906T235000Z
+DTEND:20240907T010500Z
+SUMMARY:横浜ブルク13 シアター１
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd64b29-bfc0-4f0e-a9da-041913767afc
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240907T041500Z
+DTEND:20240907T053000Z
+SUMMARY:横浜ブルク13 シアター３
+LOCATION:横浜ブルク13 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:074ad6c9-8d95-423b-b4ac-be3ddfbad72e
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240907T103500Z
+DTEND:20240907T115000Z
+SUMMARY:横浜ブルク13 シアター８
+LOCATION:横浜ブルク13 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:b8104983-4163-4ff8-b27d-94de301ba733
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240907T235000Z
+DTEND:20240908T010500Z
+SUMMARY:横浜ブルク13 シアター１
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:39f23558-0ae2-4aba-9607-26755b0ed4e5
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240908T041500Z
+DTEND:20240908T053000Z
+SUMMARY:横浜ブルク13 シアター３
+LOCATION:横浜ブルク13 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ecb4d8-e278-42aa-828f-3e9c1fb654cc
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240908T103500Z
+DTEND:20240908T115000Z
+SUMMARY:横浜ブルク13 シアター８
+LOCATION:横浜ブルク13 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:989e1e02-1a32-46ae-9828-db9a74366d71
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240908T235000Z
+DTEND:20240909T010500Z
+SUMMARY:横浜ブルク13 シアター１
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:12d6c303-b823-493b-a0d9-5a8306c23439
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240909T041500Z
+DTEND:20240909T053000Z
+SUMMARY:横浜ブルク13 シアター３
+LOCATION:横浜ブルク13 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:1f83fbac-fb66-4aa4-9b3a-c033ce78d381
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240909T103500Z
+DTEND:20240909T115000Z
+SUMMARY:横浜ブルク13 シアター８
+LOCATION:横浜ブルク13 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:b7abf04a-a24d-4a04-9b34-ed968409c528
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240909T235000Z
+DTEND:20240910T010500Z
+SUMMARY:横浜ブルク13 シアター１
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2bdede-94c9-4ebd-aa1c-6f4f25646fc1
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240910T041500Z
+DTEND:20240910T053000Z
+SUMMARY:横浜ブルク13 シアター３
+LOCATION:横浜ブルク13 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:5d2f4023-7498-4ae3-8ec8-454d693e72f7
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240910T103500Z
+DTEND:20240910T115000Z
+SUMMARY:横浜ブルク13 シアター８
+LOCATION:横浜ブルク13 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:bc41401c-7235-4cdb-8b67-56314a659a66
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240911T041500Z
+DTEND:20240911T053000Z
+SUMMARY:横浜ブルク13 シアター３
+LOCATION:横浜ブルク13 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+END:VEVENT
+BEGIN:VEVENT
+UID:a9722027-99be-4300-a1be-8dab58f8fd55
+SEQUENCE:0
+DTSTAMP:20240902T083008Z
+DTSTART:20240910T235000Z
+DTEND:20240911T010500Z
+SUMMARY:横浜ブルク13 シアター１
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/yokohama_burg13
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
 END:VEVENT
 END:VCALENDAR
