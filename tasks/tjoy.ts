@@ -13,7 +13,7 @@ export async function getTjoySchedules(page: Page, url: string, theaterName: str
   await page.getByRole('link', { name: '作品情報' }).click()
   const movieButton = page.getByRole('link', { name: /KING OF PRISM/ })
   if (await movieButton.count() === 0) {
-    return
+    return null
   }
   await movieButton.click()
   await page.getByRole('link', { name: '上映スケジュール' }).nth(1).click()
@@ -32,9 +32,7 @@ export async function getTjoySchedules(page: Page, url: string, theaterName: str
     schedules.push(...await getTjoyDailySchedules(page))
   }
 
-  console.log(theaterName, schedules)
-  saveJSON(theaterName, schedules)
-  generateICal(theaterName, url, schedules)
+  return schedules
 }
 
 async function getTjoyDailySchedules(page: Page) {

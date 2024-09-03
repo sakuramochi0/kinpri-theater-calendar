@@ -2,7 +2,7 @@ import { Page } from '@playwright/test';
 import { Schedule } from './types';
 import { generateICal, isValidDate, saveJSON } from './utils';
 
-export async function getUnitedCinemasSchedules(page: Page, url: string, theaterName: string) {
+export async function getUnitedCinemasSchedules(page: Page, url: string) {
   await page.goto(url, { waitUntil: 'domcontentloaded' })
 
   const notificationCloseButton = page.getByRole('button', { name: '閉じる' })
@@ -15,10 +15,10 @@ export async function getUnitedCinemasSchedules(page: Page, url: string, theater
   try {
     await link.waitFor({ timeout: 1000 })
   } catch {
-    console.log('not found')
-    return
+    console.log('movies not found')
+    return { schedules: null, movieLink: null }
   }
-  const movieLink = await link.evaluate<any, HTMLLinkElement>(a => a.href)
+  const movieLink: string = await link.evaluate<any, HTMLLinkElement>(a => a.href)
   await page.goto(movieLink)
 
   const dailySchedules = await page.locator('[id="dailySchedule"]')
@@ -41,7 +41,5 @@ export async function getUnitedCinemasSchedules(page: Page, url: string, theater
         })
       }))).flat(2)
 
-  console.log(schedules)
-  saveJSON(theaterName, schedules)
-  generateICal(theaterName, movieLink, schedules)
+  return { schedules, movieLink }
 }
