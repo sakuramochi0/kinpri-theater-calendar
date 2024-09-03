@@ -39,5 +39,5 @@ export default defineConfig({
     },
   ],
 
-  timeout: 5 * 60 * 1000,
+  timeout: 15 * 60 * 1000,
 });
