@@ -88,7 +88,8 @@ test('TOHOシネマズ系列', async ({ page }) => {
 
               const title = movie.querySelector('h6')!.textContent!.trim()
               const match = movie.querySelector('#scheduleDate')!.textContent!.match(/(\d+)月(\d+)/)!
-              const date = `${match[1]}/${match[2]}`
+              const year = new Date().getFullYear()
+              const date = `${year}/${match[1]}/${match[2]}`
 
               const screens = [...movie.querySelectorAll('.schedule-body-section-item')]
               return screens.map(screen => {
