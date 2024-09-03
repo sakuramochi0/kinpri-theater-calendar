@@ -6,9 +6,9 @@ NAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:1eba06a8-7231-43ba-8f10-a4160d27e7dc
+UID:3c3bde90-58cf-4d81-a9ee-56dcade1f6cf
 SEQUENCE:0
-DTSTAMP:20240903T071237Z
+DTSTAMP:20240903T152034Z
 DTSTART:20240903T005500Z
 DTEND:20240903T021200Z
 SUMMARY:ユナイテッド・シネマ前橋 8screen 
@@ -19,9 +19,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:36edf7a6-6abc-40e1-9423-58a434c325f6
+UID:06069e1e-45c8-40a3-a951-c28086f52697
 SEQUENCE:0
-DTSTAMP:20240903T071237Z
+DTSTAMP:20240903T152034Z
 DTSTART:20240903T104500Z
 DTEND:20240903T120500Z
 SUMMARY:ユナイテッド・シネマ前橋 6screen 
@@ -32,9 +32,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b0c8c5f8-a47a-4ce1-a1ab-6e7ae05bbcbc
+UID:fe5356d8-bd8d-4b4e-8369-bfbac8ab703e
 SEQUENCE:0
-DTSTAMP:20240903T071237Z
+DTSTAMP:20240903T152034Z
 DTSTART:20240904T005500Z
 DTEND:20240904T021200Z
 SUMMARY:ユナイテッド・シネマ前橋 8screen 
@@ -45,9 +45,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:754346d6-bfd1-4589-a903-0d83dab078be
+UID:a1492dd4-447b-4d9e-b7ae-6c92bf63bac1
 SEQUENCE:0
-DTSTAMP:20240903T071237Z
+DTSTAMP:20240903T152034Z
 DTSTART:20240904T104500Z
 DTEND:20240904T120500Z
 SUMMARY:ユナイテッド・シネマ前橋 6screen 
@@ -58,9 +58,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:fd3b769e-12f5-48e8-a84e-ee7611ae2ab9
+UID:b4722931-4ff8-4626-888b-c2875f7d23cf
 SEQUENCE:0
-DTSTAMP:20240903T071237Z
+DTSTAMP:20240903T152034Z
 DTSTART:20240905T005500Z
 DTEND:20240905T021200Z
 SUMMARY:ユナイテッド・シネマ前橋 8screen 
@@ -71,13 +71,117 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7c3a87d8-400d-46ad-8fb9-49ee207d4c65
+UID:586ea8cf-2a1c-4b31-803a-edd8d2feb300
 SEQUENCE:0
-DTSTAMP:20240903T071237Z
+DTSTAMP:20240903T152034Z
 DTSTART:20240905T104500Z
 DTEND:20240905T120500Z
 SUMMARY:ユナイテッド・シネマ前橋 6screen 
 LOCATION:ユナイテッド・シネマ前橋 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:2230f33c-9d66-4b2d-a1f0-106c7ccdd8b7
+SEQUENCE:0
+DTSTAMP:20240903T152034Z
+DTSTART:20240906T063500Z
+DTEND:20240906T075500Z
+SUMMARY:ユナイテッド・シネマ前橋 4screen 
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba705d9-8691-4467-846c-4c0ea393a673
+SEQUENCE:0
+DTSTAMP:20240903T152034Z
+DTSTART:20240907T104500Z
+DTEND:20240907T120500Z
+SUMMARY:ユナイテッド・シネマ前橋 4screen 
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:5cfd9984-aba3-46a1-82de-373e98b66814
+SEQUENCE:0
+DTSTAMP:20240903T152034Z
+DTSTART:20240908T030000Z
+DTEND:20240908T045500Z
+SUMMARY:ユナイテッド・シネマ前橋 8screen 
+LOCATION:ユナイテッド・シネマ前橋 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a5627a6e-5fe3-49ed-afc5-cec5332b59dc
+SEQUENCE:0
+DTSTAMP:20240903T152034Z
+DTSTART:20240908T052000Z
+DTEND:20240908T071500Z
+SUMMARY:ユナイテッド・シネマ前橋 8screen 
+LOCATION:ユナイテッド・シネマ前橋 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:69fcc5e8-f7b7-4224-ad1c-cbcfbe6f5f8f
+SEQUENCE:0
+DTSTAMP:20240903T152034Z
+DTSTART:20240909T063500Z
+DTEND:20240909T075500Z
+SUMMARY:ユナイテッド・シネマ前橋 4screen 
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:c05c65ea-9cb7-42a9-baaa-bb86c339f280
+SEQUENCE:0
+DTSTAMP:20240903T152034Z
+DTSTART:20240910T063500Z
+DTEND:20240910T075500Z
+SUMMARY:ユナイテッド・シネマ前橋 4screen 
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:03617662-091e-496e-ac69-9b7761610f9e
+SEQUENCE:0
+DTSTAMP:20240903T152034Z
+DTSTART:20240911T063500Z
+DTEND:20240911T075500Z
+SUMMARY:ユナイテッド・シネマ前橋 4screen 
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f6e41d-0077-4e03-964f-a9d6bec6a3e2
+SEQUENCE:0
+DTSTAMP:20240903T152034Z
+DTSTART:20240912T063500Z
+DTEND:20240912T075500Z
+SUMMARY:ユナイテッド・シネマ前橋 4screen 
+LOCATION:ユナイテッド・シネマ前橋 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f

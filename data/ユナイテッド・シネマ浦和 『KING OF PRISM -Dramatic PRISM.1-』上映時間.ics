@@ -6,9 +6,9 @@ NAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:e85661d4-12bc-4819-be8d-80912e77d361
+UID:e3827d24-f3d8-4ce5-91f1-b061e997b4f7
 SEQUENCE:0
-DTSTAMP:20240902T222154Z
+DTSTAMP:20240903T152046Z
 DTSTART:20240903T130000Z
 DTEND:20240903T141700Z
 SUMMARY:ユナイテッド・シネマ浦和 5screen 
@@ -19,9 +19,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:79e83cae-acaa-4875-80a1-e4e9308e860e
+UID:c4a9ff72-be88-4d37-b685-60d20f098a06
 SEQUENCE:0
-DTSTAMP:20240902T222154Z
+DTSTAMP:20240903T152046Z
 DTSTART:20240903T062500Z
 DTEND:20240903T074500Z
 SUMMARY:ユナイテッド・シネマ浦和 6screen 
@@ -32,9 +32,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:cfd81e35-71c9-4e8b-adca-8bdb2bc8a0a8
+UID:ee6133fb-f0cf-4df5-b802-bbee50e4ae68
 SEQUENCE:0
-DTSTAMP:20240902T222154Z
+DTSTAMP:20240903T152046Z
 DTSTART:20240904T130000Z
 DTEND:20240904T141700Z
 SUMMARY:ユナイテッド・シネマ浦和 5screen 
@@ -45,9 +45,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0a642a6b-5e29-45b1-8469-4d5a305aa540
+UID:10fa533a-bf35-45ad-bacb-b7bcb8c6c673
 SEQUENCE:0
-DTSTAMP:20240902T222154Z
+DTSTAMP:20240903T152046Z
 DTSTART:20240904T062500Z
 DTEND:20240904T074500Z
 SUMMARY:ユナイテッド・シネマ浦和 6screen 
@@ -58,9 +58,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e9633fcd-4ff9-469a-bade-7507dbb7fbd7
+UID:4bc8b73b-cead-42d4-b9f3-a37ea270bf7c
 SEQUENCE:0
-DTSTAMP:20240902T222154Z
+DTSTAMP:20240903T152046Z
 DTSTART:20240905T130000Z
 DTEND:20240905T141700Z
 SUMMARY:ユナイテッド・シネマ浦和 5screen 
@@ -71,13 +71,117 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0258fdc5-35fa-4e64-a505-b75a22cb7b61
+UID:aaf95393-e603-4083-8e15-8f22d3a46f9a
 SEQUENCE:0
-DTSTAMP:20240902T222154Z
+DTSTAMP:20240903T152046Z
 DTSTART:20240905T062500Z
 DTEND:20240905T074500Z
 SUMMARY:ユナイテッド・シネマ浦和 6screen 
 LOCATION:ユナイテッド・シネマ浦和 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:99e544be-b2ac-4147-ab89-ad8c313a3462
+SEQUENCE:0
+DTSTAMP:20240903T152046Z
+DTSTART:20240906T084000Z
+DTEND:20240906T100000Z
+SUMMARY:ユナイテッド・シネマ浦和 5screen 
+LOCATION:ユナイテッド・シネマ浦和 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:06c840d1-fba9-48c8-a43f-733322ee4a52
+SEQUENCE:0
+DTSTAMP:20240903T152046Z
+DTSTART:20240907T090000Z
+DTEND:20240907T102000Z
+SUMMARY:ユナイテッド・シネマ浦和 5screen 
+LOCATION:ユナイテッド・シネマ浦和 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a36afafe-38ac-4d32-ac43-3fcd7b673bfb
+SEQUENCE:0
+DTSTAMP:20240903T152046Z
+DTSTART:20240908T030000Z
+DTEND:20240908T045500Z
+SUMMARY:ユナイテッド・シネマ浦和 8screen 
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:68105dd6-030e-406f-b77b-79fb41995e57
+SEQUENCE:0
+DTSTAMP:20240903T152046Z
+DTSTART:20240908T052000Z
+DTEND:20240908T071500Z
+SUMMARY:ユナイテッド・シネマ浦和 8screen 
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:8d2ff913-1fc3-4ad0-ade9-06ab96bcd21c
+SEQUENCE:0
+DTSTAMP:20240903T152046Z
+DTSTART:20240909T084000Z
+DTEND:20240909T100000Z
+SUMMARY:ユナイテッド・シネマ浦和 5screen 
+LOCATION:ユナイテッド・シネマ浦和 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca00297-962e-466e-8acb-a68ee80ad1e2
+SEQUENCE:0
+DTSTAMP:20240903T152046Z
+DTSTART:20240910T084000Z
+DTEND:20240910T100000Z
+SUMMARY:ユナイテッド・シネマ浦和 5screen 
+LOCATION:ユナイテッド・シネマ浦和 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:37585f25-f1d0-4ae9-b4f9-b717baaa2ec8
+SEQUENCE:0
+DTSTAMP:20240903T152046Z
+DTSTART:20240911T084000Z
+DTEND:20240911T100000Z
+SUMMARY:ユナイテッド・シネマ浦和 5screen 
+LOCATION:ユナイテッド・シネマ浦和 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:22efe7f6-aae2-4c40-a6b0-3326dd9f3b17
+SEQUENCE:0
+DTSTAMP:20240903T152046Z
+DTSTART:20240912T084000Z
+DTEND:20240912T100000Z
+SUMMARY:ユナイテッド・シネマ浦和 5screen 
+LOCATION:ユナイテッド・シネマ浦和 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from=fm
 URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from

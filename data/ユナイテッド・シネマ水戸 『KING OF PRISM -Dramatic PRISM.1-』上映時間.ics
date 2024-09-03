@@ -6,9 +6,9 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:9878778a-80ef-4627-a876-eea22f3a2a64
+UID:f95bee71-cbd4-4f73-8a15-e10eddff338e
 SEQUENCE:0
-DTSTAMP:20240902T221559Z
+DTSTAMP:20240903T152007Z
 DTSTART:20240902T232500Z
 DTEND:20240903T004200Z
 SUMMARY:ユナイテッド・シネマ水戸 6screen 
@@ -19,9 +19,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:87088d9a-8708-4b24-b835-c81112cfc4e7
+UID:6a0f9fa2-3ca8-40c2-ba9c-b65976571908
 SEQUENCE:0
-DTSTAMP:20240902T221559Z
+DTSTAMP:20240903T152007Z
 DTSTART:20240903T064500Z
 DTEND:20240903T080500Z
 SUMMARY:ユナイテッド・シネマ水戸 1screen 
@@ -32,9 +32,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2703b8eb-55e6-4bb0-9464-0c16dd723e56
+UID:7efbfe45-3159-4c29-b747-e45957df6fbc
 SEQUENCE:0
-DTSTAMP:20240902T221559Z
+DTSTAMP:20240903T152007Z
 DTSTART:20240903T232500Z
 DTEND:20240904T004200Z
 SUMMARY:ユナイテッド・シネマ水戸 6screen 
@@ -45,9 +45,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5e542274-6e62-47cc-985c-f371342b2c2b
+UID:95e8090a-097b-4e79-9876-c170a7a0587c
 SEQUENCE:0
-DTSTAMP:20240902T221559Z
+DTSTAMP:20240903T152007Z
 DTSTART:20240904T064500Z
 DTEND:20240904T080500Z
 SUMMARY:ユナイテッド・シネマ水戸 1screen 
@@ -58,9 +58,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7ce76260-100b-4ce9-a0c6-bc77795305e4
+UID:5abada00-7b89-44ec-9de6-d0a5683f9930
 SEQUENCE:0
-DTSTAMP:20240902T221559Z
+DTSTAMP:20240903T152007Z
 DTSTART:20240904T232500Z
 DTEND:20240905T004200Z
 SUMMARY:ユナイテッド・シネマ水戸 6screen 
@@ -71,11 +71,115 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:32c5b65c-52e1-4828-9cbf-fbceb96424b9
+UID:343e4472-66d1-46c6-9da1-423527f1795d
 SEQUENCE:0
-DTSTAMP:20240902T221559Z
+DTSTAMP:20240903T152007Z
 DTSTART:20240905T064500Z
 DTEND:20240905T080500Z
+SUMMARY:ユナイテッド・シネマ水戸 1screen 
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:708e613c-cd6d-452d-ac3d-b5e8a28058b7
+SEQUENCE:0
+DTSTAMP:20240903T152007Z
+DTSTART:20240906T091000Z
+DTEND:20240906T103000Z
+SUMMARY:ユナイテッド・シネマ水戸 1screen 
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:f99edbdc-f684-41f1-81bc-2286f5297664
+SEQUENCE:0
+DTSTAMP:20240903T152007Z
+DTSTART:20240907T091000Z
+DTEND:20240907T103000Z
+SUMMARY:ユナイテッド・シネマ水戸 1screen 
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:84e363b7-774d-45f2-95ee-9e79756911ac
+SEQUENCE:0
+DTSTAMP:20240903T152007Z
+DTSTART:20240908T030000Z
+DTEND:20240908T045500Z
+SUMMARY:ユナイテッド・シネマ水戸 4screen 
+LOCATION:ユナイテッド・シネマ水戸 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:7e1163f9-ed55-4254-8909-a2aae5f76e72
+SEQUENCE:0
+DTSTAMP:20240903T152007Z
+DTSTART:20240908T052000Z
+DTEND:20240908T071500Z
+SUMMARY:ユナイテッド・シネマ水戸 4screen 
+LOCATION:ユナイテッド・シネマ水戸 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:76ab5875-638c-4979-945e-abfc1ff88f80
+SEQUENCE:0
+DTSTAMP:20240903T152007Z
+DTSTART:20240909T091000Z
+DTEND:20240909T103000Z
+SUMMARY:ユナイテッド・シネマ水戸 1screen 
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:ab288669-1ad2-4c27-85e6-8a5918e7cabc
+SEQUENCE:0
+DTSTAMP:20240903T152007Z
+DTSTART:20240910T091000Z
+DTEND:20240910T103000Z
+SUMMARY:ユナイテッド・シネマ水戸 1screen 
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:7def8968-2600-4e23-a5a7-db8930287893
+SEQUENCE:0
+DTSTAMP:20240903T152007Z
+DTSTART:20240911T091000Z
+DTEND:20240911T103000Z
+SUMMARY:ユナイテッド・シネマ水戸 1screen 
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=fm
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:afc34f37-9a59-470e-b0f9-d8f777221cfa
+SEQUENCE:0
+DTSTAMP:20240903T152007Z
+DTSTART:20240912T091000Z
+DTEND:20240912T103000Z
 SUMMARY:ユナイテッド・シネマ水戸 1screen 
 LOCATION:ユナイテッド・シネマ水戸 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
