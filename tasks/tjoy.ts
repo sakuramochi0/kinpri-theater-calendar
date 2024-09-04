@@ -36,15 +36,20 @@ export async function getTjoySchedules(page: Page, url: string, theaterName: str
 }
 
 async function getTjoyDailySchedules(page: Page) {
-  const scheduleBox = await page.locator('.schedule-box')
+  const scheduleBoxes = await page.locator('.schedule-box')
   const date = await page.locator('.calendar-item.calendar-active').evaluate(e => e.dataset.date)
 
-  const rawSchedules = await scheduleBox.evaluateAll(schedules => schedules.map(schedule => {
-    const screenName = schedule.querySelector('.theater-name')!.textContent!.trim()
-    const timeString = schedule.querySelector('.schedule-time')!.textContent!.trim()
-    const [[_, startTime, endTime]] = timeString.matchAll(/(\d+:\d+)\D+(\d+:\d+)/g)
-    return { screenName, startTime, endTime }
-  }))
+  const rawSchedules = await scheduleBoxes.evaluateAll(
+    scheduleBoxes => scheduleBoxes.map(
+      scheduleBox => {
+        const screenName = scheduleBox.querySelector('.theater-name')!.textContent!.trim()
+        const timeString = scheduleBox.querySelector('.schedule-time')!.textContent!.trim()
+        const [[_, startTime, endTime]] = timeString.matchAll(/(\d+:\d+)\D+(\d+:\d+)/g)
+        return { screenName, startTime, endTime }
+      }
+    )
+  )
+
   const schedules: Schedule[] = rawSchedules.map(schedule => {
     // FIXME: handle after 24:00. use dayjs etc.
     const startHour = parseInt(schedule.startTime.split(':')[0])
