@@ -4,4 +4,538 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:新宿バルト9 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:新宿バルト9 『KING OF PRISM -Dramatic PRISM.1-』上映
  時間
+BEGIN:VEVENT
+UID:28d2d86a-d742-4e05-8b16-8b526bc349fc
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T100000Z
+DTEND:20240904T122000Z
+SUMMARY:[☓満席] 新宿バルト9 シアター９ 『KING OF PRISM -Dra
+ matic PRISM.1-』『劇場版 ポールプリンセス!!』コラボ上映
+ 会
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:4aabdb34-db1b-428c-acf7-e589ae2527fe
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T011500Z
+DTEND:20240904T023000Z
+SUMMARY:[-終了] 新宿バルト9 シアター９ [通常上映]KING OF P
+ RISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:a9a7b61b-51a8-4f0a-9320-a9f4a0194bdc
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T141000Z
+DTEND:20240904T145900Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター６ [通常上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:020d2ab5-b6d8-4911-87cf-1fa0b8d9a528
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T025500Z
+DTEND:20240904T041000Z
+SUMMARY:[-終了] 新宿バルト9 シアター９ [応援上映]KING OF P
+ RISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:c3849e56-1acd-44be-8a4f-8a61373f256b
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T043500Z
+DTEND:20240904T055000Z
+SUMMARY:[-終了] 新宿バルト9 シアター９ [応援上映]KING OF P
+ RISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:2271fd14-a968-45df-98aa-de96302631f1
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T061500Z
+DTEND:20240904T073000Z
+SUMMARY:[-終了] 新宿バルト9 シアター９ [応援上映]KING OF P
+ RISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:95530c90-6f5f-4877-953d-0b4be4c437ee
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T075500Z
+DTEND:20240904T091000Z
+SUMMARY:[-終了] 新宿バルト9 シアター９ [応援上映]KING OF P
+ RISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5f3d7c-9ae1-423e-bc81-b9f8752d72b6
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T103000Z
+DTEND:20240904T114500Z
+SUMMARY:[△予約/購入] 新宿バルト9 シアター６ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0a5e74-2898-4f59-b103-32f416cfa91a
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T121500Z
+DTEND:20240904T133000Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター６ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:cffbac25-36dc-4ae7-ab4d-ee342cdc51a1
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240904T145900Z
+DTEND:20240904T145900Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:77abe879-7e0e-4c50-92ad-fd4a0e40bc08
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T011500Z
+DTEND:20240905T023000Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [通常上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:e25de30a-b61f-4e69-b3dc-f923c6788566
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T145900Z
+DTEND:20240905T145900Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [通常上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:413cbb94-6b9b-4606-9259-96f6bffe2142
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T025500Z
+DTEND:20240905T041000Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:09956b49-1b67-46c1-a3ab-b36fbc951e2c
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T043500Z
+DTEND:20240905T055000Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:75d156ab-75b2-4c97-9bdb-6451ba78f37f
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T061500Z
+DTEND:20240905T073000Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:4d017327-68d6-44a1-aa3f-194cc5eec336
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T075500Z
+DTEND:20240905T091000Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:67183388-be7d-4f3b-a28c-61f1d4b9332e
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T100000Z
+DTEND:20240905T111500Z
+SUMMARY:[○予約/購入] 新宿バルト9 シアター６ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:09d205b5-e9bf-4793-bf05-08dc6e51136c
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T114500Z
+DTEND:20240905T130000Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター６ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:af550e85-c946-43c0-b7e9-6342354c3c78
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T133000Z
+DTEND:20240905T144500Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター６ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:ef6a73d8-2813-48bd-8b68-bf28cba1ec58
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240905T145900Z
+DTEND:20240905T145900Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:bfd2f2b7-a8bc-43b1-be9c-f43ac0f4d126
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240906T030000Z
+DTEND:20240906T041500Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [通常上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4f582-43a6-4134-909e-34ec43630175
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240906T062000Z
+DTEND:20240906T073500Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [通常上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:90b06228-3046-4b73-9a12-0625001619d8
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240906T012000Z
+DTEND:20240906T023500Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:ec163f5c-05c3-451a-9e74-f655946a7ae1
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240906T044000Z
+DTEND:20240906T055500Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:764c6e99-b355-4a7d-92a1-6a8a04cef8f3
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240906T080000Z
+DTEND:20240906T091500Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac85a9f-aa4e-4980-a7e1-04aacb295985
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240906T094000Z
+DTEND:20240906T105500Z
+SUMMARY:[○予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:9eac4264-9397-455a-bd49-6f896470ea74
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240906T112000Z
+DTEND:20240906T123500Z
+SUMMARY:[△予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:85dc8635-f8cb-45e9-9be5-e68ca8244c5d
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240906T130000Z
+DTEND:20240906T141500Z
+SUMMARY:[◎予約/購入] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:e8baa943-db98-4351-81ec-5b01a814e6db
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240907T134000Z
+DTEND:20240907T145500Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター９ [通常上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:da997562-dcf0-4cf6-910c-7b6b26494ea4
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240907T005000Z
+DTEND:20240907T020500Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター８ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:73ebc59d-2217-41c2-9ecc-7ce88212cfb4
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240907T052000Z
+DTEND:20240907T063500Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa5eb65-0188-4992-93fe-463fe12a91da
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240907T070000Z
+DTEND:20240907T081500Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:a5af7d23-ff46-4b01-8283-8da16448a58a
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240907T084500Z
+DTEND:20240907T100000Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:85a76270-0c74-4eca-bf0a-7b4b1fca4804
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240907T120000Z
+DTEND:20240907T131500Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:6ffa19ab-1036-4f5f-8f9d-d4b4070644ce
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240907T145900Z
+DTEND:20240907T145900Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab77458-49b6-4dbd-b846-ecee67041b78
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240908T030000Z
+DTEND:20240908T045500Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター５ 【Over The Ra
+ inbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2ccd83-8127-402a-8c92-591c2cfced0a
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240908T052000Z
+DTEND:20240908T070100Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター５ 【Over The Ra
+ inbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:291da825-babe-4812-bc49-9c775bc71e05
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240908T145500Z
+DTEND:20240908T145900Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター９ [通常上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:1d092a75-936a-4de6-80c7-b868866fb810
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240908T005000Z
+DTEND:20240908T020500Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9519a9-7954-4d24-a4bf-700dadccdf16
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240908T073000Z
+DTEND:20240908T084500Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター９ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
+BEGIN:VEVENT
+UID:9aad01af-a239-4fd9-9e83-fefe84a9e248
+SEQUENCE:0
+DTSTAMP:20240904T091051Z
+DTSTART:20240908T105500Z
+DTEND:20240908T121000Z
+SUMMARY:[-販売対象外] 新宿バルト9 シアター８ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/shinjuku_wald9
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9
+END:VEVENT
 END:VCALENDAR
