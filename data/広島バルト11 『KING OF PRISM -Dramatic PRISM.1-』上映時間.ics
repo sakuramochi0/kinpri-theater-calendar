@@ -5,96 +5,260 @@ NAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:6076a7a0-2e12-4a5b-9910-bf069ea994d5
+UID:ef9ee99b-48f5-41f5-bd3f-3abfc1a6d084
 SEQUENCE:0
-DTSTAMP:20240904T020841Z
+DTSTAMP:20240904T041330Z
 DTSTART:20240903T233500Z
 DTEND:20240904T005000Z
-SUMMARY:広島バルト11 シアター３ 
+SUMMARY:[-終了] 広島バルト11 シアター３ [応援上映]KING OF 
+ PRISM -Dramatic PRISM.1-
 LOCATION:広島バルト11 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/hiroshima_wald11
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
 END:VEVENT
 BEGIN:VEVENT
-UID:64703ab2-fdfe-4868-a062-3f7b6a50d783
+UID:6d4d0c28-f716-4c60-96f9-c05f30733dec
 SEQUENCE:0
-DTSTAMP:20240904T020841Z
+DTSTAMP:20240904T041330Z
 DTSTART:20240904T105000Z
 DTEND:20240904T120500Z
-SUMMARY:広島バルト11 シアター８ 
+SUMMARY:[◎予約/購入] 広島バルト11 シアター８ [応援上映
+ ]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:広島バルト11 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/hiroshima_wald11
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
 END:VEVENT
 BEGIN:VEVENT
-UID:f00c85c8-6ac7-4ea5-8e01-0c9914960ab9
+UID:3a64113d-6cc5-4160-a638-fa24b201e25c
 SEQUENCE:0
-DTSTAMP:20240904T020841Z
+DTSTAMP:20240904T041330Z
 DTSTART:20240904T043500Z
 DTEND:20240904T055000Z
-SUMMARY:広島バルト11 シアター６ 
+SUMMARY:[◎購入] 広島バルト11 シアター６ [通常上映]KING O
+ F PRISM -Dramatic PRISM.1-
 LOCATION:広島バルト11 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/hiroshima_wald11
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
 END:VEVENT
 BEGIN:VEVENT
-UID:91d77b8e-963b-4432-91a5-d91fbd3b5caf
+UID:3417ed1a-baa3-49ce-9f55-d9659c5cb464
 SEQUENCE:0
-DTSTAMP:20240904T020841Z
+DTSTAMP:20240904T041330Z
 DTSTART:20240904T233500Z
 DTEND:20240905T005000Z
-SUMMARY:広島バルト11 シアター３ 
+SUMMARY:[◎予約/購入] 広島バルト11 シアター３ [応援上映
+ ]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:広島バルト11 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/hiroshima_wald11
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
 END:VEVENT
 BEGIN:VEVENT
-UID:8f64577b-fd9b-4ac9-b0ce-53701ec2603b
+UID:0434659d-39f9-41f3-bdde-0a95325bf1a5
 SEQUENCE:0
-DTSTAMP:20240904T020841Z
+DTSTAMP:20240904T041330Z
 DTSTART:20240905T105000Z
 DTEND:20240905T120500Z
-SUMMARY:広島バルト11 シアター８ 
+SUMMARY:[◎予約/購入] 広島バルト11 シアター８ [応援上映
+ ]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:広島バルト11 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/hiroshima_wald11
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
 END:VEVENT
 BEGIN:VEVENT
-UID:288e9e87-816b-4fef-84b3-45df411cbe92
+UID:20a7bde3-f900-467f-98d4-62f8aca0c7cf
 SEQUENCE:0
-DTSTAMP:20240904T020841Z
+DTSTAMP:20240904T041330Z
 DTSTART:20240905T043500Z
 DTEND:20240905T055000Z
-SUMMARY:広島バルト11 シアター６ 
+SUMMARY:[◎予約/購入] 広島バルト11 シアター６ [通常上映
+ ]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:広島バルト11 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/hiroshima_wald11
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
 END:VEVENT
 BEGIN:VEVENT
-UID:7158682b-cb8f-4657-ae61-30bc1df1e33a
+UID:dbc485f6-659b-40b5-b4b2-f6fdd8d536f6
 SEQUENCE:0
-DTSTAMP:20240904T020841Z
+DTSTAMP:20240904T041330Z
 DTSTART:20240906T102500Z
 DTEND:20240906T114000Z
-SUMMARY:広島バルト11 シアター２ 
+SUMMARY:[◎予約/購入] 広島バルト11 シアター２ [応援上映
+ ]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:広島バルト11 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/hiroshima_wald11
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
 END:VEVENT
 BEGIN:VEVENT
-UID:991a588c-641f-4391-a15b-73047a2e55b6
+UID:7e9225f3-c1d9-492c-856e-e4dea5d92c34
 SEQUENCE:0
-DTSTAMP:20240904T020841Z
+DTSTAMP:20240904T041330Z
 DTSTART:20240906T035000Z
 DTEND:20240906T050500Z
-SUMMARY:広島バルト11 シアター７ 
+SUMMARY:[◎予約/購入] 広島バルト11 シアター７ [通常上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:3cbb973d-de80-43ea-a12e-8f0579889e0b
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240907T063500Z
+DTEND:20240907T075000Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター７ [応援上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:03dbc804-b56f-43c9-b3ba-1c95e70742e6
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240907T025500Z
+DTEND:20240907T041000Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター７ [通常上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:ee295ba0-bd7d-4e94-8cf2-ebc2935c721f
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240908T030000Z
+DTEND:20240908T045500Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター７ 【Over The R
+ ainbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:7fe55881-1755-4969-b687-906682527abd
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240908T052000Z
+DTEND:20240908T072000Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター７ 【Over The R
+ ainbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:83488c02-a516-40ba-a83f-c2374ae5dfaf
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240909T102500Z
+DTEND:20240909T114000Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター２ [応援上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:bd58f45e-f957-4c29-86a8-b7667a4d69f0
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240909T035000Z
+DTEND:20240909T050500Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター７ [通常上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:74c2bb21-0c9c-49e1-996c-20c3ee4e1e96
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240910T102500Z
+DTEND:20240910T114000Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター２ [応援上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:ba1ebed0-4f89-4dd0-bc6e-4dd45d29d0ca
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240910T035000Z
+DTEND:20240910T050500Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター７ [通常上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:59877b37-e910-4ae3-bde2-af46e00186ef
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240911T102500Z
+DTEND:20240911T114000Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター２ [応援上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:f0666b58-de1d-4472-9c86-3e8da0996812
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240911T035000Z
+DTEND:20240911T050500Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター７ [通常上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d337ab-406a-48e9-9c9e-7a37d4089b2d
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240912T104500Z
+DTEND:20240912T120000Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター９ [応援上映
+ ]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:広島バルト11 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/hiroshima_wald11
+URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11
+END:VEVENT
+BEGIN:VEVENT
+UID:2723c0f9-7339-4fa7-a334-954962b3afe4
+SEQUENCE:0
+DTSTAMP:20240904T041330Z
+DTSTART:20240912T035000Z
+DTEND:20240912T050500Z
+SUMMARY:[-販売対象外] 広島バルト11 シアター７ [通常上映
+ ]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:広島バルト11 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/hiroshima_wald11

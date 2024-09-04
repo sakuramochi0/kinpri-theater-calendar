@@ -6,60 +6,65 @@ NAME:T・ジョイ リバーウォーク 北九州 『KING OF PRISM -Drama
 X-WR-CALNAME:T・ジョイ リバーウォーク 北九州 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:38893efc-69cc-4918-a79f-149ee3aeba85
+UID:3074c439-3978-4105-ad4f-1d3111a757fc
 SEQUENCE:0
-DTSTAMP:20240904T031354Z
+DTSTAMP:20240904T041433Z
 DTSTART:20240903T232000Z
 DTEND:20240904T003500Z
-SUMMARY:T・ジョイ リバーウォーク 北九州 シアター６ 
+SUMMARY:[-終了] T・ジョイ リバーウォーク 北九州 シアタ
+ ー６ [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ リバーウォーク 北九州 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
 URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
 END:VEVENT
 BEGIN:VEVENT
-UID:be6bafa6-f61a-4fed-96df-d4cb990ba080
+UID:01788dbf-66b3-40f5-a5a9-98566a3aec34
 SEQUENCE:0
-DTSTAMP:20240904T031354Z
+DTSTAMP:20240904T041433Z
 DTSTART:20240904T073000Z
 DTEND:20240904T084500Z
-SUMMARY:T・ジョイ リバーウォーク 北九州 シアター８ 
+SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
+ シアター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ リバーウォーク 北九州 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
 URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
 END:VEVENT
 BEGIN:VEVENT
-UID:619f4946-e115-44a0-a8d4-2b3aae6892a5
+UID:e6ba5ade-db9b-4032-8599-18b4cb4efd23
 SEQUENCE:0
-DTSTAMP:20240904T031354Z
+DTSTAMP:20240904T041433Z
 DTSTART:20240904T232000Z
 DTEND:20240905T003500Z
-SUMMARY:T・ジョイ リバーウォーク 北九州 シアター６ 
+SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
+ シアター６ [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ リバーウォーク 北九州 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
 URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
 END:VEVENT
 BEGIN:VEVENT
-UID:aceb36ba-83a7-4f03-9208-ff94ed865367
+UID:5d8eaa2b-ac5f-4ed4-8cbb-c5f40cbe6a05
 SEQUENCE:0
-DTSTAMP:20240904T031354Z
+DTSTAMP:20240904T041433Z
 DTSTART:20240905T073000Z
 DTEND:20240905T084500Z
-SUMMARY:T・ジョイ リバーウォーク 北九州 シアター８ 
+SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
+ シアター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ リバーウォーク 北九州 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu
 URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu
 END:VEVENT
 BEGIN:VEVENT
-UID:b410ccd0-fc3d-4245-af83-f9626250d787
+UID:0268f622-1537-45df-8e09-dcafeb62b934
 SEQUENCE:0
-DTSTAMP:20240904T031354Z
+DTSTAMP:20240904T041433Z
 DTSTART:20240905T234000Z
 DTEND:20240906T005500Z
-SUMMARY:T・ジョイ リバーウォーク 北九州 シアター８ 
+SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
+ シアター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ リバーウォーク 北九州 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu

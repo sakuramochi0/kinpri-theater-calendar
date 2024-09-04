@@ -6,120 +6,299 @@ NAME:T・ジョイ京都 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ京都 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:2e626794-1160-4532-8f15-72f545bf89ae
+UID:86452ca1-0faa-49d6-b586-56d5a06e00bc
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240904T083000Z
 DTEND:20240904T094500Z
-SUMMARY:T・ジョイ京都 シアター２ 
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター２ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
 END:VEVENT
 BEGIN:VEVENT
-UID:486beb61-8cde-45d1-bc70-7292dbdbb67b
+UID:a9573fb9-4232-426d-b9eb-61bfd84a25c6
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240903T233000Z
 DTEND:20240904T004500Z
-SUMMARY:T・ジョイ京都 シアター１２ 
+SUMMARY:[-終了] T・ジョイ京都 シアター１２ [応援上映]KIN
+ G OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター１２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
 END:VEVENT
 BEGIN:VEVENT
-UID:f5202315-b9eb-4adf-bf4f-affb58ee05c1
+UID:6dd82e45-8032-45f9-a1de-1dec046c0275
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240904T061000Z
 DTEND:20240904T072500Z
-SUMMARY:T・ジョイ京都 シアター６ 
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター６ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
 END:VEVENT
 BEGIN:VEVENT
-UID:9d05fd12-c7d4-4d5c-9a0c-f8b6b9d46e47
+UID:0c439aca-637a-4f41-830b-a96420abe274
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240904T101000Z
 DTEND:20240904T112500Z
-SUMMARY:T・ジョイ京都 シアター１２ 
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１２ [応援
+ 上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター１２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
 END:VEVENT
 BEGIN:VEVENT
-UID:fb836291-7bf9-4a66-88c1-58492c3b7e76
+UID:0a67edb2-65d3-4d13-8ba6-656ed4eaf1b5
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240905T083000Z
 DTEND:20240905T094500Z
-SUMMARY:T・ジョイ京都 シアター２ 
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター２ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
 END:VEVENT
 BEGIN:VEVENT
-UID:8a71fc94-dcaa-4b04-b4fe-8ff65ae8355f
+UID:6d430ead-9a78-4f47-b387-b0eab83666b0
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240904T233000Z
 DTEND:20240905T004500Z
-SUMMARY:T・ジョイ京都 シアター１２ 
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１２ [応援
+ 上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター１２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
 END:VEVENT
 BEGIN:VEVENT
-UID:ce2bb373-83a3-43c4-bf3f-98494c82b2d7
+UID:52d3811a-2d71-4ac2-80d8-65328183cda5
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240905T061000Z
 DTEND:20240905T072500Z
-SUMMARY:T・ジョイ京都 シアター３ 
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター３ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
 END:VEVENT
 BEGIN:VEVENT
-UID:854c9c20-845e-45cf-a492-b904eb6a3326
+UID:7510e716-eff4-4e98-bcb5-55f4eb0a7e1c
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240905T101000Z
 DTEND:20240905T112500Z
-SUMMARY:T・ジョイ京都 シアター１２ 
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１２ [応援
+ 上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター１２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
 END:VEVENT
 BEGIN:VEVENT
-UID:94e2bf67-4400-4945-a5a4-c37e26b4c714
+UID:21cd59db-19bd-4add-8c94-4e92f334fd2e
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240906T010500Z
 DTEND:20240906T022000Z
-SUMMARY:T・ジョイ京都 シアター１ 
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター１
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
 END:VEVENT
 BEGIN:VEVENT
-UID:52dd5ea3-e501-43ae-88aa-8509ac20ccb5
+UID:26aa4232-0451-4f18-bb21-9d928b4a2d5a
 SEQUENCE:0
-DTSTAMP:20240904T031219Z
+DTSTAMP:20240904T041308Z
 DTSTART:20240906T074500Z
 DTEND:20240906T090000Z
-SUMMARY:T・ジョイ京都 シアター１ 
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:173b56f9-7ce4-4142-bd3b-dc6e477c77d5
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240907T010500Z
+DTEND:20240907T022000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:598149c3-793b-4627-9160-809461a08b14
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240907T103500Z
+DTEND:20240907T115000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１０ [応援
+ 上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１０
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba07739-531b-4de1-95ba-767e41c53fb5
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240908T030000Z
+DTEND:20240908T045500Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ 【Over The
+  Rainbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:624ab7ff-beda-417a-9c9c-dc0761c96720
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240908T052000Z
+DTEND:20240908T070500Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ 【Over The
+  Rainbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:ee88e7ba-e69c-44cd-9e27-5bf8b4d18a10
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240908T103500Z
+DTEND:20240908T115000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:11ecf845-b356-4a40-95ac-dff26118c804
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240909T010500Z
+DTEND:20240909T022000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:e1189ee1-b88a-45e2-9925-5b9a85e41882
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240909T074500Z
+DTEND:20240909T090000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:11e39c71-516b-4aa1-91e2-8cc03eda93bf
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240910T010500Z
+DTEND:20240910T022000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:ebae75ff-375e-4a45-b21b-1923013af9a7
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240910T074500Z
+DTEND:20240910T090000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:08a72679-32fc-43fb-84f9-4f26a30ef489
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240911T010500Z
+DTEND:20240911T022000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:aa1f3f49-2b28-429b-9797-0b76550e01d3
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240911T074500Z
+DTEND:20240911T090000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:25b77f13-a342-439d-b030-840ff6d8b01e
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240912T010500Z
+DTEND:20240912T022000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
+ ール: https://tjoy.jp/t-joy_kyoto
+URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto
+END:VEVENT
+BEGIN:VEVENT
+UID:ca36dfda-55c2-48a0-bb07-2c529f029da4
+SEQUENCE:0
+DTSTAMP:20240904T041308Z
+DTSTART:20240912T074500Z
+DTEND:20240912T090000Z
+SUMMARY:[-販売対象外] T・ジョイ京都 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター１
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_kyoto

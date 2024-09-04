@@ -6,120 +6,130 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:5cfdf5c8-1afa-4558-8ed5-d685d59256dd
+UID:6d69af4b-4f7f-4b51-8468-f6d4d0f63fa6
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240904T103000Z
 DTEND:20240904T114000Z
-SUMMARY:T・ジョイ長岡 シアター５ 
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
 END:VEVENT
 BEGIN:VEVENT
-UID:2b03d301-bef1-4643-b903-5d9d0501404b
+UID:9559f435-af27-4478-8c3b-3136a594ab4a
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240905T103000Z
 DTEND:20240905T114000Z
-SUMMARY:T・ジョイ長岡 シアター５ 
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
 END:VEVENT
 BEGIN:VEVENT
-UID:98bcb42c-d247-4350-9f90-6ff89314a00e
+UID:6bcdfe10-39fb-4117-b081-7b0912ed98ae
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240906T074500Z
 DTEND:20240906T085500Z
-SUMMARY:T・ジョイ長岡 シアター２ 
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
 END:VEVENT
 BEGIN:VEVENT
-UID:c55a8a93-807b-417e-b2b0-05264fb398bf
+UID:60831441-fdab-4836-b418-564aecba2fc4
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240907T103000Z
 DTEND:20240907T114000Z
-SUMMARY:T・ジョイ長岡 シアター８ 
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
 END:VEVENT
 BEGIN:VEVENT
-UID:a6a7b5e1-26c0-4457-b94e-8c07d43c24cf
+UID:d55fcbbe-0e98-4612-bbae-94d0c9cc7e6e
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240908T030000Z
 DTEND:20240908T045500Z
-SUMMARY:T・ジョイ長岡 シアター５ 
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター５ 【Over The
+  Rainbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
 END:VEVENT
 BEGIN:VEVENT
-UID:f8358e18-1e92-467f-b810-4ffdd4889c8b
+UID:8afc2c62-1926-4f7e-a33f-19e401f274a7
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240908T052000Z
 DTEND:20240908T070100Z
-SUMMARY:T・ジョイ長岡 シアター５ 
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター５ 【Over The
+  Rainbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
 END:VEVENT
 BEGIN:VEVENT
-UID:46694467-5d5d-4ed8-a4c9-5c3ebdc24cb3
+UID:40ca8188-e326-4e40-ac7c-fbefbf69fa91
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240909T074500Z
 DTEND:20240909T085500Z
-SUMMARY:T・ジョイ長岡 シアター２ 
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
 END:VEVENT
 BEGIN:VEVENT
-UID:f132e9fc-b5cb-43c4-924b-e8caad92a639
+UID:eb0c22ba-0ad2-4a08-b692-2587f095933d
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240910T074500Z
 DTEND:20240910T085500Z
-SUMMARY:T・ジョイ長岡 シアター２ 
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
 END:VEVENT
 BEGIN:VEVENT
-UID:e37349ba-c3cb-44de-88fa-e6745b8f19d0
+UID:27ca5b88-811f-4f14-945d-2851b52ee78d
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240911T074500Z
 DTEND:20240911T085500Z
-SUMMARY:T・ジョイ長岡 シアター２ 
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
 END:VEVENT
 BEGIN:VEVENT
-UID:9d3046e3-7e95-48d4-bd26-05ed92f48f75
+UID:e486db98-b413-4464-8dda-4fe33e143291
 SEQUENCE:0
-DTSTAMP:20240904T020608Z
+DTSTAMP:20240904T041108Z
 DTSTART:20240912T074500Z
 DTEND:20240912T085500Z
-SUMMARY:T・ジョイ長岡 シアター２ 
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/t-joy_nagaoka
