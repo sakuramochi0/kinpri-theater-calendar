@@ -1,4 +1,4 @@
-import { test } from '@playwright/test';
+import { Locator, Page, test } from '@playwright/test';
 
 import { generateICal, saveJSON } from './utils';
 
@@ -26,62 +26,7 @@ test('TOHOシネマズ系列', async ({ page }) => {
     }
 
     for (const theaterHeader of await theaterHeaders.all()) {
-      const schedules: Schedule[] = []
-
-      await theaterHeader.click()
-      const dailyScheduleContainerId = await theaterHeader.evaluate(e => e.dataset.href);
-      const theaterName = await theaterHeader.evaluate(e => e.textContent!.trim())
-      const url = await page.evaluate(() => location.href)
-
-      await page.waitForTimeout(1000)
-
-      const days = await page.locator(`${currentTabId} .schedule-tab-item:not(.is-disabled)`).all()
-      for (const day of days) {
-        await day.click()
-        const movies = page.locator(`#${dailyScheduleContainerId} .schedule-body`)
-        const dailySchedules: Schedule[] = (await movies.evaluateAll(
-          movies => movies.map(
-            movie => {
-              function getStatusSymbol(statusDOM: HTMLParagraphElement): string {
-                const icon = statusDOM.querySelector('i')
-                if (!icon) {
-                  return ''
-                }
-                if (icon.classList.contains('glyphicon-icon_circle')) {
-                  return '○'
-                } else if (icon.classList.contains('glyphicon-icon_circle-double')) {
-                  return '◎'
-                } else {
-                  return ''
-                }
-              }
-
-              const title = movie.querySelector('h6')!.textContent!.trim()
-              const match = movie.querySelector('#scheduleDate')!.textContent!.match(/(\d+)月(\d+)/)!
-              const year = new Date().getFullYear()
-              const date = `${year}/${match[1]}/${match[2]}`
-
-              const screens = [...movie.querySelectorAll('.schedule-body-section-item')]
-              return screens.map(screen => {
-                const screenName = screen.querySelector('.schedule-screen-title')!.textContent!.trim()
-                const shows = [...screen.querySelectorAll('.schedule-item')]
-                return shows.map(show => {
-                  const startString = show.querySelector('.start')!.textContent!.trim()
-                  const endString = show.querySelector('.end')!.textContent!.trim()
-                  console.log(startString, `${date} ${startString} GMT+0900`, new Date(`${date} ${startString} GMT+0900`))
-                  const startTime = new Date(`${date} ${startString} GMT+0900`)
-                  const endTime = new Date(`${date} ${endString} GMT+0900`)
-                  const statusDOM: HTMLParagraphElement = show.querySelector('.status')!
-                  const statusText = statusDOM!.textContent!.trim()
-                  const statusSymbol = getStatusSymbol(statusDOM)
-                  const status = `${statusSymbol}${statusText}`
-                  return { title, screenName, startTime, endTime, status }
-                }).flat()
-              }).flat()
-            }))).flat()
-
-        schedules.push(...dailySchedules)
-      }
+      const { schedules, theaterName, url } = await getTohoCinemasSchedules(theaterHeader, page, currentTabId);
 
       console.log(schedules)
       saveJSON(theaterName, schedules)
@@ -89,3 +34,68 @@ test('TOHOシネマズ系列', async ({ page }) => {
     }
   }
 })
+
+async function getTohoCinemasSchedules(theaterHeader: Locator, page: Page, currentTabId: string) {
+  const schedules: Schedule[] = []
+
+  await theaterHeader.click()
+  const dailyScheduleContainerId = await theaterHeader.evaluate(e => e.dataset.href);
+  const theaterName = await theaterHeader.evaluate(e => e.textContent!.trim())
+  const url = await page.evaluate(() => location.href)
+
+  await page.waitForTimeout(1000)
+
+  const days = await page.locator(`${currentTabId} .schedule-tab-item:not(.is-disabled)`).all()
+  for (const day of days) {
+    await day.click()
+    const dailySchedules = await getTohoCinemasDailySchedules(page, dailyScheduleContainerId);
+
+    schedules.push(...dailySchedules)
+  }
+  return { schedules, theaterName, url };
+}
+
+async function getTohoCinemasDailySchedules(page: Page, dailyScheduleContainerId: string | undefined) {
+  const movies = page.locator(`#${dailyScheduleContainerId} .schedule-body`)
+  const dailySchedules: Schedule[] = (await movies.evaluateAll(
+    movies => movies.map(
+      movie => {
+        function getStatusSymbol(statusDOM: HTMLParagraphElement): string {
+          const icon = statusDOM.querySelector('i')
+          if (!icon) {
+            return ''
+          }
+          if (icon.classList.contains('glyphicon-icon_circle')) {
+            return '○'
+          } else if (icon.classList.contains('glyphicon-icon_circle-double')) {
+            return '◎'
+          } else {
+            return ''
+          }
+        }
+
+        const title = movie.querySelector('h6')!.textContent!.trim()
+        const match = movie.querySelector('#scheduleDate')!.textContent!.match(/(\d+)月(\d+)/)!
+        const year = new Date().getFullYear()
+        const date = `${year}/${match[1]}/${match[2]}`
+
+        const screens = [...movie.querySelectorAll('.schedule-body-section-item')]
+        return screens.map(screen => {
+          const screenName = screen.querySelector('.schedule-screen-title')!.textContent!.trim()
+          const shows = [...screen.querySelectorAll('.schedule-item')]
+          return shows.map(show => {
+            const startString = show.querySelector('.start')!.textContent!.trim()
+            const endString = show.querySelector('.end')!.textContent!.trim()
+            console.log(startString, `${date} ${startString} GMT+0900`, new Date(`${date} ${startString} GMT+0900`))
+            const startTime = new Date(`${date} ${startString} GMT+0900`)
+            const endTime = new Date(`${date} ${endString} GMT+0900`)
+            const statusDOM: HTMLParagraphElement = show.querySelector('.status')!
+            const statusText = statusDOM!.textContent!.trim()
+            const statusSymbol = getStatusSymbol(statusDOM)
+            const status = `${statusSymbol}${statusText}`
+            return { title, screenName, startTime, endTime, status }
+          }).flat()
+        }).flat()
+      }))).flat()
+  return dailySchedules;
+}
