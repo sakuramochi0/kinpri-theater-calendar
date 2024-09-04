@@ -1,6 +1,6 @@
 import { Page } from '@playwright/test';
 import { Schedule } from './types';
-import { generateICal, isValidDate, saveJSON } from './utils';
+import { isValidDate } from './utils';
 
 export async function getTjoySchedules(page: Page, url: string, theaterName: string) {
   await page.goto(url)
