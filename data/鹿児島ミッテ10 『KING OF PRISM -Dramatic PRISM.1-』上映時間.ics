@@ -6,156 +6,169 @@ NAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
 BEGIN:VEVENT
-UID:bb78daf2-4cfc-45b7-96c6-182e77baac44
+UID:baa5b560-ebc6-45ea-a030-212256c77a98
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240903T235000Z
 DTEND:20240904T011000Z
-SUMMARY:鹿児島ミッテ10 シアター３ 
+SUMMARY:[-終了] 鹿児島ミッテ10 シアター３ [通常上映]KING 
+ OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:bc56a3f1-6a7a-42cc-9064-7c061f7ee0bf
+UID:545ea659-173d-43a0-bcd9-f7c87e7c07c4
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240904T083000Z
 DTEND:20240904T095000Z
-SUMMARY:鹿児島ミッテ10 シアター８ 
+SUMMARY:[◎予約/購入] 鹿児島ミッテ10 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:d602da98-8614-478b-bc94-cdc5fdbbeb40
+UID:5380e07b-1d8e-4a21-8b10-d4b4ba081acd
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240904T235000Z
 DTEND:20240905T011000Z
-SUMMARY:鹿児島ミッテ10 シアター３ 
+SUMMARY:[◎予約/購入] 鹿児島ミッテ10 シアター３ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:196fec19-cc1e-455a-bcdf-a3b04eb1ac0b
+UID:cdde308a-9098-47c8-9374-cd76230b9109
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240905T083000Z
 DTEND:20240905T095000Z
-SUMMARY:鹿児島ミッテ10 シアター８ 
+SUMMARY:[◎予約/購入] 鹿児島ミッテ10 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:3c71a2b5-4c72-48e6-8a60-bacf2b8898e9
+UID:dc301f90-dff4-4c77-8683-91a7f0fb9fcf
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240906T084500Z
 DTEND:20240906T100500Z
-SUMMARY:鹿児島ミッテ10 シアター８ 
+SUMMARY:[◎予約/購入] 鹿児島ミッテ10 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:2065b478-d79c-4473-904b-d6fb216bdf37
+UID:9f502652-86d7-4bcf-8749-a8dc9a80460b
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240907T084500Z
 DTEND:20240907T100500Z
-SUMMARY:鹿児島ミッテ10 シアター８ 
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター８ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:4edb82ac-1f8e-46c1-8398-75fc8389b23b
+UID:77a96e77-d787-4bb7-8f78-892f5932467b
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240908T030000Z
 DTEND:20240908T045500Z
-SUMMARY:鹿児島ミッテ10 シアター２ 
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター２ 【Over Th
+ e Rainbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:71f195b8-9749-4b31-bff3-600f18783f4c
+UID:4f37f670-4279-42d6-94c4-b2ac4b75da95
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240908T052000Z
 DTEND:20240908T072000Z
-SUMMARY:鹿児島ミッテ10 シアター２ 
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター２ 【Over Th
+ e Rainbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:f760e79e-7235-4e5c-a8ce-0ac0f92f9552
+UID:365a9ba0-38a4-487c-95a8-a02150eaec20
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240908T084500Z
 DTEND:20240908T100500Z
-SUMMARY:鹿児島ミッテ10 シアター８ 
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:d69f86be-c9ac-403e-a01e-c17ffb46392a
+UID:363585fa-cd80-4a8b-98ab-fda8ca114393
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240909T084500Z
 DTEND:20240909T100500Z
-SUMMARY:鹿児島ミッテ10 シアター８ 
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター８ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:e987143c-5a7c-4ecc-bb0b-db08f134b88b
+UID:fa5e14b2-77cf-459e-9014-dc26825f761f
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240910T084500Z
 DTEND:20240910T100500Z
-SUMMARY:鹿児島ミッテ10 シアター８ 
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:19317f24-dcd7-4295-b8b8-71b87463275a
+UID:ca07ff06-4de3-4226-994d-0810ae84ae92
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240911T084500Z
 DTEND:20240911T100500Z
-SUMMARY:鹿児島ミッテ10 シアター８ 
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター８ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:cdd596b1-8c3e-4f75-b0fe-9c122707f621
+UID:2dbe4d04-60a4-4ed3-a8f2-8429eb490e48
 SEQUENCE:0
-DTSTAMP:20240904T031447Z
+DTSTAMP:20240904T042357Z
 DTSTART:20240912T084500Z
 DTEND:20240912T100500Z
-SUMMARY:鹿児島ミッテ10 シアター８ 
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://tjoy.jp/kagoshima_mitte10
