@@ -1,15 +1,5 @@
 [
   {
-    "screenName": "4screen",
-    "startTime": "2024-09-03T05:25:00.000Z",
-    "endTime": "2024-09-03T06:42:00.000Z"
-  },
-  {
-    "screenName": "7screen",
-    "startTime": "2024-09-03T10:15:00.000Z",
-    "endTime": "2024-09-03T11:35:00.000Z"
-  },
-  {
     "screenName": "7screen",
     "startTime": "2024-09-04T10:15:00.000Z",
     "endTime": "2024-09-04T11:32:00.000Z"
