@@ -7,9 +7,12 @@ import type { Theater } from './types';
 
 test('ティ・ジョイ系列', async ({ page, browser }) => {
   await page.goto('https://tjoy.jp/')
-  const theaters: Theater[] = (await page.locator('.theater-list-info a').evaluateAll(
-    links => links.map((a: HTMLLinkElement) => ({ name: a.innerHTML.replace(/<.+/g, '').trim(), url: a.href }))
-  ))
+  const theaters: Theater[] = await page.locator('.theater-list-info a')
+    .evaluateAll(
+      links => links.map(
+        (a: HTMLLinkElement) => ({ name: a.innerHTML.replace(/<.+/g, '').trim(), url: a.href })
+      )
+    )
 
   for (const { name, url } of theaters) {
     const newPage = await browser.newPage()
