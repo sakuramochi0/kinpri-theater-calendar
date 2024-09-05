@@ -6,12 +6,14 @@ NAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:a35a662e-39eb-45c6-ac37-6d6e3de6ce57
+UID:2314b57f-ba44-4699-8cbb-d2ec10850ad7
 SEQUENCE:0
-DTSTAMP:20240905T020839Z
+DTSTAMP:20240905T030206Z
 DTSTART:20240908T030000Z
 DTEND:20240908T045500Z
-SUMMARY:ユナイテッド・シネマ旭川 4screen 
+SUMMARY:[販売期間外] ユナイテッド・シネマ旭川 4screen 『
+ KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
+ イブビューイング
 LOCATION:ユナイテッド・シネマ旭川 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=11512&from=f
@@ -20,12 +22,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b05a3351-68ca-40a2-b7da-96d0579521d8
+UID:51db8f28-f05c-447d-8bab-f79ad55ddc70
 SEQUENCE:0
-DTSTAMP:20240905T020839Z
+DTSTAMP:20240905T030206Z
 DTSTART:20240908T052000Z
 DTEND:20240908T070500Z
-SUMMARY:ユナイテッド・シネマ旭川 4screen 
+SUMMARY:[販売期間外] ユナイテッド・シネマ旭川 4screen 『
+ KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
+ イブビューイング
 LOCATION:ユナイテッド・シネマ旭川 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
  ール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=11512&from=f
