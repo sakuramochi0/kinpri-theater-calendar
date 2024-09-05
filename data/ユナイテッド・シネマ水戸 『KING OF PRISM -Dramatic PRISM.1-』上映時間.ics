@@ -6,9 +6,9 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:cc0f586d-b8a6-492c-8fba-8d62a3556285
+UID:e6b605a8-02a3-4aaf-ada8-2e647a0e8294
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240904T232500Z
 DTEND:20240905T004200Z
 SUMMARY:[販売対象外] ユナイテッド・シネマ水戸 6screen KIN
@@ -22,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ad176bb8-a287-411f-bcbe-cf479e839576
+UID:076c5e49-7a3b-4ea6-8569-480778b737f5
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240905T064500Z
 DTEND:20240905T080500Z
 SUMMARY:[販売対象外] ユナイテッド・シネマ水戸 1screen プ
@@ -38,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:834299cc-89bf-43fa-bfc7-248e39a0e134
+UID:11773411-ce1d-4cf4-9b4a-6bb4db238ccf
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240906T091000Z
 DTEND:20240906T103000Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -54,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:bf653eed-6db2-44b5-8df0-58417ab0257b
+UID:3762740c-434c-4cbd-ae60-38a832edd490
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240907T091000Z
 DTEND:20240907T103000Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -70,14 +70,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:323d0a8a-b5cd-461f-8cc6-f5bc136f50e5
+UID:f0b425c4-0b51-401b-9214-25040e5813cb
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240908T030000Z
 DTEND:20240908T045500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 4screen 『
- KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
- イブビューイング
+SUMMARY:[○] ユナイテッド・シネマ水戸 4screen 『KING OF PRIS
+ M -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ライブビュ
+ ーイング
 LOCATION:ユナイテッド・シネマ水戸 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
@@ -87,14 +87,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d02c0175-1bc7-4332-a1fa-6f49bb5362fc
+UID:4a37fd13-9285-4c2a-9e9b-4c21a7a74fe6
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240908T052000Z
 DTEND:20240908T071500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 4screen 『
- KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
- イブビューイング
+SUMMARY:[○] ユナイテッド・シネマ水戸 4screen 『KING OF PRIS
+ M -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ライブビュ
+ ーイング
 LOCATION:ユナイテッド・シネマ水戸 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
@@ -104,9 +104,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e57ee112-a89a-4ed7-b081-5e02cdf2cf33
+UID:63c8c26c-0f87-4edf-bc7e-ec30f55b3e06
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240909T091000Z
 DTEND:20240909T103000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
@@ -120,9 +120,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b9e1e2ea-536c-4840-bb07-a4af7e62eacb
+UID:c2cd36a6-4f73-43c6-80a1-8b9dc196f1f5
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240910T091000Z
 DTEND:20240910T103000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
@@ -136,9 +136,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:783e0c51-72b3-4e90-be3e-0683770c993f
+UID:1c661320-3f9e-4ca0-955b-4c0732ba2c37
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240911T091000Z
 DTEND:20240911T103000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
@@ -152,9 +152,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3db242cf-4018-4438-a218-4adfbf202639
+UID:43aec2d8-48ef-4a6c-b0a8-01d5df48217e
 SEQUENCE:0
-DTSTAMP:20240905T101021Z
+DTSTAMP:20240905T170855Z
 DTSTART:20240912T091000Z
 DTEND:20240912T103000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
