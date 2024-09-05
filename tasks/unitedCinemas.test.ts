@@ -55,10 +55,10 @@ export async function getUnitedCinemasSchedules(page: Page, url: string) {
         return screens.map(screen => {
           const screenName = screen.querySelector('.screenNumber img')!.getAttribute('alt') ?? ''
           let shows = [...screen.querySelectorAll('ol ol')];
-          return shows.map(e => {
+          return shows.map(show => {
             const year = new Date().getFullYear()
-            const startTimeString = e.querySelector('.startTime')!.textContent
-            const endTimeString = e.querySelector('.endTime')!.textContent!.replace('～', '')
+            const startTimeString = show.querySelector('.startTime')!.textContent
+            const endTimeString = show.querySelector('.endTime')!.textContent!.replace('～', '')
             const startTime = new Date(`${year} ${dateString} ${startTimeString} GMT+0900`)
             const endTime = new Date(`${year} ${dateString} ${endTimeString} GMT+0900`)
             return { screenName, startTime, endTime }
