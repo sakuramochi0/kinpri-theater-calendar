@@ -51,20 +51,31 @@ export async function getUnitedCinemasSchedules(page: Page, url: string) {
     dailySchedules => dailySchedules.map(
       dailySchedule => {
         const dateString = dailySchedule.querySelector('#topHead a')!.textContent
-        const screens = [...dailySchedule.querySelectorAll('.tl > li')]
-        return screens.map(screen => {
-          const screenName = screen.querySelector('.screenNumber img')?.getAttribute('alt') ?? ''
-          let shows = [...screen.querySelectorAll('ol ol')];
-          return shows.map(show => {
-            const year = new Date().getFullYear()
-            const startTimeString = show.querySelector('.startTime')?.textContent
-            const endTimeString = show.querySelector('.endTime')?.textContent?.replace('～', '') ?? ''
-            const startTime = new Date(`${year} ${dateString} ${startTimeString} GMT+0900`)
-            const endTime = new Date(`${year} ${dateString} ${endTimeString} GMT+0900`)
-            return { screenName, startTime, endTime }
+        const movies = [...dailySchedule.querySelectorAll('#dailyList > li')]
+        return movies.map(movie => {
+          const title = movie.querySelector('h4')?.textContent?.trim() ?? ''
+          const screens = [...movie.querySelectorAll('.tl > li')]
+          return screens.map(screen => {
+            const screenName = screen.querySelector('.screenNumber img')?.getAttribute('alt') ?? ''
+            let shows = [...screen.querySelectorAll('ol > li > div')];
+            return shows.map(show => {
+              const year = new Date().getFullYear()
+              const startTimeString = show.querySelector('.startTime')?.textContent
+              const endTimeString = show.querySelector('.endTime')?.textContent?.replace('～', '') ?? ''
+              const startTime = new Date(`${year} ${dateString} ${startTimeString} GMT+0900`)
+              const endTime = new Date(`${year} ${dateString} ${endTimeString} GMT+0900`)
+              console.log('times:', startTimeString, startTime, endTimeString, endTime)
+
+              const statusText = show.querySelector('.scheduleIcon')
+                  ?.getAttribute('alt')
+                  ?.replace('[', '').replace(']', '')
+                ?? ''
+              const status = statusText === '□' ? '販売対象外' : statusText
+              return { title, screenName, startTime, endTime, status }
+            })
           })
         })
-      }))).flat(2)
+      }))).flat(3)
 
   return { schedules, movieLink }
 }
