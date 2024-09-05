@@ -6,34 +6,36 @@ NAME:TOHOシネマズ 西宮ＯＳ 『KING OF PRISM -Dramatic PRISM.1-』
 X-WR-CALNAME:TOHOシネマズ 西宮ＯＳ 『KING OF PRISM -Dramatic PRIS
  M.1-』上映時間
 BEGIN:VEVENT
-UID:2337f003-5059-485a-b20a-b9f7e1bf2536
+UID:57d8fad9-9c76-45e6-8f28-2688170d2d5d
 SEQUENCE:0
-DTSTAMP:20240905T051006Z
+DTSTAMP:20240905T061332Z
 DTSTART:20240908T030000Z
 DTEND:20240908T045000Z
 SUMMARY:[販売期間外] TOHOシネマズ 西宮ＯＳ SCREEN10 ＫＩＮ
  Ｇ　ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩ
  ＳＭ．１－（舞台挨拶中継・発声ＯＫ）
 LOCATION:TOHOシネマズ 西宮ＯＳ SCREEN10
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_cd=024
- 262
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
 URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:5bf18742-a9df-442f-9574-ea12886b10f8
+UID:3641ea95-87df-4ebd-a27a-e22a7b17b1d3
 SEQUENCE:0
-DTSTAMP:20240905T051006Z
+DTSTAMP:20240905T061332Z
 DTSTART:20240908T052000Z
 DTEND:20240908T065000Z
 SUMMARY:[販売期間外] TOHOシネマズ 西宮ＯＳ SCREEN10 ＫＩＮ
  Ｇ　ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩ
  ＳＭ．１－（舞台挨拶中継・発声ＯＫ）
 LOCATION:TOHOシネマズ 西宮ＯＳ SCREEN10
-DESCRIPTION:プリズムの煌めきをあなたに✨\n上映スケジュ
- ール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_cd=024
- 262
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
 URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
