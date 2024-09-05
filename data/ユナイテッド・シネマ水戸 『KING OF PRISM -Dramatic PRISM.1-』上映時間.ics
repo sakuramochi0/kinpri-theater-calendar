@@ -6,41 +6,9 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:96992dad-43b0-4367-94f8-37ba7d160215
+UID:82cec439-3e69-4434-9078-0d02f416449b
 SEQUENCE:0
-DTSTAMP:20240905T190809Z
-DTSTART:20240904T232500Z
-DTEND:20240905T004200Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ水戸 6screen KIN
- G OF PRISM -Dramatic PRISM.1-
-LOCATION:ユナイテッド・シネマ水戸 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:43351ac7-1230-46af-8037-ec1e848d6ca3
-SEQUENCE:0
-DTSTAMP:20240905T190809Z
-DTSTART:20240905T064500Z
-DTEND:20240905T080500Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ水戸 1screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ水戸 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:817ba04c-cb05-4475-ba17-b97d0b0876b9
-SEQUENCE:0
-DTSTAMP:20240905T190809Z
+DTSTAMP:20240905T211128Z
 DTSTART:20240906T091000Z
 DTEND:20240906T103000Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -54,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5114e9cc-6295-49c7-b7c5-678277bf67d4
+UID:6bab38cd-24d4-4cf3-a081-d31cd3da532a
 SEQUENCE:0
-DTSTAMP:20240905T190809Z
+DTSTAMP:20240905T211128Z
 DTSTART:20240907T091000Z
 DTEND:20240907T103000Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -70,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f1a3c2cd-a4ad-4538-9619-eb3d84de2dac
+UID:ef9f0f3c-4247-48a1-a367-a2ffb619a039
 SEQUENCE:0
-DTSTAMP:20240905T190809Z
+DTSTAMP:20240905T211128Z
 DTSTART:20240908T030000Z
 DTEND:20240908T045500Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 4screen 『KING OF PRIS
@@ -87,9 +55,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:47a75474-dc2c-411f-a031-ff9a21e6eb33
+UID:f55bd86a-94b5-4ab9-afba-844469ab1dfa
 SEQUENCE:0
-DTSTAMP:20240905T190809Z
+DTSTAMP:20240905T211128Z
 DTSTART:20240908T052000Z
 DTEND:20240908T071500Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 4screen 『KING OF PRIS
@@ -104,9 +72,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7a892e78-7bbd-4890-9463-9e604d33dae2
+UID:ce990003-83e9-4f6e-9998-e6a8290e697a
 SEQUENCE:0
-DTSTAMP:20240905T190809Z
+DTSTAMP:20240905T211128Z
 DTSTART:20240909T091000Z
 DTEND:20240909T103000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
@@ -120,9 +88,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:eb1dd4f4-7eec-4d05-87e3-7d9de190eab1
+UID:c6a7b129-a900-44b0-8bc8-e8607a364887
 SEQUENCE:0
-DTSTAMP:20240905T190809Z
+DTSTAMP:20240905T211128Z
 DTSTART:20240910T091000Z
 DTEND:20240910T103000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
@@ -136,9 +104,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:db86c8a0-05cb-41dd-8447-559869c46263
+UID:f5e4f701-7435-483a-8790-054dff74450b
 SEQUENCE:0
-DTSTAMP:20240905T190809Z
+DTSTAMP:20240905T211128Z
 DTSTART:20240911T091000Z
 DTEND:20240911T103000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
@@ -152,9 +120,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d56bcc7f-6726-4bf0-af10-ca356ce681f3
+UID:699651a2-6b00-4d9b-85c0-18e4932a7916
 SEQUENCE:0
-DTSTAMP:20240905T190809Z
+DTSTAMP:20240905T211128Z
 DTSTART:20240912T091000Z
 DTEND:20240912T103000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
