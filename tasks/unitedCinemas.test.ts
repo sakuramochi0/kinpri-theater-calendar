@@ -46,7 +46,7 @@ export async function getUnitedCinemasSchedules(page: Page, url: string) {
   const movieLink: string = await link.evaluate<any, HTMLLinkElement>(a => a.href)
   await page.goto(movieLink)
 
-  const dailySchedules = await page.locator('[id="dailySchedule"]')
+  const dailySchedules = page.locator('[id="dailySchedule"]')
   const schedules: Schedule[] = (await dailySchedules.evaluateAll(
     dailySchedules => dailySchedules.map(
       dailySchedule => {
