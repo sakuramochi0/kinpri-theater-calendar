@@ -1,4 +1,4 @@
-import { expect, test } from '@playwright/test';
+import { expect, Page, test } from '@playwright/test';
 
 import { generateICal, saveJSON } from './utils';
 
@@ -20,8 +20,25 @@ test('イオンシネマ系列', async ({ page }) => {
     name: theaterLink.textContent,
     url: theaterLink.href,
   })))
-  for (const theater of theaters.slice(0, 1)) { // TODO: support other theaters
+
+  async function checkNewWebsiteDesign(page: Page) {
+    try {
+      await page.locator('#smart-portal-schedules').waitFor({ state: 'visible', timeout: 1000 })
+      return true
+    } catch {
+      return false
+    }
+  }
+
+  for (const theater of theaters) {
     await page.goto(theater.url)
+
+    const isNewWebsiteDesign = await checkNewWebsiteDesign(page)
+    if (isNewWebsiteDesign) {
+      console.warn('new design website is not supported')
+      // TODO: implement
+      continue
+    }
 
     const schedules: Schedule[] = []
 
