@@ -75,7 +75,7 @@ async function getTheaterSchedules(page: Page, theater: Theater) {
 
 async function checkNewWebsiteDesign(page: Page) {
   try {
-    await page.locator('#smart-portal-schedules').waitFor({ state: 'visible', timeout: 1000 })
+    await page.locator('#smart-portal-schedules').waitFor({ state: 'visible', timeout: 3000 })
     return true
   } catch {
     return false
