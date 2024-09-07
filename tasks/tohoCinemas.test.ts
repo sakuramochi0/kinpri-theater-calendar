@@ -5,7 +5,7 @@ import { generateICal, rootLogger, saveJSON } from './utils';
 import type { Schedule, Theater } from './types';
 
 test('TOHOシネマズ系列', async ({ page }) => {
-  const seriesLogger = rootLogger.child({'series': 'イオンシネマ'})
+  const seriesLogger = rootLogger.child({'series': 'TOHOシネマズ'})
 
   const moviesListPageURL = 'https://hlo.tohotheater.jp/net/movie/TNPI3090J01.do'
   await page.goto(moviesListPageURL)
