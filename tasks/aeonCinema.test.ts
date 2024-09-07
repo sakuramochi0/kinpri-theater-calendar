@@ -51,17 +51,7 @@ async function getTheaterSchedules(page: Page, theater: Theater, logger: Logger)
   const schedules: Schedule[] = []
 
   const year = new Date().getFullYear()
-  logger.debug('start .today')
-  const today = page.locator('.today')
-  logger.debug(`today locator: ${today}`)
-  logger.debug(`today locator .count(): ${await today.count()}`)
-  try {
-    await today.waitFor({ timeout: 3000, state: 'visible' })
-  } catch (e) {
-    logger.debug({ 'msg': 'timeout', 'error': e })
-    return null
-  }
-  const [monthString, dayString] = (await page.locator('.today').textContent())!.match(/\d+/g)
+  const [monthString, dayString] = (await page.locator('.now span').first().textContent())!.match(/\d+/g)
   const dateString = `${year}/${monthString}/${dayString}`
 
   await expect(page.locator('.movielist').last()).toBeVisible()
@@ -71,7 +61,7 @@ async function getTheaterSchedules(page: Page, theater: Theater, logger: Logger)
     const shows = (await movie.locator('.timetbl > div').all()).slice(1, -1)
     for (const show of shows) {
       const timeString = await show.locator('.time').first().textContent()
-      const [startHour, startMinute, endHour, endMinute] = timeString.match(/\d+/g)
+      const [startHour, startMinute, endHour, endMinute] = timeString!.match(/\d+/g)
       const startTime = new Date(`${dateString} ${startHour}:${startMinute}`)
       const endTime = new Date(`${dateString} ${endHour}:${endMinute}`)
       const screenName = (await show.locator('.screen').first().textContent())?.trim() ?? ''
