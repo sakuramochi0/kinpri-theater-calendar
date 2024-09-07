@@ -51,10 +51,10 @@ async function getTheaterSchedules(page: Page, theater: Theater, logger: Logger)
   const schedules: Schedule[] = []
 
   const year = new Date().getFullYear()
-  logger.info('start .today')
+  logger.debug('start .today')
   const today = page.locator('.today')
-  logger.info('today locator:', today)
-  logger.info('today locator .count():', today.count())
+  logger.debug(`today locator: ${today}`)
+  logger.debug(`today locator .count(): ${await today.count()}`)
   await today.waitFor({ timeout: 1000, state: 'visible' })
   const [monthString, dayString] = (await page.locator('.today').textContent())!.match(/\d+/g)
   const dateString = `${year}/${monthString}/${dayString}`
