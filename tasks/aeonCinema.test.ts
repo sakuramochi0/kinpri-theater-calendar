@@ -20,8 +20,8 @@ test('イオンシネマ系列', async ({ page }) => {
   await expect(theaterList).toBeVisible()
 
   const theaters: Theater[] = await theaterList.locator('a').evaluateAll(links => links.map(theaterLink => ({
-    name: theaterLink.textContent,
-    url: theaterLink.href,
+    name: theaterLink.textContent!,
+    url: theaterLink.href!,
   })))
   seriesLogger.info(`found ${theaters.length} theaters`)
 
