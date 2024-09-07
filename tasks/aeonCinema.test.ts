@@ -3,9 +3,10 @@ import { expect, Page, test } from '@playwright/test';
 import { generateICal, rootLogger, saveJSON } from './utils';
 
 import { Schedule, Theater } from './types';
+import { Logger } from 'pino';
 
 test('イオンシネマ系列', async ({ page }) => {
-  const seriesLogger = rootLogger.child({'series': 'イオンシネマ'})
+  const seriesLogger = rootLogger.child({ 'series': 'イオンシネマ' })
 
   await page.goto('https://www.aeoncinema.com/')
   await page.getByRole('link', { name: /作品案内/ }).first().click()
@@ -25,8 +26,8 @@ test('イオンシネマ系列', async ({ page }) => {
   seriesLogger.info(`found ${theaters.length} theaters`)
 
   for (const theater of theaters) {
-    const theaterLogger = seriesLogger.child({theater: theater.name})
-    const schedules = await getTheaterSchedules(page, theater)
+    const theaterLogger = seriesLogger.child({ theater: theater.name })
+    const schedules = await getTheaterSchedules(page, theater, theaterLogger)
     if (schedules == null) {
       theaterLogger.warn('new design website is not supported yet')
       continue
@@ -38,7 +39,7 @@ test('イオンシネマ系列', async ({ page }) => {
   }
 })
 
-async function getTheaterSchedules(page: Page, theater: Theater) {
+async function getTheaterSchedules(page: Page, theater: Theater, logger: Logger) {
   await page.goto(theater.url)
 
   const isNewWebsiteDesign = await checkNewWebsiteDesign(page)
@@ -50,6 +51,11 @@ async function getTheaterSchedules(page: Page, theater: Theater) {
   const schedules: Schedule[] = []
 
   const year = new Date().getFullYear()
+  logger.info('start .today')
+  const today = page.locator('.today')
+  logger.info('today locator:', today)
+  logger.info('today locator .count():', today.count())
+  await today.waitFor({ timeout: 1000, state: 'visible' })
   const [monthString, dayString] = (await page.locator('.today').textContent())!.match(/\d+/g)
   const dateString = `${year}/${monthString}/${dayString}`
 
