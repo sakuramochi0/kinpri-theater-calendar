@@ -10,7 +10,6 @@ export function generateICal(theaterName: string, url: string, schedules: Schedu
   const calendar = ical({ name: calendarName });
 
   schedules.forEach(schedule => {
-    console.log(schedule)
     calendar.createEvent({
       start: schedule.startTime,
       end: schedule.endTime,
