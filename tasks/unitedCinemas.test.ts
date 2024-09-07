@@ -15,12 +15,13 @@ test('ユナイテッド・シネマ系列', async ({ page, browser }) => {
     }))
   ))
 
-  for (const { name, url } of theaters) {  // TODO: debug
+  for (const { name, url } of theaters) {
     const theaterLogger = seriesLogger.child({theater: name})
 
     const newPage = await browser.newPage()
     const { schedules, movieLink } = await getUnitedCinemasSchedules(newPage, url)
     if (schedules === null || movieLink === null) {
+      theaterLogger.info('no movie not found')
       continue
     }
 
@@ -44,7 +45,6 @@ export async function getUnitedCinemasSchedules(page: Page, url: string) {
   try {
     await link.waitFor({ timeout: 1000 })
   } catch {
-    console.log('movies not found')
     return { schedules: null, movieLink: null }
   }
   const movieLink: string = await link.evaluate<any, HTMLLinkElement>(a => a.href)
