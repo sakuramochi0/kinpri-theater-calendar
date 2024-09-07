@@ -1,10 +1,12 @@
 import { Page, test } from '@playwright/test';
 
-import { generateICal, saveJSON } from './utils';
+import { generateICal, rootLogger, saveJSON } from './utils';
 
 import { Schedule, Theater } from './types';
 
 test('ユナイテッド・シネマ系列', async ({ page, browser }) => {
+  const seriesLogger = rootLogger.child({'series': 'イオンシネマ'})
+
   await page.goto('https://www.unitedcinemas.jp/index.html', { waitUntil: 'domcontentloaded' })
   const theaters: Theater[] = (await page.locator('#theaterList a').evaluateAll(
     links => links.map(a => ({
@@ -14,13 +16,15 @@ test('ユナイテッド・シネマ系列', async ({ page, browser }) => {
   ))
 
   for (const { name, url } of theaters) {  // TODO: debug
+    const theaterLogger = seriesLogger.child({theater: name})
+
     const newPage = await browser.newPage()
     const { schedules, movieLink } = await getUnitedCinemasSchedules(newPage, url)
     if (schedules === null || movieLink === null) {
       continue
     }
 
-    console.log(schedules)
+    theaterLogger.info(`record ${schedules.length} shows`)
     saveJSON(name, schedules)
     generateICal(name, movieLink, schedules)
 

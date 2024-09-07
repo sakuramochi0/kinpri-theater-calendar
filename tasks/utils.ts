@@ -1,6 +1,9 @@
 import { Schedule } from './types';
 import ical from 'ical-generator';
 import { writeFileSync } from 'node:fs';
+import pino from 'pino';
+
+export const rootLogger = pino()
 
 export function generateICal(theaterName: string, url: string, schedules: Schedule[]) {
   let calendarName = `${theaterName} 『KING OF PRISM -Dramatic PRISM.1-』上映時間`;

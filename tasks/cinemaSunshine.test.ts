@@ -1,13 +1,18 @@
 import { Page, test } from '@playwright/test';
 
-import { generateICal, saveJSON } from './utils';
+import { generateICal, rootLogger, saveJSON } from './utils';
 
-import type { Schedule } from './types';
+import type { Schedule, Theater } from './types';
 
 test('グランドシネマサンシャイン池袋', async ({ page }) => {
-  const theaterName = 'グランドシネマサンシャイン池袋'
-  let url = 'https://www.cinemasunshine.co.jp/theater/gdcs/'
-  await page.goto(url)
+  const seriesLogger = rootLogger.child({'series': 'グランドシネマサンシャイン池袋'})
+
+  const theater: Theater = {
+    name: 'グランドシネマサンシャイン池袋',
+    url: 'https://www.cinemasunshine.co.jp/theater/gdcs/',
+  }
+  await page.goto(theater.url)
+  const theaterLogger = seriesLogger.child({theater: theater.name})
 
   const schedules: Schedule[] = []
   const dayCount = await page.locator('.schedule-swiper__item').count()
@@ -16,9 +21,9 @@ test('グランドシネマサンシャイン池袋', async ({ page }) => {
     schedules.push(...await getCinemaSunshineDailySchedules(page))
   }
 
-  console.log(schedules)
-  saveJSON(theaterName, schedules)
-  generateICal(theaterName, url, schedules)
+  theaterLogger.info(`record ${schedules.length} shows`)
+  saveJSON(theater.name, schedules)
+  generateICal(theater.name, theater.url, schedules)
 });
 
 export async function getCinemaSunshineDailySchedules(page: Page) {

@@ -1,10 +1,12 @@
 import { Page, test } from '@playwright/test';
 
-import { generateICal, isValidDate, saveJSON } from './utils';
+import { generateICal, isValidDate, rootLogger, saveJSON } from './utils';
 
 import { Schedule, Theater } from './types';
 
 test('ティ・ジョイ系列', async ({ page, browser }) => {
+  const seriesLogger = rootLogger.child({'series': 'イオンシネマ'})
+
   await page.goto('https://tjoy.jp/')
   const theaters: Theater[] = await page.locator('.theater-list-info a')
     .evaluateAll(
@@ -14,13 +16,15 @@ test('ティ・ジョイ系列', async ({ page, browser }) => {
     )
 
   for (const { name, url } of theaters) {
+    const theaterLogger = seriesLogger.child({theater: name})
+
     const newPage = await browser.newPage()
     const schedules = await getTjoySchedules(newPage, url, name)
     if (schedules === null) {
       continue
     }
 
-    console.log(name, schedules)
+    theaterLogger.info(`record ${schedules.length} shows`)
     saveJSON(name, schedules)
     generateICal(name, url, schedules)
   }

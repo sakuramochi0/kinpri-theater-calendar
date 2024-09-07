@@ -1,10 +1,12 @@
 import { Locator, Page, test } from '@playwright/test';
 
-import { generateICal, saveJSON } from './utils';
+import { generateICal, rootLogger, saveJSON } from './utils';
 
-import type { Schedule } from './types';
+import type { Schedule, Theater } from './types';
 
 test('TOHOシネマズ系列', async ({ page }) => {
+  const seriesLogger = rootLogger.child({'series': 'イオンシネマ'})
+
   const moviesListPageURL = 'https://hlo.tohotheater.jp/net/movie/TNPI3090J01.do'
   await page.goto(moviesListPageURL)
   const movieLink = page.getByRole('link', { name: /ＫＩＮＧ ＯＦ ＰＲＩＳＭ/ })
@@ -26,11 +28,12 @@ test('TOHOシネマズ系列', async ({ page }) => {
     }
 
     for (const theaterHeader of await theaterHeaders.all()) {
-      const { schedules, theaterName, url } = await getTohoCinemasSchedules(theaterHeader, page, currentTabId);
+      const { schedules, theater } = await getTohoCinemasSchedules(theaterHeader, page, currentTabId);
 
-      console.log(schedules)
-      saveJSON(theaterName, schedules)
-      generateICal(theaterName, url, schedules)
+      const theaterLogger = seriesLogger.child({theater: theater.name})
+      theaterLogger.info(`record ${schedules.length} shows`)
+      saveJSON(theater.name, schedules)
+      generateICal(theater.name, theater.url, schedules)
     }
   }
 })
@@ -40,8 +43,10 @@ async function getTohoCinemasSchedules(theaterHeader: Locator, page: Page, curre
 
   await theaterHeader.click()
   const dailyScheduleContainerId = await theaterHeader.evaluate(e => e.dataset.href);
-  const theaterName = await theaterHeader.evaluate(e => e.textContent!.trim())
-  const url = await page.evaluate(() => location.href)
+  const theater: Theater = {
+    name: await theaterHeader.evaluate(e => e.textContent!.trim()),
+    url: await page.evaluate(() => location.href),
+  }
 
   await page.waitForTimeout(1000)
 
@@ -52,7 +57,7 @@ async function getTohoCinemasSchedules(theaterHeader: Locator, page: Page, curre
 
     schedules.push(...dailySchedules)
   }
-  return { schedules, theaterName, url };
+  return { schedules, theater }
 }
 
 async function getTohoCinemasDailySchedules(page: Page, dailyScheduleContainerId: string | undefined) {

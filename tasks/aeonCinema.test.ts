@@ -1,10 +1,12 @@
 import { expect, Page, test } from '@playwright/test';
 
-import { generateICal, saveJSON } from './utils';
+import { generateICal, rootLogger, saveJSON } from './utils';
 
 import { Schedule, Theater } from './types';
 
 test('イオンシネマ系列', async ({ page }) => {
+  const seriesLogger = rootLogger.child({'series': 'イオンシネマ'})
+
   await page.goto('https://www.aeoncinema.com/')
   await page.getByRole('link', { name: /作品案内/ }).first().click()
 
@@ -20,14 +22,17 @@ test('イオンシネマ系列', async ({ page }) => {
     name: theaterLink.textContent,
     url: theaterLink.href,
   })))
+  seriesLogger.info(`found ${theaters.length} theaters`)
 
   for (const theater of theaters) {
+    const theaterLogger = seriesLogger.child({theater: theater.name})
     const schedules = await getTheaterSchedules(page, theater)
     if (schedules == null) {
+      theaterLogger.warn('new design website is not supported yet')
       continue
     }
 
-    console.log(schedules)
+    theaterLogger.info(`record ${schedules.length} shows`)
     saveJSON(theater.name, schedules)
     generateICal(theater.name, theater.url, schedules)
   }
@@ -38,7 +43,6 @@ async function getTheaterSchedules(page: Page, theater: Theater) {
 
   const isNewWebsiteDesign = await checkNewWebsiteDesign(page)
   if (isNewWebsiteDesign) {
-    console.warn('new design website is not supported')
     // TODO: implement
     return null
   }
