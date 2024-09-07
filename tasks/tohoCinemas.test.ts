@@ -11,7 +11,7 @@ test('TOHOシネマズ系列', async ({ page }) => {
   await page.goto(moviesListPageURL)
   const movieLink = page.getByRole('link', { name: /ＫＩＮＧ ＯＦ ＰＲＩＳＭ/ })
   if (await movieLink.count() === 0) {
-    console.log('stop')
+    seriesLogger.info('no movie found')
     return
   }
   await movieLink.click()
@@ -91,7 +91,6 @@ async function getTohoCinemasDailySchedules(page: Page, dailyScheduleContainerId
           return shows.map(show => {
             const startString = show.querySelector('.start')!.textContent!.trim()
             const endString = show.querySelector('.end')!.textContent!.trim()
-            console.log(startString, `${date} ${startString} GMT+0900`, new Date(`${date} ${startString} GMT+0900`))
             const startTime = new Date(`${date} ${startString} GMT+0900`)
             const endTime = new Date(`${date} ${endString} GMT+0900`)
             const statusDOM: HTMLParagraphElement = show.querySelector('.status')!

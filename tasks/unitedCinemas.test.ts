@@ -21,7 +21,7 @@ test('ユナイテッド・シネマ系列', async ({ page, browser }) => {
     const newPage = await browser.newPage()
     const { schedules, movieLink } = await getUnitedCinemasSchedules(newPage, url)
     if (schedules === null || movieLink === null) {
-      theaterLogger.info('no movie not found')
+      theaterLogger.info('no movie found')
       continue
     }
 
@@ -68,7 +68,6 @@ export async function getUnitedCinemasSchedules(page: Page, url: string) {
               const endTimeString = show.querySelector('.endTime')?.textContent?.replace('～', '') ?? ''
               const startTime = new Date(`${year} ${dateString} ${startTimeString} GMT+0900`)
               const endTime = new Date(`${year} ${dateString} ${endTimeString} GMT+0900`)
-              console.log('times:', startTimeString, startTime, endTimeString, endTime)
 
               const statusText = show.querySelector('.scheduleIcon')
                   ?.getAttribute('alt')
