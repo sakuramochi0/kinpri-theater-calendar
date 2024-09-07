@@ -55,7 +55,12 @@ async function getTheaterSchedules(page: Page, theater: Theater, logger: Logger)
   const today = page.locator('.today')
   logger.debug(`today locator: ${today}`)
   logger.debug(`today locator .count(): ${await today.count()}`)
-  await today.waitFor({ timeout: 1000, state: 'visible' })
+  try {
+    await today.waitFor({ timeout: 3000, state: 'visible' })
+  } catch (e) {
+    logger.debug({ 'msg': 'timeout', 'error': e })
+    return null
+  }
   const [monthString, dayString] = (await page.locator('.today').textContent())!.match(/\d+/g)
   const dateString = `${year}/${monthString}/${dayString}`
 
