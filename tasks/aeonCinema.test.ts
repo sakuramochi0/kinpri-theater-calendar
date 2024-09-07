@@ -21,45 +21,10 @@ test('イオンシネマ系列', async ({ page }) => {
     url: theaterLink.href,
   })))
 
-  async function checkNewWebsiteDesign(page: Page) {
-    try {
-      await page.locator('#smart-portal-schedules').waitFor({ state: 'visible', timeout: 1000 })
-      return true
-    } catch {
-      return false
-    }
-  }
-
   for (const theater of theaters) {
-    await page.goto(theater.url)
-
-    const isNewWebsiteDesign = await checkNewWebsiteDesign(page)
-    if (isNewWebsiteDesign) {
-      console.warn('new design website is not supported')
-      // TODO: implement
+    const schedules = await getTheaterSchedules(page, theater)
+    if (schedules == null) {
       continue
-    }
-
-    const schedules: Schedule[] = []
-
-    const year = new Date().getFullYear()
-    const [monthString, dayString] = (await page.locator('.today').first().textContent())!.match(/\d+/g)
-    const dateString = `${year}/${monthString}/${dayString}`
-
-    await expect(page.locator('.movielist').last()).toBeVisible()
-    const movies = await page.locator('.movielist').filter({ hasText: /KING OF PRISM/ }).all()
-    for (const movie of movies) {
-      const title = (await movie.locator('.main a').first().textContent() ?? '').trim()
-      const shows = (await movie.locator('.timetbl > div').all()).slice(1, -1)
-      for (const show of shows) {
-        const timeString = await show.locator('.time').first().textContent()
-        const [startHour, startMinute, endHour, endMinute] = timeString.match(/\d+/g)
-        const startTime = new Date(`${dateString} ${startHour}:${startMinute}`)
-        const endTime = new Date(`${dateString} ${endHour}:${endMinute}`)
-        const screenName = (await show.locator('.screen').first().textContent())?.trim() ?? ''
-        const status = (await show.locator('.txt_btn').first().textContent())?.trim() ?? ''
-        schedules.push({ title, startTime, endTime, screenName, status })
-      }
     }
 
     console.log(schedules)
@@ -67,3 +32,48 @@ test('イオンシネマ系列', async ({ page }) => {
     generateICal(theater.name, theater.url, schedules)
   }
 })
+
+async function getTheaterSchedules(page: Page, theater: Theater) {
+  await page.goto(theater.url)
+
+  const isNewWebsiteDesign = await checkNewWebsiteDesign(page)
+  if (isNewWebsiteDesign) {
+    console.warn('new design website is not supported')
+    // TODO: implement
+    return null
+  }
+
+  const schedules: Schedule[] = []
+
+  const year = new Date().getFullYear()
+  const [monthString, dayString] = (await page.locator('.today').first().textContent())!.match(/\d+/g)
+  const dateString = `${year}/${monthString}/${dayString}`
+
+  await expect(page.locator('.movielist').last()).toBeVisible()
+  const movies = await page.locator('.movielist').filter({ hasText: /KING OF PRISM/ }).all()
+  for (const movie of movies) {
+    const title = (await movie.locator('.main a').first().textContent() ?? '').trim()
+    const shows = (await movie.locator('.timetbl > div').all()).slice(1, -1)
+    for (const show of shows) {
+      const timeString = await show.locator('.time').first().textContent()
+      const [startHour, startMinute, endHour, endMinute] = timeString.match(/\d+/g)
+      const startTime = new Date(`${dateString} ${startHour}:${startMinute}`)
+      const endTime = new Date(`${dateString} ${endHour}:${endMinute}`)
+      const screenName = (await show.locator('.screen').first().textContent())?.trim() ?? ''
+      const status = (await show.locator('.txt_btn').first().textContent())?.trim() ?? ''
+      schedules.push({ title, startTime, endTime, screenName, status })
+    }
+  }
+
+  return schedules
+}
+
+
+async function checkNewWebsiteDesign(page: Page) {
+  try {
+    await page.locator('#smart-portal-schedules').waitFor({ state: 'visible', timeout: 1000 })
+    return true
+  } catch {
+    return false
+  }
+}
