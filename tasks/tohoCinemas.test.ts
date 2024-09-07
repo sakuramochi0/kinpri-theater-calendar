@@ -23,7 +23,7 @@ test('TOHOシネマズ系列', async ({ page }) => {
     const currentTabId = await page.locator('.tab-nav .is-current a').nth(0).evaluate(e => e.hash)
     const theaterHeaders = page.locator(`${currentTabId} .theater-list-title`)
     if (await theaterHeaders.count() === 0) {
-      console.log('theater not found')
+      seriesLogger.info('theater not found')
       continue
     }
 
