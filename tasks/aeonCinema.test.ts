@@ -50,7 +50,7 @@ async function getTheaterSchedules(page: Page, theater: Theater) {
   const schedules: Schedule[] = []
 
   const year = new Date().getFullYear()
-  const [monthString, dayString] = (await page.locator('.today').first().textContent())!.match(/\d+/g)
+  const [monthString, dayString] = (await page.locator('.today').textContent())!.match(/\d+/g)
   const dateString = `${year}/${monthString}/${dayString}`
 
   await expect(page.locator('.movielist').last()).toBeVisible()
