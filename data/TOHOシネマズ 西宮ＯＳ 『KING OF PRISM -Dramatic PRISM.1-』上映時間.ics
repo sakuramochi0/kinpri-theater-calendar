@@ -6,14 +6,14 @@ NAME:TOHOシネマズ 西宮ＯＳ 『KING OF PRISM -Dramatic PRISM.1-』
 X-WR-CALNAME:TOHOシネマズ 西宮ＯＳ 『KING OF PRISM -Dramatic PRIS
  M.1-』上映時間
 BEGIN:VEVENT
-UID:947c2ead-4a5d-42c4-b99b-7aed124b1114
+UID:50494c8c-5972-4246-8b8e-81385ab1688e
 SEQUENCE:0
-DTSTAMP:20240908T021145Z
+DTSTAMP:20240908T031144Z
 DTSTART:20240908T030000Z
 DTEND:20240908T045000Z
-SUMMARY:[◎販売中] TOHOシネマズ 西宮ＯＳ SCREEN10 ＫＩＮＧ
- 　ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳ
- Ｍ．１－（舞台挨拶中継・発声ＯＫ）
+SUMMARY:[販売期間外] TOHOシネマズ 西宮ＯＳ SCREEN10 ＫＩＮ
+ Ｇ　ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩ
+ ＳＭ．１－（舞台挨拶中継・発声ＯＫ）
 LOCATION:TOHOシネマズ 西宮ＯＳ SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -23,9 +23,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:bf99e79c-9fa1-4d79-903b-b9a0919d8e6f
+UID:c6537acf-cc23-4dc4-b2fe-3bea2239d198
 SEQUENCE:0
-DTSTAMP:20240908T021145Z
+DTSTAMP:20240908T031144Z
 DTSTART:20240908T052000Z
 DTEND:20240908T065000Z
 SUMMARY:[◎販売中] TOHOシネマズ 西宮ＯＳ SCREEN10 ＫＩＮＧ
