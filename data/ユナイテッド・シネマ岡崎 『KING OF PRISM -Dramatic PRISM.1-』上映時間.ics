@@ -6,14 +6,14 @@ NAME:ユナイテッド・シネマ岡崎 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ岡崎 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:f345a928-3eea-49d3-8cbf-3c377bace76d
+UID:0d91c92c-34f3-464c-afb7-3902027d51bd
 SEQUENCE:0
-DTSTAMP:20240906T091440Z
+DTSTAMP:20240908T051635Z
 DTSTART:20240908T030000Z
 DTEND:20240908T045500Z
-SUMMARY:[○] ユナイテッド・シネマ岡崎 8screen 『KING OF PRIS
- M -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ライブビュ
- ーイング
+SUMMARY:[販売対象外] ユナイテッド・シネマ岡崎 8screen 『
+ KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
+ イブビューイング
 LOCATION:ユナイテッド・シネマ岡崎 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
@@ -23,9 +23,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:72683e4c-0036-45ca-81b1-8e78028d1920
+UID:2823dc96-e7fe-490e-9757-aa50eeb1dbba
 SEQUENCE:0
-DTSTAMP:20240906T091440Z
+DTSTAMP:20240908T051635Z
 DTSTART:20240908T052000Z
 DTEND:20240908T071500Z
 SUMMARY:[○] ユナイテッド・シネマ岡崎 8screen 『KING OF PRIS
