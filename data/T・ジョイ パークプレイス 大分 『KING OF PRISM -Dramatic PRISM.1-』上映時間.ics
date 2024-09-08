@@ -6,56 +6,9 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:40b066a0-3e8f-470e-bf3b-ef0866f098e4
+UID:6d6d9622-95e5-4f18-a0db-a4762e4a8ee8
 SEQUENCE:0
-DTSTAMP:20240908T141246Z
-DTSTART:20240908T030000Z
-DTEND:20240908T045500Z
-SUMMARY:[-終了] T・ジョイ パークプレイス 大分 シアター
- ７ 【Over The Rainbow登壇挨拶中継】[応援]KING OF PRISM -Dramati
- c PRISM.1-
-LOCATION:T・ジョイ パークプレイス 大分 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
- 生成プログラムのウェブサイト: kinpri-theater-calendar - http
- s://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:7cdfc021-63b2-4827-9f82-6d4b81d3ac5b
-SEQUENCE:0
-DTSTAMP:20240908T141246Z
-DTSTART:20240908T052000Z
-DTEND:20240908T070500Z
-SUMMARY:[-終了] T・ジョイ パークプレイス 大分 シアター
- ７ 【Over The Rainbow登壇挨拶中継】[応援]KING OF PRISM -Dramati
- c PRISM.1-
-LOCATION:T・ジョイ パークプレイス 大分 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
- 生成プログラムのウェブサイト: kinpri-theater-calendar - http
- s://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:0fb7a720-3020-4298-8d21-c52316a768fc
-SEQUENCE:0
-DTSTAMP:20240908T141246Z
-DTSTART:20240907T235500Z
-DTEND:20240908T011000Z
-SUMMARY:[-終了] T・ジョイ パークプレイス 大分 シアター
- ３ [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ パークプレイス 大分 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
- 生成プログラムのウェブサイト: kinpri-theater-calendar - http
- s://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:e130a947-1897-46ce-9cf6-dfa881bb07d2
-SEQUENCE:0
-DTSTAMP:20240908T141246Z
+DTSTAMP:20240908T151210Z
 DTSTART:20240908T235500Z
 DTEND:20240909T011000Z
 SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
@@ -68,9 +21,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:7ed00811-dd09-4fd9-a219-a7dce354622a
+UID:9c4bf15b-7c72-4d19-9474-3e6f4fcd7c3f
 SEQUENCE:0
-DTSTAMP:20240908T141246Z
+DTSTAMP:20240908T151210Z
 DTSTART:20240909T235500Z
 DTEND:20240910T011000Z
 SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
@@ -83,12 +36,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:6bed605f-3bab-4cfb-babe-11918ce1f620
+UID:21b13418-b149-4157-8bca-bc2a5f5e1043
 SEQUENCE:0
-DTSTAMP:20240908T141246Z
+DTSTAMP:20240908T151210Z
 DTSTART:20240910T235500Z
 DTEND:20240911T011000Z
-SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
+SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
  アター３ [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ パークプレイス 大分 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -98,9 +51,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:2d182d2f-7247-46d2-8126-326d27226bb5
+UID:e1f7c8a9-abe3-4cf0-8693-3f8a2bd780c1
 SEQUENCE:0
-DTSTAMP:20240908T141246Z
+DTSTAMP:20240908T151210Z
 DTSTART:20240911T235500Z
 DTEND:20240912T011000Z
 SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ

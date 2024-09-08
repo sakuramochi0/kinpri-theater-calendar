@@ -6,54 +6,9 @@ NAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:0b773a3f-0240-4325-9f73-c2fcd0f7af11
+UID:69d21dd5-9360-4cbd-a026-e36f0ebee5d7
 SEQUENCE:0
-DTSTAMP:20240908T141018Z
-DTSTART:20240908T030000Z
-DTEND:20240908T045500Z
-SUMMARY:[-終了] T・ジョイ蘇我 シアター９ 【Over The Rainbow
- 登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ蘇我 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga\nカレンダー生成プ
- ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
- i-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga
-END:VEVENT
-BEGIN:VEVENT
-UID:6aeb72d1-c047-43c4-9a27-36821ac63310
-SEQUENCE:0
-DTSTAMP:20240908T141018Z
-DTSTART:20240908T052000Z
-DTEND:20240908T070200Z
-SUMMARY:[-終了] T・ジョイ蘇我 シアター９ 【Over The Rainbow
- 登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ蘇我 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga\nカレンダー生成プ
- ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
- i-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga
-END:VEVENT
-BEGIN:VEVENT
-UID:c23711d8-489c-4ec7-bed0-41b5ef29744c
-SEQUENCE:0
-DTSTAMP:20240908T141018Z
-DTSTART:20240908T095500Z
-DTEND:20240908T111000Z
-SUMMARY:[-終了] T・ジョイ蘇我 シアター８ [通常上映]KING O
- F PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ蘇我 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga\nカレンダー生成プ
- ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
- i-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga
-END:VEVENT
-BEGIN:VEVENT
-UID:f17bfa1b-3a03-4584-ba85-9e629605efa6
-SEQUENCE:0
-DTSTAMP:20240908T141018Z
+DTSTAMP:20240908T151033Z
 DTSTART:20240909T081000Z
 DTEND:20240909T092500Z
 SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター１２ [通常
@@ -66,9 +21,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga
 END:VEVENT
 BEGIN:VEVENT
-UID:234169bf-db79-428c-b76a-1d706335de95
+UID:ba13da08-4611-4618-aa93-96f2cd237de9
 SEQUENCE:0
-DTSTAMP:20240908T141018Z
+DTSTAMP:20240908T151033Z
 DTSTART:20240909T095500Z
 DTEND:20240909T111000Z
 SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター８ [応援上
@@ -81,9 +36,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga
 END:VEVENT
 BEGIN:VEVENT
-UID:d075d5a3-3752-469d-b382-f3a065c40ac5
+UID:baa53905-0483-48ef-b5ce-cb5e45a729a0
 SEQUENCE:0
-DTSTAMP:20240908T141018Z
+DTSTAMP:20240908T151033Z
 DTSTART:20240910T081000Z
 DTEND:20240910T092500Z
 SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター１２ [通常
@@ -96,9 +51,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga
 END:VEVENT
 BEGIN:VEVENT
-UID:327ff06c-fca5-46b0-b320-d9fb3458ecd1
+UID:f7fb0aaa-1335-4c76-80c3-c7ee91eaab32
 SEQUENCE:0
-DTSTAMP:20240908T141018Z
+DTSTAMP:20240908T151033Z
 DTSTART:20240910T095500Z
 DTEND:20240910T111000Z
 SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター８ [応援上
@@ -111,12 +66,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga
 END:VEVENT
 BEGIN:VEVENT
-UID:62fc865a-44c8-42fe-8431-1a5f7abc2e70
+UID:2445aafb-1b2b-4d99-9e82-a5937eaec4d6
 SEQUENCE:0
-DTSTAMP:20240908T141018Z
+DTSTAMP:20240908T151033Z
 DTSTART:20240911T081000Z
 DTEND:20240911T092500Z
-SUMMARY:[-販売対象外] T・ジョイ蘇我 シアター１２ [通常
+SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター１２ [通常
  上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ蘇我 シアター１２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -126,12 +81,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga
 END:VEVENT
 BEGIN:VEVENT
-UID:395a8b58-1d19-4dc8-b632-a2da50f901e1
+UID:eaf0e437-f1da-48fd-bf60-10f676a836c0
 SEQUENCE:0
-DTSTAMP:20240908T141018Z
+DTSTAMP:20240908T151033Z
 DTSTART:20240911T095500Z
 DTEND:20240911T111000Z
-SUMMARY:[-販売対象外] T・ジョイ蘇我 シアター８ [応援上
+SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター８ [応援上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ蘇我 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -141,9 +96,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga
 END:VEVENT
 BEGIN:VEVENT
-UID:e79fc8d2-d5c9-417b-8a6c-17af5b9ae659
+UID:f6dabae0-46f5-4c5a-b7d3-529cb07a5f6e
 SEQUENCE:0
-DTSTAMP:20240908T141018Z
+DTSTAMP:20240908T151033Z
 DTSTART:20240912T023500Z
 DTEND:20240912T035000Z
 SUMMARY:[-販売対象外] T・ジョイ蘇我 シアター９ [通常上
@@ -156,9 +111,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga
 END:VEVENT
 BEGIN:VEVENT
-UID:db789a39-b83c-4a45-b70b-6d5e577ed1fb
+UID:c6b8c053-f8c9-41dd-91ce-c8a0c3bf8679
 SEQUENCE:0
-DTSTAMP:20240908T141018Z
+DTSTAMP:20240908T151033Z
 DTSTART:20240912T095500Z
 DTEND:20240912T111000Z
 SUMMARY:[-販売対象外] T・ジョイ蘇我 シアター８ [応援上
