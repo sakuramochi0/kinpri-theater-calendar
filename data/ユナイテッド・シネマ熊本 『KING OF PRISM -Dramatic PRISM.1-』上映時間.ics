@@ -6,14 +6,14 @@ NAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:2cc1cabf-1e08-48fa-b202-dbaf1a0dafab
+UID:902818ec-cdc7-43e9-bc5b-ece6eb0f895a
 SEQUENCE:0
-DTSTAMP:20240908T005201Z
+DTSTAMP:20240908T191331Z
 DTSTART:20240908T030000Z
 DTEND:20240908T045500Z
-SUMMARY:[○] ユナイテッド・シネマ熊本 8screen 『KING OF PRIS
- M -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ライブビュ
- ーイング
+SUMMARY:[販売対象外] ユナイテッド・シネマ熊本 8screen 『
+ KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
+ イブビューイング
 LOCATION:ユナイテッド・シネマ熊本 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
@@ -23,14 +23,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:bda1a48f-993f-4a3a-84a4-af4039a398de
+UID:1d38e53e-3072-42d9-a341-21558810c0e0
 SEQUENCE:0
-DTSTAMP:20240908T005201Z
+DTSTAMP:20240908T191331Z
 DTSTART:20240908T052000Z
 DTEND:20240908T071500Z
-SUMMARY:[○] ユナイテッド・シネマ熊本 8screen 『KING OF PRIS
- M -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ライブビュ
- ーイング
+SUMMARY:[販売対象外] ユナイテッド・シネマ熊本 8screen 『
+ KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
+ イブビューイング
 LOCATION:ユナイテッド・シネマ熊本 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
@@ -40,9 +40,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:28769798-8c29-48bd-8814-f74a509c55bc
+UID:a6f01264-feb4-4f06-bc13-049cde94744f
 SEQUENCE:0
-DTSTAMP:20240908T005201Z
+DTSTAMP:20240908T191331Z
 DTSTART:20240909T100500Z
 DTEND:20240909T112500Z
 SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
@@ -56,9 +56,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:48db3d42-0d4c-425b-8d7e-642df86a24d2
+UID:400c828b-40c9-4a07-aef1-48f87bb8a438
 SEQUENCE:0
-DTSTAMP:20240908T005201Z
+DTSTAMP:20240908T191331Z
 DTSTART:20240910T100500Z
 DTEND:20240910T112500Z
 SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
@@ -72,13 +72,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0c8641db-3af5-4ab9-bf36-ed65ae915c76
+UID:702ce79f-d651-4740-94bf-57a015ddb36b
 SEQUENCE:0
-DTSTAMP:20240908T005201Z
+DTSTAMP:20240908T191331Z
 DTSTART:20240911T100500Z
 DTEND:20240911T112500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ熊本 4screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ熊本 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
@@ -88,9 +88,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a76f568d-82bd-4057-bee1-44c0094610d7
+UID:e8306e36-51d3-402d-b5dc-9a68de381ab6
 SEQUENCE:0
-DTSTAMP:20240908T005201Z
+DTSTAMP:20240908T191331Z
 DTSTART:20240912T100500Z
 DTEND:20240912T112500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ熊本 4screen プ

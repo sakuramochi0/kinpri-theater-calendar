@@ -5,38 +5,4 @@ NAME:TOHOシネマズ 高知 『KING OF PRISM -Dramatic PRISM.1-』上映
  時間
 X-WR-CALNAME:TOHOシネマズ 高知 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
-BEGIN:VEVENT
-UID:a7b69818-22aa-435a-82fe-5be79240ba95
-SEQUENCE:0
-DTSTAMP:20240908T181108Z
-DTSTART:20240908T030000Z
-DTEND:20240908T045000Z
-SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN1 ＫＩＮＧ　
- ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
- ．１－（舞台挨拶中継・発声ＯＫ）
-LOCATION:TOHOシネマズ 高知 SCREEN1
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=024262
-END:VEVENT
-BEGIN:VEVENT
-UID:bbf8337c-ac1f-4fcd-9dfc-2c067d18b910
-SEQUENCE:0
-DTSTAMP:20240908T181108Z
-DTSTART:20240908T052000Z
-DTEND:20240908T065500Z
-SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN1 ＫＩＮＧ　
- ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
- ．１－（舞台挨拶中継・発声ＯＫ）
-LOCATION:TOHOシネマズ 高知 SCREEN1
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=024262
-END:VEVENT
 END:VCALENDAR
