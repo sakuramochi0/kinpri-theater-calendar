@@ -5,4 +5,94 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
+BEGIN:VEVENT
+UID:7a6f7014-fc31-4f4e-9640-422a7ee7bf38
+SEQUENCE:0
+DTSTAMP:20240908T041106Z
+DTSTART:20240908T030000Z
+DTEND:20240908T045500Z
+SUMMARY:[-販売終了] T・ジョイ長岡 シアター５ 【Over The Ra
+ inbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka\nカレンダー生成
+ プログラムのウェブサイト: kinpri-theater-calendar - https://ki
+ npri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
+END:VEVENT
+BEGIN:VEVENT
+UID:6d6732e4-a343-4039-be4c-57c197721027
+SEQUENCE:0
+DTSTAMP:20240908T041106Z
+DTSTART:20240908T052000Z
+DTEND:20240908T070100Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター５ 【Over The
+  Rainbow登壇挨拶中継】[応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka\nカレンダー生成
+ プログラムのウェブサイト: kinpri-theater-calendar - https://ki
+ npri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
+END:VEVENT
+BEGIN:VEVENT
+UID:a5041c74-5639-4f0d-83ed-4ed9d4350afd
+SEQUENCE:0
+DTSTAMP:20240908T041106Z
+DTSTART:20240909T074500Z
+DTEND:20240909T085500Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka\nカレンダー生成
+ プログラムのウェブサイト: kinpri-theater-calendar - https://ki
+ npri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
+END:VEVENT
+BEGIN:VEVENT
+UID:69c6eb76-3554-4afb-a92b-8ac486ce6c0b
+SEQUENCE:0
+DTSTAMP:20240908T041106Z
+DTSTART:20240910T074500Z
+DTEND:20240910T085500Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka\nカレンダー生成
+ プログラムのウェブサイト: kinpri-theater-calendar - https://ki
+ npri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
+END:VEVENT
+BEGIN:VEVENT
+UID:d7bf45b4-4059-447f-993d-52ad4fac01ba
+SEQUENCE:0
+DTSTAMP:20240908T041106Z
+DTSTART:20240911T074500Z
+DTEND:20240911T085500Z
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka\nカレンダー生成
+ プログラムのウェブサイト: kinpri-theater-calendar - https://ki
+ npri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
+END:VEVENT
+BEGIN:VEVENT
+UID:56ac63f8-665e-462a-bbd3-85b81ce0d75b
+SEQUENCE:0
+DTSTAMP:20240908T041106Z
+DTSTART:20240912T074500Z
+DTEND:20240912T085500Z
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka\nカレンダー生成
+ プログラムのウェブサイト: kinpri-theater-calendar - https://ki
+ npri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka
+END:VEVENT
 END:VCALENDAR
