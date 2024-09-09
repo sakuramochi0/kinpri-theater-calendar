@@ -5,4 +5,64 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
   PRISM.1-』上映時間
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:ebb6da1b-7bbc-469f-9b82-c75671e217f4
+SEQUENCE:0
+DTSTAMP:20240909T122136Z
+DTSTART:20240908T235500Z
+DTEND:20240909T011000Z
+SUMMARY:[-終了] T・ジョイ パークプレイス 大分 シアター
+ ３ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
+ 生成プログラムのウェブサイト: kinpri-theater-calendar - http
+ s://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:1665a134-a1e4-4a6e-9ffc-d03b581f07dd
+SEQUENCE:0
+DTSTAMP:20240909T122136Z
+DTSTART:20240909T235500Z
+DTEND:20240910T011000Z
+SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
+ アター３ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
+ 生成プログラムのウェブサイト: kinpri-theater-calendar - http
+ s://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:e3b854ff-ea84-4497-8628-32e743d051a9
+SEQUENCE:0
+DTSTAMP:20240909T122136Z
+DTSTART:20240910T235500Z
+DTEND:20240911T011000Z
+SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
+ アター３ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
+ 生成プログラムのウェブサイト: kinpri-theater-calendar - http
+ s://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:72a225f0-d3bc-4baf-a8eb-ce7cc3ccfdf8
+SEQUENCE:0
+DTSTAMP:20240909T122136Z
+DTSTART:20240911T235500Z
+DTEND:20240912T011000Z
+SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
+ アター３ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
+ 生成プログラムのウェブサイト: kinpri-theater-calendar - http
+ s://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
 END:VCALENDAR
