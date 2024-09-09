@@ -6,43 +6,9 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b3c74d5a-70b1-43bd-89bd-0ad26eb581f8
+UID:588c4dc8-61eb-4e6e-b1b7-ead106cc29fa
 SEQUENCE:0
-DTSTAMP:20240908T190810Z
-DTSTART:20240908T030000Z
-DTEND:20240908T045500Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ水戸 4screen 『
- KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
- イブビューイング
-LOCATION:ユナイテッド・シネマ水戸 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:328a5f08-7940-44bc-b7fe-e8d601c87c57
-SEQUENCE:0
-DTSTAMP:20240908T190810Z
-DTSTART:20240908T052000Z
-DTEND:20240908T071500Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ水戸 4screen 『
- KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
- イブビューイング
-LOCATION:ユナイテッド・シネマ水戸 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:81238807-9d8c-4dd8-8360-24376ca5a84d
-SEQUENCE:0
-DTSTAMP:20240908T190810Z
+DTSTAMP:20240909T004536Z
 DTSTART:20240909T091000Z
 DTEND:20240909T103000Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -56,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:8b23c34b-7787-4610-8f05-26bf5561faa7
+UID:cc71b13a-9afb-433b-ba65-c388788a532d
 SEQUENCE:0
-DTSTAMP:20240908T190810Z
+DTSTAMP:20240909T004536Z
 DTSTART:20240910T091000Z
 DTEND:20240910T103000Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -72,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9daf5fe7-601e-41ba-86b1-9ccee2a5602d
+UID:26baf942-3a8c-4766-945e-aea3673c8887
 SEQUENCE:0
-DTSTAMP:20240908T190810Z
+DTSTAMP:20240909T004536Z
 DTSTART:20240911T091000Z
 DTEND:20240911T103000Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -88,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:43758044-fcf9-496b-9861-3c4177395b43
+UID:af5c3f7c-92a5-4c23-a6a2-f5b61154f303
 SEQUENCE:0
-DTSTAMP:20240908T190810Z
+DTSTAMP:20240909T004536Z
 DTSTART:20240912T091000Z
 DTEND:20240912T103000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
