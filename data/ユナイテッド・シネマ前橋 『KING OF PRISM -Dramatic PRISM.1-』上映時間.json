@@ -2,16 +2,9 @@
   {
     "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
     "screenName": "4screen",
-    "startTime": "2024-09-09T06:35:00.000Z",
-    "endTime": "2024-09-09T07:55:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
-    "screenName": "4screen",
     "startTime": "2024-09-10T06:35:00.000Z",
     "endTime": "2024-09-10T07:55:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
@@ -26,5 +19,54 @@
     "startTime": "2024-09-12T06:35:00.000Z",
     "endTime": "2024-09-12T07:55:00.000Z",
     "status": "○"
+  },
+  {
+    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
+    "screenName": "9screen",
+    "startTime": "2024-09-13T10:55:00.000Z",
+    "endTime": "2024-09-13T12:15:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
+    "screenName": "9screen",
+    "startTime": "2024-09-14T10:55:00.000Z",
+    "endTime": "2024-09-14T12:15:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
+    "screenName": "9screen",
+    "startTime": "2024-09-15T10:55:00.000Z",
+    "endTime": "2024-09-15T12:15:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
+    "screenName": "9screen",
+    "startTime": "2024-09-16T10:55:00.000Z",
+    "endTime": "2024-09-16T12:15:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
+    "screenName": "9screen",
+    "startTime": "2024-09-17T10:55:00.000Z",
+    "endTime": "2024-09-17T12:15:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
+    "screenName": "9screen",
+    "startTime": "2024-09-18T11:40:00.000Z",
+    "endTime": "2024-09-18T13:00:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
+    "screenName": "9screen",
+    "startTime": "2024-09-19T10:55:00.000Z",
+    "endTime": "2024-09-19T12:15:00.000Z",
+    "status": "販売期間外"
   }
 ]

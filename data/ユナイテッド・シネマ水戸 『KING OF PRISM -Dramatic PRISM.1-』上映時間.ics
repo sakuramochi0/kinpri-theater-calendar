@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:124109bf-d2fb-4ca0-88fa-98423a019fc4
+UID:dc1baca3-7d91-48f3-9c4d-e2c6873a95f3
 SEQUENCE:0
-DTSTAMP:20240910T061337Z
+DTSTAMP:20240910T111420Z
 DTSTART:20240910T091000Z
 DTEND:20240910T103000Z
-SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
- タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[販売対象外] ユナイテッド・シネマ水戸 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ水戸 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
@@ -22,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b42699a0-b191-4e3a-a04a-fc31f19ea4af
+UID:315ca0d4-7194-45ce-8222-b35ce452d301
 SEQUENCE:0
-DTSTAMP:20240910T061337Z
+DTSTAMP:20240910T111420Z
 DTSTART:20240911T091000Z
 DTEND:20240911T103000Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -38,13 +38,125 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b0dd2f28-2d05-4e00-8822-c0b43421a9c9
+UID:cd191cea-6fe0-4a1c-8714-dc2657be3b34
 SEQUENCE:0
-DTSTAMP:20240910T061337Z
+DTSTAMP:20240910T111420Z
 DTSTART:20240912T091000Z
 DTEND:20240912T103000Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
  タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:2597b6ab-4a18-4b43-b4a5-afc7264ef82f
+SEQUENCE:0
+DTSTAMP:20240910T111420Z
+DTSTART:20240913T093000Z
+DTEND:20240913T105000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:22a3cab5-cebc-4844-bf7a-224cd16dc389
+SEQUENCE:0
+DTSTAMP:20240910T111420Z
+DTSTART:20240914T093500Z
+DTEND:20240914T105500Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:7c2632eb-e0ff-4ff9-bf05-2e84be7cd905
+SEQUENCE:0
+DTSTAMP:20240910T111420Z
+DTSTART:20240915T093500Z
+DTEND:20240915T105500Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:87c780d8-92d0-418d-bfad-305752a9fac8
+SEQUENCE:0
+DTSTAMP:20240910T111420Z
+DTSTART:20240916T093500Z
+DTEND:20240916T105500Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:04c4952e-2e29-4140-b269-87f26feb7ddd
+SEQUENCE:0
+DTSTAMP:20240910T111420Z
+DTSTART:20240917T093500Z
+DTEND:20240917T105500Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a98aebb9-5988-4801-83f0-3178af05ded2
+SEQUENCE:0
+DTSTAMP:20240910T111420Z
+DTSTART:20240918T093000Z
+DTEND:20240918T105000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ水戸 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:0c226fde-ab4b-4374-9e92-666217b728c9
+SEQUENCE:0
+DTSTAMP:20240910T111420Z
+DTSTART:20240919T093000Z
+DTEND:20240919T105000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ水戸 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
