@@ -6,9 +6,9 @@ NAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
 BEGIN:VEVENT
-UID:fa299b79-7660-4026-bc4d-f655d7ae1c9e
+UID:f88e4840-8b62-4858-ad80-5fe33a9fb52a
 SEQUENCE:0
-DTSTAMP:20240910T111431Z
+DTSTAMP:20240910T132120Z
 DTSTART:20240910T084500Z
 DTEND:20240910T100500Z
 SUMMARY:[-終了] 鹿児島ミッテ10 シアター８ [応援上映]KING 
@@ -21,9 +21,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:f3b14242-028e-4496-aac7-94e0b33f3ef9
+UID:cd528e57-1d7d-4ef1-8be8-14ae4afb28ea
 SEQUENCE:0
-DTSTAMP:20240910T111431Z
+DTSTAMP:20240910T132120Z
 DTSTART:20240911T084500Z
 DTEND:20240911T100500Z
 SUMMARY:[◎予約/購入] 鹿児島ミッテ10 シアター８ [通常上
@@ -36,14 +36,29 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
 END:VEVENT
 BEGIN:VEVENT
-UID:c23171b8-5090-4449-b220-778c0681ebd2
+UID:2be1ff1c-21fc-4ac5-ae90-a148f3614954
 SEQUENCE:0
-DTSTAMP:20240910T111431Z
+DTSTAMP:20240910T132120Z
 DTSTART:20240912T084500Z
 DTEND:20240912T100500Z
 SUMMARY:[◎予約/購入] 鹿児島ミッテ10 シアター８ [応援上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:鹿児島ミッテ10 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/kagoshima_mitte10\nカレンダー生
+ 成プログラムのウェブサイト: kinpri-theater-calendar - https:/
+ /kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
+END:VEVENT
+BEGIN:VEVENT
+UID:037e9760-6561-4bc1-95c0-f4939ed7cfe8
+SEQUENCE:0
+DTSTAMP:20240910T132120Z
+DTSTART:20240913T090500Z
+DTEND:20240913T102500Z
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター３ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:鹿児島ミッテ10 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/kagoshima_mitte10\nカレンダー生
  成プログラムのウェブサイト: kinpri-theater-calendar - https:/
