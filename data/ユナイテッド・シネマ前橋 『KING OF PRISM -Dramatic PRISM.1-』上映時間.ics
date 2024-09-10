@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:0ab417f3-c063-4216-b6ae-896ab11f14f7
+UID:fa2623c7-32bd-4b3d-a920-49210c907ec5
 SEQUENCE:0
-DTSTAMP:20240910T111439Z
-DTSTART:20240910T063500Z
-DTEND:20240910T075500Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ前橋 4screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ前橋 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
- 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:54baf4fd-8d56-4e4c-830c-ff984ed00ea7
-SEQUENCE:0
-DTSTAMP:20240910T111439Z
+DTSTAMP:20240910T221211Z
 DTSTART:20240911T063500Z
 DTEND:20240911T075500Z
 SUMMARY:[○] ユナイテッド・シネマ前橋 4screen プリズムス
@@ -38,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:86aa1164-ab09-4761-9907-fd09fd1a8e4e
+UID:d14d4db2-22f6-4fb7-a8ef-784eca643c80
 SEQUENCE:0
-DTSTAMP:20240910T111439Z
+DTSTAMP:20240910T221211Z
 DTSTART:20240912T063500Z
 DTEND:20240912T075500Z
 SUMMARY:[○] ユナイテッド・シネマ前橋 4screen プリズムス
@@ -54,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:21b80bac-568f-48f9-a496-f6d1d53f93fd
+UID:fd55fd5a-7119-444e-a7ec-a579f2c79d6d
 SEQUENCE:0
-DTSTAMP:20240910T111439Z
+DTSTAMP:20240910T221211Z
 DTSTART:20240913T105500Z
 DTEND:20240913T121500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ前橋 9screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ前橋 9screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -70,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1b2005b0-c5ba-4b81-9c10-dc5f4eb04386
+UID:47bd11d2-0185-4db0-b0c2-59bbc4157250
 SEQUENCE:0
-DTSTAMP:20240910T111439Z
+DTSTAMP:20240910T221211Z
 DTSTART:20240914T105500Z
 DTEND:20240914T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -86,9 +70,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1ba9a9d8-ab7c-4850-b194-86c5850a4e35
+UID:ca2de109-6a0b-4a8f-b89a-171623a59d09
 SEQUENCE:0
-DTSTAMP:20240910T111439Z
+DTSTAMP:20240910T221211Z
 DTSTART:20240915T105500Z
 DTEND:20240915T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -102,9 +86,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1aec410f-c1fe-4229-b846-491b5a023b6a
+UID:070a38c0-ac77-4a9c-bf7d-5aead0597bc4
 SEQUENCE:0
-DTSTAMP:20240910T111439Z
+DTSTAMP:20240910T221211Z
 DTSTART:20240916T105500Z
 DTEND:20240916T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -118,9 +102,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:be15f119-1df5-4268-b07d-9bb288772d44
+UID:2e7f6e33-e787-41fe-999c-2a52cda4a4c9
 SEQUENCE:0
-DTSTAMP:20240910T111439Z
+DTSTAMP:20240910T221211Z
 DTSTART:20240917T105500Z
 DTEND:20240917T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -134,9 +118,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:739633eb-1ea5-4188-9ca7-b3249ac7e8c6
+UID:bd7dfa6a-e0bd-4c78-8a61-838a7f2047cb
 SEQUENCE:0
-DTSTAMP:20240910T111439Z
+DTSTAMP:20240910T221211Z
 DTSTART:20240918T114000Z
 DTEND:20240918T130000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -150,9 +134,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a4d4276d-5403-4a22-9fc4-74ae18f772e8
+UID:c7a4ee26-6e7d-49cb-931c-aaeab229afa4
 SEQUENCE:0
-DTSTAMP:20240910T111439Z
+DTSTAMP:20240910T221211Z
 DTSTART:20240919T105500Z
 DTEND:20240919T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
