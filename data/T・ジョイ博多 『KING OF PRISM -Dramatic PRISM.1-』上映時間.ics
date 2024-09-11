@@ -6,9 +6,9 @@ NAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:00b4847d-c3a7-4c3e-80dd-fc19fda25238
+UID:a652efbf-6933-4d82-ab4b-20700412fc06
 SEQUENCE:0
-DTSTAMP:20240911T021044Z
+DTSTAMP:20240911T031244Z
 DTSTART:20240911T090500Z
 DTEND:20240911T102000Z
 SUMMARY:[◎予約/購入] T・ジョイ博多 シアター５ [通常上
@@ -21,9 +21,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
 END:VEVENT
 BEGIN:VEVENT
-UID:5231eb87-207b-4338-bd50-7e5198cef3b1
+UID:763cac99-847d-42e3-aea9-8514a21384dc
 SEQUENCE:0
-DTSTAMP:20240911T021044Z
+DTSTAMP:20240911T031244Z
 DTSTART:20240911T041500Z
 DTEND:20240911T053000Z
 SUMMARY:[◎予約/購入] T・ジョイ博多 シアター４ [応援上
@@ -36,9 +36,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
 END:VEVENT
 BEGIN:VEVENT
-UID:3ac4a0ee-aa85-474c-8811-91c224322d24
+UID:dfac5318-d88f-48bb-a7a7-d5a7fd233847
 SEQUENCE:0
-DTSTAMP:20240911T021044Z
+DTSTAMP:20240911T031244Z
 DTSTART:20240911T103500Z
 DTEND:20240911T115000Z
 SUMMARY:[◎予約/購入] T・ジョイ博多 シアター５ [応援上
@@ -51,9 +51,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
 END:VEVENT
 BEGIN:VEVENT
-UID:6f5c7ec1-6899-4a54-80be-5da7ecaf3821
+UID:32a88efa-1493-4fa4-99fa-fa8875941085
 SEQUENCE:0
-DTSTAMP:20240911T021044Z
+DTSTAMP:20240911T031244Z
 DTSTART:20240912T090500Z
 DTEND:20240912T102000Z
 SUMMARY:[◎予約/購入] T・ジョイ博多 シアター５ [通常上
@@ -66,9 +66,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
 END:VEVENT
 BEGIN:VEVENT
-UID:996d92d1-00ca-4b04-b802-1f41f88ec4f4
+UID:84f0dfae-745e-4cc4-a702-212cb10e1173
 SEQUENCE:0
-DTSTAMP:20240911T021044Z
+DTSTAMP:20240911T031244Z
 DTSTART:20240912T041500Z
 DTEND:20240912T053000Z
 SUMMARY:[◎予約/購入] T・ジョイ博多 シアター４ [応援上
@@ -81,9 +81,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
 END:VEVENT
 BEGIN:VEVENT
-UID:0b5a74ab-021b-44a2-8aea-f75c7e2bdf87
+UID:3f5bd1fa-cf7c-4923-ba27-df5cd9ff28de
 SEQUENCE:0
-DTSTAMP:20240911T021044Z
+DTSTAMP:20240911T031244Z
 DTSTART:20240912T103500Z
 DTEND:20240912T115000Z
 SUMMARY:[◎予約/購入] T・ジョイ博多 シアター５ [応援上
@@ -96,12 +96,102 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
 END:VEVENT
 BEGIN:VEVENT
-UID:81c2e521-553c-40bc-ad24-6dd687130479
+UID:d05a23c8-366b-401c-bdb7-89eebacaeda3
 SEQUENCE:0
-DTSTAMP:20240911T021044Z
+DTSTAMP:20240911T031244Z
 DTSTART:20240913T040500Z
 DTEND:20240913T052000Z
 SUMMARY:[◎予約/購入] T・ジョイ博多 シアター３ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ博多 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_hakata\nカレンダー生成プ
+ ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
+ i-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
+END:VEVENT
+BEGIN:VEVENT
+UID:af7059c9-eedf-41e6-a091-1321e8e95b9a
+SEQUENCE:0
+DTSTAMP:20240911T031244Z
+DTSTART:20240914T040500Z
+DTEND:20240914T052000Z
+SUMMARY:[-販売対象外] T・ジョイ博多 シアター３ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ博多 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_hakata\nカレンダー生成プ
+ ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
+ i-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
+END:VEVENT
+BEGIN:VEVENT
+UID:75942a49-f3e8-46ae-b043-0d8da320c62a
+SEQUENCE:0
+DTSTAMP:20240911T031244Z
+DTSTART:20240915T040500Z
+DTEND:20240915T052000Z
+SUMMARY:[-販売対象外] T・ジョイ博多 シアター３ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ博多 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_hakata\nカレンダー生成プ
+ ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
+ i-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
+END:VEVENT
+BEGIN:VEVENT
+UID:91ce8d88-dd66-4404-bd87-9f06426b4753
+SEQUENCE:0
+DTSTAMP:20240911T031244Z
+DTSTART:20240916T040500Z
+DTEND:20240916T052000Z
+SUMMARY:[-販売対象外] T・ジョイ博多 シアター３ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ博多 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_hakata\nカレンダー生成プ
+ ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
+ i-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
+END:VEVENT
+BEGIN:VEVENT
+UID:554cdb90-1e9b-4f38-aa35-93bb22f4fdc9
+SEQUENCE:0
+DTSTAMP:20240911T031244Z
+DTSTART:20240917T040500Z
+DTEND:20240917T052000Z
+SUMMARY:[-販売対象外] T・ジョイ博多 シアター３ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ博多 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_hakata\nカレンダー生成プ
+ ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
+ i-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
+END:VEVENT
+BEGIN:VEVENT
+UID:67023ce4-911c-45ba-9e5f-6b8a8a24288a
+SEQUENCE:0
+DTSTAMP:20240911T031244Z
+DTSTART:20240918T040500Z
+DTEND:20240918T052000Z
+SUMMARY:[-販売対象外] T・ジョイ博多 シアター３ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ博多 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_hakata\nカレンダー生成プ
+ ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
+ i-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata
+END:VEVENT
+BEGIN:VEVENT
+UID:261fe1a8-4256-4060-b380-b21044376fdb
+SEQUENCE:0
+DTSTAMP:20240911T031244Z
+DTSTART:20240919T040500Z
+DTEND:20240919T052000Z
+SUMMARY:[-販売対象外] T・ジョイ博多 シアター３ [応援上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ博多 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
