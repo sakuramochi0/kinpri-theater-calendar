@@ -6,9 +6,9 @@ NAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:ca00953b-3cf9-4c1f-a28c-c84f9686bc1f
+UID:154baaf9-4e27-4852-b312-c3beb177a792
 SEQUENCE:0
-DTSTAMP:20240910T231031Z
+DTSTAMP:20240911T004208Z
 DTSTART:20240911T081000Z
 DTEND:20240911T092500Z
 SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター１２ [通常
@@ -21,14 +21,59 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga
 END:VEVENT
 BEGIN:VEVENT
-UID:e717db7a-6e26-40c9-8f8d-d9eab7b1aaf4
+UID:601607e8-fbfc-4322-998f-68c01601b081
 SEQUENCE:0
-DTSTAMP:20240910T231031Z
+DTSTAMP:20240911T004208Z
 DTSTART:20240911T095500Z
 DTEND:20240911T111000Z
 SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター８ [応援上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ蘇我 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_soga\nカレンダー生成プ
+ ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
+ i-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_soga
+END:VEVENT
+BEGIN:VEVENT
+UID:f82398d7-2849-4c41-b75b-9cb537ecdad1
+SEQUENCE:0
+DTSTAMP:20240911T004208Z
+DTSTART:20240912T023500Z
+DTEND:20240912T035000Z
+SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター９ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ蘇我 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_soga\nカレンダー生成プ
+ ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
+ i-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_soga
+END:VEVENT
+BEGIN:VEVENT
+UID:ec7b9598-5469-45ca-891b-2937f5623586
+SEQUENCE:0
+DTSTAMP:20240911T004208Z
+DTSTART:20240912T095500Z
+DTEND:20240912T111000Z
+SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ蘇我 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_soga\nカレンダー生成プ
+ ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
+ i-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_soga
+END:VEVENT
+BEGIN:VEVENT
+UID:ab09cd9a-1642-409c-8722-19d8fdcffbf0
+SEQUENCE:0
+DTSTAMP:20240911T004208Z
+DTSTART:20240913T102500Z
+DTEND:20240913T114000Z
+SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ蘇我 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_soga\nカレンダー生成プ
  ログラムのウェブサイト: kinpri-theater-calendar - https://kinpr
