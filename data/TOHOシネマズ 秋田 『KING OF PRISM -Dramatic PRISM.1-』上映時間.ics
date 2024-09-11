@@ -6,9 +6,9 @@ NAME:TOHOシネマズ 秋田 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:TOHOシネマズ 秋田 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:eec26c07-4e4e-4f7a-99f8-8be0fa29a65d
+UID:0f992298-8e62-4347-be8f-33eba15376a7
 SEQUENCE:0
-DTSTAMP:20240911T070924Z
+DTSTAMP:20240911T081223Z
 DTSTART:20240913T065000Z
 DTEND:20240913T080000Z
 SUMMARY:[◎販売中] TOHOシネマズ 秋田 SCREEN6 ＫＩＮＧ　Ｏ
@@ -23,9 +23,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:06c4d447-3d94-4e05-adad-ef4f293765f5
+UID:0ee8fdbb-4337-4939-9017-92f17e8c8273
 SEQUENCE:0
-DTSTAMP:20240911T070924Z
+DTSTAMP:20240911T081223Z
 DTSTART:20240913T121500Z
 DTEND:20240913T132500Z
 SUMMARY:[◎販売中] TOHOシネマズ 秋田 SCREEN7 ＫＩＮＧ　Ｏ
@@ -40,9 +40,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:d1626317-1e51-4b28-b412-29f26cde4b25
+UID:97be90f9-8acd-440f-b2e9-5c8384e82934
 SEQUENCE:0
-DTSTAMP:20240911T070924Z
+DTSTAMP:20240911T081223Z
 DTSTART:20240913T231500Z
 DTEND:20240914T002500Z
 SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN8 ＫＩＮＧ　
@@ -57,9 +57,26 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:2ad1b0ab-b83b-4e8a-b1ca-b6014448b231
+UID:dd3b22a9-63cb-461b-a083-88e48337b699
 SEQUENCE:0
-DTSTAMP:20240911T070924Z
+DTSTAMP:20240911T081223Z
+DTSTART:20240914T104000Z
+DTEND:20240914T115000Z
+SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN7 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－
+LOCATION:TOHOシネマズ 秋田 SCREEN7
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:14ac1682-e439-41cd-adb8-1ba356cd6bed
+SEQUENCE:0
+DTSTAMP:20240911T081223Z
 DTSTART:20240915T031500Z
 DTEND:20240915T042500Z
 SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN8 ＫＩＮＧ　
@@ -74,15 +91,100 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:10879fbb-ab20-43db-86cc-5545599746e1
+UID:686b9b55-4c9a-44bc-85f1-65017bcaba07
 SEQUENCE:0
-DTSTAMP:20240911T070924Z
+DTSTAMP:20240911T081223Z
+DTSTART:20240915T123000Z
+DTEND:20240915T134000Z
+SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN7 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－
+LOCATION:TOHOシネマズ 秋田 SCREEN7
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:a573372f-8240-473a-b844-0d8a66623b62
+SEQUENCE:0
+DTSTAMP:20240911T081223Z
 DTSTART:20240915T231500Z
 DTEND:20240916T002500Z
 SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN8 ＫＩＮＧ　
  ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
  ．１－
 LOCATION:TOHOシネマズ 秋田 SCREEN8
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:04fc6743-a493-475f-adda-b6c8fbb15b40
+SEQUENCE:0
+DTSTAMP:20240911T081223Z
+DTSTART:20240916T104000Z
+DTEND:20240916T115000Z
+SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN7 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－
+LOCATION:TOHOシネマズ 秋田 SCREEN7
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:c8c296fc-d250-4b1e-aacd-8f8d26b91aa3
+SEQUENCE:0
+DTSTAMP:20240911T081223Z
+DTSTART:20240917T065000Z
+DTEND:20240917T080000Z
+SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN6 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－
+LOCATION:TOHOシネマズ 秋田 SCREEN6
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6ef0d8-db44-4011-97e2-2701cb0bf536
+SEQUENCE:0
+DTSTAMP:20240911T081223Z
+DTSTART:20240918T065000Z
+DTEND:20240918T080000Z
+SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN6 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
+LOCATION:TOHOシネマズ 秋田 SCREEN6
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:12589dbb-1511-430a-98c4-96c73cacccf9
+SEQUENCE:0
+DTSTAMP:20240911T081223Z
+DTSTART:20240919T065000Z
+DTEND:20240919T080000Z
+SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN6 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－
+LOCATION:TOHOシネマズ 秋田 SCREEN6
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
  kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
