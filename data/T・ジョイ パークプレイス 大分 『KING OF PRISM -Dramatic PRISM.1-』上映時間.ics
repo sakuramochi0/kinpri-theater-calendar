@@ -6,13 +6,13 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:da99f341-d614-4c32-b244-5abb048d8618
+UID:af04b40c-71d5-450b-a5be-52f3eceaaec7
 SEQUENCE:0
-DTSTAMP:20240911T221247Z
+DTSTAMP:20240911T231336Z
 DTSTART:20240911T235500Z
 DTEND:20240912T011000Z
-SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
- アター３ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+SUMMARY:[◎購入] T・ジョイ パークプレイス 大分 シアタ
+ ー３ [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ パークプレイス 大分 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
@@ -21,102 +21,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
 END:VEVENT
 BEGIN:VEVENT
-UID:0af571b3-fb8e-4db4-8d3c-ed02d7eb0d6c
+UID:b2b58d54-547e-4ab9-8770-ed4c4a73bb59
 SEQUENCE:0
-DTSTAMP:20240911T221247Z
+DTSTAMP:20240911T231336Z
 DTSTART:20240913T093000Z
 DTEND:20240913T104500Z
 SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
- アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ パークプレイス 大分 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
- 生成プログラムのウェブサイト: kinpri-theater-calendar - http
- s://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:49edf87b-39ea-4f23-8b4b-f77bc6aeadc3
-SEQUENCE:0
-DTSTAMP:20240911T221247Z
-DTSTART:20240914T093000Z
-DTEND:20240914T104500Z
-SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
- アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ パークプレイス 大分 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
- 生成プログラムのウェブサイト: kinpri-theater-calendar - http
- s://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:c758e29b-8a06-4b26-ad76-12e2aaf03a35
-SEQUENCE:0
-DTSTAMP:20240911T221247Z
-DTSTART:20240915T093000Z
-DTEND:20240915T104500Z
-SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
- アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ パークプレイス 大分 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
- 生成プログラムのウェブサイト: kinpri-theater-calendar - http
- s://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:9c50f731-69dc-41cd-9202-5e2b9730645c
-SEQUENCE:0
-DTSTAMP:20240911T221247Z
-DTSTART:20240916T093000Z
-DTEND:20240916T104500Z
-SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
- アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ パークプレイス 大分 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
- 生成プログラムのウェブサイト: kinpri-theater-calendar - http
- s://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:e49bc45b-26b7-48e6-89ff-3e5f2c510b8a
-SEQUENCE:0
-DTSTAMP:20240911T221247Z
-DTSTART:20240917T093000Z
-DTEND:20240917T104500Z
-SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
- アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ パークプレイス 大分 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
- 生成プログラムのウェブサイト: kinpri-theater-calendar - http
- s://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:6246d108-f0cc-4115-a139-521939726f86
-SEQUENCE:0
-DTSTAMP:20240911T221247Z
-DTSTART:20240918T093000Z
-DTEND:20240918T104500Z
-SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
- アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ パークプレイス 大分 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
- 生成プログラムのウェブサイト: kinpri-theater-calendar - http
- s://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
-END:VEVENT
-BEGIN:VEVENT
-UID:6571fb24-c701-407b-8a2b-7382b683346d
-SEQUENCE:0
-DTSTAMP:20240911T221247Z
-DTSTART:20240919T093000Z
-DTEND:20240919T104500Z
-SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
  アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ パークプレイス 大分 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
