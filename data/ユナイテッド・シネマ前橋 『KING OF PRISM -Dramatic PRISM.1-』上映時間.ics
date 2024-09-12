@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b8c248c8-1e3a-4a71-85a0-9a2f4a620c08
+UID:4fdefad0-ffb1-4cc5-bb52-cbc1bc3e770c
 SEQUENCE:0
-DTSTAMP:20240911T121714Z
-DTSTART:20240911T063500Z
-DTEND:20240911T075500Z
+DTSTAMP:20240912T124927Z
+DTSTART:20240912T063500Z
+DTEND:20240912T075500Z
 SUMMARY:[販売対象外] ユナイテッド・シネマ前橋 4screen プ
  リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ前橋 4screen
@@ -22,25 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a3dbd8f0-fe29-4003-925d-59b960988a6b
+UID:36c52dfe-0b6f-47d1-bef3-34f610c6fdc5
 SEQUENCE:0
-DTSTAMP:20240911T121714Z
-DTSTART:20240912T063500Z
-DTEND:20240912T075500Z
-SUMMARY:[○] ユナイテッド・シネマ前橋 4screen プリズムス
- タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ前橋 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
- 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:e1dc2d14-e82d-4c15-bb1c-742af2c06ee8
-SEQUENCE:0
-DTSTAMP:20240911T121714Z
+DTSTAMP:20240912T124927Z
 DTSTART:20240913T105500Z
 DTEND:20240913T121500Z
 SUMMARY:[○] ユナイテッド・シネマ前橋 9screen プリズムス
@@ -54,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:426c8284-0b77-44cf-b2f5-165e51821f0a
+UID:3a570c7f-8076-492c-ba4e-587ef118ac47
 SEQUENCE:0
-DTSTAMP:20240911T121714Z
+DTSTAMP:20240912T124927Z
 DTSTART:20240914T105500Z
 DTEND:20240914T121500Z
 SUMMARY:[○] ユナイテッド・シネマ前橋 9screen プリズムス
@@ -70,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:8292d4ca-1ddf-4cb7-a7bc-0396d7dd6cd4
+UID:9103aa33-66dd-4213-aacc-381639ddb151
 SEQUENCE:0
-DTSTAMP:20240911T121714Z
+DTSTAMP:20240912T124927Z
 DTSTART:20240915T105500Z
 DTEND:20240915T121500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ前橋 9screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ前橋 9screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -86,9 +70,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:737a6529-d154-4c74-9587-1df0429d86c3
+UID:8ec4523a-9ff9-46db-a835-492f2297487f
 SEQUENCE:0
-DTSTAMP:20240911T121714Z
+DTSTAMP:20240912T124927Z
 DTSTART:20240916T105500Z
 DTEND:20240916T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -102,9 +86,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:444a8155-d234-477b-86de-0d8f5b62acaa
+UID:b4e8b5d4-c857-4e0f-9984-9851922daa8c
 SEQUENCE:0
-DTSTAMP:20240911T121714Z
+DTSTAMP:20240912T124927Z
 DTSTART:20240917T105500Z
 DTEND:20240917T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -118,9 +102,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:fe7c5d5a-22eb-4075-932b-c0e00d110683
+UID:8031c729-485c-4f12-870d-06ba686a083e
 SEQUENCE:0
-DTSTAMP:20240911T121714Z
+DTSTAMP:20240912T124927Z
 DTSTART:20240918T114000Z
 DTEND:20240918T130000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -134,9 +118,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:4041981d-78ec-45df-bcb3-db27f779cf85
+UID:7c451c0e-bc0c-4722-bc2c-b8b5c4c3c598
 SEQUENCE:0
-DTSTAMP:20240911T121714Z
+DTSTAMP:20240912T124927Z
 DTSTART:20240919T105500Z
 DTEND:20240919T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
