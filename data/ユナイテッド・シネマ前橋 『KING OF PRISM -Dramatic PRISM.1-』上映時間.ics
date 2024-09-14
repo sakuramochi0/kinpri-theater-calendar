@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:87dd5456-4f18-4be5-9560-cb809b519609
+UID:0cb31031-b186-4dd4-aaf3-77e4cc5ca223
 SEQUENCE:0
-DTSTAMP:20240913T111007Z
-DTSTART:20240913T105500Z
-DTEND:20240913T121500Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ前橋 9screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ前橋 9screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
- 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:2a7934eb-a142-4066-8942-cebc9f1ce662
-SEQUENCE:0
-DTSTAMP:20240913T111007Z
+DTSTAMP:20240914T020847Z
 DTSTART:20240914T105500Z
 DTEND:20240914T121500Z
 SUMMARY:[○] ユナイテッド・シネマ前橋 9screen プリズムス
@@ -38,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:06301e52-851a-43f8-9734-f225c30b0c63
+UID:7ba2f45b-3c14-4d19-a418-d7f197ee9661
 SEQUENCE:0
-DTSTAMP:20240913T111007Z
+DTSTAMP:20240914T020847Z
 DTSTART:20240915T105500Z
 DTEND:20240915T121500Z
 SUMMARY:[○] ユナイテッド・シネマ前橋 9screen プリズムス
@@ -54,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:6aace0e5-efe8-4083-9827-eea78784a77c
+UID:24c19990-30b9-406b-a13f-419a28e9db61
 SEQUENCE:0
-DTSTAMP:20240913T111007Z
+DTSTAMP:20240914T020847Z
 DTSTART:20240916T105500Z
 DTEND:20240916T121500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ前橋 9screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ前橋 9screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -70,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d7ac5782-4975-4e36-8340-dfe251f0dc99
+UID:fed1e556-a1f1-4dd5-9dbe-fc9b4ff3139f
 SEQUENCE:0
-DTSTAMP:20240913T111007Z
+DTSTAMP:20240914T020847Z
 DTSTART:20240917T105500Z
 DTEND:20240917T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -86,9 +70,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:26f96fe9-d5a4-4002-9364-9edb0bbaa98c
+UID:708684fd-be27-4f70-88d0-ccd3bd79b89f
 SEQUENCE:0
-DTSTAMP:20240913T111007Z
+DTSTAMP:20240914T020847Z
 DTSTART:20240918T114000Z
 DTEND:20240918T130000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
@@ -102,9 +86,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b9e7381e-f8de-4623-a38c-4d340f661c1a
+UID:14664473-4fd5-4fbc-89f3-9e9775982bce
 SEQUENCE:0
-DTSTAMP:20240913T111007Z
+DTSTAMP:20240914T020847Z
 DTSTART:20240919T105500Z
 DTEND:20240919T121500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 9screen プ
