@@ -6,41 +6,9 @@ NAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:9d757b7c-05ee-45e3-bc95-ca2cd9cf17c0
+UID:3d996ca1-c96b-4494-83a2-122fb1412344
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
-DTSTART:20240914T020000Z
-DTEND:20240914T031700Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ幕張 2screen KIN
- G OF PRISM -Dramatic PRISM.1-
-LOCATION:ユナイテッド・シネマ幕張 2screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
- 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:c5cd1df6-24a1-4ab3-b6d4-ce01f0749e95
-SEQUENCE:0
-DTSTAMP:20240914T131528Z
-DTSTART:20240914T103000Z
-DTEND:20240914T115000Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ幕張 9screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ幕張 9screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
- 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:7b9647dd-df40-4eb9-8d3a-37fd87fe5b35
-SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240915T020000Z
 DTEND:20240915T031700Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 2screen KING OF PRISM -
@@ -54,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:bb9dd106-13c1-4342-96d1-a6aa7828e1a3
+UID:bdfb1652-f5bf-481d-997d-cce39491a120
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240915T103000Z
 DTEND:20240915T115000Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 9screen プリズムス
@@ -70,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3e4fb386-cc37-4ef4-93bb-82c49b3b7591
+UID:3bc9e609-211c-4bf2-8964-cbbf873d9721
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240916T020000Z
 DTEND:20240916T031700Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 2screen KING OF PRISM -
@@ -86,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:039d7bd9-7657-423f-ad66-629b31741ddf
+UID:320ec319-1f56-4066-bdb7-967212107da5
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240916T103000Z
 DTEND:20240916T115000Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 9screen プリズムス
@@ -102,9 +70,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:009f3417-ddfa-4c19-bf03-7abc0aa7b385
+UID:5e273907-3bf4-4456-859f-20429e68a225
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240917T020000Z
 DTEND:20240917T031700Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 2screen KING OF PRISM -
@@ -118,9 +86,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:362a14cb-1b40-49cc-a26c-8ff029c3f210
+UID:b29ff246-c8ad-41d7-b27e-ede58f216780
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240917T103000Z
 DTEND:20240917T115000Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 9screen プリズムス
@@ -134,9 +102,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9ae29845-e75b-4931-b714-df211cfec0b4
+UID:0f52db97-f011-4564-a2ed-7d907b0046dd
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240918T020000Z
 DTEND:20240918T031700Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 2screen KIN
@@ -150,9 +118,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:942c1dd7-fbad-4d23-87da-58d6ce2a05a6
+UID:da537123-04a2-4cf8-8879-b7b62b44c1c3
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240918T103000Z
 DTEND:20240918T115000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 9screen プ
@@ -166,9 +134,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:68353748-adc6-4003-bb5c-b76211c72258
+UID:37b9bfdf-dece-4b9b-ba39-3d5a62def4b3
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240919T020000Z
 DTEND:20240919T031700Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 2screen KIN
@@ -182,9 +150,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e90e4f51-1e95-4fcc-a836-ac0abaa0da33
+UID:8e55b56a-a846-4ee0-962c-9089ef40651c
 SEQUENCE:0
-DTSTAMP:20240914T131528Z
+DTSTAMP:20240914T231055Z
 DTSTART:20240919T103000Z
 DTEND:20240919T115000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 9screen プ
