@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:15d9ab11-276b-418e-aa7d-821465a6ea55
+UID:04888fce-fd93-4e32-99a9-df12e41ee7f9
 SEQUENCE:0
-DTSTAMP:20240915T100917Z
-DTSTART:20240915T093500Z
-DTEND:20240915T105500Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ水戸 1screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ水戸 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:fac10e05-af9f-43cf-bfb3-441a65829c3e
-SEQUENCE:0
-DTSTAMP:20240915T100917Z
+DTSTAMP:20240915T201006Z
 DTSTART:20240916T093500Z
 DTEND:20240916T105500Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -38,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:efcba54b-2b38-4e0e-b6d9-b733e941de94
+UID:1c1ed9e1-97be-4340-a77e-fdc84e5bc884
 SEQUENCE:0
-DTSTAMP:20240915T100917Z
+DTSTAMP:20240915T201006Z
 DTSTART:20240917T093500Z
 DTEND:20240917T105500Z
 SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
@@ -54,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b93bf257-8b36-40d8-880d-61543463ac3c
+UID:230f80c4-9402-444f-840e-42c4f891c7a7
 SEQUENCE:0
-DTSTAMP:20240915T100917Z
+DTSTAMP:20240915T201006Z
 DTSTART:20240918T093000Z
 DTEND:20240918T105000Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ水戸 1screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ水戸 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11512
@@ -70,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11512&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b50455ee-43ac-4310-88ab-83ac982a18d8
+UID:fd377a85-9c44-49bf-8e89-65cf2f15d4a4
 SEQUENCE:0
-DTSTAMP:20240915T100917Z
+DTSTAMP:20240915T201006Z
 DTSTART:20240919T093000Z
 DTEND:20240919T105000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 1screen プ

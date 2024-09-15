@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ橿原 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ橿原 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:9aabd73e-db64-4ab6-a869-5f46b74e76da
+UID:fb7af74b-d8e8-4f7a-9f32-f52d6730d99d
 SEQUENCE:0
-DTSTAMP:20240915T151706Z
-DTSTART:20240915T101000Z
-DTEND:20240915T112700Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ橿原 7screen KIN
- G OF PRISM -Dramatic PRISM.1-
-LOCATION:ユナイテッド・シネマ橿原 7screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
- 11512&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:e21e67e0-5ef8-4de7-8043-c118e2dc505b
-SEQUENCE:0
-DTSTAMP:20240915T151706Z
+DTSTAMP:20240915T201622Z
 DTSTART:20240916T070000Z
 DTEND:20240916T081700Z
 SUMMARY:[○] ユナイテッド・シネマ橿原 9screen KING OF PRISM -
@@ -38,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e683cba2-d193-4834-a388-7d0b6533d8ba
+UID:fea37bca-6676-4c21-a67f-d39809716935
 SEQUENCE:0
-DTSTAMP:20240915T151706Z
+DTSTAMP:20240915T201622Z
 DTSTART:20240917T031000Z
 DTEND:20240917T042700Z
 SUMMARY:[○] ユナイテッド・シネマ橿原 6screen KING OF PRISM -
@@ -54,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:fc3d7d18-9357-434a-bdf9-e334e6d95c43
+UID:892bdc3e-cb31-4fb2-8227-1176c229dcdc
 SEQUENCE:0
-DTSTAMP:20240915T151706Z
+DTSTAMP:20240915T201622Z
 DTSTART:20240918T031000Z
 DTEND:20240918T042700Z
 SUMMARY:[○] ユナイテッド・シネマ橿原 6screen KING OF PRISM -
@@ -70,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9396284a-322f-496c-b4f1-2e220fd39015
+UID:6209754e-7ca7-490b-bd9f-eb8a6396d88f
 SEQUENCE:0
-DTSTAMP:20240915T151706Z
+DTSTAMP:20240915T201622Z
 DTSTART:20240919T031000Z
 DTEND:20240919T042700Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 6screen KIN
