@@ -5,7 +5,7 @@ import { generateICal, isValidDate, rootLogger, saveJSON } from './utils';
 import { Schedule, Theater } from './types';
 
 test('ティ・ジョイ系列', async ({ page, browser }) => {
-  const seriesLogger = rootLogger.child({'series': 'ティ・ジョイ'})
+  const seriesLogger = rootLogger.child({ 'series': 'ティ・ジョイ' })
 
   await page.goto('https://tjoy.jp/')
   const theaters: Theater[] = await page.locator('.theater-list-info a')
@@ -16,21 +16,21 @@ test('ティ・ジョイ系列', async ({ page, browser }) => {
     )
 
   for (const { name, url } of theaters) {
-    const theaterLogger = seriesLogger.child({theater: name})
+    const theaterLogger = seriesLogger.child({ theater: name })
 
     const newPage = await browser.newPage()
-    const schedules = await getTjoySchedules(newPage, url, name)
+    const { schedules, scheduleURL } = await getTjoySchedules(newPage, url)
     if (schedules === null) {
       continue
     }
 
     theaterLogger.info(`record ${schedules.length} shows`)
     saveJSON(name, schedules)
-    generateICal(name, url, schedules)
+    generateICal(name, scheduleURL, schedules)
   }
 })
 
-export async function getTjoySchedules(page: Page, url: string, theaterName: string) {
+export async function getTjoySchedules(page: Page, url: string) {
   await page.goto(url)
 
   const notificationCloseButton = page.getByRole('button', { name: '閉じる' })
@@ -41,10 +41,12 @@ export async function getTjoySchedules(page: Page, url: string, theaterName: str
   await page.getByRole('link', { name: '作品情報' }).click()
   const movieButton = page.getByRole('link', { name: /KING OF PRISM/ })
   if (await movieButton.count() === 0) {
-    return null
+    return { schedules: null, scheduleURL: null }
   }
   await movieButton.click()
   await page.getByRole('link', { name: '上映スケジュール' }).nth(1).click()
+
+  const scheduleURL = await page.evaluate(() => location.href)
 
   const schedules = []
   const days = await page.locator('.calendar-item').evaluateAll(days => days.map(day => day.dataset.date))
@@ -60,7 +62,7 @@ export async function getTjoySchedules(page: Page, url: string, theaterName: str
     schedules.push(...await getTjoyDailySchedules(page))
   }
 
-  return schedules
+  return { schedules, scheduleURL }
 }
 
 async function getTjoyDailySchedules(page: Page) {
