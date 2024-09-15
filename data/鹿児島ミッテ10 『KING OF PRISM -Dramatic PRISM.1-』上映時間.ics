@@ -5,4 +5,79 @@ NAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
+BEGIN:VEVENT
+UID:33a53fb3-f6e4-40a5-aca4-ed703769e917
+SEQUENCE:0
+DTSTAMP:20240915T051435Z
+DTSTART:20240915T085000Z
+DTEND:20240915T101000Z
+SUMMARY:[◎予約/購入] 鹿児島ミッテ10 シアター６ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:鹿児島ミッテ10 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/kagoshima_mitte10\nカレンダー生
+ 成プログラムのウェブサイト: kinpri-theater-calendar - https:/
+ /kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
+END:VEVENT
+BEGIN:VEVENT
+UID:e236dd5b-f4bd-4b74-bd79-1007281cae6d
+SEQUENCE:0
+DTSTAMP:20240915T051435Z
+DTSTART:20240916T085000Z
+DTEND:20240916T101000Z
+SUMMARY:[◎予約/購入] 鹿児島ミッテ10 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:鹿児島ミッテ10 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/kagoshima_mitte10\nカレンダー生
+ 成プログラムのウェブサイト: kinpri-theater-calendar - https:/
+ /kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ff3a48-fbd0-4470-8bb8-3847f5b06c36
+SEQUENCE:0
+DTSTAMP:20240915T051435Z
+DTSTART:20240917T085000Z
+DTEND:20240917T101000Z
+SUMMARY:[◎予約/購入] 鹿児島ミッテ10 シアター５ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:鹿児島ミッテ10 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/kagoshima_mitte10\nカレンダー生
+ 成プログラムのウェブサイト: kinpri-theater-calendar - https:/
+ /kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
+END:VEVENT
+BEGIN:VEVENT
+UID:14452ae4-5649-446b-9621-b152a6255d3a
+SEQUENCE:0
+DTSTAMP:20240915T051435Z
+DTSTART:20240918T085000Z
+DTEND:20240918T101000Z
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:鹿児島ミッテ10 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/kagoshima_mitte10\nカレンダー生
+ 成プログラムのウェブサイト: kinpri-theater-calendar - https:/
+ /kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
+END:VEVENT
+BEGIN:VEVENT
+UID:4d14b3a3-67ad-4af9-8d3b-83db6c7be760
+SEQUENCE:0
+DTSTAMP:20240915T051435Z
+DTSTART:20240919T085000Z
+DTEND:20240919T101000Z
+SUMMARY:[-販売対象外] 鹿児島ミッテ10 シアター５ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:鹿児島ミッテ10 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/kagoshima_mitte10\nカレンダー生
+ 成プログラムのウェブサイト: kinpri-theater-calendar - https:/
+ /kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10
+END:VEVENT
 END:VCALENDAR
