@@ -5,4 +5,79 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
   PRISM.1-』上映時間
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:4fc533c8-2539-45da-92e0-05b8e3ecae8d
+SEQUENCE:0
+DTSTAMP:20240915T142555Z
+DTSTART:20240915T093000Z
+DTEND:20240915T104500Z
+SUMMARY:[-終了] T・ジョイ パークプレイス 大分 シアター
+ ８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
+ 生成プログラムのウェブサイト: kinpri-theater-calendar - http
+ s://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:5469bef7-cb46-40e1-8d6b-ba82714688d6
+SEQUENCE:0
+DTSTAMP:20240915T142555Z
+DTSTART:20240916T093000Z
+DTEND:20240916T104500Z
+SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
+ アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
+ 生成プログラムのウェブサイト: kinpri-theater-calendar - http
+ s://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:c66c92ef-e456-451b-8b19-beb1b828b2a3
+SEQUENCE:0
+DTSTAMP:20240915T142555Z
+DTSTART:20240917T093000Z
+DTEND:20240917T104500Z
+SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
+ アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
+ 生成プログラムのウェブサイト: kinpri-theater-calendar - http
+ s://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ca01bd-23ea-4efe-a7ae-f736a64fb56b
+SEQUENCE:0
+DTSTAMP:20240915T142555Z
+DTSTART:20240918T093000Z
+DTEND:20240918T104500Z
+SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
+ アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
+ 生成プログラムのウェブサイト: kinpri-theater-calendar - http
+ s://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
+BEGIN:VEVENT
+UID:e984b4e6-3b52-43f1-8323-0bcb628dca5a
+SEQUENCE:0
+DTSTAMP:20240915T142555Z
+DTSTART:20240919T093000Z
+DTEND:20240919T104500Z
+SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
+ アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita\nカレンダー
+ 生成プログラムのウェブサイト: kinpri-theater-calendar - http
+ s://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita
+END:VEVENT
 END:VCALENDAR
