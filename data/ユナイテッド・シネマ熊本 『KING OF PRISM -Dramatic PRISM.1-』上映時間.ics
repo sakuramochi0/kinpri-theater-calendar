@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:adaa898c-5106-4a54-a183-de88fe254348
+UID:8805ceec-af9b-47ba-b2a1-9b4257f8b77c
 SEQUENCE:0
-DTSTAMP:20240914T181610Z
-DTSTART:20240914T100000Z
-DTEND:20240914T112000Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ熊本 4screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ熊本 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
- 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:d6683823-1ef0-4225-a7fa-6c61554ac504
-SEQUENCE:0
-DTSTAMP:20240914T181610Z
+DTSTAMP:20240915T062031Z
 DTSTART:20240915T100000Z
 DTEND:20240915T112000Z
 SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
@@ -38,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:641fc7ad-f25c-4d13-bb2d-50cc021c225a
+UID:64cc76c7-d528-4214-ac2e-cdad1cb5ac3e
 SEQUENCE:0
-DTSTAMP:20240914T181610Z
+DTSTAMP:20240915T062031Z
 DTSTART:20240916T100000Z
 DTEND:20240916T112000Z
 SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
@@ -54,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d6819445-fa00-4f36-a242-6f44887834c7
+UID:1a699e39-72e6-42bd-a070-ddd8d675da40
 SEQUENCE:0
-DTSTAMP:20240914T181610Z
+DTSTAMP:20240915T062031Z
 DTSTART:20240917T100000Z
 DTEND:20240917T112000Z
 SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
@@ -70,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:4054c294-4fd0-4d4f-b0bd-ada5ca46c5e1
+UID:b1420568-94bb-49e9-9589-8753aceb3d73
 SEQUENCE:0
-DTSTAMP:20240914T181610Z
+DTSTAMP:20240915T062031Z
 DTSTART:20240918T100000Z
 DTEND:20240918T112000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ熊本 4screen プ
@@ -86,9 +70,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c3a15357-e786-48a2-ac80-2e58b6905ff2
+UID:5393be49-69fa-4b40-a1f4-c42c93d2b7b5
 SEQUENCE:0
-DTSTAMP:20240914T181610Z
+DTSTAMP:20240915T062031Z
 DTSTART:20240919T100000Z
 DTEND:20240919T112000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ熊本 4screen プ
