@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ橿原 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ橿原 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:c3280e54-2e44-4092-8af7-9769afe446a7
+UID:b5cbb209-ba8b-4c24-9893-4e84b3b01587
 SEQUENCE:0
-DTSTAMP:20240914T101422Z
-DTSTART:20240914T070000Z
-DTEND:20240914T081700Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ橿原 9screen KIN
- G OF PRISM -Dramatic PRISM.1-
-LOCATION:ユナイテッド・シネマ橿原 9screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
- 11512&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:afd146a0-dd63-4b06-b667-d511928a10d9
-SEQUENCE:0
-DTSTAMP:20240914T101422Z
+DTSTAMP:20240915T005311Z
 DTSTART:20240915T101000Z
 DTEND:20240915T112700Z
 SUMMARY:[○] ユナイテッド・シネマ橿原 7screen KING OF PRISM -
@@ -38,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5ea93c02-4c60-4d6b-9e58-3d492b1cd831
+UID:99d99224-1d38-42a9-8fff-2c2c6f1764f1
 SEQUENCE:0
-DTSTAMP:20240914T101422Z
+DTSTAMP:20240915T005311Z
 DTSTART:20240916T070000Z
 DTEND:20240916T081700Z
 SUMMARY:[○] ユナイテッド・シネマ橿原 9screen KING OF PRISM -
@@ -54,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:db7ff585-f4a0-43d0-8e3d-2e9b6d021217
+UID:73e74403-fa02-49b5-b970-67feaf1b7f51
 SEQUENCE:0
-DTSTAMP:20240914T101422Z
+DTSTAMP:20240915T005311Z
 DTSTART:20240917T031000Z
 DTEND:20240917T042700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 6screen KIN
- G OF PRISM -Dramatic PRISM.1-
+SUMMARY:[○] ユナイテッド・シネマ橿原 6screen KING OF PRISM -
+ Dramatic PRISM.1-
 LOCATION:ユナイテッド・シネマ橿原 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
@@ -70,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:aeabcf5c-2d2f-40ff-8682-73df235fd892
+UID:e3f6f055-6e89-4cfa-a7fb-dcaaac63db34
 SEQUENCE:0
-DTSTAMP:20240914T101422Z
+DTSTAMP:20240915T005311Z
 DTSTART:20240918T031000Z
 DTEND:20240918T042700Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 6screen KIN
@@ -86,9 +70,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:16255902-636b-4db2-9a46-3ff92582a83b
+UID:d38086e0-f7d0-4d4f-8e77-581dfb6d2ac7
 SEQUENCE:0
-DTSTAMP:20240914T101422Z
+DTSTAMP:20240915T005311Z
 DTSTART:20240919T031000Z
 DTEND:20240919T042700Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 6screen KIN

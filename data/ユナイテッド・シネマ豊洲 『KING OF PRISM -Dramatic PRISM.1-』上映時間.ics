@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:79d4dee0-cec8-434f-9de4-3facdbd02e33
+UID:d216100d-8b26-4fb7-8243-637e164a47cd
 SEQUENCE:0
-DTSTAMP:20240914T181328Z
-DTSTART:20240914T071000Z
-DTEND:20240914T083000Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ豊洲 12screen 
- プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ豊洲 12screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=115
- 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:e59c8d31-c081-4a71-9177-cfa170454302
-SEQUENCE:0
-DTSTAMP:20240914T181328Z
+DTSTAMP:20240915T005140Z
 DTSTART:20240915T070000Z
 DTEND:20240915T082000Z
 SUMMARY:[○] ユナイテッド・シネマ豊洲 12screen プリズム
@@ -38,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:482fef21-939a-4e3d-9c79-35c72e44c2dc
+UID:c8fd97f6-a2f9-492c-a0b2-40e490c27405
 SEQUENCE:0
-DTSTAMP:20240914T181328Z
+DTSTAMP:20240915T005140Z
 DTSTART:20240916T071000Z
 DTEND:20240916T083000Z
 SUMMARY:[○] ユナイテッド・シネマ豊洲 12screen プリズム
@@ -54,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:93f7f402-d99f-4f9a-9929-6dbf19768f33
+UID:95dc0fba-3254-4f21-98a1-8e8c82c457bf
 SEQUENCE:0
-DTSTAMP:20240914T181328Z
+DTSTAMP:20240915T005140Z
 DTSTART:20240917T083000Z
 DTEND:20240917T095000Z
 SUMMARY:[○] ユナイテッド・シネマ豊洲 12screen プリズム
@@ -70,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e61d32d0-3556-4024-a6f8-67e188fc7821
+UID:0e2222e1-9db4-43dd-8489-f0038741cc2b
 SEQUENCE:0
-DTSTAMP:20240914T181328Z
+DTSTAMP:20240915T005140Z
 DTSTART:20240918T083000Z
 DTEND:20240918T095000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ豊洲 12screen 
@@ -86,9 +70,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:dc0d4da8-2e6e-415b-862d-8925660ba61d
+UID:9df251d8-9465-42a0-94fa-b25b74d1b81e
 SEQUENCE:0
-DTSTAMP:20240914T181328Z
+DTSTAMP:20240915T005140Z
 DTSTART:20240919T083000Z
 DTEND:20240919T095000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ豊洲 12screen 
