@@ -5,63 +5,63 @@ NAME:横浜ブルク13 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:横浜ブルク13 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:86fd2140-90be-4b3c-bb38-2e72662631f2
+UID:e4c79b99-a48f-44b2-8a98-3b00591f358a
 SEQUENCE:0
-DTSTAMP:20240915T150949Z
+DTSTAMP:20240915T152217Z
 DTSTART:20240916T022500Z
 DTEND:20240916T034000Z
 SUMMARY:[◎予約/購入] 横浜ブルク13 シアター１０ [通常上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:横浜ブルク13 シアター１０
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13\nカレンダー生成
- プログラムのウェブサイト: kinpri-theater-calendar - https://ki
- npri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+ スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864\
+ nカレンダー生成プログラムのウェブサイト: kinpri-theater
+ -calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:4e2493cd-117a-42b1-a162-0cf3e8a15d2f
+UID:e40b125a-7dca-419e-84f1-b4d373049d8f
 SEQUENCE:0
-DTSTAMP:20240915T150949Z
+DTSTAMP:20240915T152217Z
 DTSTART:20240917T022500Z
 DTEND:20240917T034000Z
 SUMMARY:[◎予約/購入] 横浜ブルク13 シアター１０ [通常上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:横浜ブルク13 シアター１０
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13\nカレンダー生成
- プログラムのウェブサイト: kinpri-theater-calendar - https://ki
- npri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+ スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864\
+ nカレンダー生成プログラムのウェブサイト: kinpri-theater
+ -calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:6c066f44-b32c-4bac-97db-e9716ae5f1a7
+UID:e7e12a4e-f12c-417b-a5b4-8891f4406fd8
 SEQUENCE:0
-DTSTAMP:20240915T150949Z
+DTSTAMP:20240915T152217Z
 DTSTART:20240918T022500Z
 DTEND:20240918T034000Z
 SUMMARY:[◎予約/購入] 横浜ブルク13 シアター１０ [通常上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:横浜ブルク13 シアター１０
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13\nカレンダー生成
- プログラムのウェブサイト: kinpri-theater-calendar - https://ki
- npri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+ スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864\
+ nカレンダー生成プログラムのウェブサイト: kinpri-theater
+ -calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:fc60ce37-1d9c-4bd9-a8a3-d16b49049d4b
+UID:3961c3aa-3efa-4854-8ec9-66e84e7d6b9a
 SEQUENCE:0
-DTSTAMP:20240915T150949Z
+DTSTAMP:20240915T152217Z
 DTSTART:20240919T022500Z
 DTEND:20240919T034000Z
 SUMMARY:[-販売対象外] 横浜ブルク13 シアター１０ [通常上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:横浜ブルク13 シアター１０
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13\nカレンダー生成
- プログラムのウェブサイト: kinpri-theater-calendar - https://ki
- npri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13
+ スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864\
+ nカレンダー生成プログラムのウェブサイト: kinpri-theater
+ -calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C3864
 END:VEVENT
 END:VCALENDAR
