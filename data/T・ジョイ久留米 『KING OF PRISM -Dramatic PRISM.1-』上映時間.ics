@@ -6,9 +6,9 @@ NAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
 BEGIN:VEVENT
-UID:374ac27f-1567-49c6-b001-b0a7b904a086
+UID:02353755-cd1d-418a-b953-8f4f2ad01f24
 SEQUENCE:0
-DTSTAMP:20240916T111048Z
+DTSTAMP:20240916T122049Z
 DTSTART:20240916T022000Z
 DTEND:20240916T033500Z
 SUMMARY:[-終了] T・ジョイ久留米 シアター８ [通常上映]KIN
@@ -21,14 +21,14 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:7135fd46-ee1e-4d6b-a98e-0ee36474c8f5
+UID:b5d36ce7-cd88-4608-be04-ed609ae6c609
 SEQUENCE:0
-DTSTAMP:20240916T111048Z
+DTSTAMP:20240916T122049Z
 DTSTART:20240916T101000Z
 DTEND:20240916T112500Z
-SUMMARY:[-販売終了] T・ジョイ久留米 シアター１\n          
-                                                                   T-LEX 
- 【T-LEX上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-
+SUMMARY:[-終了] T・ジョイ久留米 シアター１\n                
+                                                             T-LEX 【T-LEX
+ 上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ久留米 シアター１\n                         
                                                     T-LEX
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -38,9 +38,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:cf835c75-ef65-431d-97fd-bc74e5a48cba
+UID:57af4b17-911b-415e-b17e-3a20caebb056
 SEQUENCE:0
-DTSTAMP:20240916T111048Z
+DTSTAMP:20240916T122049Z
 DTSTART:20240917T022000Z
 DTEND:20240917T033500Z
 SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター８ [通常
@@ -53,9 +53,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:8bf5f788-8264-4b7f-8115-69fbc9dd034d
+UID:9f5b0cd0-bff5-492e-8ee9-5bbad330677f
 SEQUENCE:0
-DTSTAMP:20240916T111048Z
+DTSTAMP:20240916T122049Z
 DTSTART:20240917T101000Z
 DTEND:20240917T112500Z
 SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター１\n       
@@ -70,9 +70,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:b270139e-bdfe-46f7-8271-f0d823069ae5
+UID:1dc3430d-ad72-4bbb-98c9-db8c9b296377
 SEQUENCE:0
-DTSTAMP:20240916T111048Z
+DTSTAMP:20240916T122049Z
 DTSTART:20240918T022000Z
 DTEND:20240918T033500Z
 SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター８ [通常
@@ -85,9 +85,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:cdf59170-14a0-43b8-a281-92702e84499e
+UID:cf32cdb2-3552-4a5f-8e26-6b5a5ad0c19d
 SEQUENCE:0
-DTSTAMP:20240916T111048Z
+DTSTAMP:20240916T122049Z
 DTSTART:20240918T101000Z
 DTEND:20240918T112500Z
 SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター１\n       
@@ -102,9 +102,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:604c3b92-61a9-49de-a5b9-bcaee71f45db
+UID:b11592bf-4f66-451f-836b-5974f78df051
 SEQUENCE:0
-DTSTAMP:20240916T111048Z
+DTSTAMP:20240916T122049Z
 DTSTART:20240919T022000Z
 DTEND:20240919T033500Z
 SUMMARY:[-販売対象外] T・ジョイ久留米 シアター８ [通常
@@ -117,9 +117,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:163f563a-444b-40a5-b75b-0792a9fa9b85
+UID:cf51acef-27fd-436a-920e-e7595d0363b4
 SEQUENCE:0
-DTSTAMP:20240916T111048Z
+DTSTAMP:20240916T122049Z
 DTSTART:20240919T101000Z
 DTEND:20240919T112500Z
 SUMMARY:[-販売対象外] T・ジョイ久留米 シアター１\n       
