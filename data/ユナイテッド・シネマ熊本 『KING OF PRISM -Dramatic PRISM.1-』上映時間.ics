@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:775eb9fe-e81a-4c02-9d8b-7aa09334f49d
+UID:55ed798b-dcf0-4ea6-af20-cfbfe554d7e6
 SEQUENCE:0
-DTSTAMP:20240915T151806Z
-DTSTART:20240915T100000Z
-DTEND:20240915T112000Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ熊本 4screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ熊本 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
- 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:e236bfce-30e8-4830-8976-2d6ea2ba2df6
-SEQUENCE:0
-DTSTAMP:20240915T151806Z
+DTSTAMP:20240916T062609Z
 DTSTART:20240916T100000Z
 DTEND:20240916T112000Z
 SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
@@ -38,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:08907ee3-ea1b-4322-b149-839d0863d341
+UID:cab96c8f-2191-4f24-be68-33105224986e
 SEQUENCE:0
-DTSTAMP:20240915T151806Z
+DTSTAMP:20240916T062609Z
 DTSTART:20240917T100000Z
 DTEND:20240917T112000Z
 SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
@@ -54,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9ab251bd-fc79-4985-bd56-7bc8c79f5dc5
+UID:6693a429-cb50-43eb-a6e1-5f6304079831
 SEQUENCE:0
-DTSTAMP:20240915T151806Z
+DTSTAMP:20240916T062609Z
 DTSTART:20240918T100000Z
 DTEND:20240918T112000Z
 SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
@@ -70,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ce43bd2c-2162-43a3-b2b4-752f047e76d1
+UID:554ccde7-e7ee-4ec9-a734-876a0abab35e
 SEQUENCE:0
-DTSTAMP:20240915T151806Z
+DTSTAMP:20240916T062609Z
 DTSTART:20240919T100000Z
 DTEND:20240919T112000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ熊本 4screen プ
