@@ -46,7 +46,7 @@
     "screenName": "シアター５ BESTIA",
     "startTime": "2024-09-18T01:35:00.000Z",
     "endTime": "2024-09-18T02:52:00.000Z",
-    "status": "◯ 購入"
+    "status": "販売期間外"
   },
   {
     "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』BESTIA enhanced",
@@ -56,10 +56,10 @@
     "status": "◯ 購入"
   },
   {
-    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』BESTIA enhanced",
-    "screenName": "シアター６ BESTIA",
-    "startTime": "2024-09-18T09:40:00.000Z",
-    "endTime": "2024-09-18T10:57:00.000Z",
+    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
+    "screenName": "シアター７",
+    "startTime": "2024-09-18T10:50:00.000Z",
+    "endTime": "2024-09-18T12:04:00.000Z",
     "status": "◯ 購入"
   },
   {
@@ -67,7 +67,7 @@
     "screenName": "シアター５ BESTIA",
     "startTime": "2024-09-19T01:35:00.000Z",
     "endTime": "2024-09-19T02:52:00.000Z",
-    "status": "◯ 購入"
+    "status": "販売期間外"
   },
   {
     "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』BESTIA enhanced",
@@ -77,10 +77,10 @@
     "status": "◯ 購入"
   },
   {
-    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』BESTIA enhanced",
-    "screenName": "シアター６ BESTIA",
-    "startTime": "2024-09-19T09:40:00.000Z",
-    "endTime": "2024-09-19T10:57:00.000Z",
+    "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
+    "screenName": "シアター７",
+    "startTime": "2024-09-19T10:50:00.000Z",
+    "endTime": "2024-09-19T12:04:00.000Z",
     "status": "◯ 購入"
   }
 ]
