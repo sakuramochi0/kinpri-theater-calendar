@@ -6,69 +6,9 @@ NAME:T・ジョイ出雲 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ出雲 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:f8dcba32-f9bb-47fb-9d9f-4fc611048630
+UID:a3618121-e891-4b1d-9e49-46b0b20a602c
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
-DTSTART:20240916T010000Z
-DTEND:20240916T021000Z
-SUMMARY:[-終了] T・ジョイ出雲 シアター９ [通常上映]KING O
- F PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ出雲 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:703da95e-c7b8-4319-99cc-2c5d3a2f5327
-SEQUENCE:0
-DTSTAMP:20240916T141231Z
-DTSTART:20240916T080000Z
-DTEND:20240916T091000Z
-SUMMARY:[-終了] T・ジョイ出雲 シアター９ [通常上映]KING O
- F PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ出雲 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:ff9cef9d-d195-4309-8326-8060faf4bd1f
-SEQUENCE:0
-DTSTAMP:20240916T141231Z
-DTSTART:20240916T043000Z
-DTEND:20240916T054500Z
-SUMMARY:[-終了] T・ジョイ出雲 シアター９ [応援上映]KING O
- F PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ出雲 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:578ebff8-515f-493b-8020-71bfbd66cc2d
-SEQUENCE:0
-DTSTAMP:20240916T141231Z
-DTSTART:20240916T113500Z
-DTEND:20240916T125000Z
-SUMMARY:[-終了] T・ジョイ出雲 シアター９ [応援上映]KING O
- F PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ出雲 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:4fb654b1-e9f8-4dfe-9c25-e3d6dc68b376
-SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240917T010000Z
 DTEND:20240917T021000Z
 SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [通常上
@@ -81,9 +21,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:cbaf2cbf-543e-49eb-9ce7-27ba6b3a4aee
+UID:a8698c31-cf64-4314-ba5c-8553b4a6a2f0
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240917T080000Z
 DTEND:20240917T091000Z
 SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [通常上
@@ -96,9 +36,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:bd15b950-6db4-481e-b1ce-5f649ee11ee7
+UID:c1d52968-1dc3-4542-b7b1-49e248f839e7
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240917T043000Z
 DTEND:20240917T054500Z
 SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [応援上
@@ -111,9 +51,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:122963ad-96d7-43d3-9deb-e5b6b436d4a1
+UID:530f1d9e-a05f-4244-81ba-8a7ca38587ac
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240917T113500Z
 DTEND:20240917T125000Z
 SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [応援上
@@ -126,9 +66,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:7550e143-e1e5-40c2-82db-277c8214ad87
+UID:3776de5b-3d3e-4de7-b337-e07748289620
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240918T010000Z
 DTEND:20240918T021000Z
 SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [通常上
@@ -141,9 +81,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:0c3514d1-2479-42f7-8c7d-cf25f945958f
+UID:f912ac5d-8f04-406c-8b07-178a2adefd12
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240918T080000Z
 DTEND:20240918T091000Z
 SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [通常上
@@ -156,9 +96,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:bd3efb54-2582-4a23-9eff-3e81fb5c4f2e
+UID:f73497b2-eb80-4944-b270-885ed049042c
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240918T043000Z
 DTEND:20240918T054500Z
 SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [応援上
@@ -171,9 +111,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:dfb6ec74-2bef-4641-a492-ac98c0f98487
+UID:60b3aa67-73ef-46b1-8b2e-2b023c9c7967
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240918T113500Z
 DTEND:20240918T125000Z
 SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [応援上
@@ -186,12 +126,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:a29664db-444f-4c70-aada-fb373fe2fe64
+UID:712b15b6-0f16-4a24-ba03-9baa1c342a71
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240919T010000Z
 DTEND:20240919T021000Z
-SUMMARY:[-販売対象外] T・ジョイ出雲 シアター９ [通常上
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [通常上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ出雲 シアター９
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -201,12 +141,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:89b25337-11e8-4114-a46c-85d9e081fb42
+UID:75642bf8-6ce6-4dec-8e2e-dd9930101188
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240919T080000Z
 DTEND:20240919T091000Z
-SUMMARY:[-販売対象外] T・ジョイ出雲 シアター９ [通常上
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [通常上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ出雲 シアター９
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -216,12 +156,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:f21b558e-3534-4378-9386-c187a33e28cb
+UID:fa6aae61-80af-423a-b183-3494e6ee983f
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240919T043000Z
 DTEND:20240919T054500Z
-SUMMARY:[-販売対象外] T・ジョイ出雲 シアター９ [応援上
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [応援上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ出雲 シアター９
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -231,12 +171,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:aae36151-0be9-442a-9854-b6e72f8027b0
+UID:08db7298-3f15-4129-bd98-2d3845d88b91
 SEQUENCE:0
-DTSTAMP:20240916T141231Z
+DTSTAMP:20240916T151305Z
 DTSTART:20240919T113500Z
 DTEND:20240919T125000Z
-SUMMARY:[-販売対象外] T・ジョイ出雲 シアター９ [応援上
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター９ [応援上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ出雲 シアター９
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映

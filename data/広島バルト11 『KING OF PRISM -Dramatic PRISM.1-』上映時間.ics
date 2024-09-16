@@ -5,24 +5,9 @@ NAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:e48d076b-52ed-44e7-91e6-cce52bcc9a81
+UID:8c664a96-319a-4bcb-ba5f-3a0788f356fa
 SEQUENCE:0
-DTSTAMP:20240916T141202Z
-DTSTART:20240916T103500Z
-DTEND:20240916T115000Z
-SUMMARY:[-終了] 広島バルト11 シアター６ [通常上映]KING OF 
- PRISM -Dramatic PRISM.1-
-LOCATION:広島バルト11 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/hiroshima_wald11/cinema_schedule/C3864
- \nカレンダー生成プログラムのウェブサイト: kinpri-theate
- r-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:950577be-3881-4d74-9ba8-0eff340e2a83
-SEQUENCE:0
-DTSTAMP:20240916T141202Z
+DTSTAMP:20240916T151237Z
 DTSTART:20240917T103500Z
 DTEND:20240917T115000Z
 SUMMARY:[◎予約/購入] 広島バルト11 シアター６ [応援上映
@@ -35,9 +20,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:12538caa-7803-4bb8-8b8d-b43977202be5
+UID:961362e0-0e6a-429d-a4bc-6f9dde33fb8f
 SEQUENCE:0
-DTSTAMP:20240916T141202Z
+DTSTAMP:20240916T151237Z
 DTSTART:20240918T103500Z
 DTEND:20240918T115000Z
 SUMMARY:[◎予約/購入] 広島バルト11 シアター６ [通常上映
@@ -50,12 +35,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:65c0d6f8-ae98-4e99-b51a-7b95df325c5e
+UID:d3258684-1325-49c7-b097-e2895fef03ba
 SEQUENCE:0
-DTSTAMP:20240916T141202Z
+DTSTAMP:20240916T151237Z
 DTSTART:20240919T103500Z
 DTEND:20240919T115000Z
-SUMMARY:[-販売対象外] 広島バルト11 シアター６ [応援上映
+SUMMARY:[◎予約/購入] 広島バルト11 シアター６ [応援上映
  ]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:広島バルト11 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
