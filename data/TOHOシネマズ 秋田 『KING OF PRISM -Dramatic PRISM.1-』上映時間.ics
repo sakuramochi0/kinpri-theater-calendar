@@ -6,43 +6,9 @@ NAME:TOHOシネマズ 秋田 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:TOHOシネマズ 秋田 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:ef1fa82f-a835-4090-805b-546feeeaac34
+UID:00655568-ec6d-4a82-bfb2-2ff30941a4a1
 SEQUENCE:0
-DTSTAMP:20240916T170846Z
-DTSTART:20240915T231500Z
-DTEND:20240916T002500Z
-SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN8 ＫＩＮＧ　
- ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
- ．１－
-LOCATION:TOHOシネマズ 秋田 SCREEN8
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=024262
-END:VEVENT
-BEGIN:VEVENT
-UID:7d7cbaa7-4bbf-4134-9ba9-61c7e3f453c4
-SEQUENCE:0
-DTSTAMP:20240916T170846Z
-DTSTART:20240916T104000Z
-DTEND:20240916T115000Z
-SUMMARY:[販売期間外] TOHOシネマズ 秋田 SCREEN7 ＫＩＮＧ　
- ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
- ．１－
-LOCATION:TOHOシネマズ 秋田 SCREEN7
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=024262
-END:VEVENT
-BEGIN:VEVENT
-UID:012be43d-ec03-4af9-94e7-a4f4ec24ba47
-SEQUENCE:0
-DTSTAMP:20240916T170846Z
+DTSTAMP:20240916T190744Z
 DTSTART:20240917T065000Z
 DTEND:20240917T080000Z
 SUMMARY:[◎販売中] TOHOシネマズ 秋田 SCREEN6 ＫＩＮＧ　Ｏ
@@ -57,9 +23,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:6f270168-948d-4107-bdbb-50a1c730b366
+UID:397eff71-18d3-4bd9-b7a8-febeeffb13f1
 SEQUENCE:0
-DTSTAMP:20240916T170846Z
+DTSTAMP:20240916T190744Z
 DTSTART:20240918T065000Z
 DTEND:20240918T080000Z
 SUMMARY:[◎販売中] TOHOシネマズ 秋田 SCREEN6 ＫＩＮＧ　Ｏ
@@ -74,9 +40,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:624e07c4-e96d-4289-973c-10edf483f595
+UID:dfed4263-f8fe-4523-8bcf-87ef1c0aaaee
 SEQUENCE:0
-DTSTAMP:20240916T170846Z
+DTSTAMP:20240916T190744Z
 DTSTART:20240919T065000Z
 DTEND:20240919T080000Z
 SUMMARY:[◎販売中] TOHOシネマズ 秋田 SCREEN6 ＫＩＮＧ　Ｏ
