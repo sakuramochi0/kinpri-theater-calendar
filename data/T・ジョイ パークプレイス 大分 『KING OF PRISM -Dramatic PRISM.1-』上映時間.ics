@@ -5,4 +5,64 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
   PRISM.1-』上映時間
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:ff1b4820-e074-4ef9-a77d-c2ae7ef512e3
+SEQUENCE:0
+DTSTAMP:20240917T162918Z
+DTSTART:20240918T093000Z
+DTEND:20240918T104500Z
+SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
+ アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 3864\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:0742b567-83ec-484c-9d8c-13cfac575227
+SEQUENCE:0
+DTSTAMP:20240917T162918Z
+DTSTART:20240919T093000Z
+DTEND:20240919T104500Z
+SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
+ アター８ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 3864\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3579e9-16be-4f8d-81f9-05f9117b074e
+SEQUENCE:0
+DTSTAMP:20240917T162918Z
+DTSTART:20240920T120000Z
+DTEND:20240920T131500Z
+SUMMARY:[◎予約/購入] T・ジョイ パークプレイス 大分 シ
+ アター１ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 3864\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:27f245bf-3850-4a31-9b30-0043b250f880
+SEQUENCE:0
+DTSTAMP:20240917T162918Z
+DTSTART:20240921T120000Z
+DTEND:20240921T131500Z
+SUMMARY:[-販売対象外] T・ジョイ パークプレイス 大分 シ
+ アター１ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 3864\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C3864
+END:VEVENT
 END:VCALENDAR
