@@ -5,49 +5,4 @@ NAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
-BEGIN:VEVENT
-UID:c5e28bc3-6e0c-451e-85cd-89fd31966725
-SEQUENCE:0
-DTSTAMP:20240917T014543Z
-DTSTART:20240917T102500Z
-DTEND:20240917T114000Z
-SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター５ [応援上
- 映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ蘇我 シアター５
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:3bf0578f-9381-4fdd-a4ee-886def36239c
-SEQUENCE:0
-DTSTAMP:20240917T014543Z
-DTSTART:20240918T102500Z
-DTEND:20240918T114000Z
-SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター５ [応援上
- 映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ蘇我 シアター５
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:67377eb8-08fe-456b-b3d4-d031c150b8d7
-SEQUENCE:0
-DTSTAMP:20240917T014543Z
-DTSTART:20240919T102500Z
-DTEND:20240919T114000Z
-SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター５ [応援上
- 映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ蘇我 シアター５
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C3864
-END:VEVENT
 END:VCALENDAR
