@@ -6,9 +6,9 @@ NAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:2ff66ec0-9be1-4849-a62d-a617545417ee
+UID:e9b9b167-acb1-45fe-96f5-d4e4ca095c75
 SEQUENCE:0
-DTSTAMP:20240917T061557Z
+DTSTAMP:20240917T111255Z
 DTSTART:20240917T020000Z
 DTEND:20240917T031700Z
 SUMMARY:[販売対象外] ユナイテッド・シネマ幕張 2screen KIN
@@ -22,13 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:557dff1a-6195-43ae-b79e-9a98b09a597b
+UID:19aea2da-3f8f-4472-aa48-5fb8e5f9cacf
 SEQUENCE:0
-DTSTAMP:20240917T061557Z
+DTSTAMP:20240917T111255Z
 DTSTART:20240917T103000Z
 DTEND:20240917T115000Z
-SUMMARY:[○] ユナイテッド・シネマ幕張 9screen プリズムス
- タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[販売対象外] ユナイテッド・シネマ幕張 9screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ幕張 9screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
@@ -38,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:76b46ff1-f34a-4194-ae50-fd959846ab4a
+UID:3df8c9c7-2f83-4ca9-b40b-bbb021fad7ce
 SEQUENCE:0
-DTSTAMP:20240917T061557Z
+DTSTAMP:20240917T111255Z
 DTSTART:20240918T020000Z
 DTEND:20240918T031700Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 2screen KING OF PRISM -
@@ -54,9 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:09f6906a-c827-483c-b94c-29eaf8305d37
+UID:60f4d2b0-66fb-461d-a88b-d2fe419eb3ed
 SEQUENCE:0
-DTSTAMP:20240917T061557Z
+DTSTAMP:20240917T111255Z
 DTSTART:20240918T103000Z
 DTEND:20240918T115000Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 9screen プリズムス
@@ -70,9 +70,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d3612593-4458-42f3-bf24-0036bafd0d35
+UID:f7e7072e-34cb-4806-b1ab-4d02196705b9
 SEQUENCE:0
-DTSTAMP:20240917T061557Z
+DTSTAMP:20240917T111255Z
 DTSTART:20240919T020000Z
 DTEND:20240919T031700Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 2screen KING OF PRISM -
@@ -86,14 +86,222 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:fc9efdc4-ef38-4bfd-975c-62b14610680a
+UID:e29543b6-9bef-465e-a633-a1dadaffc1bb
 SEQUENCE:0
-DTSTAMP:20240917T061557Z
+DTSTAMP:20240917T111255Z
 DTSTART:20240919T103000Z
 DTEND:20240919T115000Z
 SUMMARY:[○] ユナイテッド・シネマ幕張 9screen プリズムス
  タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ幕張 9screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:57a5fd34-5ad3-4b5f-ade2-1d1e18fcc841
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240920T043000Z
+DTEND:20240920T054700Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 2screen KIN
+ G OF PRISM -Dramatic PRISM.1-
+LOCATION:ユナイテッド・シネマ幕張 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:015fba70-c645-42cc-aef1-e1e87f1a8ac8
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240920T104000Z
+DTEND:20240920T120000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 10screen 
+ プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ幕張 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:15a58c60-96c2-4fdd-b14b-c6fd315012ff
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240921T043000Z
+DTEND:20240921T054700Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 2screen KIN
+ G OF PRISM -Dramatic PRISM.1-
+LOCATION:ユナイテッド・シネマ幕張 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1c6e5f1f-e49f-4159-9949-a92dd3e9801b
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240921T104000Z
+DTEND:20240921T120000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 10screen 
+ プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ幕張 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:d55778f4-6862-4d41-95bd-8935291918a5
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240922T043000Z
+DTEND:20240922T054700Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 2screen KIN
+ G OF PRISM -Dramatic PRISM.1-
+LOCATION:ユナイテッド・シネマ幕張 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:23b4a32b-d5cb-4e1d-bbab-9e794c9aef53
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240922T104000Z
+DTEND:20240922T120000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 10screen 
+ プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ幕張 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6cf7d8-5dbf-4bf9-af46-c58343586503
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240923T095000Z
+DTEND:20240923T111000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 9screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ幕張 9screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:6c7a8ce5-1914-4e38-a6ce-5e2dd37cd2c6
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240924T043000Z
+DTEND:20240924T054700Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 2screen KIN
+ G OF PRISM -Dramatic PRISM.1-
+LOCATION:ユナイテッド・シネマ幕張 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1860b12c-1cdc-4841-87ab-9223987cfe71
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240924T104000Z
+DTEND:20240924T120000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 10screen 
+ プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ幕張 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1d728204-8b9a-4b95-b636-f07f6c217b3a
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240925T043000Z
+DTEND:20240925T054700Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 2screen KIN
+ G OF PRISM -Dramatic PRISM.1-
+LOCATION:ユナイテッド・シネマ幕張 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a5a3aa87-b182-459f-b85b-007e31ca813a
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240925T104000Z
+DTEND:20240925T120000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 10screen 
+ プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ幕張 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1487431f-59d0-4d85-96ac-99577011546b
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240926T043000Z
+DTEND:20240926T054700Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 2screen KIN
+ G OF PRISM -Dramatic PRISM.1-
+LOCATION:ユナイテッド・シネマ幕張 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:b3a73973-2e59-4e2d-b951-f5ec6f8bb7bf
+SEQUENCE:0
+DTSTAMP:20240917T111255Z
+DTSTART:20240926T104000Z
+DTEND:20240926T120000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ幕張 10screen 
+ プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ幕張 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
  1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
