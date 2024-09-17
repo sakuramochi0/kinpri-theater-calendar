@@ -6,9 +6,9 @@ NAME:TOHOシネマズ 高知 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:TOHOシネマズ 高知 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:67d7df75-08e7-4d4c-ac81-7a178d121167
+UID:db40a5ab-7422-453e-aa76-c6b031bd0db0
 SEQUENCE:0
-DTSTAMP:20240917T091020Z
+DTSTAMP:20240917T101037Z
 DTSTART:20240917T002000Z
 DTEND:20240917T013000Z
 SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN5 ＫＩＮＧ　
@@ -23,9 +23,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:8256935a-2e3e-4422-9f4a-fef1f80bf4d6
+UID:0af352fa-ffec-4fa3-aaa7-d4199a82c1de
 SEQUENCE:0
-DTSTAMP:20240917T091020Z
+DTSTAMP:20240917T101037Z
 DTSTART:20240917T105000Z
 DTEND:20240917T120000Z
 SUMMARY:[◎販売中] TOHOシネマズ 高知 SCREEN5 ＫＩＮＧ　Ｏ
@@ -40,9 +40,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:1a770d0b-7d25-4075-9a18-39b32d8a50e2
+UID:e7d5afa9-17fd-449c-82a0-0521dfae94fe
 SEQUENCE:0
-DTSTAMP:20240917T091020Z
+DTSTAMP:20240917T101037Z
 DTSTART:20240918T002000Z
 DTEND:20240918T013000Z
 SUMMARY:[◎販売中] TOHOシネマズ 高知 SCREEN5 ＫＩＮＧ　Ｏ
@@ -57,9 +57,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:337af37d-a68b-4347-a29e-0e152f05d485
+UID:eb0b3f14-d48c-4df0-876b-bde5221d8785
 SEQUENCE:0
-DTSTAMP:20240917T091020Z
+DTSTAMP:20240917T101037Z
 DTSTART:20240918T105000Z
 DTEND:20240918T120000Z
 SUMMARY:[◎販売中] TOHOシネマズ 高知 SCREEN5 ＫＩＮＧ　Ｏ
@@ -74,9 +74,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:e7ababe0-9114-4f06-a8ed-30ffe21312c8
+UID:6ed4cb4d-7640-402e-b98a-c0d799854649
 SEQUENCE:0
-DTSTAMP:20240917T091020Z
+DTSTAMP:20240917T101037Z
 DTSTART:20240919T002000Z
 DTEND:20240919T013000Z
 SUMMARY:[◎販売中] TOHOシネマズ 高知 SCREEN5 ＫＩＮＧ　Ｏ
@@ -91,15 +91,134 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:1565f1fa-519c-479b-98bf-855192bc48b2
+UID:a5efe419-0b9b-42fc-8cf8-83a096982c7d
 SEQUENCE:0
-DTSTAMP:20240917T091020Z
+DTSTAMP:20240917T101037Z
 DTSTART:20240919T105000Z
 DTEND:20240919T120000Z
 SUMMARY:[◎販売中] TOHOシネマズ 高知 SCREEN5 ＫＩＮＧ　Ｏ
  Ｆ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ．
  １－
 LOCATION:TOHOシネマズ 高知 SCREEN5
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:74fd4954-74fc-4b80-aecf-ec54e54eec3e
+SEQUENCE:0
+DTSTAMP:20240917T101037Z
+DTSTART:20240920T110000Z
+DTEND:20240920T121000Z
+SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
+LOCATION:TOHOシネマズ 高知 SCREEN8
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:6c2d15a0-a2f5-416d-bbc6-768f3f999b4d
+SEQUENCE:0
+DTSTAMP:20240917T101037Z
+DTSTART:20240921T110000Z
+DTEND:20240921T121000Z
+SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
+LOCATION:TOHOシネマズ 高知 SCREEN8
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:d0470e21-a951-4e49-b90f-2820e9b4db2d
+SEQUENCE:0
+DTSTAMP:20240917T101037Z
+DTSTART:20240922T110000Z
+DTEND:20240922T121000Z
+SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
+LOCATION:TOHOシネマズ 高知 SCREEN8
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:b6380ee3-4fcc-4c65-8baa-af51c4951b75
+SEQUENCE:0
+DTSTAMP:20240917T101037Z
+DTSTART:20240923T110000Z
+DTEND:20240923T121000Z
+SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
+LOCATION:TOHOシネマズ 高知 SCREEN8
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:447afd2a-8457-47a4-87e3-c4bd95545cad
+SEQUENCE:0
+DTSTAMP:20240917T101037Z
+DTSTART:20240924T110000Z
+DTEND:20240924T121000Z
+SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
+LOCATION:TOHOシネマズ 高知 SCREEN8
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:9b09954a-dc29-4152-b7b7-07ed5257df61
+SEQUENCE:0
+DTSTAMP:20240917T101037Z
+DTSTART:20240925T110000Z
+DTEND:20240925T121000Z
+SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
+LOCATION:TOHOシネマズ 高知 SCREEN8
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=024262
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7158bf-9940-4ec6-ada3-01fe6ee1ae00
+SEQUENCE:0
+DTSTAMP:20240917T101037Z
+DTSTART:20240926T110000Z
+DTEND:20240926T121000Z
+SUMMARY:[販売期間外] TOHOシネマズ 高知 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
+LOCATION:TOHOシネマズ 高知 SCREEN8
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
  kuhin_cd=024262\nカレンダー生成プログラムのウェブサイト
