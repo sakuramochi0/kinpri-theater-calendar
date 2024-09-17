@@ -6,9 +6,9 @@ NAME:グランドシネマサンシャイン池袋 『KING OF PRISM -Drama
 X-WR-CALNAME:グランドシネマサンシャイン池袋 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:31aa6604-e8d2-4d8c-8499-42b52bfcb772
+UID:fabb37a9-3ef6-411f-b530-5ed8b8f8a3f9
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
+DTSTAMP:20240917T131710Z
 DTSTART:20240917T013500Z
 DTEND:20240917T025200Z
 SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
@@ -23,9 +23,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:0ecd44c7-5f56-4672-b1a4-524490568f94
+UID:f3138067-14b8-4205-9067-ab29014c293f
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
+DTSTAMP:20240917T131710Z
 DTSTART:20240917T055500Z
 DTEND:20240917T071200Z
 SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
@@ -40,9 +40,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:66710343-ec68-4548-905b-4b4ffd59ffb4
+UID:f24f6e01-9d77-4db9-b5cb-2a20aad9a479
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
+DTSTAMP:20240917T131710Z
 DTSTART:20240917T094000Z
 DTEND:20240917T105700Z
 SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
@@ -57,9 +57,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:edd1313b-648b-4be9-973b-065f570d19ed
+UID:07b77131-1924-40b5-8b61-b58ea7b2de50
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
+DTSTAMP:20240917T131710Z
 DTSTART:20240918T013500Z
 DTEND:20240918T025200Z
 SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
@@ -74,9 +74,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:a56c5bda-9d23-4c0d-8fee-3c7c61715ceb
+UID:381c1eb2-8d76-43a7-a100-328460e2c625
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
+DTSTAMP:20240917T131710Z
 DTSTART:20240918T055500Z
 DTEND:20240918T071200Z
 SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
@@ -91,9 +91,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e858a4-8191-41b4-b391-023cb95de562
+UID:b1596ea7-72dc-4fd8-b677-66e531ded2f6
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
+DTSTAMP:20240917T131710Z
 DTSTART:20240918T094000Z
 DTEND:20240918T105700Z
 SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
@@ -108,14 +108,14 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:bd1738ba-ae9c-42f8-ab96-0b44e3f17dee
+UID:1da9bf43-f9f1-42c4-ac80-dec77c1a89bb
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
+DTSTAMP:20240917T131710Z
 DTSTART:20240919T013500Z
 DTEND:20240919T025200Z
-SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
- シアター５ BESTIA プリズムスタァ応援上映『KING OF PRISM -
- Dramatic PRISM.1-』BESTIA enhanced
+SUMMARY:[◯ 購入] グランドシネマサンシャイン池袋 シア
+ ター５ BESTIA プリズムスタァ応援上映『KING OF PRISM -Dramat
+ ic PRISM.1-』BESTIA enhanced
 LOCATION:グランドシネマサンシャイン池袋 シアター５ BES
  TIA
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -125,14 +125,14 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:ac80a3e9-77ad-47cb-b4a0-cfcf72ea0659
+UID:2e41835d-a45c-4a2f-9094-e227ea70c4b3
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
+DTSTAMP:20240917T131710Z
 DTSTART:20240919T055500Z
 DTEND:20240919T071200Z
-SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
- シアター６ BESTIA プリズムスタァ応援上映『KING OF PRISM -
- Dramatic PRISM.1-』BESTIA enhanced
+SUMMARY:[◯ 購入] グランドシネマサンシャイン池袋 シア
+ ター６ BESTIA プリズムスタァ応援上映『KING OF PRISM -Dramat
+ ic PRISM.1-』BESTIA enhanced
 LOCATION:グランドシネマサンシャイン池袋 シアター６ BES
  TIA
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -142,14 +142,14 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:1d8aa95b-d320-4234-aca2-36279e1e8a9d
+UID:a89ebc40-b633-4f93-9c20-95437f55b326
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
+DTSTAMP:20240917T131710Z
 DTSTART:20240919T094000Z
 DTEND:20240919T105700Z
-SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
- シアター６ BESTIA プリズムスタァ応援上映『KING OF PRISM -
- Dramatic PRISM.1-』BESTIA enhanced
+SUMMARY:[◯ 購入] グランドシネマサンシャイン池袋 シア
+ ター６ BESTIA プリズムスタァ応援上映『KING OF PRISM -Dramat
+ ic PRISM.1-』BESTIA enhanced
 LOCATION:グランドシネマサンシャイン池袋 シアター６ BES
  TIA
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -159,14 +159,31 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:3b1a27da-2c65-4cca-be6c-05f7ace390fe
+UID:a803053a-4add-481f-9332-bb39e0018e01
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
-DTSTART:20240919T232000Z
-DTEND:20240920T003700Z
-SUMMARY:[会員先行販売] グランドシネマサンシャイン池袋
-  シアター６ BESTIA プリズムスタァ応援上映『KING OF PRISM 
- -Dramatic PRISM.1-』BESTIA enhanced
+DTSTAMP:20240917T131710Z
+DTSTART:20240920T013500Z
+DTEND:20240920T025200Z
+SUMMARY:[◯ 購入] グランドシネマサンシャイン池袋 シア
+ ター５ BESTIA プリズムスタァ応援上映『KING OF PRISM -Dramat
+ ic PRISM.1-』BESTIA enhanced
+LOCATION:グランドシネマサンシャイン池袋 シアター５ BES
+ TIA
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.cinemasunshine.co.jp/theater/gdcs/\nカレ
+ ンダー生成プログラムのウェブサイト: kinpri-theater-calend
+ ar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
+BEGIN:VEVENT
+UID:efc5c08f-0aac-4e33-9348-246f0e740067
+SEQUENCE:0
+DTSTAMP:20240917T131710Z
+DTSTART:20240920T055500Z
+DTEND:20240920T071200Z
+SUMMARY:[◯ 購入] グランドシネマサンシャイン池袋 シア
+ ター６ BESTIA プリズムスタァ応援上映『KING OF PRISM -Dramat
+ ic PRISM.1-』BESTIA enhanced
 LOCATION:グランドシネマサンシャイン池袋 シアター６ BES
  TIA
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -176,14 +193,14 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
 END:VEVENT
 BEGIN:VEVENT
-UID:33f2d4f7-5719-484f-beb9-f0d981780cfc
+UID:e200763d-39fa-4658-8f6f-d338f965ab68
 SEQUENCE:0
-DTSTAMP:20240917T121614Z
-DTSTART:20240920T100500Z
-DTEND:20240920T112200Z
-SUMMARY:[会員先行販売] グランドシネマサンシャイン池袋
-  シアター６ BESTIA プリズムスタァ応援上映『KING OF PRISM 
- -Dramatic PRISM.1-』BESTIA enhanced
+DTSTAMP:20240917T131710Z
+DTSTART:20240920T094000Z
+DTEND:20240920T105700Z
+SUMMARY:[◯ 購入] グランドシネマサンシャイン池袋 シア
+ ター６ BESTIA プリズムスタァ応援上映『KING OF PRISM -Dramat
+ ic PRISM.1-』BESTIA enhanced
 LOCATION:グランドシネマサンシャイン池袋 シアター６ BES
  TIA
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映

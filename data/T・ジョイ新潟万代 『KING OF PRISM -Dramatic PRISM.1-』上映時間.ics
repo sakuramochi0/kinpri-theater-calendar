@@ -6,9 +6,9 @@ NAME:T・ジョイ新潟万代 『KING OF PRISM -Dramatic PRISM.1-』上
 X-WR-CALNAME:T・ジョイ新潟万代 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:1265dc4f-a96e-4e0e-99ae-1e6110028dbe
+UID:1dd87de5-e476-4482-b217-090943252a7d
 SEQUENCE:0
-DTSTAMP:20240917T110816Z
+DTSTAMP:20240917T131723Z
 DTSTART:20240917T075000Z
 DTEND:20240917T090500Z
 SUMMARY:[-終了] T・ジョイ新潟万代 シアター５ [通常上映]
@@ -21,9 +21,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:f020e925-8b69-49d2-8967-928fd3ac8f77
+UID:28c31e87-c3f6-4b57-b0c8-cd8cec636195
 SEQUENCE:0
-DTSTAMP:20240917T110816Z
+DTSTAMP:20240917T131723Z
 DTSTART:20240918T075000Z
 DTEND:20240918T090500Z
 SUMMARY:[◎予約/購入] T・ジョイ新潟万代 シアター５ [応
@@ -36,14 +36,44 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:1411c8c7-589c-490b-9470-a2d4b386e488
+UID:5ad1990c-9ede-428e-971c-2e348f265c1a
 SEQUENCE:0
-DTSTAMP:20240917T110816Z
+DTSTAMP:20240917T131723Z
 DTSTART:20240919T075000Z
 DTEND:20240919T090500Z
 SUMMARY:[◎予約/購入] T・ジョイ新潟万代 シアター５ [応
  援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ新潟万代 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C3
+ 864\nカレンダー生成プログラムのウェブサイト: kinpri-the
+ ater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:3242729b-3aa9-4687-871c-3a8b473e9a2f
+SEQUENCE:0
+DTSTAMP:20240917T131723Z
+DTSTART:20240920T101500Z
+DTEND:20240920T113000Z
+SUMMARY:[-販売対象外] T・ジョイ新潟万代 シアター７ [応
+ 援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ新潟万代 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C3
+ 864\nカレンダー生成プログラムのウェブサイト: kinpri-the
+ ater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:1977dc05-7ef9-4149-910c-d1501acb3926
+SEQUENCE:0
+DTSTAMP:20240917T131723Z
+DTSTART:20240921T101500Z
+DTEND:20240921T113000Z
+SUMMARY:[-販売対象外] T・ジョイ新潟万代 シアター７ [応
+ 援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ新潟万代 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C3
  864\nカレンダー生成プログラムのウェブサイト: kinpri-the
