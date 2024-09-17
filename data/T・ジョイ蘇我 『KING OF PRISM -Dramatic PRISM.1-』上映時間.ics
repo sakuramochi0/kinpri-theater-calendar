@@ -6,13 +6,13 @@ NAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:afff5af5-f23e-4b8d-b377-100dcd9b1422
+UID:221d37b9-7280-4bb5-b58c-548c2d8acec5
 SEQUENCE:0
-DTSTAMP:20240917T110931Z
+DTSTAMP:20240917T121800Z
 DTSTART:20240917T102500Z
 DTEND:20240917T114000Z
-SUMMARY:[-販売終了] T・ジョイ蘇我 シアター５ [応援上映]
- KING OF PRISM -Dramatic PRISM.1-
+SUMMARY:[-終了] T・ジョイ蘇我 シアター５ [応援上映]KING O
+ F PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ蘇我 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C3864\nカ
@@ -21,9 +21,9 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:d3a0d10c-2fc0-415a-8591-ffe9c89b168c
+UID:01be8400-ac39-451d-befe-b372793823b3
 SEQUENCE:0
-DTSTAMP:20240917T110931Z
+DTSTAMP:20240917T121800Z
 DTSTART:20240918T102500Z
 DTEND:20240918T114000Z
 SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター５ [応援上
@@ -36,14 +36,29 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:63aeeb91-e5b8-40a6-8f8f-bdeb75ee26f6
+UID:610c47ee-60a3-4182-a6c4-4dba5165c153
 SEQUENCE:0
-DTSTAMP:20240917T110931Z
+DTSTAMP:20240917T121800Z
 DTSTART:20240919T102500Z
 DTEND:20240919T114000Z
 SUMMARY:[◎予約/購入] T・ジョイ蘇我 シアター５ [応援上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ蘇我 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:e92a1894-fcad-4c06-a645-13246c0a1523
+SEQUENCE:0
+DTSTAMP:20240917T121800Z
+DTSTART:20240920T100000Z
+DTEND:20240920T111500Z
+SUMMARY:[-販売対象外] T・ジョイ蘇我 シアター２ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ蘇我 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C3864\nカ
  レンダー生成プログラムのウェブサイト: kinpri-theater-cal
