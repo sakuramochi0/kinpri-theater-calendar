@@ -6,25 +6,9 @@ NAME:T・ジョイ リバーウォーク 北九州 『KING OF PRISM -Drama
 X-WR-CALNAME:T・ジョイ リバーウォーク 北九州 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:cacc2cf2-8bd9-4890-9994-e7703be9d401
+UID:147d2046-eade-4af5-932d-d3d8ab787dbf
 SEQUENCE:0
-DTSTAMP:20240917T141236Z
-DTSTART:20240917T100000Z
-DTEND:20240917T111500Z
-SUMMARY:[-終了] T・ジョイ リバーウォーク 北九州 シアタ
- ー２ [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ リバーウォーク 北九州 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
- dule/C3864\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
- 3864
-END:VEVENT
-BEGIN:VEVENT
-UID:44dcad81-94d2-4fe2-a34f-65c77ca08abf
-SEQUENCE:0
-DTSTAMP:20240917T141236Z
+DTSTAMP:20240917T151244Z
 DTSTART:20240918T100000Z
 DTEND:20240918T111500Z
 SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
@@ -38,14 +22,30 @@ URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
  3864
 END:VEVENT
 BEGIN:VEVENT
-UID:b5247860-6a4f-47a0-8b24-7e9f32ef0df6
+UID:61ffd3be-178d-44e1-9225-179c52e013d7
 SEQUENCE:0
-DTSTAMP:20240917T141236Z
+DTSTAMP:20240917T151244Z
 DTSTART:20240919T100000Z
 DTEND:20240919T111500Z
 SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
  シアター２ [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ リバーウォーク 北九州 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C3864\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 3864
+END:VEVENT
+BEGIN:VEVENT
+UID:da0e1569-1d0c-4495-bc4a-1a3ce8348859
+SEQUENCE:0
+DTSTAMP:20240917T151244Z
+DTSTART:20240920T000000Z
+DTEND:20240920T011500Z
+SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
+ シアター５ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
  dule/C3864\nカレンダー生成プログラムのウェブサイト: kin

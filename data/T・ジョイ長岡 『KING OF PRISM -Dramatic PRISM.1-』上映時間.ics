@@ -6,24 +6,9 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:86efa7fe-ff0d-46f0-8f3c-036276d07478
+UID:510b41d0-8bab-41dc-a877-bc5b58ac1284
 SEQUENCE:0
-DTSTAMP:20240917T140858Z
-DTSTART:20240917T001000Z
-DTEND:20240917T012000Z
-SUMMARY:[-終了] T・ジョイ長岡 シアター４ [応援上映]KING O
- F PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ長岡 シアター４
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:26693192-cc5b-4608-829b-26d9971448a5
-SEQUENCE:0
-DTSTAMP:20240917T140858Z
+DTSTAMP:20240917T151028Z
 DTSTART:20240918T001000Z
 DTEND:20240918T012000Z
 SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター４ [応援上
@@ -36,14 +21,29 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:3f03c9dc-2f28-40bc-9fc7-3a7054410340
+UID:9766127e-c1f3-48be-b80e-6160b9fd352d
 SEQUENCE:0
-DTSTAMP:20240917T140858Z
+DTSTAMP:20240917T151028Z
 DTSTART:20240919T001000Z
 DTEND:20240919T012000Z
 SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター４ [応援上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:98928921-5396-4957-bb5c-66d0fb800e3d
+SEQUENCE:0
+DTSTAMP:20240917T151028Z
+DTSTART:20240920T080500Z
+DTEND:20240920T091500Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
  カレンダー生成プログラムのウェブサイト: kinpri-theater-
