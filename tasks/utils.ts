@@ -2,6 +2,9 @@ import { Schedule } from './types';
 import ical from 'ical-generator';
 import { writeFileSync } from 'node:fs';
 import pino from 'pino';
+import { v5 as uuidv5 } from 'uuid'
+
+const UUID_NAMESPACE = '3fc014d2-2571-41f2-b05d-cf07db4b097e';
 
 export const rootLogger = pino()
 
@@ -10,7 +13,9 @@ export function generateICal(theaterName: string, url: string, schedules: Schedu
   const calendar = ical({ name: calendarName });
 
   schedules.forEach(schedule => {
+    const id = JSON.stringify(schedule)
     calendar.createEvent({
+      id: uuidv5(id, UUID_NAMESPACE),
       start: schedule.startTime,
       end: schedule.endTime,
       summary: `${schedule.status ? `[${schedule.status}] ` : ''}${theaterName} ${schedule.screenName} ${schedule.title ?? ''}`,

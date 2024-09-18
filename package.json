@@ -16,7 +16,8 @@
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@playwright/test": "^1.46.1",
-    "@types/node": "^22.5.0"
+    "@types/node": "^22.5.0",
+    "@types/uuid": "^10.0.0"
   },
   "packageManager": "pnpm@9.7.1+sha512.faf344af2d6ca65c4c5c8c2224ea77a81a5e8859cbc4e06b1511ddce2f0151512431dd19e6aff31f2c6a8f5f2aced9bd2273e1fed7dd4de1868984059d2c4247",
   "dependencies": {
@@ -24,6 +25,7 @@
     "ical-generator": "^8.0.0",
     "mustache": "^4.2.0",
     "pino": "^9.4.0",
-    "tsx": "^4.19.0"
+    "tsx": "^4.19.0",
+    "uuid": "^10.0.0"
   }
 }
