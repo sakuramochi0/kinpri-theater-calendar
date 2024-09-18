@@ -19,7 +19,7 @@ test('グランドシネマサンシャイン池袋', async ({ page }) => {
   for (let i = 0; i < dayCount; i++) {
     await page.locator('.schedule-swiper__item').nth(i).click()
     // TODO: better wait method for loading
-    await page.waitForTimeout(500)
+    await page.waitForTimeout(1000)
     schedules.push(...await getCinemaSunshineDailySchedules(page))
   }
 
