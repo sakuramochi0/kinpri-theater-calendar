@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ橿原 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ橿原 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:35fa691b-d5c1-4097-9fb5-cbc67ee991c4
+UID:97c54d7d-0386-53ef-a407-4af8ef9b833a
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
-DTSTART:20240918T031000Z
-DTEND:20240918T042700Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ橿原 6screen KIN
- G OF PRISM -Dramatic PRISM.1-
-LOCATION:ユナイテッド・シネマ橿原 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
- 11512&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:cef8b69f-3cab-4f8d-802a-fa6355a97a98
-SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240919T031000Z
 DTEND:20240919T042700Z
 SUMMARY:[○] ユナイテッド・シネマ橿原 6screen KING OF PRISM -
@@ -38,9 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:fc24601b-4709-4aba-aa44-09585fdbca16
+UID:77dcaf11-e6e5-5ff5-9f02-8a6cde2d5551
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240920T030000Z
 DTEND:20240920T042000Z
 SUMMARY:[○] ユナイテッド・シネマ橿原 7screen プリズムス
@@ -54,9 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:bdc8cd84-4d20-471e-93f1-9496504fdc4f
+UID:d2f3b32f-6a60-5b94-9de2-4615ad0c43ce
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240920T100000Z
 DTEND:20240920T112000Z
 SUMMARY:[○] ユナイテッド・シネマ橿原 7screen プリズムス
@@ -70,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:6404bd3f-5678-4288-b3c6-b1f9b18b2f09
+UID:71215da0-3c03-5183-a62f-5bb0f9346a7e
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240921T074000Z
 DTEND:20240921T090000Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ橿原 7screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ橿原 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
@@ -86,13 +70,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c441118f-f123-4d64-85d8-ee4e41c78899
+UID:67ed4157-fe36-59f8-a397-428c2dc9c180
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240921T100000Z
 DTEND:20240921T112000Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 5screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ橿原 5screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ橿原 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
@@ -102,9 +86,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5b9c9764-eb2c-4fdf-99ad-1906078d0a4f
+UID:1d562f51-b4d9-52be-94d9-b678a3f8facb
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240922T074000Z
 DTEND:20240922T090000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
@@ -118,9 +102,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d68cfce0-a95f-400a-aa61-24fd525420e6
+UID:cdf4a9d0-e209-5baf-9c4b-49dee6a9d945
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240922T100000Z
 DTEND:20240922T112000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 5screen プ
@@ -134,9 +118,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3591d1b1-ea59-4111-bd47-a81463ec6c2a
+UID:ff196f84-ee30-5790-9e84-c367b766c5b1
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240923T074000Z
 DTEND:20240923T090000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
@@ -150,9 +134,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5b735c30-591b-48ad-a19f-17d04645a677
+UID:02fbea8f-fe4e-5162-872c-3dda1ad1881b
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240923T100000Z
 DTEND:20240923T112000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 5screen プ
@@ -166,9 +150,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3b51061e-3e21-47ca-a3b4-fc59920e8b69
+UID:5525b149-0758-54b5-aa2a-38c08e6ff5fc
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240924T030000Z
 DTEND:20240924T042000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
@@ -182,9 +166,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:78d75390-8210-4c9c-9d6b-32d4355fe1cb
+UID:68e297f6-b07d-5ccd-99b9-394b84c881d9
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240924T100000Z
 DTEND:20240924T112000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
@@ -198,9 +182,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:08792b23-c4fc-4ecc-9312-2afe6158b9d4
+UID:358fd647-696f-56e0-b2f3-bdc02c99cd20
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240925T030000Z
 DTEND:20240925T042000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
@@ -214,9 +198,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:8a685673-f6d2-4cbc-9e65-72e84755d0b4
+UID:92fd5ca8-63a9-5494-96d7-965e7e3daf33
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240925T100000Z
 DTEND:20240925T112000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
@@ -230,9 +214,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c4ddeaf5-d7aa-4a00-b5e5-8553320dcb1d
+UID:2c4c6344-6a70-5efc-a673-d7f7355b0057
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240926T030000Z
 DTEND:20240926T042000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
@@ -246,9 +230,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3492a8d0-897a-423c-a72c-d6edbd1f933d
+UID:021263ed-72dd-5a53-ae39-56120182ff39
 SEQUENCE:0
-DTSTAMP:20240918T073959Z
+DTSTAMP:20240918T211434Z
 DTSTART:20240926T100000Z
 DTEND:20240926T112000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
