@@ -5,4 +5,113 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
+BEGIN:VEVENT
+UID:2fb1f751-c06a-56fa-8709-08adf2648595
+SEQUENCE:0
+DTSTAMP:20240920T031301Z
+DTSTART:20240920T080500Z
+DTEND:20240920T091500Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:81cfcc3f-33aa-590c-a957-dac0c890939f
+SEQUENCE:0
+DTSTAMP:20240920T031301Z
+DTSTART:20240921T104500Z
+DTEND:20240921T115500Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター１０\n       
+                                                                      T-LEX
+  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター１０\n                         
+                                                    T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:6c05c765-9af0-5406-b4f4-9c8697e7db9d
+SEQUENCE:0
+DTSTAMP:20240920T031301Z
+DTSTART:20240922T102500Z
+DTEND:20240922T113500Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター１０\n       
+                                                                      T-LEX
+  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター１０\n                         
+                                                    T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:095cd397-8fd7-5789-b1cc-cd6bbdd8196b
+SEQUENCE:0
+DTSTAMP:20240920T031301Z
+DTSTART:20240923T083500Z
+DTEND:20240923T094500Z
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター３ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:96903aff-9892-5b4f-b455-0d9af281d6b9
+SEQUENCE:0
+DTSTAMP:20240920T031301Z
+DTSTART:20240924T080500Z
+DTEND:20240924T091500Z
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:5ee6a66c-b467-5a62-80a3-f3c58a209fa9
+SEQUENCE:0
+DTSTAMP:20240920T031301Z
+DTSTART:20240925T080500Z
+DTEND:20240925T091500Z
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:900f31e2-26b3-5150-94a5-cc01e1616ac0
+SEQUENCE:0
+DTSTAMP:20240920T031301Z
+DTSTART:20240926T080500Z
+DTEND:20240926T091500Z
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター１ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
 END:VCALENDAR
