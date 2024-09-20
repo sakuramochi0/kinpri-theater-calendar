@@ -5,20 +5,4 @@ NAME:T・ジョイ リバーウォーク 北九州 『KING OF PRISM -Drama
  tic PRISM.1-』上映時間
 X-WR-CALNAME:T・ジョイ リバーウォーク 北九州 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
-BEGIN:VEVENT
-UID:068f13b9-20a5-515c-bd1d-b705e2e9ac6b
-SEQUENCE:0
-DTSTAMP:20240920T141528Z
-DTSTART:20240920T000000Z
-DTEND:20240920T011500Z
-SUMMARY:[-終了] T・ジョイ リバーウォーク 北九州 シアタ
- ー５ [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ リバーウォーク 北九州 シアター５
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
- dule/C3864\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
- 3864
-END:VEVENT
 END:VCALENDAR
