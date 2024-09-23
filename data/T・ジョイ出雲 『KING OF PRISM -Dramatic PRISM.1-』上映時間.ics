@@ -5,4 +5,124 @@ NAME:T・ジョイ出雲 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ出雲 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
+BEGIN:VEVENT
+UID:de056b70-e842-58c0-82c5-e6b5a50d345c
+SEQUENCE:0
+DTSTAMP:20240923T041354Z
+DTSTART:20240923T062500Z
+DTEND:20240923T073500Z
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター６ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ出雲 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:ca77c158-829c-5f4f-9723-97731bc2c40e
+SEQUENCE:0
+DTSTAMP:20240923T041354Z
+DTSTART:20240923T104000Z
+DTEND:20240923T115500Z
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ出雲 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:ec16402a-d60b-5e3e-88fc-480ad5112396
+SEQUENCE:0
+DTSTAMP:20240923T041354Z
+DTSTART:20240924T062500Z
+DTEND:20240924T073500Z
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター６ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ出雲 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:199b4e0d-a2c3-591c-8490-94e9a5ffcfac
+SEQUENCE:0
+DTSTAMP:20240923T041354Z
+DTSTART:20240924T104000Z
+DTEND:20240924T115500Z
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ出雲 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:2a99f101-e831-5115-a554-ee570808b66b
+SEQUENCE:0
+DTSTAMP:20240923T041354Z
+DTSTART:20240925T062500Z
+DTEND:20240925T073500Z
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター６ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ出雲 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:5699b9a4-ea29-5870-a56c-e7f375f02004
+SEQUENCE:0
+DTSTAMP:20240923T041354Z
+DTSTART:20240925T104000Z
+DTEND:20240925T115500Z
+SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ出雲 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:3d394b53-c2f2-5e17-a667-800b19c9ab3b
+SEQUENCE:0
+DTSTAMP:20240923T041354Z
+DTSTART:20240926T062500Z
+DTEND:20240926T073500Z
+SUMMARY:[-販売対象外] T・ジョイ出雲 シアター６ [通常上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ出雲 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:9253de74-bff8-5556-b177-083356b54736
+SEQUENCE:0
+DTSTAMP:20240923T041354Z
+DTSTART:20240926T104000Z
+DTEND:20240926T115500Z
+SUMMARY:[-販売対象外] T・ジョイ出雲 シアター５ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ出雲 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
+END:VEVENT
 END:VCALENDAR
