@@ -5,4 +5,52 @@ NAME:T・ジョイ リバーウォーク 北九州 『KING OF PRISM -Drama
  tic PRISM.1-』上映時間
 X-WR-CALNAME:T・ジョイ リバーウォーク 北九州 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:77ad3d44-c0a0-5fcc-858d-c91b070fc180
+SEQUENCE:0
+DTSTAMP:20240923T151338Z
+DTSTART:20240924T064500Z
+DTEND:20240924T080000Z
+SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
+ シアター２ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C3864\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 3864
+END:VEVENT
+BEGIN:VEVENT
+UID:343654d0-d984-53e4-a636-30f8a7e7a2cd
+SEQUENCE:0
+DTSTAMP:20240923T151338Z
+DTSTART:20240925T064500Z
+DTEND:20240925T080000Z
+SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
+ シアター２ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C3864\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 3864
+END:VEVENT
+BEGIN:VEVENT
+UID:8861aa84-0551-58be-a3c5-d1c52d4b7623
+SEQUENCE:0
+DTSTAMP:20240923T151338Z
+DTSTART:20240926T064500Z
+DTEND:20240926T080000Z
+SUMMARY:[◎予約/購入] T・ジョイ リバーウォーク 北九州 
+ シアター２ [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C3864\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 3864
+END:VEVENT
 END:VCALENDAR
