@@ -5,4 +5,100 @@ NAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramatic PRISM
  .1-』上映時間
 X-WR-CALNAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:4cca6833-a9e8-5c1f-b54c-85e6ef8b76a6
+SEQUENCE:0
+DTSTAMP:20240924T062243Z
+DTSTART:20240924T030000Z
+DTEND:20240924T042000Z
+SUMMARY:[販売対象外] ユナイテッド・シネマ熊本 5screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ熊本 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:2f69309b-0beb-5646-aa95-d6961a4c5cb9
+SEQUENCE:0
+DTSTAMP:20240924T062243Z
+DTSTART:20240924T093500Z
+DTEND:20240924T105500Z
+SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ熊本 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1d2a3ed1-6fe3-5995-ab30-00e68d3f8f49
+SEQUENCE:0
+DTSTAMP:20240924T062243Z
+DTSTART:20240925T030000Z
+DTEND:20240925T042000Z
+SUMMARY:[○] ユナイテッド・シネマ熊本 5screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ熊本 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:b20bd0af-e131-50a3-b3e8-66b84c7ea446
+SEQUENCE:0
+DTSTAMP:20240924T062243Z
+DTSTART:20240925T093500Z
+DTEND:20240925T105500Z
+SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ熊本 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:115b78a8-e68e-5ff4-89bc-6788b561b4c9
+SEQUENCE:0
+DTSTAMP:20240924T062243Z
+DTSTART:20240926T030000Z
+DTEND:20240926T042000Z
+SUMMARY:[○] ユナイテッド・シネマ熊本 5screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ熊本 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:32bc2e65-9979-5af0-b5db-9cd92cfc7568
+SEQUENCE:0
+DTSTAMP:20240924T062243Z
+DTSTART:20240926T093500Z
+DTEND:20240926T105500Z
+SUMMARY:[○] ユナイテッド・シネマ熊本 4screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ熊本 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
+ 1512&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11512&f
+ rom=fm
+END:VEVENT
 END:VCALENDAR
