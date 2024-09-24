@@ -6,14 +6,29 @@ NAME:ユナイテッド・シネマ岡崎 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ岡崎 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:7a0af133-0200-47c4-8282-c7a4ef9a4ed3
+UID:3c412787-f3b8-562a-bc91-15fac66cb506
 SEQUENCE:0
-DTSTAMP:20240908T181907Z
-DTSTART:20240908T030000Z
-DTEND:20240908T045500Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ岡崎 8screen 『
- KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
- イブビューイング
+DTSTAMP:20240924T161539Z
+DTSTART:20240927T031000Z
+DTEND:20240927T043000Z
+SUMMARY:[○] ユナイテッド・シネマ岡崎 1screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:aba42307-a2cb-5f6f-9657-fc6984562c86
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20240927T100000Z
+DTEND:20240927T112000Z
+SUMMARY:[○] ユナイテッド・シネマ岡崎 8screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ岡崎 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
@@ -23,14 +38,189 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c5837b7c-f236-4363-b1c7-ebb66f2ef2c6
+UID:b55a57d4-6cb8-5db5-be0f-431dd90017ea
 SEQUENCE:0
-DTSTAMP:20240908T181907Z
-DTSTART:20240908T052000Z
-DTEND:20240908T071500Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ岡崎 8screen 『
- KING OF PRISM -Dramatic PRISM.1-』Over The Rainbow登壇舞台挨拶ラ
- イブビューイング
+DTSTAMP:20240924T161539Z
+DTSTART:20240928T031000Z
+DTEND:20240928T043000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:5d288673-d242-5f7a-b292-e585012abb2d
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20240928T100000Z
+DTEND:20240928T112000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 8screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:0580c4a6-918d-5f8c-819f-3eb7c60aee37
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20240929T031000Z
+DTEND:20240929T043000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:7ae5cf10-895b-5e14-a35e-f1f922b3e131
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20240929T100000Z
+DTEND:20240929T112000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 8screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:bc81f811-e362-59df-be32-58ed41315333
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20240930T031000Z
+DTEND:20240930T043000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:19aeadf4-842e-564a-8532-0feb8ebabcb8
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20240930T100000Z
+DTEND:20240930T112000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 8screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7c048e-64c5-516c-8d53-b3a8c149a333
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20241001T031000Z
+DTEND:20241001T043000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:f1b94951-084a-5b42-8a11-1326fd4e42c2
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20241001T100000Z
+DTEND:20241001T112000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 8screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:cbef6a1c-63e3-54ee-b7bc-0681fc8120e5
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20241002T031000Z
+DTEND:20241002T043000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:2e18e530-f502-51f0-a1a3-308dfa1fd091
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20241002T100000Z
+DTEND:20241002T112000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 8screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:cd2add83-6065-5a28-9b01-eb20b5d4c2c5
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20241003T031000Z
+DTEND:20241003T043000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 1screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマ岡崎 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
+ 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:667e7da5-d34b-588a-9e3c-cf42604eddd5
+SEQUENCE:0
+DTSTAMP:20240924T161539Z
+DTSTART:20241003T100000Z
+DTEND:20241003T112000Z
+SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 8screen プ
+ リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ岡崎 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
