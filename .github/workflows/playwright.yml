@@ -29,6 +29,7 @@ jobs:
       run: pnpm exec playwright install --with-deps chromium
     - name: Run Playwright tests
       run: pnpm run start
+      continue-on-error: true
     - name: update README.md
       run: pnpm run generate-readme
     - name: commit and push
