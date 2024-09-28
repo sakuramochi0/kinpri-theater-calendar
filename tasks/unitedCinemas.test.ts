@@ -14,6 +14,7 @@ test('ユナイテッド・シネマ系列', async ({ page, browser }) => {
       url: a.href,
     }))
   ))
+  await page.close()
 
   for (const { name, url } of theaters) {
     const theaterLogger = seriesLogger.child({ theater: name })
