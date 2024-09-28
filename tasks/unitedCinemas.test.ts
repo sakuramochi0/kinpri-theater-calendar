@@ -36,10 +36,15 @@ test('ユナイテッド・シネマ系列', async ({ page, browser }) => {
 export async function getUnitedCinemasSchedules(page: Page, url: string) {
   await page.goto(url, { waitUntil: 'domcontentloaded' })
 
-  const notificationCloseButton = page.getByRole('button', { name: '閉じる' })
-  if (await notificationCloseButton.count() > 0) {
-    await notificationCloseButton.click()
+  const notificationCloseButton1 = page.getByRole('button', { name: '閉じる' })
+  if (await notificationCloseButton1.count() > 0) {
+    await notificationCloseButton1.click()
   }
+
+  try {
+    const notificationCloseButton2 = await page.waitForSelector('.closeBtn', { timeout: 1000 })
+    await notificationCloseButton2.click()
+  } catch {}
 
   await page.getByRole('link', { name: '上映作品' }).click()
   const link = page.getByRole('link', { name: /KING OF PRISM/ }).nth(1)
