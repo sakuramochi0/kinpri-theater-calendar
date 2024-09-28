@@ -5,7 +5,7 @@ import { generateICal, rootLogger, saveJSON } from './utils';
 import { Schedule, Theater } from './types';
 
 test('ユナイテッド・シネマ系列', async ({ page, browser }) => {
-  const seriesLogger = rootLogger.child({'series': 'ユナイテッド・シネマ'})
+  const seriesLogger = rootLogger.child({ 'series': 'ユナイテッド・シネマ' })
 
   await page.goto('https://www.unitedcinemas.jp/index.html', { waitUntil: 'domcontentloaded' })
   const theaters: Theater[] = (await page.locator('#theaterList a').evaluateAll(
@@ -16,7 +16,7 @@ test('ユナイテッド・シネマ系列', async ({ page, browser }) => {
   ))
 
   for (const { name, url } of theaters) {
-    const theaterLogger = seriesLogger.child({theater: name})
+    const theaterLogger = seriesLogger.child({ theater: name })
 
     const newPage = await browser.newPage()
     const { schedules, movieLink } = await getUnitedCinemasSchedules(newPage, url)
