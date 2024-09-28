@@ -6,76 +6,12 @@ NAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b5336352-69d8-5168-b644-01a3dbac1853
+UID:fe3beb16-40a4-5f75-a6d4-c1b19c40b8a0
 SEQUENCE:0
-DTSTAMP:20240924T151301Z
-DTSTART:20240924T101000Z
-DTEND:20240924T113000Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ豊洲 12screen 
- プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ豊洲 12screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=115
- 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:ddfcfa5d-9005-5203-8ca7-4072bb785f8a
-SEQUENCE:0
-DTSTAMP:20240924T151301Z
-DTSTART:20240925T101000Z
-DTEND:20240925T113000Z
-SUMMARY:[○] ユナイテッド・シネマ豊洲 12screen プリズム
- スタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ豊洲 12screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=115
- 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:13c50450-5517-506e-9e29-a9f4ec6f6eea
-SEQUENCE:0
-DTSTAMP:20240924T151301Z
-DTSTART:20240926T101000Z
-DTEND:20240926T113000Z
-SUMMARY:[○] ユナイテッド・シネマ豊洲 12screen プリズム
- スタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ豊洲 12screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=115
- 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:0772a885-7f5c-5d4a-a554-a23f31eedc86
-SEQUENCE:0
-DTSTAMP:20240924T151301Z
-DTSTART:20240927T074500Z
-DTEND:20240927T090500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ豊洲 4screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ豊洲 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=115
- 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:a4e51404-e07d-5038-a046-9d6e3d315e88
-SEQUENCE:0
-DTSTAMP:20240924T151301Z
+DTSTAMP:20240928T084517Z
 DTSTART:20240928T080500Z
 DTEND:20240928T092500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ豊洲 4screen プ
+SUMMARY:[販売対象外] ユナイテッド・シネマ豊洲 4screen プ
  リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ豊洲 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -86,13 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0e4598b8-983c-5b6e-add5-31b80a823f5a
+UID:b98dd2d6-182f-5b74-b055-7f7b66308f30
 SEQUENCE:0
-DTSTAMP:20240924T151301Z
+DTSTAMP:20240928T084517Z
 DTSTART:20240929T093000Z
 DTEND:20240929T105000Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ豊洲 3screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ豊洲 3screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ豊洲 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=115
@@ -102,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11512&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:47218b6f-dee2-5f57-86a1-82cd6ce2606b
+UID:7f5b1fa2-3ae0-5e26-802f-e3584bb3d78f
 SEQUENCE:0
-DTSTAMP:20240924T151301Z
+DTSTAMP:20240928T084517Z
 DTSTART:20240930T092000Z
 DTEND:20240930T104000Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ豊洲 2screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ豊洲 2screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ豊洲 2screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=115
@@ -120,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:60f33e18-93a9-5e00-9fd3-7e33fcc7135f
 SEQUENCE:0
-DTSTAMP:20240924T151301Z
+DTSTAMP:20240928T084517Z
 DTSTART:20241001T092000Z
 DTEND:20241001T104000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ豊洲 8screen プ
@@ -136,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e5cdf8c0-35ab-5461-997f-551de30340fc
 SEQUENCE:0
-DTSTAMP:20240924T151301Z
+DTSTAMP:20240928T084517Z
 DTSTART:20241002T092000Z
 DTEND:20241002T104000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ豊洲 2screen プ
@@ -152,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cd4c9a09-54d6-5684-b300-6f86b8dd5fc4
 SEQUENCE:0
-DTSTAMP:20240924T151301Z
+DTSTAMP:20240928T084517Z
 DTSTART:20241003T092000Z
 DTEND:20241003T104000Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ豊洲 2screen プ
