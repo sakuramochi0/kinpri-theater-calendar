@@ -5,4 +5,72 @@ NAME:グランドシネマサンシャイン池袋 『KING OF PRISM -Drama
  tic PRISM.1-』上映時間
 X-WR-CALNAME:グランドシネマサンシャイン池袋 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:1043d277-1176-5729-be45-ebd8d3e08dd2
+SEQUENCE:0
+DTSTAMP:20240930T081426Z
+DTSTART:20240930T100000Z
+DTEND:20240930T112000Z
+SUMMARY:[◯ 購入] グランドシネマサンシャイン池袋 シア
+ ター５ BESTIA プリズムスタァ応援上映『KING OF PRISM -Dramat
+ ic PRISM.1-』BESTIA enhanced
+LOCATION:グランドシネマサンシャイン池袋 シアター５ BES
+ TIA
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.cinemasunshine.co.jp/theater/gdcs/\nカレ
+ ンダー生成プログラムのウェブサイト: kinpri-theater-calend
+ ar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a021638-3744-5b90-ae4a-8bf2c1adeb29
+SEQUENCE:0
+DTSTAMP:20240930T081426Z
+DTSTART:20241001T100000Z
+DTEND:20241001T112000Z
+SUMMARY:[◯ 購入] グランドシネマサンシャイン池袋 シア
+ ター５ BESTIA プリズムスタァ応援上映『KING OF PRISM -Dramat
+ ic PRISM.1-』BESTIA enhanced
+LOCATION:グランドシネマサンシャイン池袋 シアター５ BES
+ TIA
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.cinemasunshine.co.jp/theater/gdcs/\nカレ
+ ンダー生成プログラムのウェブサイト: kinpri-theater-calend
+ ar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6d3c5b-29b3-520c-8d2d-897dd5ad6bb8
+SEQUENCE:0
+DTSTAMP:20240930T081426Z
+DTSTART:20241002T100000Z
+DTEND:20241002T112000Z
+SUMMARY:[◯ 購入] グランドシネマサンシャイン池袋 シア
+ ター５ BESTIA プリズムスタァ応援上映『KING OF PRISM -Dramat
+ ic PRISM.1-』BESTIA enhanced
+LOCATION:グランドシネマサンシャイン池袋 シアター５ BES
+ TIA
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.cinemasunshine.co.jp/theater/gdcs/\nカレ
+ ンダー生成プログラムのウェブサイト: kinpri-theater-calend
+ ar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
+BEGIN:VEVENT
+UID:114222da-4281-5935-b2bd-ba40799edc38
+SEQUENCE:0
+DTSTAMP:20240930T081426Z
+DTSTART:20241003T071500Z
+DTEND:20241003T083500Z
+SUMMARY:[販売期間外] グランドシネマサンシャイン池袋 
+ シアター５ BESTIA プリズムスタァ応援上映『KING OF PRISM -
+ Dramatic PRISM.1-』BESTIA enhanced
+LOCATION:グランドシネマサンシャイン池袋 シアター５ BES
+ TIA
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.cinemasunshine.co.jp/theater/gdcs/\nカレ
+ ンダー生成プログラムのウェブサイト: kinpri-theater-calend
+ ar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.cinemasunshine.co.jp/theater/gdcs/
+END:VEVENT
 END:VCALENDAR
