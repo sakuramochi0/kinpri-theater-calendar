@@ -6,13 +6,13 @@ NAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:1cfa27af-fc63-520c-a7cd-264f778e5775
+UID:623785db-7b64-5246-80d8-07a752701eab
 SEQUENCE:0
-DTSTAMP:20240930T101257Z
+DTSTAMP:20240930T111107Z
 DTSTART:20240930T104500Z
 DTEND:20240930T120000Z
-SUMMARY:[◎購入] T・ジョイ博多 シアター７ [応援上映]KING
-  OF PRISM -Dramatic PRISM.1-
+SUMMARY:[-販売終了] T・ジョイ博多 シアター７ [応援上映]
+ KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ博多 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_hakata/cinema_schedule/C3864\n
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:662a3096-41aa-5235-9a16-3e252bb1a2da
 SEQUENCE:0
-DTSTAMP:20240930T101257Z
+DTSTAMP:20240930T111107Z
 DTSTART:20241001T104500Z
 DTEND:20241001T120000Z
 SUMMARY:[◎予約/購入] T・ジョイ博多 シアター７ [応援上
@@ -38,10 +38,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2eb6b0db-c825-5198-8fda-0759011b4fb8
 SEQUENCE:0
-DTSTAMP:20240930T101257Z
+DTSTAMP:20240930T111107Z
 DTSTART:20241002T104500Z
 DTEND:20241002T120000Z
 SUMMARY:[◎予約/購入] T・ジョイ博多 シアター７ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ博多 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_hakata/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:0284bf29-84ae-5864-bc29-b68f6ff8686f
+SEQUENCE:0
+DTSTAMP:20240930T111107Z
+DTSTART:20241003T104500Z
+DTEND:20241003T120000Z
+SUMMARY:[-販売対象外] T・ジョイ博多 シアター７ [応援上
  映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ博多 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
