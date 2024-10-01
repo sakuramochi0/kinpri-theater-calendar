@@ -8,7 +8,7 @@ X-WR-CALNAME:T・ジョイ京都 『KING OF PRISM -Dramatic PRISM.1-』上
 BEGIN:VEVENT
 UID:2fbd3eb1-feb0-5ea2-a53d-c2161f19948b
 SEQUENCE:0
-DTSTAMP:20241001T151114Z
+DTSTAMP:20241001T161304Z
 DTSTART:20241002T104000Z
 DTEND:20241002T115500Z
 SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１０ [応援
@@ -21,14 +21,14 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:2fbd3eb1-feb0-5ea2-a53d-c2161f19948b
+UID:6a2afe23-ce18-5035-9fda-fbc404b30596
 SEQUENCE:0
-DTSTAMP:20241001T151114Z
-DTSTART:20241002T104000Z
-DTEND:20241002T115500Z
-SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１０ [応援
- 上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ京都 シアター１０
+DTSTAMP:20241001T161304Z
+DTSTART:20241003T105500Z
+DTEND:20241003T121000Z
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター８ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ京都 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_kyoto/cinema_schedule/C3864\nカ
  レンダー生成プログラムのウェブサイト: kinpri-theater-cal
@@ -36,29 +36,14 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:2fbd3eb1-feb0-5ea2-a53d-c2161f19948b
+UID:60bcfab6-08f1-527f-9f93-ab6a5865c21f
 SEQUENCE:0
-DTSTAMP:20241001T151114Z
-DTSTART:20241002T104000Z
-DTEND:20241002T115500Z
-SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１０ [応援
+DTSTAMP:20241001T161304Z
+DTSTART:20241004T103000Z
+DTEND:20241004T114500Z
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１１ [応援
  上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ京都 シアター１０
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_kyoto/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:2fbd3eb1-feb0-5ea2-a53d-c2161f19948b
-SEQUENCE:0
-DTSTAMP:20241001T151114Z
-DTSTART:20241002T104000Z
-DTEND:20241002T115500Z
-SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１０ [応援
- 上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ京都 シアター１０
+LOCATION:T・ジョイ京都 シアター１１
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_kyoto/cinema_schedule/C3864\nカ
  レンダー生成プログラムのウェブサイト: kinpri-theater-cal
