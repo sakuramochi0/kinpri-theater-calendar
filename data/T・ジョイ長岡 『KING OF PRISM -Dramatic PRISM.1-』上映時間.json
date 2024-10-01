@@ -2,13 +2,6 @@
   {
     "title": "【T-LEX上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-",
     "screenName": "シアター１０\n                                                                            T-LEX",
-    "startTime": "2024-10-01T11:00:00.000Z",
-    "endTime": "2024-10-01T12:15:00.000Z",
-    "status": "-終了"
-  },
-  {
-    "title": "【T-LEX上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-",
-    "screenName": "シアター１０\n                                                                            T-LEX",
     "startTime": "2024-10-02T11:00:00.000Z",
     "endTime": "2024-10-02T12:15:00.000Z",
     "status": "◎予約/購入"
@@ -25,6 +18,6 @@
     "screenName": "シアター７",
     "startTime": "2024-10-04T11:05:00.000Z",
     "endTime": "2024-10-04T12:15:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   }
 ]
