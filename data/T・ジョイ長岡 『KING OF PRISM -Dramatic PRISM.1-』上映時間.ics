@@ -6,14 +6,14 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:e390bfb7-8499-5b1c-9523-010d5aa909d0
+UID:49a0b2e9-3886-5fba-bb4e-056061a5192a
 SEQUENCE:0
-DTSTAMP:20241001T110857Z
+DTSTAMP:20241001T121813Z
 DTSTART:20241001T110000Z
 DTEND:20241001T121500Z
-SUMMARY:[-販売終了] T・ジョイ長岡 シアター１０\n          
-                                                                   T-LEX 
- 【T-LEX上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-
+SUMMARY:[-終了] T・ジョイ長岡 シアター１０\n                
+                                                             T-LEX 【T-LEX
+ 上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ長岡 シアター１０\n                         
                                                     T-LEX
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fe45451b-4fe7-5689-a764-fca65c6f8dc5
 SEQUENCE:0
-DTSTAMP:20241001T110857Z
+DTSTAMP:20241001T121813Z
 DTSTART:20241002T110000Z
 DTEND:20241002T121500Z
 SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター１０\n       
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fc3a6054-5ef2-5d12-9ea9-197ff2033bcf
 SEQUENCE:0
-DTSTAMP:20241001T110857Z
+DTSTAMP:20241001T121813Z
 DTSTART:20241003T110000Z
 DTEND:20241003T121500Z
 SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター１０\n       
