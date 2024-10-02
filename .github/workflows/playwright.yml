@@ -37,7 +37,8 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git diff --quiet || (git add . && git commit -m "chore: update calendar data")
+        # commit only if there exists changes but timestamp lines ("DTSTAMP")
+        test $(git diff -U0 | grep '^[+-]' | grep -Ev '^(--- "?a/|\+\+\+ "?b/)' | grep -Ev '^(\+|-)DTSTAMP' | wc -l) = 0 || (git add . && git commit -m "chore: update calendar data")
         git push
     - uses: actions/upload-artifact@v4
       if: always()
