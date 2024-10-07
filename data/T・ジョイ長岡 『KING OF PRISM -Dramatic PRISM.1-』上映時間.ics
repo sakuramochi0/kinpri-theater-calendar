@@ -5,4 +5,64 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
+BEGIN:VEVENT
+UID:b1f68de7-3837-5cf3-9ba5-9cbc07397714
+SEQUENCE:0
+DTSTAMP:20241007T041229Z
+DTSTART:20241007T110500Z
+DTEND:20241007T121500Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター７ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:462e1a26-f5ec-5b59-bc8d-ef689bcd6504
+SEQUENCE:0
+DTSTAMP:20241007T041229Z
+DTSTART:20241008T110500Z
+DTEND:20241008T121500Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター７ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:64c54469-e451-55d8-a7ed-f9ef55ee04e5
+SEQUENCE:0
+DTSTAMP:20241007T041229Z
+DTSTART:20241009T110500Z
+DTEND:20241009T121500Z
+SUMMARY:[◎予約/購入] T・ジョイ長岡 シアター７ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:e6cb36b3-bfcc-5bce-9d72-574cbc1061f8
+SEQUENCE:0
+DTSTAMP:20241007T041229Z
+DTSTART:20241010T110500Z
+DTEND:20241010T121500Z
+SUMMARY:[-販売対象外] T・ジョイ長岡 シアター７ [応援上
+ 映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ長岡 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C3864
+END:VEVENT
 END:VCALENDAR
