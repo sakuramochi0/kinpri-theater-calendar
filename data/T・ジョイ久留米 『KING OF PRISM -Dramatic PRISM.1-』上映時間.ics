@@ -6,14 +6,14 @@ NAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
 BEGIN:VEVENT
-UID:9967f04a-b4b5-59b8-965e-413218eb462c
+UID:74c434fe-d8b7-5c65-9241-287a8490a1c7
 SEQUENCE:0
-DTSTAMP:20241008T111142Z
+DTSTAMP:20241008T121954Z
 DTSTART:20241008T100000Z
 DTEND:20241008T111500Z
-SUMMARY:[-販売終了] T・ジョイ久留米 シアター１\n          
-                                                                   T-LEX 
- 【T-LEX上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-
+SUMMARY:[-終了] T・ジョイ久留米 シアター１\n                
+                                                             T-LEX 【T-LEX
+ 上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ久留米 シアター１\n                         
                                                     T-LEX
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bd69311d-d69d-514a-9c02-43f2570d0dee
 SEQUENCE:0
-DTSTAMP:20241008T111142Z
+DTSTAMP:20241008T121954Z
 DTSTART:20241009T100000Z
 DTEND:20241009T111500Z
 SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター１\n       
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3fb1a9ae-8713-5212-a016-08fdbcc255a6
 SEQUENCE:0
-DTSTAMP:20241008T111142Z
+DTSTAMP:20241008T121954Z
 DTSTART:20241010T100000Z
 DTEND:20241010T111500Z
 SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター１\n       
@@ -50,6 +50,21 @@ SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター１\n
   【T-LEX上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ久留米 シアター１\n                         
                                                     T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a8eeee-29cf-557c-b114-6394586874ce
+SEQUENCE:0
+DTSTAMP:20241008T121954Z
+DTSTART:20241011T095500Z
+DTEND:20241011T111000Z
+SUMMARY:[-販売対象外] T・ジョイ久留米 シアター５ [応援
+ 上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ久留米 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864\n
  カレンダー生成プログラムのウェブサイト: kinpri-theater-
