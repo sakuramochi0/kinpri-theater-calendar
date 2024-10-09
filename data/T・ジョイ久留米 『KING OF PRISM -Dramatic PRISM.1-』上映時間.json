@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "title": "【T-LEX上映】[通常上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2024-10-09T10:00:00.000Z",
+    "endTime": "2024-10-09T11:15:00.000Z",
+    "status": "-終了"
+  },
+  {
+    "title": "【T-LEX上映】[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2024-10-10T10:00:00.000Z",
+    "endTime": "2024-10-10T11:15:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター５",
+    "startTime": "2024-10-11T09:55:00.000Z",
+    "endTime": "2024-10-11T11:10:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター５",
+    "startTime": "2024-10-12T09:55:00.000Z",
+    "endTime": "2024-10-12T11:10:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター５",
+    "startTime": "2024-10-13T09:55:00.000Z",
+    "endTime": "2024-10-13T11:10:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター５",
+    "startTime": "2024-10-14T09:55:00.000Z",
+    "endTime": "2024-10-14T11:10:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター５",
+    "startTime": "2024-10-15T09:55:00.000Z",
+    "endTime": "2024-10-15T11:10:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター５",
+    "startTime": "2024-10-16T09:55:00.000Z",
+    "endTime": "2024-10-16T11:10:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター５",
+    "startTime": "2024-10-17T09:55:00.000Z",
+    "endTime": "2024-10-17T11:10:00.000Z",
+    "status": "-販売対象外"
+  }
+]
