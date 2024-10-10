@@ -1,13 +1,6 @@
 [
   {
     "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
-    "screenName": "シアター４",
-    "startTime": "2024-10-10T09:40:00.000Z",
-    "endTime": "2024-10-10T10:55:00.000Z",
-    "status": "-終了"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
     "screenName": "シアター２",
     "startTime": "2024-10-11T10:50:00.000Z",
     "endTime": "2024-10-11T12:05:00.000Z",
@@ -25,7 +18,7 @@
     "screenName": "シアター２",
     "startTime": "2024-10-13T10:50:00.000Z",
     "endTime": "2024-10-13T12:05:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
