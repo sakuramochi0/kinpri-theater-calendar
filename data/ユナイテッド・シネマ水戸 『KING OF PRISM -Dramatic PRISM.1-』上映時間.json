@@ -4,7 +4,7 @@
     "screenName": "5screen",
     "startTime": "2024-10-14T09:55:00.000Z",
     "endTime": "2024-10-14T11:15:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
@@ -25,6 +25,6 @@
     "screenName": "5screen",
     "startTime": "2024-10-17T09:55:00.000Z",
     "endTime": "2024-10-17T11:15:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
