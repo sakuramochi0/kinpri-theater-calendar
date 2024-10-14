@@ -11,7 +11,7 @@
     "screenName": "4screen",
     "startTime": "2024-10-14T10:00:00.000Z",
     "endTime": "2024-10-14T11:20:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "KING OF PRISM -Dramatic PRISM.1-",
@@ -46,13 +46,13 @@
     "screenName": "4screen",
     "startTime": "2024-10-17T06:50:00.000Z",
     "endTime": "2024-10-17T08:07:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "プリズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』",
     "screenName": "4screen",
     "startTime": "2024-10-17T10:50:00.000Z",
     "endTime": "2024-10-17T12:10:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
