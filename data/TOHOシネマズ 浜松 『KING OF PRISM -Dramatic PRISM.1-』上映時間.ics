@@ -8,7 +8,7 @@ X-WR-CALNAME:TOHOシネマズ 浜松 『KING OF PRISM -Dramatic PRISM.1-
 BEGIN:VEVENT
 UID:abb1ce77-876d-5646-8313-728e8eecb04a
 SEQUENCE:0
-DTSTAMP:20241014T161118Z
+DTSTAMP:20241014T170843Z
 DTSTART:20241014T101000Z
 DTEND:20241014T112500Z
 SUMMARY:[販売期間外] TOHOシネマズ 浜松 SCREEN8 ＫＩＮＧ　
@@ -23,14 +23,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:04272c69-18fe-5ae4-b7cc-7dd5dd796bae
+UID:ebd2ff8b-122c-5ce0-917d-ea407eb7f8ff
 SEQUENCE:0
-DTSTAMP:20241014T161118Z
+DTSTAMP:20241014T170843Z
 DTSTART:20241015T101000Z
 DTEND:20241015T112500Z
-SUMMARY:[◎販売中] TOHOシネマズ 浜松 SCREEN8 ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ．
- １－（発声ＯＫ）
+SUMMARY:[販売期間外] TOHOシネマズ 浜松 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
 LOCATION:TOHOシネマズ 浜松 SCREEN8
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -40,14 +40,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:9441da59-8c8a-5940-8065-516e74396778
+UID:f097981e-578f-50eb-a02a-afc2fd1552cd
 SEQUENCE:0
-DTSTAMP:20241014T161118Z
+DTSTAMP:20241014T170843Z
 DTSTART:20241016T101000Z
 DTEND:20241016T112500Z
-SUMMARY:[◎販売中] TOHOシネマズ 浜松 SCREEN8 ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ．
- １－（発声ＯＫ）
+SUMMARY:[販売期間外] TOHOシネマズ 浜松 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
 LOCATION:TOHOシネマズ 浜松 SCREEN8
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -57,14 +57,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=024262
 END:VEVENT
 BEGIN:VEVENT
-UID:758e35f5-57f1-5025-a984-92d6cda7134b
+UID:8c47033b-445a-5504-b960-3c9218a255fd
 SEQUENCE:0
-DTSTAMP:20241014T161118Z
+DTSTAMP:20241014T170843Z
 DTSTART:20241017T101000Z
 DTEND:20241017T112500Z
-SUMMARY:[◎販売中] TOHOシネマズ 浜松 SCREEN8 ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ．
- １－（発声ＯＫ）
+SUMMARY:[販売期間外] TOHOシネマズ 浜松 SCREEN8 ＫＩＮＧ　
+ ＯＦ　ＰＲＩＳＭ　－Ｄｒａｍａｔｉｃ　ＰＲＩＳＭ
+ ．１－（発声ＯＫ）
 LOCATION:TOHOシネマズ 浜松 SCREEN8
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
