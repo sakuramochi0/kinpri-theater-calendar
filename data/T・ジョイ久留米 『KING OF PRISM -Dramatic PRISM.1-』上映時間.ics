@@ -5,4 +5,49 @@ NAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』上映
  時間
 X-WR-CALNAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
+BEGIN:VEVENT
+UID:da9bc078-179c-5ba6-94fd-6c53da497c3e
+SEQUENCE:0
+DTSTAMP:20241016T021710Z
+DTSTART:20241016T095500Z
+DTEND:20241016T111000Z
+SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター５ [応援
+ 上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ久留米 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:ed15b715-30d8-5b07-9a5e-50823c1c0952
+SEQUENCE:0
+DTSTAMP:20241016T021710Z
+DTSTART:20241017T095500Z
+DTEND:20241017T111000Z
+SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター５ [応援
+ 上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ久留米 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6ace60-6265-5f2c-a084-860c24f642ad
+SEQUENCE:0
+DTSTAMP:20241016T021710Z
+DTSTART:20241018T100000Z
+DTEND:20241018T111500Z
+SUMMARY:[◎予約/購入] T・ジョイ久留米 シアター６ [応援
+ 上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ久留米 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
+END:VEVENT
 END:VCALENDAR
