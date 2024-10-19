@@ -6,59 +6,11 @@ NAME:ユナイテッド・シネマ橿原 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ橿原 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:75b0d6ed-2853-5456-a592-0b8c39e9f5c3
+UID:edefc906-2a04-5db1-9bb0-05a0436f86b6
 SEQUENCE:0
-DTSTAMP:20241015T171555Z
-DTSTART:20241015T100000Z
-DTEND:20241015T112000Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ橿原 5screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ橿原 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
- 11512&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:1a68b7c7-380c-5b08-8815-75c138c93e74
-SEQUENCE:0
-DTSTAMP:20241015T171555Z
-DTSTART:20241016T100000Z
-DTEND:20241016T112000Z
-SUMMARY:[○] ユナイテッド・シネマ橿原 5screen プリズムス
- タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ橿原 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
- 11512&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:ed6bcd96-ddfe-5fc5-9634-3d095b4d3641
-SEQUENCE:0
-DTSTAMP:20241015T171555Z
-DTSTART:20241017T100000Z
-DTEND:20241017T112000Z
-SUMMARY:[○] ユナイテッド・シネマ橿原 5screen プリズムス
- タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ橿原 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
- 11512&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:f62e61c5-083a-5298-a17e-34c35a10cdff
-SEQUENCE:0
-DTSTAMP:20241015T171555Z
-DTSTART:20241018T101500Z
-DTEND:20241018T113500Z
+DTSTAMP:20241019T201706Z
+DTSTART:20241020T074000Z
+DTEND:20241020T090000Z
 SUMMARY:[○] ユナイテッド・シネマ橿原 6screen プリズムス
  タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ橿原 6screen
@@ -70,45 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:585f8905-08ed-5477-b119-834862f22839
+UID:348c3672-2a6d-5d02-9095-d70245ec5ab5
 SEQUENCE:0
-DTSTAMP:20241015T171555Z
-DTSTART:20241019T021500Z
-DTEND:20241019T033500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 7screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ橿原 7screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
- 11512&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:a551f85a-dffa-5f7b-9beb-517d589744f4
-SEQUENCE:0
-DTSTAMP:20241015T171555Z
-DTSTART:20241020T074000Z
-DTEND:20241020T090000Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 6screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ橿原 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
- 11512&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:7527b65f-bb71-5945-924d-90167ebc3178
-SEQUENCE:0
-DTSTAMP:20241015T171555Z
+DTSTAMP:20241019T201706Z
 DTSTART:20241021T101500Z
 DTEND:20241021T113500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 6screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ橿原 6screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ橿原 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
@@ -118,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kashihara/film.php?movie=11512&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2095679e-60cf-5e70-8886-4ac7476a4a88
+UID:68284d60-6856-5289-9438-06ad5dabc68d
 SEQUENCE:0
-DTSTAMP:20241015T171555Z
+DTSTAMP:20241019T201706Z
 DTSTART:20241022T101500Z
 DTEND:20241022T113500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 6screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○] ユナイテッド・シネマ橿原 6screen プリズムス
+ タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
 LOCATION:ユナイテッド・シネマ橿原 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kashihara/film.php?movie=
@@ -136,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:47ad95be-0c07-541b-a829-4c78f4025848
 SEQUENCE:0
-DTSTAMP:20241015T171555Z
+DTSTAMP:20241019T201706Z
 DTSTART:20241023T101500Z
 DTEND:20241023T113500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 6screen プ
@@ -152,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:98931a9e-b0ad-57ab-a7a2-8f64376a7377
 SEQUENCE:0
-DTSTAMP:20241015T171555Z
+DTSTAMP:20241019T201706Z
 DTSTART:20241024T101500Z
 DTEND:20241024T113500Z
 SUMMARY:[販売期間外] ユナイテッド・シネマ橿原 6screen プ
