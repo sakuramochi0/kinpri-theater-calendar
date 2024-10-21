@@ -6,24 +6,9 @@ NAME:T・ジョイ京都 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ京都 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:fd73dca0-0bec-50dd-afec-c7798d454538
-SEQUENCE:0
-DTSTAMP:20241021T141032Z
-DTSTART:20241021T015000Z
-DTEND:20241021T030500Z
-SUMMARY:[-終了] T・ジョイ京都 シアター１１ [応援上映]KIN
- G OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ京都 シアター１１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_kyoto/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
 UID:91408bcc-eb36-5879-8217-53219e915e2d
 SEQUENCE:0
-DTSTAMP:20241021T141032Z
+DTSTAMP:20241021T151205Z
 DTSTART:20241021T233000Z
 DTEND:20241022T004500Z
 SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１１ [応援
@@ -38,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:97e8d8ab-310b-5b92-add0-a7f5eb3b6b97
 SEQUENCE:0
-DTSTAMP:20241021T141032Z
+DTSTAMP:20241021T151205Z
 DTSTART:20241022T233000Z
 DTEND:20241023T004500Z
 SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１１ [応援
@@ -51,12 +36,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kyoto/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:b651e5a7-9347-5f6d-aacd-34123e89cc8c
+UID:4cde59d5-3054-5ee5-90f7-966268cbf299
 SEQUENCE:0
-DTSTAMP:20241021T141032Z
+DTSTAMP:20241021T151205Z
 DTSTART:20241023T233000Z
 DTEND:20241024T004500Z
-SUMMARY:[-販売対象外] T・ジョイ京都 シアター１１ [応援
+SUMMARY:[◎予約/購入] T・ジョイ京都 シアター１１ [応援
  上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ京都 シアター１１
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
