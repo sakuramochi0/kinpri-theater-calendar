@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:2b2a94ad-fbac-59e5-ba64-8a4a29394870
-SEQUENCE:0
-DTSTAMP:20241021T170909Z
-DTSTART:20241021T094000Z
-DTEND:20241021T110000Z
-SUMMARY:[販売対象外] ユナイテッド・シネマ旭川 3screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ旭川 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
- 11512&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=11512&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:84d187e3-28e1-5f82-8015-9184bbe8ac0f
 SEQUENCE:0
-DTSTAMP:20241021T170909Z
+DTSTAMP:20241021T230947Z
 DTSTART:20241022T094000Z
 DTEND:20241022T110000Z
 SUMMARY:[○] ユナイテッド・シネマ旭川 3screen プリズムス
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fea17a30-e2a4-5d86-991c-329eea85cdbd
 SEQUENCE:0
-DTSTAMP:20241021T170909Z
+DTSTAMP:20241021T230947Z
 DTSTART:20241023T094000Z
 DTEND:20241023T110000Z
 SUMMARY:[○] ユナイテッド・シネマ旭川 3screen プリズムス
@@ -56,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8910c10b-8acc-589b-ae69-2e06a04b467f
 SEQUENCE:0
-DTSTAMP:20241021T170909Z
+DTSTAMP:20241021T230947Z
 DTSTART:20241024T094000Z
 DTEND:20241024T110000Z
 SUMMARY:[○] ユナイテッド・シネマ旭川 3screen プリズムス
