@@ -7,9 +7,12 @@ import type { Schedule, Theater } from './types';
 test('TOHOシネマズ系列', async ({ page }) => {
   const seriesLogger = rootLogger.child({'series': 'TOHOシネマズ'})
 
-  const moviesListPageURL = 'https://hlo.tohotheater.jp/net/movie/TNPI3090J01.do'
-  await page.goto(moviesListPageURL)
-  const movieLink = page.getByRole('link', { name: /ＫＩＮＧ ＯＦ ＰＲＩＳＭ/ })
+  const url = 'https://www.tohotheater.jp/'
+  await page.goto(url)
+  const movieListURL = url + await page.getByRole('link', { name: /上映中/ }).getAttribute('href')!
+  await page.goto(movieListURL)
+
+  const movieLink = page.getByText(/ＫＩＮＧ.ＯＦ.ＰＲＩＳＭ/)
   if (await movieLink.count() === 0) {
     seriesLogger.info('no movie found')
     return
