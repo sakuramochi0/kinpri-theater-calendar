@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:c745001e-ebba-589a-b2a8-dfa6b4afae9c
+UID:631aea8f-af5a-5f5c-bc06-ea278c11bae9
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241025T061000Z
 DTEND:20241025T072700Z
-SUMMARY:[○] ユナイテッド・シネマ水戸 3screen も～っと煌
- めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] も～っ
+ と煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -22,14 +22,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f7291cae-5ffa-5d40-9b44-b4077ada3912
+UID:d7fd4865-7905-5d18-ac3f-0180cbd3ae19
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241025T001500Z
 DTEND:20241025T013400Z
-SUMMARY:[○] ユナイテッド・シネマ水戸 3screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -39,14 +39,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5aebe225-9587-5ef6-904c-1748d0bd392f
+UID:b9a6ac22-1a72-588e-b940-05fac149cb5b
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241025T042500Z
 DTEND:20241025T054400Z
-SUMMARY:[○] ユナイテッド・シネマ水戸 3screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -56,14 +56,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d51b528a-04de-5206-9172-f4f48e708bfd
+UID:d03b50ab-624a-57ad-92d1-0b40a4871f63
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241025T104500Z
 DTEND:20241025T120400Z
-SUMMARY:[○] ユナイテッド・シネマ水戸 3screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -73,14 +73,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:13c6ad6a-a525-5224-a00f-a1b3e7a0012d
+UID:ca1429f1-484e-5794-9afd-3e9833d0f23d
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241025T123000Z
 DTEND:20241025T134900Z
-SUMMARY:[○] ユナイテッド・シネマ水戸 3screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -90,13 +90,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:69604f87-7925-5dd0-9f95-30939b3c5e76
+UID:4151077a-24f0-5696-b3af-dd03f6cd716b
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241026T090000Z
 DTEND:20241026T101700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] も～っ
+ と煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -106,14 +106,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f689eff5-c2a7-51c4-a5a3-1b1bf50d6568
+UID:8c6d0c55-31f4-5d1e-a07e-7197363e5f94
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241026T001500Z
 DTEND:20241026T013400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -123,14 +123,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a3b973bd-d961-5ec2-9053-462e0b672ace
+UID:dff69988-a2de-5950-a3ac-9d8ffeeb5283
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241026T045000Z
 DTEND:20241026T060900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -140,14 +140,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3fe0623f-370c-57aa-918d-97d0460b7b0d
+UID:b57e716b-901d-5fcb-a68a-20d8e8397478
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241026T104500Z
 DTEND:20241026T120400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -157,14 +157,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2da8b2e9-fdfe-5cf0-8d44-da8b4eb183d7
+UID:0cd42624-ea3a-5eb5-92ca-aa8175480262
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241026T123000Z
 DTEND:20241026T134900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ水戸 3screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -174,13 +174,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b0dd7a17-6140-5662-8bbe-155b3fc74139
+UID:c6860a67-0d0a-5ce3-af6b-239a04d62663
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241027T061000Z
 DTEND:20241027T072700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -190,14 +190,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:acedf87a-e875-59c8-a31b-b74f5e3be61a
+UID:95e92574-307e-5bcc-9e3f-3c355d0dac37
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241027T001500Z
 DTEND:20241027T013400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -207,14 +207,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:90b34167-b938-5256-a5f3-fe8e29b9fb18
+UID:0e60cb38-4fb8-56e4-b277-bbeb767559dd
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241027T042500Z
 DTEND:20241027T054400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -224,14 +224,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b9452860-4b48-5889-a7c4-79b4c15bf41a
+UID:fa61826d-4a5d-5f35-8da3-c517f35cf0c3
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241027T104500Z
 DTEND:20241027T120400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -241,14 +241,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:08ba61ee-f0fd-5ab8-9225-77c7e11eccea
+UID:0dccd594-1586-584e-9cdf-791ac7c3dc84
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241027T123000Z
 DTEND:20241027T134900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -258,13 +258,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:39ec11bf-9f2f-52d8-8ca9-394d646f1555
+UID:0e3d9b93-dc2c-517c-85ee-74dacf8421ad
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241028T061000Z
 DTEND:20241028T072700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -274,14 +274,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d565b05b-5c7d-525e-8f75-bfda31668f3e
+UID:2d116bfc-8dc9-53c4-b3b0-be58d1dd036c
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241028T001500Z
 DTEND:20241028T013400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -291,14 +291,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:aac685d7-fd4d-5720-b51b-344664d6faeb
+UID:a280e892-4ab9-5f0b-916e-c09088aee1e5
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241028T042500Z
 DTEND:20241028T054400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -308,14 +308,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c2e39d2f-5d32-572f-a81d-154058d37c01
+UID:afbb4526-b6ce-593c-b129-d043054b6a72
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241028T104500Z
 DTEND:20241028T120400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -325,14 +325,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:44d36bf4-b165-50e7-a898-a89d6cb6c037
+UID:ab12aef1-881e-541e-b061-db7df847797c
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241028T123000Z
 DTEND:20241028T134900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -342,13 +342,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9539f8a2-b38a-5a55-bbba-552eabc1eb6e
+UID:592c5952-08fc-52f3-bc1f-06547165bc27
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241029T061000Z
 DTEND:20241029T072700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -358,14 +358,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f94eddea-950e-5b9a-8a95-dac5008f4111
+UID:2add0bd2-7ab1-55a2-a06f-318d874a36f8
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241029T001500Z
 DTEND:20241029T013400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -375,14 +375,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0a275d9d-5b6c-5be7-a71c-d4fcb3aaa20a
+UID:835c5094-40b0-54d5-b278-f09fe4dd31a8
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241029T042500Z
 DTEND:20241029T054400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -392,14 +392,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:bf805931-1fea-5489-9e8b-a23b94439fe0
+UID:0fe89a14-936c-5233-94ad-8635c10123ee
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241029T104500Z
 DTEND:20241029T120400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -409,14 +409,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:6cba7c1a-adea-5e05-978a-e81454adf3d6
+UID:a1b536fa-0ce9-51e3-b073-52444d1bdbbc
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241029T123000Z
 DTEND:20241029T134900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -426,13 +426,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ea0a602f-2d03-5e98-8c72-bf30de14c5ab
+UID:de7eeeed-655f-5f6b-a512-bf836c0de345
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241030T061000Z
 DTEND:20241030T072700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -442,14 +442,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d65fcfde-4a3b-54c6-9d83-807767ae179d
+UID:dc2ba8a0-12f5-5fc6-88a8-a88a91881357
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241030T001500Z
 DTEND:20241030T013400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -459,14 +459,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7b40f4ba-7da2-57cb-b155-e593f01ab835
+UID:7cd3f68e-0443-5458-bc98-8580dda68dbd
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241030T042500Z
 DTEND:20241030T054400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -476,14 +476,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:8ab5fc96-3a22-50eb-9ac2-8422c8c1874b
+UID:1b074b3d-5708-5091-acdc-1b2696444a4c
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241030T104500Z
 DTEND:20241030T120400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -493,14 +493,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:49cc181c-3fd2-542b-a255-a5d2a10a310d
+UID:08cf548f-ca21-59fe-90fd-1035604f35b2
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241030T123000Z
 DTEND:20241030T134900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -510,13 +510,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:89030779-c713-55bd-b211-e30ea4bd5957
+UID:82a6f06e-cf1e-52e2-9395-636515cb1d56
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241031T061000Z
 DTEND:20241031T072700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -526,14 +526,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3b985f44-2b4c-5cb3-b24f-8a1e5502311d
+UID:fe8bc768-abdb-525a-85ad-da1b688208a8
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241031T001500Z
 DTEND:20241031T013400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -543,14 +543,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d443a4e8-0303-5673-ba24-b85f044fb217
+UID:5736576b-b1f7-58bd-8ad4-610609abf038
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241031T042500Z
 DTEND:20241031T054400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -560,14 +560,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0f1d57ba-e380-507c-8e73-66b09c8c96ec
+UID:b2209187-5618-50f8-ac9e-a07cab2067e8
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241031T104500Z
 DTEND:20241031T120400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913
@@ -577,14 +577,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=11913&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a93eafc4-d352-5e34-9b5d-edb26777678e
+UID:8ca40523-4e0e-5c1b-abea-afbc62e21398
 SEQUENCE:0
-DTSTAMP:20241023T112446Z
+DTSTAMP:20241023T143053Z
 DTSTART:20241031T123000Z
 DTEND:20241031T134900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ水戸 3screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=11913

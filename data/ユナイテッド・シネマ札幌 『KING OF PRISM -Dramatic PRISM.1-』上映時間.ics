@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマ札幌 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ札幌 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:a63861c0-62e3-5da9-a5a4-7c99fdbe3168
+UID:17232378-c21b-57da-8b06-780543f93a59
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241025T000000Z
 DTEND:20241025T011700Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 1screen も～っと煌
- めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 1screen [4DX] も～っ
+ と煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -22,13 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:dfaf3fa3-3c93-5cbb-933d-c7921c099d69
+UID:0306f0c8-1a37-55b3-a821-ce170832a17c
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241025T062000Z
 DTEND:20241025T073700Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 6screen も～っと煌
- めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 6screen [ScreenX] も
+ ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -38,14 +38,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7961ec35-9c84-5b4a-b18d-09ffdd5df486
+UID:700cefc2-d94c-58e0-b312-d05b02314b79
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241025T041000Z
 DTEND:20241025T052900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 1screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -55,14 +55,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0a46920f-50ce-5071-bbe8-6d9978e439e0
+UID:6e1a4d7a-a25e-5042-9bb3-e126523d90f3
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241025T084000Z
 DTEND:20241025T095900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 1screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -72,14 +72,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:127cdbe4-e92a-5845-8c09-cd59fdbf0b44
+UID:1fbca18f-8ea8-5b5f-9686-ad7388fcd476
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241025T104000Z
 DTEND:20241025T115900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 1screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -89,14 +89,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:826c9826-7ee3-5944-b9a4-5f0d125e678a
+UID:7d18abb7-4b99-59c9-a6f8-707e34a903f9
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241025T015000Z
 DTEND:20241025T030900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 6screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』ScreenX 2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 6screen [ScreenX] プ
+ リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
+ atic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -106,14 +106,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b30d6a40-0a1d-5a95-b85e-0aef07d61464
+UID:b723b105-88e8-5665-9d0a-62b9fa80f3aa
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241025T130000Z
 DTEND:20241025T141900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 6screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』ScreenX 2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 6screen [ScreenX] プ
+ リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
+ atic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -123,13 +123,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5ed9bd8f-6e7d-5b62-a355-045c2bb15b10
+UID:a61981f9-2555-5a09-875e-42e36457a70a
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241026T000000Z
 DTEND:20241026T011700Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 1screen も～っと煌
- めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 1screen [4DX] も～っ
+ と煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -139,13 +139,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c47c91f3-c88b-58ee-aeec-9ee01c6483bb
+UID:73e614ac-1cc1-5256-8127-a34936956748
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241026T062000Z
 DTEND:20241026T073700Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 6screen も～っと煌
- めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 6screen [ScreenX] も
+ ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -155,14 +155,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:4abc7f0b-0abd-50a3-996a-150d55b59ef2
+UID:c712069d-ec53-5ae3-ac91-0011119f0629
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241026T041000Z
 DTEND:20241026T052900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 1screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -172,14 +172,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:412e8c54-ca2c-5468-8b61-b5aa37941098
+UID:e8704b00-0a13-550a-8baa-662dd53d1542
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241026T084000Z
 DTEND:20241026T095900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 1screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -189,14 +189,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ab49d680-a7c3-5fc1-8754-bef57725d156
+UID:15df9f1d-ff20-5bbd-bb95-506b0b6d3eb5
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241026T104000Z
 DTEND:20241026T115900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 1screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -206,14 +206,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2e67c4ff-e7a2-538d-a90f-58e37f787927
+UID:5c212ab8-743e-50a2-b945-d94a7f3e6a9d
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241026T015000Z
 DTEND:20241026T030900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 6screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』ScreenX 2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 6screen [ScreenX] プ
+ リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
+ atic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -223,14 +223,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c5f4df47-ee02-5d8d-b2c2-38fc11ca724c
+UID:48d259a4-a8c1-5730-951c-29e906375d7d
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241026T130000Z
 DTEND:20241026T141900Z
-SUMMARY:[○] ユナイテッド・シネマ札幌 6screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』ScreenX 2D
+SUMMARY:[○] ユナイテッド・シネマ札幌 6screen [ScreenX] プ
+ リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
+ atic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -240,13 +240,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d86df8a7-7457-5a30-8b86-65b965a28f2d
+UID:b083e1a0-9ab8-52d8-ac73-ddcd6a31dc96
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241027T000000Z
 DTEND:20241027T011700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -256,13 +256,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:00dc3ffd-dafa-5a2c-89cf-f5dac0e0cf0f
+UID:a43fc107-557c-568a-80a0-d2a1a69d5fa8
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241027T062000Z
 DTEND:20241027T073700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 
+ 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -272,14 +273,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:16b91892-a0d0-5917-b949-bdc7d2996882
+UID:a316f9a8-894e-5821-8d46-c2e7b0e71719
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241027T041000Z
 DTEND:20241027T052900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -289,14 +290,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:08461fca-ee80-5fcc-a7c4-c8ed3c853005
+UID:a4de2ccd-45e0-5d16-b56b-47cb25415f92
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241027T084000Z
 DTEND:20241027T095900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -306,14 +307,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:407442db-96c4-5a52-995f-bd7e24822c8e
+UID:086a7216-dfdc-54af-9655-98d5071ca3be
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241027T104000Z
 DTEND:20241027T115900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -323,14 +324,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:4d79d9ae-374f-5e71-aa71-c080d553ebe4
+UID:dce00074-e972-5c38-a7c1-d89ef296f7e8
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241027T015000Z
 DTEND:20241027T030900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -340,14 +341,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:73e4f59c-014f-53be-b197-28c32bf5b81b
+UID:ca75d411-43e6-5558-8851-1428623bbf61
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241027T130000Z
 DTEND:20241027T141900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -357,13 +358,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:12b31602-1d0f-56ad-9b43-26f760e0fa19
+UID:5e999863-202d-5973-9247-f32ce43ed289
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241028T000000Z
 DTEND:20241028T011700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -373,13 +374,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:25e51d4f-7c8d-5866-b0da-e5acf88c5516
+UID:6356979f-8644-567b-ba19-e4fe4eebd1ae
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241028T062000Z
 DTEND:20241028T073700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 
+ 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -389,14 +391,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:de2643ae-c035-5fd7-8538-f8a23f20cb60
+UID:233cee3a-4112-5b89-a09f-d2df51507c91
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241028T041000Z
 DTEND:20241028T052900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -406,14 +408,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5bb8baa0-ad33-5186-8ee6-435fd8dc9809
+UID:dc6db341-1c7c-5378-b4b2-0b742f0a6210
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241028T084000Z
 DTEND:20241028T095900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -423,14 +425,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e1204145-540d-5534-a5bb-f9097049b89c
+UID:e86026d2-7ea9-5b31-9615-fe335cd6f2b3
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241028T104000Z
 DTEND:20241028T115900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -440,14 +442,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:08c44d1a-205d-52b4-a8be-3ab74a40b46a
+UID:4a4aeea5-5a1c-50b3-8c05-8f0ccc4b0a75
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241028T015000Z
 DTEND:20241028T030900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -457,14 +459,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:6fa3b977-aea1-5be5-af14-ca9fdef1636d
+UID:615045e5-4d66-5f50-8d09-4770792c8d3c
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241028T130000Z
 DTEND:20241028T141900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -474,13 +476,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:32ebe5e1-11dd-5d5d-9a24-508f32e79bdd
+UID:0716dde7-996e-5e26-b47b-e8d1975ee836
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241029T000000Z
 DTEND:20241029T011700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -490,13 +492,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0b781b75-780c-5fa8-af5a-8a55a4741664
+UID:48ce4b0e-857e-57a9-931e-5562942509ba
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241029T062000Z
 DTEND:20241029T073700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 
+ 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -506,14 +509,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0db140e3-7d4d-5f21-b257-a2df7bfdd6f9
+UID:17147ad2-4673-5cd4-87dc-2a05bd7b6d63
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241029T041000Z
 DTEND:20241029T052900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -523,14 +526,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:90e3bc14-f6c7-5d35-a4de-8cff153ff240
+UID:bc77dec4-b60d-5646-ab30-9707bc713ee6
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241029T084000Z
 DTEND:20241029T095900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -540,14 +543,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c420e6df-9ff1-5e30-8e5e-c75516539718
+UID:4eee81ad-bcfd-5d9a-94f1-ff81fa7241a8
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241029T104000Z
 DTEND:20241029T115900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -557,14 +560,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:36e6606b-dc32-5fa2-99bf-79746fc3197e
+UID:cabe4b0c-5f00-5ae7-9f7c-77321737288f
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241029T015000Z
 DTEND:20241029T030900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -574,14 +577,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d286e5ad-bf7f-517d-9b77-58f614782972
+UID:2e411788-a5d6-57ae-80da-8b54610cdd83
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241029T130000Z
 DTEND:20241029T141900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -591,13 +594,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c0cd173f-863f-5329-819c-be3ceda4f00f
+UID:24729e82-2da3-5834-b4f4-0d2e9f28515a
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241030T000000Z
 DTEND:20241030T011700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -607,13 +610,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:bf1b9f40-70f3-59bb-a6d0-7bc37ed588fc
+UID:794457de-01d9-5036-8d11-98de5b8e0073
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241030T062000Z
 DTEND:20241030T073700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 
+ 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -623,14 +627,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ac3d1593-2170-577e-82c5-1ab6923487af
+UID:e6349b19-630a-532e-baac-8345aad54db1
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241030T041000Z
 DTEND:20241030T052900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -640,14 +644,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:69b3db72-b781-59fa-b71a-ab9fb46e079b
+UID:ff3abc9e-44e6-5bc2-b10f-5d6de7af5161
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241030T084000Z
 DTEND:20241030T095900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -657,14 +661,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0cc84445-2af1-576d-9083-db0ffc2df823
+UID:50e35bf9-03e0-572e-ac79-dd669266a91e
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241030T104000Z
 DTEND:20241030T115900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -674,14 +678,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9bd9c69a-1cbc-59bc-81f6-813402e0ce94
+UID:11c36557-650f-5fca-b9c3-22d89c32747f
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241030T015000Z
 DTEND:20241030T030900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -691,14 +695,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9e60160a-e04e-5d5d-8e86-0234f673d552
+UID:c315bcc2-0864-59a9-877b-cdd910108b51
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241030T130000Z
 DTEND:20241030T141900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -708,13 +712,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9a970920-a10d-53ed-b1f7-69df865b417b
+UID:88e621a6-9776-57d6-96e5-9c5fce28cb2a
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241031T000000Z
 DTEND:20241031T011700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -724,13 +728,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:759ca5ac-d656-5a2a-86c5-048dc8bc2a82
+UID:c45616c9-4d36-51c7-a1d6-a4ab290efd25
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241031T062000Z
 DTEND:20241031T073700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　ScreenX 
+ 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -740,14 +745,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e8698a95-fd7a-5ba6-8dc9-bd657a7203e4
+UID:66d06519-b6ce-5cf7-aa31-dc8de54fe84f
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241031T041000Z
 DTEND:20241031T052900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -757,14 +762,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e5d6b936-2056-5d29-915b-f50e6c6e6bbf
+UID:14f86f50-56b1-5895-893f-7c182864cf60
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241031T084000Z
 DTEND:20241031T095900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -774,14 +779,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:93c2cb9c-bf66-5b53-808e-d067de3a1ea4
+UID:e9f3291a-281c-55c2-9a9a-b87b3fed716d
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241031T104000Z
 DTEND:20241031T115900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -791,14 +796,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:08df3a3b-1113-5b02-9940-2c8e69591393
+UID:30a02fd6-03cb-5ddc-8f58-134a24b85caf
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241031T015000Z
 DTEND:20241031T030900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
@@ -808,14 +813,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ed2d672c-7c94-5f8c-9cac-e05d39075ddd
+UID:a6529530-1812-5e6f-a786-79716c858a77
 SEQUENCE:0
-DTSTAMP:20241023T123237Z
+DTSTAMP:20241023T142806Z
 DTSTART:20241031T130000Z
 DTEND:20241031T141900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ札幌 6screen [Sc
+ reenX] プリズムスタァ応援上映『も～っと煌めく!KING OF P
+ RISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
