@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:dcaded8a-a347-5250-8681-43d71cf749ae
+UID:b23e5610-7eaa-5dc3-a882-283454fac47d
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241025T073000Z
 DTEND:20241025T084700Z
-SUMMARY:[○] ユナイテッド・シネマ前橋 1screen も～っと煌
- めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[○] ユナイテッド・シネマ前橋 1screen [4DX] も～っ
+ と煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -22,14 +22,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9bd43bd6-add3-5325-8b8c-7e929283fb57
+UID:6f8191dd-d857-54ab-b75d-fe916acbf612
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241025T001500Z
 DTEND:20241025T013400Z
-SUMMARY:[○] ユナイテッド・シネマ前橋 1screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ前橋 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -39,14 +39,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e999ebb0-a6eb-51d0-9a1b-dec843c8f6a0
+UID:5cfda4fa-bee2-5159-be6b-584bfad2be71
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241025T114000Z
 DTEND:20241025T125900Z
-SUMMARY:[○] ユナイテッド・シネマ前橋 1screen プリズムス
- タァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1
- -』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ前橋 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -56,13 +56,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:790f6f97-1d62-5ed2-8f4c-ecd8e66bebc4
+UID:62f9f571-6f91-5444-a238-a1ef17b27449
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241026T073000Z
 DTEND:20241026T084700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[○] ユナイテッド・シネマ前橋 1screen [4DX] も～っ
+ と煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -72,14 +72,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a54089dd-2e5c-5cc7-a87b-38b20c4fdb6c
+UID:cf36a92f-2a64-5ccd-a567-75835d8d6722
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241026T001500Z
 DTEND:20241026T013400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ前橋 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -89,14 +89,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:aec232df-57ce-5f9d-a193-c71f2c4b37a7
+UID:e5867b45-12e0-5816-b86f-01a851ff1d5f
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241026T114000Z
 DTEND:20241026T125900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[○] ユナイテッド・シネマ前橋 1screen [4DX] プリズ
+ ムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic P
+ RISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -106,13 +106,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:578036e7-2225-5cb8-ae47-2c2cd5daf0d4
+UID:4aa75c98-c5ea-5ef9-a57c-e008fd06de7e
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241027T073000Z
 DTEND:20241027T084700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -122,14 +122,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1e93f645-bc2b-5e62-b1a4-1ea74dd628c7
+UID:fe41a458-22af-528c-a8c6-161b3386d6a9
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241027T001500Z
 DTEND:20241027T013400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -139,14 +139,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2e9141ba-3831-509b-bc1e-f62c6a06417e
+UID:2f0f565f-ff92-5656-8f02-d4497653cbfd
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241027T114000Z
 DTEND:20241027T125900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -156,13 +156,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7c37578b-28f1-5260-bf97-0d8529d18bf7
+UID:3cd21aa5-ebab-5660-85e4-d8f5d26ee28e
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241028T073000Z
 DTEND:20241028T084700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -172,14 +172,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f91c0fd4-808b-58c0-b294-951ec1080245
+UID:02d4636a-657d-556b-8e2a-c1746f3f37f5
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241028T001500Z
 DTEND:20241028T013400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -189,14 +189,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a0ac9ba7-7bdc-5509-ba4b-029ee2687871
+UID:4f8d999b-56db-5efc-b773-5762bcb48082
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241028T114000Z
 DTEND:20241028T125900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -206,13 +206,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f65c917c-87fb-5316-8e0b-91bec12dd93f
+UID:160b1037-884e-5bc7-b8cc-7f83a3539cab
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241029T073000Z
 DTEND:20241029T084700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -222,14 +222,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:6357e564-a88b-5555-a850-e7fb55c268c1
+UID:081b545a-75df-552d-9b59-ef1649d24443
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241029T002500Z
 DTEND:20241029T014400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -239,14 +239,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0b9b819d-97fa-5447-8065-9f2857704ab8
+UID:de71db43-c15e-5221-b816-c91af780880d
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241029T114000Z
 DTEND:20241029T125900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -256,13 +256,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:11749d82-8319-5870-8202-a9050c20979b
+UID:a71c0e77-4877-5d47-a740-b6252dfc7198
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241030T073000Z
 DTEND:20241030T084700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -272,14 +272,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:6b40ddc7-f5d2-5f32-a9a6-cca0e783280a
+UID:9256d6df-9ebd-50ef-bf1e-19336ef5ddc5
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241030T002500Z
 DTEND:20241030T014400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -289,14 +289,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9045b24e-97a1-5d0d-8b3e-70a64cf4d0b9
+UID:11aa07f3-8f53-5213-8888-bd8218185ff6
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241030T114000Z
 DTEND:20241030T125900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -306,13 +306,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ebe0a527-37ff-5f91-84c7-970b54bc45cf
+UID:d29331ef-16eb-53c9-9a30-fb5be4aeb253
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241031T073000Z
 DTEND:20241031T084700Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen も
- ～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-　4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -322,14 +322,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:770ac276-6c54-504e-a0a5-9776bc4b8a25
+UID:a5ec8a0a-dd8b-5fef-9241-3a115ede8389
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241031T002500Z
 DTEND:20241031T014400Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -339,14 +339,14 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:34fb33c9-779c-58a2-976b-d2221026eef4
+UID:34bcc45d-385d-51cc-96c3-4dc6799eed34
 SEQUENCE:0
-DTSTAMP:20241023T112541Z
+DTSTAMP:20241023T163250Z
 DTSTART:20241031T114000Z
 DTEND:20241031T125900Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen プ
- リズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dram
- atic PRISM.1-』4DX2D
+SUMMARY:[販売期間外] ユナイテッド・シネマ前橋 1screen [4D
+ X] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM
+  -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ前橋 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
