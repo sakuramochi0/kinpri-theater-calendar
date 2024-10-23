@@ -5,19 +5,4 @@ NAME:T・ジョイ出雲 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ出雲 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
-BEGIN:VEVENT
-UID:e6009c82-4974-5fd3-9df4-db75b2aac420
-SEQUENCE:0
-DTSTAMP:20241023T191010Z
-DTSTART:20241024T081000Z
-DTEND:20241024T092500Z
-SUMMARY:[◎予約/購入] T・ジョイ出雲 シアター６ [応援上
- 映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ出雲 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/C3864
-END:VEVENT
 END:VCALENDAR
