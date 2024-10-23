@@ -63,7 +63,10 @@ export async function getUnitedCinemasSchedules(page: Page, url: string) {
         const dateString = dailySchedule.querySelector('#topHead a')!.textContent
         const movies = [...dailySchedule.querySelectorAll('#dailyList > li')]
         return movies.map(movie => {
-          const title = movie.querySelector('h4')?.textContent?.trim() ?? ''
+          const is4DX = !!movie.querySelector('a[href*="4dx"]')
+          const isScreenX = !!movie.querySelector('a[href*="screenx"]')
+          const type = is4DX ? '[4DX] ' : isScreenX ? '[ScreenX] ' : ''
+          const title = type + movie.querySelector('h4')?.textContent?.trim() ?? ''
           const screens = [...movie.querySelectorAll('.tl > li')]
           return screens.map(screen => {
             const screenName = screen.querySelector('.screenNumber img')?.getAttribute('alt') ?? ''
