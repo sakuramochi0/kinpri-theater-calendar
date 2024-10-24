@@ -6,61 +6,13 @@ NAME:ユナイテッド・シネマ岡崎 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ岡崎 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:348c3672-2a6d-5d02-9095-d70245ec5ab5
+UID:18a1c4dc-f266-5535-8637-622faf493a2b
 SEQUENCE:0
-DTSTAMP:20241020T221642Z
-DTSTART:20241021T101500Z
-DTEND:20241021T113500Z
-SUMMARY:[○] ユナイテッド・シネマ岡崎 6screen プリズムス
- タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ岡崎 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
- 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:68284d60-6856-5289-9438-06ad5dabc68d
-SEQUENCE:0
-DTSTAMP:20241020T221642Z
-DTSTART:20241022T101500Z
-DTEND:20241022T113500Z
-SUMMARY:[○] ユナイテッド・シネマ岡崎 6screen プリズムス
- タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ岡崎 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
- 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:912fc367-8f1f-554b-ba3b-fd24028b9cfa
-SEQUENCE:0
-DTSTAMP:20241020T221642Z
-DTSTART:20241023T101500Z
-DTEND:20241023T113500Z
-SUMMARY:[○] ユナイテッド・シネマ岡崎 6screen プリズムス
- タァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
-LOCATION:ユナイテッド・シネマ岡崎 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
- 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:98931a9e-b0ad-57ab-a7a2-8f64376a7377
-SEQUENCE:0
-DTSTAMP:20241020T221642Z
+DTSTAMP:20241024T071517Z
 DTSTART:20241024T101500Z
 DTEND:20241024T113500Z
-SUMMARY:[販売期間外] ユナイテッド・シネマ岡崎 6screen プ
- リズムスタァ応援上映『KING OF PRISM -Dramatic PRISM.1-』
+SUMMARY:[○]  プリズムスタァ応援上映『KING OF PRISM -Dramatic
+  PRISM.1-』
 LOCATION:ユナイテッド・シネマ岡崎 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11

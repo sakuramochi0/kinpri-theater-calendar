@@ -1,344 +1,344 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
-NAME:ユナイテッド・シネマ枚方 『KING OF PRISM -Dramatic PRISM
+NAME:ユナイテッド・シネマ長崎 『KING OF PRISM -Dramatic PRISM
  .1-』上映時間
-X-WR-CALNAME:ユナイテッド・シネマ枚方 『KING OF PRISM -Dramat
+X-WR-CALNAME:ユナイテッド・シネマ長崎 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:afd482d0-eeca-5cb0-a667-bc5476052fc3
+UID:f8a264f3-d374-5c6c-ac37-4d6284703417
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241025T002500Z
-DTEND:20241025T014200Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241025T045000Z
+DTEND:20241025T060700Z
 SUMMARY:[○]  [4DX] も～っと煌めく！KING OF PRISM -Dramatic PRISM
  .1-　4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:99a7a194-d74a-58c4-a71e-c228e7dd3add
+UID:97f3ae2d-d900-593d-9a94-abc3a5c8d2fa
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241025T071000Z
-DTEND:20241025T082900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241025T001000Z
+DTEND:20241025T012900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:570b2c65-38dc-5584-9d1b-97f753e06ac5
+UID:917835f0-9a61-5edb-9b3e-179a4003ae3a
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241025T110000Z
-DTEND:20241025T121900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241025T090000Z
+DTEND:20241025T101900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c1c2e23d-2c6f-5842-a2ea-7667c59621df
+UID:621dba66-1d6f-50b3-8376-8294eb13ac64
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241026T002500Z
-DTEND:20241026T014200Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241026T045000Z
+DTEND:20241026T060700Z
 SUMMARY:[○]  [4DX] も～っと煌めく！KING OF PRISM -Dramatic PRISM
  .1-　4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:13e436fd-9f55-5769-9b04-b907f169cd76
+UID:5a8ab35a-c842-551d-957a-28c668c46d4a
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241026T044500Z
-DTEND:20241026T060400Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241026T001000Z
+DTEND:20241026T012900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3517344e-837c-5743-8902-dc99a722cbf3
+UID:90bc62d2-10d2-56e3-87c8-7de4f34a1758
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241026T084500Z
-DTEND:20241026T100400Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241026T090000Z
+DTEND:20241026T101900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5a6e2f36-679e-50ce-aaa7-8b8418279ec5
+UID:5fb109cb-1fb1-58d6-ab47-37707386acbe
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241027T002500Z
-DTEND:20241027T014200Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241027T045000Z
+DTEND:20241027T060700Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:72579e53-6454-5acb-b6ed-6d06f3171520
+UID:feb838d5-92a6-5756-aa85-1d1e6e507bfa
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241027T042500Z
-DTEND:20241027T054400Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241027T001000Z
+DTEND:20241027T012900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5598e9d8-577b-5039-b7d7-93ab451a6fc9
+UID:c40c2f4f-a4d7-5b5b-89c7-4ea102a86c39
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241027T110000Z
-DTEND:20241027T121900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241027T090000Z
+DTEND:20241027T101900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:6b679347-4fac-5dbc-8daa-c26e707aa1d8
+UID:dbaab706-2654-5cc0-850f-5040fe00d666
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241028T002500Z
-DTEND:20241028T014200Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241028T045000Z
+DTEND:20241028T060700Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2025feaf-dac3-523f-9551-fffd775aab4f
+UID:c740c7d3-258d-556e-a4c1-a711ddf1f31e
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241028T071000Z
-DTEND:20241028T082900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241028T001000Z
+DTEND:20241028T012900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5ecebc45-b1ea-54dc-adc8-899c26b5c7df
+UID:0ce81c2e-6d96-5fb8-a1fc-a0feb9fea3d0
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241028T110000Z
-DTEND:20241028T121900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241028T090000Z
+DTEND:20241028T101900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d623953c-a9c2-571d-b1cd-d4ac631b4889
+UID:4556b4f3-037a-5924-b70b-700a8a0287bb
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241029T002500Z
-DTEND:20241029T014200Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241029T045000Z
+DTEND:20241029T060700Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:189ca8ff-6035-558f-a4f9-8ea42a3d1767
+UID:e27cc363-7d3b-5047-99dd-15ad3d0b5f3a
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241029T071000Z
-DTEND:20241029T082900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241029T001000Z
+DTEND:20241029T012900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0442d050-f0c5-5819-bfcc-59ea5d89595d
+UID:ce492864-baa1-5828-ad81-124192902c32
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241029T110000Z
-DTEND:20241029T121900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241029T090000Z
+DTEND:20241029T101900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:447a9f18-e9ec-5d7d-812b-6194dc742eb5
+UID:bf32e056-6332-59c3-b4b0-38ef8a5ed556
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241030T002500Z
-DTEND:20241030T014200Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241030T045000Z
+DTEND:20241030T060700Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:97ee2e5f-ff19-5ddf-ac3b-ed44eb813da6
+UID:30ee002d-6b59-5306-acdc-d2e52b522c82
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241030T071000Z
-DTEND:20241030T082900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241030T001000Z
+DTEND:20241030T012900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5bd31373-514e-5aba-abb0-e0458cc4edb1
+UID:e53ed997-61d0-5ca1-b878-961dea92e5c4
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241030T110000Z
-DTEND:20241030T121900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241030T090000Z
+DTEND:20241030T101900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:36e76d99-5923-5fb7-a4d2-86dc3660fafe
+UID:663bcc64-a94d-5574-b033-2c852c557b24
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241031T002500Z
-DTEND:20241031T014200Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241031T045000Z
+DTEND:20241031T060700Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9c553fd7-6952-530c-a33f-30f02710ab3d
+UID:39ceb40d-fdcc-58eb-9bfd-641e21866bff
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241031T071000Z
-DTEND:20241031T082900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241031T001000Z
+DTEND:20241031T012900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:67501f15-1fdb-51e2-8990-6ce9fde5d6ee
+UID:201762c9-77c7-56e1-a59e-9a3f8828d696
 SEQUENCE:0
-DTSTAMP:20241024T071614Z
-DTSTART:20241031T110000Z
-DTEND:20241031T121900Z
+DTSTAMP:20241024T071752Z
+DTSTART:20241031T090000Z
+DTEND:20241031T101900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ枚方 6screen
+LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/hirakata/film.php?movie=1
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
  1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/hirakata/film.php?movie=11913&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=11913&f
  rom=fm
 END:VEVENT
 END:VCALENDAR
