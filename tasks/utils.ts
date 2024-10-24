@@ -18,7 +18,7 @@ export function generateICal(theaterName: string, url: string, schedules: Schedu
       id: uuidv5(id, UUID_NAMESPACE),
       start: schedule.startTime,
       end: schedule.endTime,
-      summary: `${schedule.status ? `[${schedule.status}] ` : ''}${theaterName} ${schedule.screenName} ${schedule.title ?? ''}`,
+      summary: `${schedule.status ? `[${schedule.status}] ` : ''} ${schedule.title ?? ''}`,
       description: `プリズムの煌めきをあなたに✨\n映画館の上映スケジュール: ${url}\nカレンダー生成プログラムのウェブサイト: kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/`,
       location: `${theaterName} ${schedule.screenName}`,
       url,
