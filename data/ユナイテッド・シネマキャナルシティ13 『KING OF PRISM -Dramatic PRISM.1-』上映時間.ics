@@ -1,344 +1,344 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
-NAME:ユナイテッド・シネマとしまえん 『KING OF PRISM -Drama
- tic PRISM.1-』上映時間
-X-WR-CALNAME:ユナイテッド・シネマとしまえん 『KING OF PRIS
+NAME:ユナイテッド・シネマキャナルシティ13 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
+X-WR-CALNAME:ユナイテッド・シネマキャナルシティ13 『KING
+  OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:a291c9a9-5db4-5a4b-bbe7-e990345e4e05
+UID:1c145519-9815-5038-8b41-1a04e5a78b9d
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241025T014500Z
-DTEND:20241025T030200Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241025T024500Z
+DTEND:20241025T040000Z
 SUMMARY:[○]  [4DX] も～っと煌めく！KING OF PRISM -Dramatic PRISM
  .1-　4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:8137625d-249c-5491-bf96-bc60926b6637
+UID:06bbb3d0-4f28-5705-bffb-9d965f16840d
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241025T083000Z
-DTEND:20241025T094900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241025T073000Z
+DTEND:20241025T084900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2dac0475-9975-56db-958d-7165ce3137ac
+UID:0069f002-4134-5c1e-bd9f-25fd1312f77b
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241025T124000Z
-DTEND:20241025T135900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241025T114500Z
+DTEND:20241025T130400Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:eace95b6-dbd1-5b72-97c5-790da4e5118f
+UID:1bc3418b-818b-5499-9565-b18d96fc2f88
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241026T014500Z
-DTEND:20241026T030200Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241026T001500Z
+DTEND:20241026T013000Z
 SUMMARY:[○]  [4DX] も～っと煌めく！KING OF PRISM -Dramatic PRISM
  .1-　4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:fc9a2a2a-83b8-5bc9-afa7-7e91c6f909c4
+UID:fdcbdcab-7794-597c-8633-ef9342cf8f73
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241026T083000Z
-DTEND:20241026T094900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241026T050500Z
+DTEND:20241026T062400Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:efded969-4156-5631-a897-8a0477eab20a
+UID:eaf163f8-d962-5a5b-8a74-9050a766a7a4
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241026T124000Z
-DTEND:20241026T135900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241026T114500Z
+DTEND:20241026T130400Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7c828474-41c3-5dff-b1ed-5c77ab74c0e5
+UID:a3d0103e-37fe-5065-a69f-7dbe269df71e
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241027T014500Z
-DTEND:20241027T030200Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241027T024500Z
+DTEND:20241027T040000Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:90483491-369e-546f-880a-32a831bfb416
+UID:c624c79d-68a7-592f-b017-8d73693259b6
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241027T083000Z
-DTEND:20241027T094900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241027T074000Z
+DTEND:20241027T085900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:25a02cf4-9051-5212-812d-7d540ecfca39
+UID:92f222fe-8caf-5078-86ef-f1efabcb4ca3
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241027T124000Z
-DTEND:20241027T135900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241027T115000Z
+DTEND:20241027T130900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c46311ed-6ff5-58d6-800c-00300b88b1a1
+UID:bdc34d3d-ee71-56f0-831e-bed8f7b42ca5
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241028T014500Z
-DTEND:20241028T030200Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241028T024500Z
+DTEND:20241028T040000Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:00299ff8-5917-5449-af63-82906bef087f
+UID:ba125a91-7a01-576a-ab6f-a525aaf059cf
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241028T083000Z
-DTEND:20241028T094900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241028T073000Z
+DTEND:20241028T084900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f6b88a16-a486-5dee-9393-aef95ba480fc
+UID:fed4c827-c6d4-5440-b95e-df1bef2660ab
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241028T124000Z
-DTEND:20241028T135900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241028T114500Z
+DTEND:20241028T130400Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:5c008c80-245c-5110-a91e-6ae05c49af33
+UID:ae303253-7ecb-5c6a-b83b-8ac4b512d654
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241029T014500Z
-DTEND:20241029T030200Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241029T024500Z
+DTEND:20241029T040000Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d0364dfd-cd37-52ff-b6fe-70fe4506823f
+UID:640d11d0-6ef3-56d7-838b-1f97135695fa
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241029T083000Z
-DTEND:20241029T094900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241029T073000Z
+DTEND:20241029T084900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:889efd30-621b-579a-b31e-d8d410d21da9
+UID:f4679b71-b979-595f-9777-9d2dab931d55
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241029T124000Z
-DTEND:20241029T135900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241029T114500Z
+DTEND:20241029T130400Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1514a0c4-8f3e-54e3-97d8-f4923970a5c1
+UID:48c63d05-dce0-5ce2-a583-d38b0e71e43b
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241030T014500Z
-DTEND:20241030T030200Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241030T024500Z
+DTEND:20241030T040000Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:bdd01d0f-91f1-58c5-bf8d-8c672b86ee44
+UID:e276e5eb-3d99-53f5-863b-e96e1cccba78
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241030T083000Z
-DTEND:20241030T094900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241030T073000Z
+DTEND:20241030T084900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c4322d44-7990-549f-b1f5-251100cab1c5
+UID:2660c5d8-3c45-543c-b43e-44fe32deef07
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241030T124000Z
-DTEND:20241030T135900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241030T114500Z
+DTEND:20241030T130400Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1d4ae328-8e69-52ef-bbb6-b654a0cfbaf1
+UID:4b95f93b-80a8-50d6-83e2-0cade835a50b
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241031T014500Z
-DTEND:20241031T030200Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241031T024500Z
+DTEND:20241031T040000Z
 SUMMARY:[販売期間外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
  amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:96d3132c-219d-5962-9f37-6e7a0c9e34d4
+UID:352d854c-9f1e-50ac-be73-4939b2c1ddeb
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241031T083000Z
-DTEND:20241031T094900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241031T073500Z
+DTEND:20241031T085400Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e2003bbe-7b4e-5731-bffd-15d016fe2071
+UID:1c575876-d456-5f43-b720-edf537a96ee0
 SEQUENCE:0
-DTSTAMP:20241024T041813Z
-DTSTART:20241031T124000Z
-DTEND:20241031T135900Z
+DTSTAMP:20241024T042054Z
+DTSTART:20241031T114500Z
+DTEND:20241031T130400Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマとしまえん 4screen
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
  11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=11913&
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 END:VCALENDAR
