@@ -8,7 +8,7 @@ X-WR-CALNAME:ユナイテッド・シネマわかば 『KING OF PRISM -Dra
 BEGIN:VEVENT
 UID:a71088f6-f809-5f23-8715-01bdff462bbf
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241029T002000Z
 DTEND:20241029T013400Z
 SUMMARY:[販売対象外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:86dbfa31-71cd-5592-8a61-14026b0351c0
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241029T062500Z
 DTEND:20241029T073900Z
 SUMMARY:[販売対象外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:90594520-ed61-5a25-8fa8-209a8ced5f10
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241029T044500Z
 DTEND:20241029T060100Z
 SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:35907d3a-0339-5e0b-95fa-fd32a8bcfd8e
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241029T102000Z
 DTEND:20241029T113600Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2f677edb-7555-5770-b623-d7cea5e2f429
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241030T002000Z
 DTEND:20241030T013400Z
 SUMMARY:[○]  [4DX] も～っと煌めく！KING OF PRISM -Dramatic PRISM
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4060d96f-2450-540d-9809-a0c9261d4944
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241030T062500Z
 DTEND:20241030T073900Z
 SUMMARY:[○]  [4DX] も～っと煌めく！KING OF PRISM -Dramatic PRISM
@@ -104,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ced0205b-5ea2-5688-babc-67e92b3c31ae
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241030T044500Z
 DTEND:20241030T060100Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:05ac7200-408f-59c8-a961-920c21ef4907
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241030T102000Z
 DTEND:20241030T113600Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c63f00d6-9fcd-5117-b102-17c026ab2b15
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241031T002000Z
 DTEND:20241031T013400Z
 SUMMARY:[○]  [4DX] も～っと煌めく！KING OF PRISM -Dramatic PRISM
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a87ce76c-e67a-5de1-8c9c-75226647f4af
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241031T062500Z
 DTEND:20241031T073900Z
 SUMMARY:[○]  [4DX] も～っと煌めく！KING OF PRISM -Dramatic PRISM
@@ -168,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0d9b7420-e440-5c00-9b7b-731ebc3035c2
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241031T044500Z
 DTEND:20241031T060100Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -184,11 +184,123 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e7c16e1b-5300-5a70-beb3-35122f877e04
 SEQUENCE:0
-DTSTAMP:20241029T083214Z
+DTSTAMP:20241029T101347Z
 DTSTART:20241031T102000Z
 DTEND:20241031T113600Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマわかば 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=119
+ 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=11913&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:5606117b-1359-54fd-9142-43b583f94d19
+SEQUENCE:0
+DTSTAMP:20241029T101347Z
+DTSTART:20241101T022500Z
+DTEND:20241101T034100Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマわかば 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=119
+ 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=11913&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:94def3fd-3df3-5101-a348-053cef51a4c5
+SEQUENCE:0
+DTSTAMP:20241029T101347Z
+DTSTART:20241102T022000Z
+DTEND:20241102T033600Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマわかば 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=119
+ 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=11913&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:723f6e0f-b98b-5c43-8296-90b305939282
+SEQUENCE:0
+DTSTAMP:20241029T101347Z
+DTSTART:20241103T022000Z
+DTEND:20241103T033600Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマわかば 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=119
+ 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=11913&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:5a7a3c72-8536-52d9-b284-6571e021d7e7
+SEQUENCE:0
+DTSTAMP:20241029T101347Z
+DTSTART:20241104T022000Z
+DTEND:20241104T033600Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマわかば 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=119
+ 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=11913&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:c9d36d98-dda9-5c03-9ed5-e4fe17253cce
+SEQUENCE:0
+DTSTAMP:20241029T101347Z
+DTSTART:20241105T022500Z
+DTEND:20241105T034100Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマわかば 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=119
+ 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=11913&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:8e72a1b7-4544-590d-a0ef-218be7a57ed5
+SEQUENCE:0
+DTSTAMP:20241029T101347Z
+DTSTART:20241106T022500Z
+DTEND:20241106T034100Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマわかば 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=119
+ 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=11913&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:167d52ba-3c86-56b6-a01b-ff8b27e1f1df
+SEQUENCE:0
+DTSTAMP:20241029T101347Z
+DTSTART:20241107T022500Z
+DTEND:20241107T034100Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマわかば 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=119
