@@ -5,23 +5,9 @@ NAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:cd9d735a-29a8-557e-946b-9fbd2d912690
-SEQUENCE:0
-DTSTAMP:20241030T141035Z
-DTSTART:20241030T121000Z
-DTEND:20241030T132500Z
-SUMMARY:[-終了]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:広島バルト11 シアター４
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/hiroshima_wald11/cinema_schedule/C3864
- \nカレンダー生成プログラムのウェブサイト: kinpri-theate
- r-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
 UID:4819ca7a-9ccc-5020-b1b5-0e030db86c89
 SEQUENCE:0
-DTSTAMP:20241030T141035Z
+DTSTAMP:20241030T151130Z
 DTSTART:20241031T104500Z
 DTEND:20241031T120000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
