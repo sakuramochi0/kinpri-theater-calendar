@@ -6,73 +6,9 @@ NAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:30fb23e9-aa82-50bc-b6a5-b318cb2a3705
-SEQUENCE:0
-DTSTAMP:20241031T190935Z
-DTSTART:20241031T000000Z
-DTEND:20241031T011700Z
-SUMMARY:[販売対象外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
- amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマ幕張 8screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
- 1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11913&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:107a2aa8-f42d-583f-96f1-dd7141f196b3
-SEQUENCE:0
-DTSTAMP:20241031T190935Z
-DTSTART:20241031T054000Z
-DTEND:20241031T065700Z
-SUMMARY:[販売対象外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
- amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマ幕張 8screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
- 1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11913&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:59293126-d41e-5f2e-a58d-1f6eca4a3876
-SEQUENCE:0
-DTSTAMP:20241031T190935Z
-DTSTART:20241031T014000Z
-DTEND:20241031T025900Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ幕張 8screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
- 1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11913&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:0136b483-a749-5e0d-8ae0-5dcc253c62a0
-SEQUENCE:0
-DTSTAMP:20241031T190935Z
-DTSTART:20241031T100000Z
-DTEND:20241031T111900Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ幕張 8screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
- 1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=11913&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:8424acb3-0d5d-5b59-8ca7-1189769fbb99
 SEQUENCE:0
-DTSTAMP:20241031T190935Z
+DTSTAMP:20241031T221338Z
 DTSTART:20241101T100000Z
 DTEND:20241101T111900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -88,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5d3267af-6bac-5d43-90aa-c51e6f66c5e7
 SEQUENCE:0
-DTSTAMP:20241031T190935Z
+DTSTAMP:20241031T221338Z
 DTSTART:20241101T235000Z
 DTEND:20241102T010900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -104,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a3a6098b-ee95-54fd-bd2e-bdb4d4b042b2
 SEQUENCE:0
-DTSTAMP:20241031T190935Z
+DTSTAMP:20241031T221338Z
 DTSTART:20241102T235000Z
 DTEND:20241103T010900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -120,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:51dfdf70-c271-5ee2-9a77-c074016278f2
 SEQUENCE:0
-DTSTAMP:20241031T190935Z
+DTSTAMP:20241031T221338Z
 DTSTART:20241103T235000Z
 DTEND:20241104T010900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
@@ -136,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b66ec001-2641-5f4c-9cba-4756675cfa69
 SEQUENCE:0
-DTSTAMP:20241031T190935Z
+DTSTAMP:20241031T221338Z
 DTSTART:20241105T100000Z
 DTEND:20241105T111900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
@@ -152,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5599831a-048a-5b25-a41a-ee713105e915
 SEQUENCE:0
-DTSTAMP:20241031T190935Z
+DTSTAMP:20241031T221338Z
 DTSTART:20241106T100000Z
 DTEND:20241106T111900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
@@ -168,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bc87bf7e-f5da-58fa-a99e-c9b570d2b4fc
 SEQUENCE:0
-DTSTAMP:20241031T190935Z
+DTSTAMP:20241031T221338Z
 DTSTART:20241107T100000Z
 DTEND:20241107T111900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
