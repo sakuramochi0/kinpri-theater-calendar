@@ -6,57 +6,9 @@ NAME:ユナイテッド・シネマ春日部 『KING OF PRISM -Dramatic PR
 X-WR-CALNAME:ユナイテッド・シネマ春日部 『KING OF PRISM -Dra
  matic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b4ee5091-28b3-5cd7-b738-b919d6ba317f
-SEQUENCE:0
-DTSTAMP:20241031T161510Z
-DTSTART:20241031T070000Z
-DTEND:20241031T081700Z
-SUMMARY:[販売対象外]  [4DX] も～っと煌めく！KING OF PRISM -Dr
- amatic PRISM.1-　4DX2D
-LOCATION:ユナイテッド・シネマ春日部 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
- 1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=11913&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:736fdf52-10bd-5517-b981-dc9e96bee79e
-SEQUENCE:0
-DTSTAMP:20241031T161510Z
-DTSTART:20241031T051500Z
-DTEND:20241031T063400Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ春日部 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
- 1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=11913&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:43fc713f-bb67-5ebf-90cb-7a9dcbf1f4ed
-SEQUENCE:0
-DTSTAMP:20241031T161510Z
-DTSTART:20241031T114000Z
-DTEND:20241031T125900Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ春日部 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
- 1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=11913&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:e5765f80-e197-5618-abae-efaaa7c0ff53
 SEQUENCE:0
-DTSTAMP:20241031T161510Z
+DTSTAMP:20241031T231237Z
 DTSTART:20241101T025000Z
 DTEND:20241101T040900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -72,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7d6644d6-c859-5545-8ff4-4b0d15590353
 SEQUENCE:0
-DTSTAMP:20241031T161510Z
+DTSTAMP:20241031T231237Z
 DTSTART:20241102T025000Z
 DTEND:20241102T040900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -88,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5bfd6cc8-caa3-5472-8218-cb81aefb9e70
 SEQUENCE:0
-DTSTAMP:20241031T161510Z
+DTSTAMP:20241031T231237Z
 DTSTART:20241103T025000Z
 DTEND:20241103T040900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -104,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f461ca54-de45-516b-a407-39bedda0be06
 SEQUENCE:0
-DTSTAMP:20241031T161510Z
+DTSTAMP:20241031T231237Z
 DTSTART:20241104T025000Z
 DTEND:20241104T040900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
@@ -120,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5cd7c5db-70a7-5079-a49f-9b5f3a532697
 SEQUENCE:0
-DTSTAMP:20241031T161510Z
+DTSTAMP:20241031T231237Z
 DTSTART:20241105T025000Z
 DTEND:20241105T040900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
@@ -136,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:929a7283-9dbb-52a5-b751-b600b57e270c
 SEQUENCE:0
-DTSTAMP:20241031T161510Z
+DTSTAMP:20241031T231237Z
 DTSTART:20241106T025000Z
 DTEND:20241106T040900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
@@ -152,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1fc079e6-3c6d-5e49-9db4-18d187804a51
 SEQUENCE:0
-DTSTAMP:20241031T161510Z
+DTSTAMP:20241031T231237Z
 DTSTART:20241107T025000Z
 DTEND:20241107T040900Z
 SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
