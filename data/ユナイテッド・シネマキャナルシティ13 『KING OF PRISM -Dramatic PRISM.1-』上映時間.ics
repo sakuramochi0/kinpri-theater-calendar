@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマキャナルシティ13 『KING OF PRIS
 X-WR-CALNAME:ユナイテッド・シネマキャナルシティ13 『KING
   OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:e4c669aa-2abc-5903-b51e-c848a8e67e3c
+UID:5fe3d279-c1fd-5b48-9e5f-773b3a258398
 SEQUENCE:0
-DTSTAMP:20241105T081857Z
-DTSTART:20241105T080000Z
-DTEND:20241105T091900Z
+DTSTAMP:20241106T081912Z
+DTSTART:20241106T080000Z
+DTEND:20241106T091900Z
 SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
  ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
@@ -22,11 +22,11 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:81c7876d-af4d-5106-90df-03efdbb9432b
+UID:a1dce1fa-2d4b-5190-abe5-ac44e12bbe83
 SEQUENCE:0
-DTSTAMP:20241105T081857Z
-DTSTART:20241106T080000Z
-DTEND:20241106T091900Z
+DTSTAMP:20241106T081912Z
+DTSTART:20241107T080000Z
+DTEND:20241107T091900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
@@ -38,13 +38,109 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a1dce1fa-2d4b-5190-abe5-ac44e12bbe83
+UID:dc2ed025-67c2-5b9e-83b1-0815d019cc71
 SEQUENCE:0
-DTSTAMP:20241105T081857Z
-DTSTART:20241107T080000Z
-DTEND:20241107T091900Z
+DTSTAMP:20241106T081912Z
+DTSTART:20241108T081500Z
+DTEND:20241108T093000Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
  めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
+ 11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
+ kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
+ from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:ee76db5f-b429-544b-85cd-7d03fefcf996
+SEQUENCE:0
+DTSTAMP:20241106T081912Z
+DTSTART:20241109T082000Z
+DTEND:20241109T093500Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
+ 11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
+ kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
+ from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5bdd7d-fbec-5c07-b1fe-966447794ca7
+SEQUENCE:0
+DTSTAMP:20241106T081912Z
+DTSTART:20241110T082000Z
+DTEND:20241110T093500Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
+ 11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
+ kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
+ from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:4a432988-7032-5112-9123-1594bb1771f5
+SEQUENCE:0
+DTSTAMP:20241106T081912Z
+DTSTART:20241111T082000Z
+DTEND:20241111T093500Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
+ 11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
+ kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
+ from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:154fdb26-a5d7-5efd-affa-404dcf43a452
+SEQUENCE:0
+DTSTAMP:20241106T081912Z
+DTSTART:20241112T082000Z
+DTEND:20241112T093500Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
+ 11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
+ kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
+ from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:6c819527-7869-50d3-a727-ce5c14a8d7d1
+SEQUENCE:0
+DTSTAMP:20241106T081912Z
+DTSTART:20241113T081500Z
+DTEND:20241113T093000Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
+ 11913&from=fm\nカレンダー生成プログラムのウェブサイト: 
+ kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=11913&
+ from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:ebf0c464-c67d-5765-a1ab-0d36bd27fc73
+SEQUENCE:0
+DTSTAMP:20241106T081912Z
+DTSTART:20241114T081500Z
+DTEND:20241114T093000Z
+SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
+ ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
