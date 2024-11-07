@@ -6,41 +6,9 @@ NAME:T・ジョイ エミテラス所沢 『KING OF PRISM -Dramatic PRISM.
 X-WR-CALNAME:T・ジョイ エミテラス所沢 『KING OF PRISM -Dramati
  c PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:375b1c8b-5c88-51ea-ae26-7f0ea2ad6299
-SEQUENCE:0
-DTSTAMP:20241107T141003Z
-DTSTART:20241107T024500Z
-DTEND:20241107T040000Z
-SUMMARY:[-終了]  【ScreenX】も～っと煌めく！KING OF PRISM -Dra
- matic PRISM.1-
-LOCATION:T・ジョイ エミテラス所沢 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
- edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
- C2569
-END:VEVENT
-BEGIN:VEVENT
-UID:74857364-c453-5b1f-b19e-36f419f40fa7
-SEQUENCE:0
-DTSTAMP:20241107T141003Z
-DTSTART:20241107T043000Z
-DTEND:20241107T054500Z
-SUMMARY:[-終了]  【応援上映】【ScreenX】も～っと煌めく！
- KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ エミテラス所沢 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
- edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
- C2569
-END:VEVENT
-BEGIN:VEVENT
 UID:687ed234-c224-557b-8db8-77473fc1bc61
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241108T025000Z
 DTEND:20241108T040500Z
 SUMMARY:[◎予約/購入]  【ScreenX】も～っと煌めく！KING OF P
@@ -56,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f7d3d9fd-ee71-5171-a48c-374b5ba090d8
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241108T043000Z
 DTEND:20241108T054500Z
 SUMMARY:[◎予約/購入]  【応援上映】【ScreenX】も～っと煌
@@ -72,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0b4b2a90-8b17-59fa-898a-d68165c6eb47
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241109T025000Z
 DTEND:20241109T040500Z
 SUMMARY:[◎予約/購入]  【ScreenX】も～っと煌めく！KING OF P
@@ -88,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:de72c1ea-c12d-5425-9797-9612dfd654a4
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241109T043000Z
 DTEND:20241109T054500Z
 SUMMARY:[◎予約/購入]  【応援上映】【ScreenX】も～っと煌
@@ -102,12 +70,728 @@ URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
  C2569
 END:VEVENT
 BEGIN:VEVENT
-UID:08f05509-5061-5f91-9a89-89af01a77595
+UID:967d56ba-b140-5c7f-a97b-5ab8008329b5
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T015000Z
+DTEND:20241110T042500Z
+SUMMARY:[◎予約/購入]  劇場版「進撃の巨人」完結編 THE LA
+ ST ATTACK(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:64473861-b244-58cc-97e4-cf4298f61a4c
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T045000Z
+DTEND:20241110T072500Z
+SUMMARY:[◎予約/購入]  劇場版「進撃の巨人」完結編 THE LA
+ ST ATTACK(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:31d584f2-2f00-55b8-b964-edb84eed97c1
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T061000Z
+DTEND:20241110T084500Z
+SUMMARY:[◎予約/購入]  劇場版「進撃の巨人」完結編 THE LA
+ ST ATTACK(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:bdc1b8e0-dce5-5775-9a24-c10f62dffdf8
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T091000Z
+DTEND:20241110T114500Z
+SUMMARY:[◎予約/購入]  劇場版「進撃の巨人」完結編 THE LA
+ ST ATTACK(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:b10bad71-6e8f-50a2-8972-d06f11287f60
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T110000Z
+DTEND:20241110T133500Z
+SUMMARY:[◎予約/購入]  劇場版「進撃の巨人」完結編 THE LA
+ ST ATTACK(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:1f61d8e6-00e6-55ed-8f3d-dcec22781fec
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241109T235000Z
+DTEND:20241110T020500Z
+SUMMARY:[◎予約/購入]  【IMAX・字幕】レッド・ワン
+LOCATION:T・ジョイ エミテラス所沢 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:448156b4-8885-5cd9-88af-ec84740a587e
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T044500Z
+DTEND:20241110T070000Z
+SUMMARY:[◎予約/購入]  【IMAX・字幕】レッド・ワン
+LOCATION:T・ジョイ エミテラス所沢 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:63eb619f-632e-555b-9920-85d27bf21042
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T021500Z
+DTEND:20241110T043000Z
+SUMMARY:[◎予約/購入]  【字幕】レッド・ワン
+LOCATION:T・ジョイ エミテラス所沢 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:71ee5294-5def-5e99-8b57-7e46214ad0a6
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T073000Z
+DTEND:20241110T094500Z
+SUMMARY:[◎予約/購入]  【字幕】レッド・ワン
+LOCATION:T・ジョイ エミテラス所沢 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:bf96421b-98e7-55a9-9a15-9820b35c2504
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T120000Z
+DTEND:20241110T141500Z
+SUMMARY:[◎予約/購入]  【字幕】レッド・ワン
+LOCATION:T・ジョイ エミテラス所沢 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:668f71b7-e5fb-5816-94d3-52458b256efa
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T021000Z
+DTEND:20241110T041500Z
+SUMMARY:[◎予約/購入]  【先行上映】「室井慎次　生き続
+ ける者」（後編）
+LOCATION:T・ジョイ エミテラス所沢 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eeddf8-1119-5ba4-b83d-cfd5f9aa9fdd
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T043500Z
+DTEND:20241110T064000Z
+SUMMARY:[◎予約/購入]  【先行上映】「室井慎次　生き続
+ ける者」（後編）
+LOCATION:T・ジョイ エミテラス所沢 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:0752e3ae-49e9-549b-a7af-4a78eda4b1da
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T070000Z
+DTEND:20241110T090500Z
+SUMMARY:[◎予約/購入]  【先行上映】「室井慎次　生き続
+ ける者」（後編）
+LOCATION:T・ジョイ エミテラス所沢 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:5ddb0b80-d84e-5bdc-aed5-29c73601cebf
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T093000Z
+DTEND:20241110T113500Z
+SUMMARY:[◎予約/購入]  【先行上映】「室井慎次　生き続
+ ける者」（後編）
+LOCATION:T・ジョイ エミテラス所沢 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:213dd641-a6fa-57a4-97cf-1fa9441c9029
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T120000Z
+DTEND:20241110T140500Z
+SUMMARY:[◎予約/購入]  【先行上映】「室井慎次　生き続
+ ける者」（後編）
+LOCATION:T・ジョイ エミテラス所沢 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:da6eb293-f24a-53c9-a241-cb16450478e0
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T000000Z
+DTEND:20241110T021000Z
+SUMMARY:[◎予約/購入]  ルート29
+LOCATION:T・ジョイ エミテラス所沢 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:9b2f86d0-a7de-5f9d-ba03-9b4f39619550
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T043000Z
+DTEND:20241110T064000Z
+SUMMARY:[◎予約/購入]  ルート29
+LOCATION:T・ジョイ エミテラス所沢 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:e194fa70-4511-5048-a878-719b06302962
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T092000Z
+DTEND:20241110T113000Z
+SUMMARY:[◎予約/購入]  ルート29
+LOCATION:T・ジョイ エミテラス所沢 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:72f9fdf0-b8e3-534b-9898-ecd254318e0b
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T021000Z
+DTEND:20241110T042000Z
+SUMMARY:[◎予約/購入]  劇場版 BanG Dream! It's MyGO!!!!! 後編 : 
+ うたう、僕らになれるうた & FILM LIVE
+LOCATION:T・ジョイ エミテラス所沢 シアター１１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:9ccd56c8-a0b5-58c0-b39d-2d4bca356e46
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T090000Z
+DTEND:20241110T111000Z
+SUMMARY:[◎予約/購入]  劇場版 BanG Dream! It's MyGO!!!!! 後編 : 
+ うたう、僕らになれるうた & FILM LIVE
+LOCATION:T・ジョイ エミテラス所沢 シアター１１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0c145a-151e-5120-9b56-1a944068d915
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T000000Z
+DTEND:20241110T015000Z
+SUMMARY:[◎予約/購入]  あたしの！
+LOCATION:T・ジョイ エミテラス所沢 シアター１１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:395d0b79-ff29-57ab-aabc-1e0a3c62c2da
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T044000Z
+DTEND:20241110T063000Z
+SUMMARY:[◎予約/購入]  あたしの！
+LOCATION:T・ジョイ エミテラス所沢 シアター１１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:88c6425a-9b07-5cfb-aec2-d762cf14fcdb
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T065000Z
+DTEND:20241110T084000Z
+SUMMARY:[◎予約/購入]  あたしの！
+LOCATION:T・ジョイ エミテラス所沢 シアター１１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:1ebd379b-86d1-5f1b-abee-d6126c04cb1f
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T113000Z
+DTEND:20241110T132000Z
+SUMMARY:[◎予約/購入]  あたしの！
+LOCATION:T・ジョイ エミテラス所沢 シアター１１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:e940ef00-b1a3-5b4a-8174-f402015692c9
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T023000Z
+DTEND:20241110T040000Z
+SUMMARY:[◎予約/購入]  劇場版「風都探偵 仮面ライダース
+ カルの肖像」
+LOCATION:T・ジョイ エミテラス所沢 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:fb625a60-a6fc-56fb-8b51-df4db6ce4720
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T063000Z
+DTEND:20241110T080000Z
+SUMMARY:[◎予約/購入]  劇場版「風都探偵 仮面ライダース
+ カルの肖像」
+LOCATION:T・ジョイ エミテラス所沢 シアター１０
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:4730c088-e2db-5f7a-8759-5fb457f8b311
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T081500Z
+DTEND:20241110T094500Z
+SUMMARY:[◎予約/購入]  劇場版「風都探偵 仮面ライダース
+ カルの肖像」
+LOCATION:T・ジョイ エミテラス所沢 シアター１０
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:9a830c3f-784a-5e32-902e-7deb98e60f00
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T121500Z
+DTEND:20241110T134500Z
+SUMMARY:[◎予約/購入]  劇場版「風都探偵 仮面ライダース
+ カルの肖像」
+LOCATION:T・ジョイ エミテラス所沢 シアター１０
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:549e77c9-4994-5bc1-abc6-83d312f578a6
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T023000Z
+DTEND:20241110T041500Z
+SUMMARY:[◎予約/購入]  【字幕】ベルナデット 最強のファ
+ ーストレディ
+LOCATION:T・ジョイ エミテラス所沢 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ba7e61-b1a8-59d2-9a48-a9927c76b6d3
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T021500Z
+DTEND:20241110T043000Z
+SUMMARY:[◎予約/購入]  本心
+LOCATION:T・ジョイ エミテラス所沢 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:f07fe019-31c4-5f75-b178-a71b742281d0
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T044500Z
+DTEND:20241110T070000Z
+SUMMARY:[◎予約/購入]  本心
+LOCATION:T・ジョイ エミテラス所沢 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:ade3d590-6048-54d9-8fdc-e212676aa8a7
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T114000Z
+DTEND:20241110T135500Z
+SUMMARY:[◎予約/購入]  本心
+LOCATION:T・ジョイ エミテラス所沢 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:2e13a112-79e9-5c8b-90a0-2b5c0ec4a1ae
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T072000Z
+DTEND:20241110T091000Z
+SUMMARY:[◎予約/購入]  カーリングの神様
+LOCATION:T・ジョイ エミテラス所沢 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:f7aaf630-4a36-5165-ab74-2ab966755ffc
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T020000Z
+DTEND:20241110T061000Z
+SUMMARY:[◎予約/購入]  METライブビューイング2024-25 オッ
+ フェンバック《ホフマン物語》
+LOCATION:T・ジョイ エミテラス所沢 シアター１０
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:b70e9f18-3d93-58f3-a1e2-e802b56e3ade
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241109T235000Z
+DTEND:20241110T015500Z
+SUMMARY:[◎予約/購入]  スマホを落としただけなのに ～最
+ 終章～ ファイナル ハッキング ゲーム
+LOCATION:T・ジョイ エミテラス所沢 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:abac14d8-bcf4-5c8f-970a-ee8be85de656
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T070000Z
+DTEND:20241110T090500Z
+SUMMARY:[◎予約/購入]  スマホを落としただけなのに ～最
+ 終章～ ファイナル ハッキング ゲーム
+LOCATION:T・ジョイ エミテラス所沢 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:6117e457-0ca2-5c03-982b-088589b1257c
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T114500Z
+DTEND:20241110T135000Z
+SUMMARY:[◎予約/購入]  スマホを落としただけなのに ～最
+ 終章～ ファイナル ハッキング ゲーム
+LOCATION:T・ジョイ エミテラス所沢 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:5bde2508-a092-53b4-be99-3c458b0436ae
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241109T235000Z
+DTEND:20241110T023500Z
+SUMMARY:[◎予約/購入]  十一人の賊軍(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:cb2d70d9-abfa-5f9f-923c-a9e400ade9a9
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T053000Z
+DTEND:20241110T081500Z
+SUMMARY:[◎予約/購入]  十一人の賊軍(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:67dfcd25-1f41-573d-991e-70b91b9eee20
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T075000Z
+DTEND:20241110T103500Z
+SUMMARY:[◎予約/購入]  【DolbyAtmos】十一人の賊軍(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:9e0a00d4-1099-59b1-8fc6-9a0916e44604
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T042000Z
+DTEND:20241110T062000Z
+SUMMARY:[◎予約/購入]  【吹替】ヴェノム：ザ・ラストダ
+ ンス
+LOCATION:T・ジョイ エミテラス所沢 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:750c62f1-4552-5d2d-8f67-de4e8c68c9d3
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T100000Z
+DTEND:20241110T120000Z
+SUMMARY:[◎予約/購入]  【吹替】ヴェノム：ザ・ラストダ
+ ンス
+LOCATION:T・ジョイ エミテラス所沢 シアター１０
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:ceb4d777-960a-5883-939d-fab45af55513
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T003000Z
+DTEND:20241110T023000Z
+SUMMARY:[◎予約/購入]  【ScreenX・吹替】ヴェノム：ザ・ラ
+ ストダンス
+LOCATION:T・ジョイ エミテラス所沢 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:e67960a6-9b71-58c1-9c8e-bbe37f9e8b84
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T121000Z
+DTEND:20241110T141000Z
+SUMMARY:[◎予約/購入]  【ScreenX・吹替】ヴェノム：ザ・ラ
+ ストダンス
+LOCATION:T・ジョイ エミテラス所沢 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:a63fea52-873d-5b37-bd30-36013e1bb802
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241109T235000Z
+DTEND:20241110T014500Z
+SUMMARY:[◎予約/購入]  アイミタガイ
+LOCATION:T・ジョイ エミテラス所沢 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:08ab8633-9f06-5282-847b-577573c55c38
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T092000Z
+DTEND:20241110T113500Z
+SUMMARY:[◎予約/購入]  「機動戦士ガンダムSEED FREEDOM」特
+ 別版上映第2弾
+LOCATION:T・ジョイ エミテラス所沢 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:9c8d0312-b13b-5c3f-8065-efff39685f81
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
 DTSTART:20241110T025000Z
 DTEND:20241110T040500Z
-SUMMARY:[-販売対象外]  【ScreenX】も～っと煌めく！KING OF P
+SUMMARY:[◎予約/購入]  【ScreenX】も～っと煌めく！KING OF P
  RISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ エミテラス所沢 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -118,12 +802,12 @@ URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
  C2569
 END:VEVENT
 BEGIN:VEVENT
-UID:bea57636-ae91-5c8a-a348-63eb2be5284d
+UID:f3d478e4-20c5-5b1f-8eeb-ed6941cba31c
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241110T043000Z
 DTEND:20241110T054500Z
-SUMMARY:[-販売対象外]  【応援上映】【ScreenX】も～っと煌
+SUMMARY:[◎予約/購入]  【応援上映】【ScreenX】も～っと煌
  めく！KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ エミテラス所沢 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -134,9 +818,348 @@ URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
  C2569
 END:VEVENT
 BEGIN:VEVENT
+UID:d8dd741b-5796-5775-ae5d-e9eec707af14
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241109T235000Z
+DTEND:20241110T013500Z
+SUMMARY:[◎予約/購入]  がんばっていきまっしょい
+LOCATION:T・ジョイ エミテラス所沢 シアター１０
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:4dc59772-9c91-5180-b932-6fa4a318e9c1
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T094000Z
+DTEND:20241110T114500Z
+SUMMARY:[◎予約/購入]  劇場版ACMA:GAME 最後の鍵
+LOCATION:T・ジョイ エミテラス所沢 シアター１２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7fa56e-1f70-5351-96eb-5e9502b13a64
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T041000Z
+DTEND:20241110T065000Z
+SUMMARY:[◎予約/購入]  八犬伝
+LOCATION:T・ジョイ エミテラス所沢 シアター１２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:cdfbb3f0-af68-57cd-bd9b-d3bb9f2d3f2b
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T022500Z
+DTEND:20241110T042500Z
+SUMMARY:[◎予約/購入]  【IMAX・字幕】ヴェノム：ザ・ラス
+ トダンス
+LOCATION:T・ジョイ エミテラス所沢 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:3ff9af1d-0378-5a4d-ba37-ba26e06ce3e4
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T072000Z
+DTEND:20241110T092000Z
+SUMMARY:[◎予約/購入]  【IMAX・字幕】ヴェノム：ザ・ラス
+ トダンス
+LOCATION:T・ジョイ エミテラス所沢 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:85555abc-c560-55b5-88f4-310173c27130
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T094000Z
+DTEND:20241110T114000Z
+SUMMARY:[◎予約/購入]  【IMAX・字幕】ヴェノム：ザ・ラス
+ トダンス
+LOCATION:T・ジョイ エミテラス所沢 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:23c08e35-3f28-553a-8b2a-7759a498ca72
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241109T235000Z
+DTEND:20241110T012500Z
+SUMMARY:[◎予約/購入]  ゼンブ・オブ・トーキョー
+LOCATION:T・ジョイ エミテラス所沢 シアター１２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:a053771d-099b-518c-b72e-604529fdfa0c
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T083000Z
+DTEND:20241110T113000Z
+SUMMARY:[◎予約/購入]  ゲキ×シネ『吉原御免状』(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:a20ef07d-8016-5cbd-bd08-ef4fdabb2fe9
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T093000Z
+DTEND:20241110T112500Z
+SUMMARY:[◎予約/購入]  【字幕】トラップ
+LOCATION:T・ジョイ エミテラス所沢 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:2421144e-a633-5def-8e7f-f6e521c7980a
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T115000Z
+DTEND:20241110T140000Z
+SUMMARY:[◎予約/購入]  まる
+LOCATION:T・ジョイ エミテラス所沢 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9ca6c3-e8d4-5a88-933c-3a4411372804
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T100000Z
+DTEND:20241110T114500Z
+SUMMARY:[◎予約/購入]  【吹替】ボルテスV レガシー
+LOCATION:T・ジョイ エミテラス所沢 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:aef1fa23-0469-533b-98eb-cbb144904030
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T115000Z
+DTEND:20241110T135000Z
+SUMMARY:[◎予約/購入]  【字幕】[Party Edition版]JUNG KOOK: I AM 
+ STILL
+LOCATION:T・ジョイ エミテラス所沢 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4c942f-04df-5609-943f-7f1acdae3a99
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T064000Z
+DTEND:20241110T090500Z
+SUMMARY:[◎予約/購入]  【字幕】ジョーカー：フォリ・ア
+ ・ドゥ(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:2a7a3ac3-f712-5c57-8674-e228544503e3
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T120000Z
+DTEND:20241110T142500Z
+SUMMARY:[◎予約/購入]  【IMAX・字幕】ジョーカー：フォリ
+ ・ア・ドゥ(PG12)
+LOCATION:T・ジョイ エミテラス所沢 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:c56c47b9-7af9-5da0-b7aa-acf7e4882638
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T014500Z
+DTEND:20241110T035000Z
+SUMMARY:[◎予約/購入]  「室井慎次　敗れざる者」（前編
+ ）
+LOCATION:T・ジョイ エミテラス所沢 シアター１２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe6d681-8adc-512f-81a1-258b655dc7a1
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T071000Z
+DTEND:20241110T091500Z
+SUMMARY:[◎予約/購入]  「室井慎次　敗れざる者」（前編
+ ）
+LOCATION:T・ジョイ エミテラス所沢 シアター１２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:ef688b8e-36f2-5404-bd41-f7a46d4b9d28
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T000000Z
+DTEND:20241110T015500Z
+SUMMARY:[◎予約/購入]  ふれる。
+LOCATION:T・ジョイ エミテラス所沢 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:73c18dea-1402-5c17-ba01-4531ff10e05d
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241109T235000Z
+DTEND:20241110T021000Z
+SUMMARY:[◎予約/購入]  ラストマイル
+LOCATION:T・ジョイ エミテラス所沢 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5ac5aa-7570-5b32-bf82-2a806f0769c7
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T045000Z
+DTEND:20241110T071000Z
+SUMMARY:[◎予約/購入]  ラストマイル
+LOCATION:T・ジョイ エミテラス所沢 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:b06f7de4-08e4-5442-94f0-7bb79bf014ca
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T001000Z
+DTEND:20241110T013000Z
+SUMMARY:[◎予約/購入]  わんだふるぷりきゅあ！ざ・むー
+ びー！ドキドキ・ゲームの世界で大冒険！
+LOCATION:T・ジョイ エミテラス所沢 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:48644df6-aaf3-5763-97b0-354fecd4f02e
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T121000Z
+DTEND:20241110T141500Z
+SUMMARY:[◎予約/購入]  スオミの話をしよう
+LOCATION:T・ジョイ エミテラス所沢 シアター１２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ffe6d8-05d7-581a-ba36-63ddc189930a
+SEQUENCE:0
+DTSTAMP:20241107T150954Z
+DTSTART:20241110T025000Z
+DTEND:20241110T051000Z
+SUMMARY:[◎予約/購入]  侍タイムスリッパー
+LOCATION:T・ジョイ エミテラス所沢 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
 UID:3ae41f3d-ea7a-54e2-b85b-b5ef092c7a48
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241111T025000Z
 DTEND:20241111T040500Z
 SUMMARY:[-販売対象外]  【ScreenX】も～っと煌めく！KING OF P
@@ -152,7 +1175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:141a3d7a-c823-5207-ad72-d2c68fc0b8ca
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241111T043000Z
 DTEND:20241111T054500Z
 SUMMARY:[-販売対象外]  【応援上映】【ScreenX】も～っと煌
@@ -168,7 +1191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f724a5fe-99e8-5449-b9b5-a013b915f95c
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241112T025000Z
 DTEND:20241112T040500Z
 SUMMARY:[-販売対象外]  【ScreenX】も～っと煌めく！KING OF P
@@ -184,7 +1207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b048bbad-bb06-5887-9bca-c3a9404c87a9
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241112T043000Z
 DTEND:20241112T054500Z
 SUMMARY:[-販売対象外]  【応援上映】【ScreenX】も～っと煌
@@ -200,7 +1223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:30b5e459-a579-5036-b591-6da19ee8e4ca
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241113T025000Z
 DTEND:20241113T040500Z
 SUMMARY:[-販売対象外]  【ScreenX】も～っと煌めく！KING OF P
@@ -216,7 +1239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:459bc231-c42e-5983-9990-17212dbbe22c
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241113T043000Z
 DTEND:20241113T054500Z
 SUMMARY:[-販売対象外]  【応援上映】【ScreenX】も～っと煌
@@ -232,7 +1255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b70ba4ad-94f4-5d21-b669-fe19e4723e55
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241114T025000Z
 DTEND:20241114T040500Z
 SUMMARY:[-販売対象外]  【ScreenX】も～っと煌めく！KING OF P
@@ -248,7 +1271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7fd358ae-be1d-51fe-8fce-a9e9fbe9365a
 SEQUENCE:0
-DTSTAMP:20241107T141003Z
+DTSTAMP:20241107T150954Z
 DTSTART:20241114T043000Z
 DTEND:20241114T054500Z
 SUMMARY:[-販売対象外]  【応援上映】【ScreenX】も～っと煌
