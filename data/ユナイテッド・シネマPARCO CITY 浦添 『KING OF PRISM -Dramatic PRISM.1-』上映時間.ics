@@ -8,7 +8,7 @@ X-WR-CALNAME:ユナイテッド・シネマPARCO CITY 浦添 『KING OF PR
 BEGIN:VEVENT
 UID:8a3053e5-ac00-5ef1-9249-e7fe861f4329
 SEQUENCE:0
-DTSTAMP:20241112T141610Z
+DTSTAMP:20241112T162345Z
 DTSTART:20241112T083000Z
 DTEND:20241112T094900Z
 SUMMARY:[販売対象外]  [ScreenX] プリズムスタァ応援上映『
@@ -22,13 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11913&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a66410ce-e2e9-5fa0-8df3-87ba485697a4
+UID:7c18f43f-fd4e-57fb-94c8-ec39ed384808
 SEQUENCE:0
-DTSTAMP:20241112T141610Z
+DTSTAMP:20241112T162345Z
 DTSTART:20241113T083000Z
 DTEND:20241113T094900Z
-SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
- 煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
+ も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマPARCO CITY 浦添 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=119
@@ -38,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11913&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9cf6b63b-e966-570d-9d9f-bfba05385f11
+UID:15cb3d7c-f74c-543c-9a86-a9a6f5edf4b2
 SEQUENCE:0
-DTSTAMP:20241112T141610Z
+DTSTAMP:20241112T162345Z
 DTSTART:20241114T083000Z
 DTEND:20241114T094900Z
-SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
- 煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
+ も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマPARCO CITY 浦添 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=119
