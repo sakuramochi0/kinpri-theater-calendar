@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "title": "【ScreenX】も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター３",
+    "startTime": "2024-11-13T02:50:00.000Z",
+    "endTime": "2024-11-13T04:05:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "【応援上映】【ScreenX】も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター３",
+    "startTime": "2024-11-13T04:30:00.000Z",
+    "endTime": "2024-11-13T05:45:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "【ScreenX】も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター３",
+    "startTime": "2024-11-14T02:50:00.000Z",
+    "endTime": "2024-11-14T04:05:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "【応援上映】【ScreenX】も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター３",
+    "startTime": "2024-11-14T04:30:00.000Z",
+    "endTime": "2024-11-14T05:45:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "【応援上映】【ScreenX】も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター３",
+    "startTime": "2024-11-15T02:40:00.000Z",
+    "endTime": "2024-11-15T03:55:00.000Z",
+    "status": "◎予約/購入"
+  }
+]
