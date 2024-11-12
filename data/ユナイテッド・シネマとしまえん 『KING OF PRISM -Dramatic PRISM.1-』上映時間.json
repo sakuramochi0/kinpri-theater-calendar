@@ -4,7 +4,7 @@
     "screenName": "4screen",
     "startTime": "2024-11-12T10:10:00.000Z",
     "endTime": "2024-11-12T11:29:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
@@ -19,5 +19,54 @@
     "startTime": "2024-11-14T10:10:00.000Z",
     "endTime": "2024-11-14T11:29:00.000Z",
     "status": "○"
+  },
+  {
+    "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
+    "screenName": "4screen",
+    "startTime": "2024-11-15T10:05:00.000Z",
+    "endTime": "2024-11-15T11:24:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
+    "screenName": "4screen",
+    "startTime": "2024-11-16T10:05:00.000Z",
+    "endTime": "2024-11-16T11:24:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
+    "screenName": "4screen",
+    "startTime": "2024-11-17T10:05:00.000Z",
+    "endTime": "2024-11-17T11:24:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
+    "screenName": "4screen",
+    "startTime": "2024-11-18T10:05:00.000Z",
+    "endTime": "2024-11-18T11:24:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
+    "screenName": "4screen",
+    "startTime": "2024-11-19T10:05:00.000Z",
+    "endTime": "2024-11-19T11:24:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
+    "screenName": "4screen",
+    "startTime": "2024-11-20T10:05:00.000Z",
+    "endTime": "2024-11-20T11:24:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
+    "screenName": "4screen",
+    "startTime": "2024-11-21T10:05:00.000Z",
+    "endTime": "2024-11-21T11:24:00.000Z",
+    "status": "販売期間外"
   }
 ]
