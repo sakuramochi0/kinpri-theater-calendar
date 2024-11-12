@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマ福岡 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ福岡 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:de4b142b-9b72-5afa-adfd-737ede82bd6a
+UID:5de2b68e-c760-53ba-a438-c4469d61998c
 SEQUENCE:0
-DTSTAMP:20241112T083806Z
+DTSTAMP:20241112T141531Z
 DTSTART:20241112T101000Z
 DTEND:20241112T112900Z
-SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
- 煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+SUMMARY:[販売対象外]  [ScreenX] プリズムスタァ応援上映『
+ も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ福岡 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:656bbf53-0750-5df4-abd8-12fc67cc1cc7
 SEQUENCE:0
-DTSTAMP:20241112T083806Z
+DTSTAMP:20241112T141531Z
 DTSTART:20241113T021500Z
 DTEND:20241113T033400Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b355c8c6-b602-5cd2-be4a-af80aeac9aae
 SEQUENCE:0
-DTSTAMP:20241112T083806Z
+DTSTAMP:20241112T141531Z
 DTSTART:20241113T101000Z
 DTEND:20241113T112900Z
 SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0b6cdeb1-8a69-5fb9-bcf3-b279cfcfe7b2
 SEQUENCE:0
-DTSTAMP:20241112T083806Z
+DTSTAMP:20241112T141531Z
 DTSTART:20241114T021500Z
 DTEND:20241114T033400Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -72,11 +72,123 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3de3e7e1-d99c-53c3-a198-4c3fbc4d897b
 SEQUENCE:0
-DTSTAMP:20241112T083806Z
+DTSTAMP:20241112T141531Z
 DTSTART:20241114T101000Z
 DTEND:20241114T112900Z
 SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
  煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+LOCATION:ユナイテッド・シネマ福岡 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
+ ovie=11913&from=fm\nカレンダー生成プログラムのウェブサイ
+ ト: kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/fukuokamomochi/film.php?movie=1
+ 1913&from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:f35470f1-ceb3-5bda-8e92-e7e2784f9dd3
+SEQUENCE:0
+DTSTAMP:20241112T141531Z
+DTSTART:20241115T110000Z
+DTEND:20241115T121900Z
+SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
+ 煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+LOCATION:ユナイテッド・シネマ福岡 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
+ ovie=11913&from=fm\nカレンダー生成プログラムのウェブサイ
+ ト: kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/fukuokamomochi/film.php?movie=1
+ 1913&from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a18e4bb4-96a4-5285-83c6-b28213fe85eb
+SEQUENCE:0
+DTSTAMP:20241112T141531Z
+DTSTART:20241116T110000Z
+DTEND:20241116T121900Z
+SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
+ も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+LOCATION:ユナイテッド・シネマ福岡 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
+ ovie=11913&from=fm\nカレンダー生成プログラムのウェブサイ
+ ト: kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/fukuokamomochi/film.php?movie=1
+ 1913&from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:b30aa696-85a1-5d47-866a-25d300f1eec3
+SEQUENCE:0
+DTSTAMP:20241112T141531Z
+DTSTART:20241117T110000Z
+DTEND:20241117T121900Z
+SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
+ も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+LOCATION:ユナイテッド・シネマ福岡 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
+ ovie=11913&from=fm\nカレンダー生成プログラムのウェブサイ
+ ト: kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/fukuokamomochi/film.php?movie=1
+ 1913&from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:aec60c59-edf5-5ab4-8978-ed03f4decf86
+SEQUENCE:0
+DTSTAMP:20241112T141531Z
+DTSTART:20241118T110000Z
+DTEND:20241118T121900Z
+SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
+ も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+LOCATION:ユナイテッド・シネマ福岡 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
+ ovie=11913&from=fm\nカレンダー生成プログラムのウェブサイ
+ ト: kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/fukuokamomochi/film.php?movie=1
+ 1913&from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:f7413688-f994-598e-b2c9-51b954dc8493
+SEQUENCE:0
+DTSTAMP:20241112T141531Z
+DTSTART:20241119T110000Z
+DTEND:20241119T121900Z
+SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
+ も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+LOCATION:ユナイテッド・シネマ福岡 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
+ ovie=11913&from=fm\nカレンダー生成プログラムのウェブサイ
+ ト: kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/fukuokamomochi/film.php?movie=1
+ 1913&from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:751a84c2-7e4e-5d32-92ea-93e85138180f
+SEQUENCE:0
+DTSTAMP:20241112T141531Z
+DTSTART:20241120T110000Z
+DTEND:20241120T121900Z
+SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
+ も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+LOCATION:ユナイテッド・シネマ福岡 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
+ ovie=11913&from=fm\nカレンダー生成プログラムのウェブサイ
+ ト: kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/fukuokamomochi/film.php?movie=1
+ 1913&from=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:17342cc3-4cc7-5a3f-9b17-1c36c4af5600
+SEQUENCE:0
+DTSTAMP:20241112T141531Z
+DTSTART:20241121T110000Z
+DTEND:20241121T121900Z
+SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
+ も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマ福岡 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
