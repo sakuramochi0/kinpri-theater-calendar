@@ -8,17 +8,17 @@ X-WR-CALNAME:ユナイテッド・シネマ岡崎 『KING OF PRISM -Dramat
 BEGIN:VEVENT
 UID:8dac5156-cf9a-5b3d-ad77-1a8715369e2b
 SEQUENCE:0
-DTSTAMP:20241113T021536Z
+DTSTAMP:20241113T071452Z
 DTSTART:20241121T100000Z
 DTEND:20241121T114600Z
 SUMMARY:[販売期間外]  KING OF PRISM -Dramatic PRISM.1-「∞ラブTha
  nks Week前夜祭」ライブビューイング（応援上映）
 LOCATION:ユナイテッド・シネマ岡崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=11
- 512&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
+ 084&from=fm\nカレンダー生成プログラムのウェブサイト: ki
  npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=11512&fr
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12084&fr
  om=fm
 END:VEVENT
 END:VCALENDAR
