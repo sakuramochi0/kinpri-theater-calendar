@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマなかま16 『KING OF PRISM -Dramatic
 X-WR-CALNAME:ユナイテッド・シネマなかま16 『KING OF PRISM -D
  ramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:79f44891-facf-5dd3-b2dd-ba503302ca7d
-SEQUENCE:0
-DTSTAMP:20241112T162252Z
-DTSTART:20241112T084000Z
-DTEND:20241112T095900Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマなかま16 13screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/nakama/film.php?movie=119
- 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/nakama/film.php?movie=11913&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:756442ed-7c35-56bc-ac4b-1b449ba74845
 SEQUENCE:0
-DTSTAMP:20241112T162252Z
+DTSTAMP:20241113T041756Z
 DTSTART:20241113T084000Z
 DTEND:20241113T095900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:63155a65-d230-5acc-b30e-5956f93f05db
 SEQUENCE:0
-DTSTAMP:20241112T162252Z
+DTSTAMP:20241113T041756Z
 DTSTART:20241114T084000Z
 DTEND:20241114T095900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
