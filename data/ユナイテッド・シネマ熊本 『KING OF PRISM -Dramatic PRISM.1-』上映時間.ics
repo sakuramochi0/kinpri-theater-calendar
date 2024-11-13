@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ熊本 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:344fbdb5-ff9f-51f3-a250-a4b14f253617
-SEQUENCE:0
-DTSTAMP:20241113T151644Z
-DTSTART:20241113T115000Z
-DTEND:20241113T130900Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ熊本 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kumamoto/film.php?movie=1
- 1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kumamoto/film.php?movie=11913&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:ca8d03cf-a60d-56a2-9f9d-9c28230a4380
 SEQUENCE:0
-DTSTAMP:20241113T151644Z
+DTSTAMP:20241113T211744Z
 DTSTART:20241114T115000Z
 DTEND:20241114T130900Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
