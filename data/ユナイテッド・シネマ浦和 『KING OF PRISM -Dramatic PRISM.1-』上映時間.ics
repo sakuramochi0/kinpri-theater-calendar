@@ -8,17 +8,17 @@ X-WR-CALNAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramat
 BEGIN:VEVENT
 UID:f7840b2b-8773-53a7-abb7-abeebd1582a6
 SEQUENCE:0
-DTSTAMP:20241113T021224Z
+DTSTAMP:20241113T051203Z
 DTSTART:20241121T100000Z
 DTEND:20241121T114600Z
 SUMMARY:[販売期間外]  KING OF PRISM -Dramatic PRISM.1-「∞ラブTha
  nks Week前夜祭」ライブビューイング（応援上映）
 LOCATION:ユナイテッド・シネマ浦和 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1151
- 2&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1208
+ 4&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
  ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=11512&from
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12084&from
  =fm
 END:VEVENT
 END:VCALENDAR
