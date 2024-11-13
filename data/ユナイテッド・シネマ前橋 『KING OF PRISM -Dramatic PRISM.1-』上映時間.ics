@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:6cfc0233-b0e5-5ed7-b1c6-5f23b3680128
-SEQUENCE:0
-DTSTAMP:20241113T132046Z
-DTSTART:20241113T105500Z
-DTEND:20241113T121400Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ前橋 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
- 1913&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=11913&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:a7cbc26b-d13d-51e3-be04-73c943e41d4b
 SEQUENCE:0
-DTSTAMP:20241113T132046Z
+DTSTAMP:20241113T231211Z
 DTSTART:20241114T105500Z
 DTEND:20241114T121400Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
