@@ -11,7 +11,7 @@
     "screenName": "シアター２",
     "startTime": "2024-11-13T06:35:00.000Z",
     "endTime": "2024-11-13T07:50:00.000Z",
-    "status": "◎予約/購入"
+    "status": "◎購入"
   },
   {
     "title": "[通常上映]KING OF PRISM -Dramatic PRISM.1-",
@@ -33,5 +33,12 @@
     "startTime": "2024-11-15T12:50:00.000Z",
     "endTime": "2024-11-15T14:00:00.000Z",
     "status": "◎予約/購入"
+  },
+  {
+    "title": "[通常上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター２",
+    "startTime": "2024-11-16T13:35:00.000Z",
+    "endTime": "2024-11-16T14:45:00.000Z",
+    "status": "-販売対象外"
   }
 ]
