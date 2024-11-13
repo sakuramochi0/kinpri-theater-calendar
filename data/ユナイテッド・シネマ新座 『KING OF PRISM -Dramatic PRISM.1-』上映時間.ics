@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ新座 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ新座 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:04cb9b60-faf3-5d46-b462-3af2cf3e7c72
-SEQUENCE:0
-DTSTAMP:20241113T181739Z
-DTSTART:20241113T030000Z
-DTEND:20241113T041900Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ新座 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=11913
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=11913&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
 UID:682af7bc-6356-5d6e-b846-b150fbd419ee
 SEQUENCE:0
-DTSTAMP:20241113T181739Z
+DTSTAMP:20241113T201414Z
 DTSTART:20241114T024500Z
 DTEND:20241114T040400Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
