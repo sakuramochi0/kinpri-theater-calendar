@@ -8,7 +8,7 @@ X-WR-CALNAME:T・ジョイ エミテラス所沢 『KING OF PRISM -Dramati
 BEGIN:VEVENT
 UID:453e8938-718e-5de9-8d52-09c098bd1ed7
 SEQUENCE:0
-DTSTAMP:20241119T110922Z
+DTSTAMP:20241119T132510Z
 DTSTART:20241119T024000Z
 DTEND:20241119T035500Z
 SUMMARY:[-終了]  【応援上映】【ScreenX】も～っと煌めく！
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:77349691-bf9d-5d3e-92a9-74b18bd8a6e9
 SEQUENCE:0
-DTSTAMP:20241119T110922Z
+DTSTAMP:20241119T132510Z
 DTSTART:20241120T024000Z
 DTEND:20241120T035500Z
 SUMMARY:[◎予約/購入]  【応援上映】【ScreenX】も～っと煌
@@ -40,11 +40,59 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8678a51e-c972-5b40-a8fd-07232f2a1ccc
 SEQUENCE:0
-DTSTAMP:20241119T110922Z
+DTSTAMP:20241119T132510Z
 DTSTART:20241121T024000Z
 DTEND:20241121T035500Z
 SUMMARY:[◎予約/購入]  【応援上映】【ScreenX】も～っと煌
  めく！KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ エミテラス所沢 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:c1316352-cf81-5e9f-8291-3b028794ee30
+SEQUENCE:0
+DTSTAMP:20241119T132510Z
+DTSTART:20241122T064500Z
+DTEND:20241122T080000Z
+SUMMARY:[-販売対象外]  [通常上映]【ScreenX】【∞ラブThanks
+ 】も～っと煌めく！KING OF PRISM -Dramatic
+LOCATION:T・ジョイ エミテラス所沢 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:39de4de8-0132-512c-bab9-8af443381c3f
+SEQUENCE:0
+DTSTAMP:20241119T132510Z
+DTSTART:20241122T023500Z
+DTEND:20241122T035000Z
+SUMMARY:[-販売対象外]  [応援上映]【ScreenX】【∞ラブThanks
+ 】も～っと煌めく！KING OF PRISM -Dramatic
+LOCATION:T・ジョイ エミテラス所沢 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
+ edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
+ C2569
+END:VEVENT
+BEGIN:VEVENT
+UID:c881173b-2929-5248-9080-3653882e5403
+SEQUENCE:0
+DTSTAMP:20241119T132510Z
+DTSTART:20241122T112000Z
+DTEND:20241122T123500Z
+SUMMARY:[-販売対象外]  [応援上映]【ScreenX】【∞ラブThanks
+ 】も～っと煌めく！KING OF PRISM -Dramatic
 LOCATION:T・ジョイ エミテラス所沢 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
