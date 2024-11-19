@@ -6,51 +6,115 @@ NAME:ユナイテッド・シネマ札幌 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ札幌 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:544b0444-f673-5af8-964f-4cf0d46e1d0b
+UID:8210b7ba-221b-50c3-b45e-f1bd6d2283eb
 SEQUENCE:0
-DTSTAMP:20241119T081530Z
-DTSTART:20241119T075000Z
-DTEND:20241119T090900Z
-SUMMARY:[販売対象外]  [ScreenX] プリズムスタァ応援上映『
- も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+DTSTAMP:20241119T091242Z
+DTSTART:20241122T111000Z
+DTEND:20241122T123200Z
+SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
+ ING OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」ScreenX
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
- 913&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 086&from=fm\nカレンダー生成プログラムのウェブサイト: ki
  npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12086&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:72b917d5-9471-5881-8c9a-a155f203643a
+UID:38e9e226-433f-52ab-b8a2-b61d42c01550
 SEQUENCE:0
-DTSTAMP:20241119T081530Z
-DTSTART:20241120T075000Z
-DTEND:20241120T090900Z
-SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
- 煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+DTSTAMP:20241119T091242Z
+DTSTART:20241123T111000Z
+DTEND:20241123T123200Z
+SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
+ ING OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」ScreenX
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
- 913&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 086&from=fm\nカレンダー生成プログラムのウェブサイト: ki
  npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12086&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:620c8bfe-e831-5541-aa7d-39ff444f37f6
+UID:e2287c69-fb0d-5ed5-8b5c-5f0938329b62
 SEQUENCE:0
-DTSTAMP:20241119T081530Z
-DTSTART:20241121T075000Z
-DTEND:20241121T090900Z
-SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
- 煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+DTSTAMP:20241119T091242Z
+DTSTART:20241124T111000Z
+DTEND:20241124T123200Z
+SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
+ ING OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」ScreenX
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=11
- 913&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 086&from=fm\nカレンダー生成プログラムのウェブサイト: ki
  npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=11913&fr
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12086&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1ef585fd-5905-5ed7-8678-1c4af6f0f0e4
+SEQUENCE:0
+DTSTAMP:20241119T091242Z
+DTSTART:20241125T111000Z
+DTEND:20241125T123200Z
+SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
+ ING OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」ScreenX
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 086&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12086&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:608f74d2-40b0-5740-8fc2-0ad9ac028431
+SEQUENCE:0
+DTSTAMP:20241119T091242Z
+DTSTART:20241126T111000Z
+DTEND:20241126T123200Z
+SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
+ ING OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」ScreenX
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 086&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12086&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:6aba920a-d191-5d11-b1c6-fbe4796c1d90
+SEQUENCE:0
+DTSTAMP:20241119T091242Z
+DTSTART:20241127T111000Z
+DTEND:20241127T123200Z
+SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
+ ING OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」ScreenX
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 086&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12086&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:6d250978-37f8-536b-896c-38156d00e1bc
+SEQUENCE:0
+DTSTAMP:20241119T091242Z
+DTSTART:20241128T111000Z
+DTEND:20241128T123200Z
+SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
+ ING OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」ScreenX
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 086&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12086&fr
  om=fm
 END:VEVENT
 END:VCALENDAR
