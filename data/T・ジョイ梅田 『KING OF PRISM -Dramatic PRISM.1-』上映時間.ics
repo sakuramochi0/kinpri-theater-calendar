@@ -6,23 +6,9 @@ NAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:dd1fea1a-3570-5447-b23b-02e68eeae4e5
-SEQUENCE:0
-DTSTAMP:20241119T141047Z
-DTSTART:20241118T234000Z
-DTEND:20241119T005500Z
-SUMMARY:[-終了]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ梅田 シアター４
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
 UID:53afdf1e-6540-5dde-86e4-9f09959a0125
 SEQUENCE:0
-DTSTAMP:20241119T141047Z
+DTSTAMP:20241119T151450Z
 DTSTART:20241119T234000Z
 DTEND:20241120T005500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
@@ -36,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eba4242c-b457-58cd-90cd-1ff72849e949
 SEQUENCE:0
-DTSTAMP:20241119T141047Z
+DTSTAMP:20241119T151450Z
 DTSTART:20241121T100000Z
 DTEND:20241121T115000Z
 SUMMARY:[☓満席]  【-∞ラブThanks Week-前夜祭中継】[応援]KI
@@ -49,12 +35,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:384073c3-6bab-5546-a81e-8bdf1b715ee2
+UID:dcf3fb37-734b-5915-8c31-5968b49f6f2a
 SEQUENCE:0
-DTSTAMP:20241119T141047Z
+DTSTAMP:20241119T151450Z
 DTSTART:20241122T000500Z
 DTEND:20241122T012500Z
-SUMMARY:[-販売対象外]  [応援上映]【-∞ラブThanks Week-】KING
+SUMMARY:[◎予約/購入]  [応援上映]【-∞ラブThanks Week-】KING
   OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ梅田 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -64,12 +50,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:7399cef1-399e-5efc-86f4-fa8494b888b3
+UID:924352dc-d2a0-5d47-8770-cf350f826965
 SEQUENCE:0
-DTSTAMP:20241119T141047Z
+DTSTAMP:20241119T151450Z
 DTSTART:20241122T072500Z
 DTEND:20241122T084500Z
-SUMMARY:[-販売対象外]  [応援上映]【-∞ラブThanks Week-】KING
+SUMMARY:[◎予約/購入]  [応援上映]【-∞ラブThanks Week-】KING
   OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ梅田 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -79,12 +65,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:be2dee23-bb74-59f8-be10-1bd7cad87214
+UID:9d37f68d-3c4b-5a54-950c-f70126a5572a
 SEQUENCE:0
-DTSTAMP:20241119T141047Z
+DTSTAMP:20241119T151450Z
 DTSTART:20241122T100500Z
 DTEND:20241122T112500Z
-SUMMARY:[-販売対象外]  [応援上映]【-∞ラブThanks Week-】KING
+SUMMARY:[○予約/購入]  [応援上映]【-∞ラブThanks Week-】KING
   OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ梅田 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
