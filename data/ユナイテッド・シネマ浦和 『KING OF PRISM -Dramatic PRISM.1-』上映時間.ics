@@ -6,19 +6,115 @@ NAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:a2e3de60-f8b7-556c-8e4a-90f0eda69d06
+UID:6b6310d3-5372-54f6-bb6f-f2e34479661f
 SEQUENCE:0
-DTSTAMP:20241118T232744Z
-DTSTART:20241121T100000Z
-DTEND:20241121T114600Z
-SUMMARY:[○]  KING OF PRISM -Dramatic PRISM.1-「∞ラブThanks Week前
- 夜祭」ライブビューイング（応援上映）
+DTSTAMP:20241119T101433Z
+DTSTART:20241122T065000Z
+DTEND:20241122T080900Z
+SUMMARY:[販売期間外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+ 「-∞ラブThanks Week-」
 LOCATION:ユナイテッド・シネマ浦和 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1208
- 4&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ 6&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
  ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12084&from
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12086&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:63907678-c587-5875-91ab-610ff187bad2
+SEQUENCE:0
+DTSTAMP:20241119T101433Z
+DTSTART:20241123T065000Z
+DTEND:20241123T080900Z
+SUMMARY:[販売期間外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+ 「-∞ラブThanks Week-」
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1208
+ 6&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12086&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:3bc0a444-3bcb-5c48-babf-67eae4ce19b0
+SEQUENCE:0
+DTSTAMP:20241119T101433Z
+DTSTART:20241124T110000Z
+DTEND:20241124T121900Z
+SUMMARY:[販売期間外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+ 「-∞ラブThanks Week-」
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1208
+ 6&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12086&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:73673141-b5aa-58d7-a167-f4d7892d8bc6
+SEQUENCE:0
+DTSTAMP:20241119T101433Z
+DTSTART:20241125T112500Z
+DTEND:20241125T124400Z
+SUMMARY:[販売期間外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+ 「-∞ラブThanks Week-」
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1208
+ 6&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12086&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bef96e-654c-557a-ae81-6cc9a6add0ff
+SEQUENCE:0
+DTSTAMP:20241119T101433Z
+DTSTART:20241126T112500Z
+DTEND:20241126T124400Z
+SUMMARY:[販売期間外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+ 「-∞ラブThanks Week-」
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1208
+ 6&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12086&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:856dab77-b236-5c81-b9b9-d64ab28c70d4
+SEQUENCE:0
+DTSTAMP:20241119T101433Z
+DTSTART:20241127T112500Z
+DTEND:20241127T124400Z
+SUMMARY:[販売期間外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+ 「-∞ラブThanks Week-」
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1208
+ 6&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12086&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:881a0f88-853a-562a-87bd-c3bf7641a877
+SEQUENCE:0
+DTSTAMP:20241119T101433Z
+DTSTART:20241128T112500Z
+DTEND:20241128T124400Z
+SUMMARY:[販売期間外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+ 「-∞ラブThanks Week-」
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1208
+ 6&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12086&from
  =fm
 END:VEVENT
 END:VCALENDAR
