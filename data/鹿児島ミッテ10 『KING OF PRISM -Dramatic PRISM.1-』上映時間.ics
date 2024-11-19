@@ -5,19 +5,4 @@ NAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
-BEGIN:VEVENT
-UID:054e7432-544a-5675-848d-a683f0b1a54a
-SEQUENCE:0
-DTSTAMP:20241017T132203Z
-DTSTART:20241017T104500Z
-DTEND:20241017T120500Z
-SUMMARY:[-終了] 鹿児島ミッテ10 シアター３ [通常上映]KING 
- OF PRISM -Dramatic PRISM.1-
-LOCATION:鹿児島ミッテ10 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/kagoshima_mitte10/cinema_schedule/C386
- 4\nカレンダー生成プログラムのウェブサイト: kinpri-theat
- er-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10/cinema_schedule/C3864
-END:VEVENT
 END:VCALENDAR
