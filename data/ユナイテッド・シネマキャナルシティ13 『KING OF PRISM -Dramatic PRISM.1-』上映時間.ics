@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマキャナルシティ13 『KING OF PRIS
 X-WR-CALNAME:ユナイテッド・シネマキャナルシティ13 『KING
   OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:4d2722ba-0dfe-5c20-b0b1-b46042a1e664
-SEQUENCE:0
-DTSTAMP:20241124T111655Z
-DTSTART:20241124T053000Z
-DTEND:20241124T064900Z
-SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
- OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
-LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
- 12086&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=12086&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:0a6a80c5-e5c2-5074-ac9a-cf384ad7454d
 SEQUENCE:0
-DTSTAMP:20241124T111655Z
+DTSTAMP:20241124T222312Z
 DTSTART:20241125T053000Z
 DTEND:20241125T064900Z
 SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:33789b68-ff05-5e61-bdbf-24a1c984dc17
 SEQUENCE:0
-DTSTAMP:20241124T111655Z
+DTSTAMP:20241124T222312Z
 DTSTART:20241126T053000Z
 DTEND:20241126T064900Z
 SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
@@ -54,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/canalcity/film.php?movie=12086&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:51afcb4e-dcbc-547e-a449-02e6400b7ee7
+UID:b7f1c405-8c07-5eb6-9206-dcbd52582371
 SEQUENCE:0
-DTSTAMP:20241124T111655Z
+DTSTAMP:20241124T222312Z
 DTSTART:20241127T053000Z
 DTEND:20241127T064900Z
-SUMMARY:[販売期間外]  [4DX] [応援上映]も～っと煌めく!KING 
- OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
+SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
+ matic PRISM.1「∞ラブThanks Week」4DX2D
 LOCATION:ユナイテッド・シネマキャナルシティ13 10screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/canalcity/film.php?movie=
@@ -72,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a2732e21-905f-5a88-ba88-d6a6df1bfbcb
 SEQUENCE:0
-DTSTAMP:20241124T111655Z
+DTSTAMP:20241124T222312Z
 DTSTART:20241128T053000Z
 DTEND:20241128T064900Z
 SUMMARY:[販売期間外]  [4DX] [応援上映]も～っと煌めく!KING 
