@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ福岡 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ福岡 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:fdaefb98-c8bc-5145-9931-2d740d089492
-SEQUENCE:0
-DTSTAMP:20241122T221831Z
-DTSTART:20241123T110500Z
-DTEND:20241123T122700Z
-SUMMARY:[○]  [ScreenX] [応援上映]も～っと煌めく!KING OF PRISM
- -Dramatic PRISM.1「∞ラブThanks Week」ScreenX
-LOCATION:ユナイテッド・シネマ福岡 7screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
- ovie=12086&from=fm\nカレンダー生成プログラムのウェブサイ
- ト: kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/fukuokamomochi/film.php?movie=1
- 2086&from=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:676b5b63-7312-5ab5-8f98-f7b27f2ebef9
 SEQUENCE:0
-DTSTAMP:20241122T221831Z
+DTSTAMP:20241124T062118Z
 DTSTART:20241124T110500Z
 DTEND:20241124T122700Z
 SUMMARY:[○]  [ScreenX] [応援上映]も～っと煌めく!KING OF PRISM
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fc9c82e0-f8bd-53d1-9f52-315e4835d2f4
 SEQUENCE:0
-DTSTAMP:20241122T221831Z
+DTSTAMP:20241124T062118Z
 DTSTART:20241125T110500Z
 DTEND:20241125T122700Z
 SUMMARY:[○]  [ScreenX] [応援上映]も～っと煌めく!KING OF PRISM
@@ -54,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/fukuokamomochi/film.php?movie=1
  2086&from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:447a9876-6c59-5f5f-bd05-e375ae0ccad4
+UID:f59949a7-8ec6-5ca8-9d3b-05407a3278ea
 SEQUENCE:0
-DTSTAMP:20241122T221831Z
+DTSTAMP:20241124T062118Z
 DTSTART:20241126T110500Z
 DTEND:20241126T122700Z
-SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
- ING OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」ScreenX
+SUMMARY:[○]  [ScreenX] [応援上映]も～っと煌めく!KING OF PRISM
+ -Dramatic PRISM.1「∞ラブThanks Week」ScreenX
 LOCATION:ユナイテッド・シネマ福岡 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/fukuokamomochi/film.php?m
@@ -72,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1dc0072e-af44-54ae-9cff-9cd081cdac07
 SEQUENCE:0
-DTSTAMP:20241122T221831Z
+DTSTAMP:20241124T062118Z
 DTSTART:20241127T110500Z
 DTEND:20241127T122700Z
 SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
@@ -88,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c55531ef-1770-588d-8095-75ebf877d5bd
 SEQUENCE:0
-DTSTAMP:20241122T221831Z
+DTSTAMP:20241124T062118Z
 DTSTART:20241128T110500Z
 DTEND:20241128T122700Z
 SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
