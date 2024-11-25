@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ大津 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ大津 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:9861b1e1-1a8b-53ac-93e7-8111e69fd6ae
+UID:27e79662-9e71-5552-b95a-73847679bba3
 SEQUENCE:0
-DTSTAMP:20241124T111539Z
-DTSTART:20241124T093000Z
-DTEND:20241124T105200Z
+DTSTAMP:20241125T102213Z
+DTSTART:20241125T093000Z
+DTEND:20241125T105200Z
 SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
  OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
 LOCATION:ユナイテッド・シネマ大津 5screen
@@ -22,25 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/otsu/film.php?movie=12086&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e1425d6f-f136-5e28-b709-83f3187fdeb7
-SEQUENCE:0
-DTSTAMP:20241124T111539Z
-DTSTART:20241125T093000Z
-DTEND:20241125T105200Z
-SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
- matic PRISM.1「∞ラブThanks Week」4DX2D
-LOCATION:ユナイテッド・シネマ大津 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/otsu/film.php?movie=12086
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/otsu/film.php?movie=12086&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
 UID:95597a53-2108-5f2a-b4c9-778250717db6
 SEQUENCE:0
-DTSTAMP:20241124T111539Z
+DTSTAMP:20241125T102213Z
 DTSTART:20241126T093000Z
 DTEND:20241126T105200Z
 SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
@@ -54,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/otsu/film.php?movie=12086&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ce059518-e710-5f61-b4c6-7ea375792005
+UID:70b9a0bd-f263-546e-bced-7a77afc94ffc
 SEQUENCE:0
-DTSTAMP:20241124T111539Z
+DTSTAMP:20241125T102213Z
 DTSTART:20241127T093000Z
 DTEND:20241127T105200Z
-SUMMARY:[販売期間外]  [4DX] [応援上映]も～っと煌めく!KING 
- OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
+SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
+ matic PRISM.1「∞ラブThanks Week」4DX2D
 LOCATION:ユナイテッド・シネマ大津 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/otsu/film.php?movie=12086
@@ -72,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2cc31ef3-c96c-5e40-817a-249bed316d6f
 SEQUENCE:0
-DTSTAMP:20241124T111539Z
+DTSTAMP:20241125T102213Z
 DTSTART:20241128T093000Z
 DTEND:20241128T105200Z
 SUMMARY:[販売期間外]  [4DX] [応援上映]も～っと煌めく!KING 
