@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ長崎 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ長崎 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:c8b423fc-c6eb-51e0-80b2-991101e378e5
-SEQUENCE:0
-DTSTAMP:20241125T082843Z
-DTSTART:20241125T095500Z
-DTEND:20241125T111400Z
-SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
- matic PRISM.1「∞ラブThanks Week」4DX2D
-LOCATION:ユナイテッド・シネマ長崎 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
- 2086&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=12086&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:c4c4e3df-041d-58f3-84a2-1aefd04f0d2b
 SEQUENCE:0
-DTSTAMP:20241125T082843Z
+DTSTAMP:20241126T072235Z
 DTSTART:20241126T095500Z
 DTEND:20241126T111400Z
 SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7af08f93-9e76-5f76-b391-0df2237bde39
 SEQUENCE:0
-DTSTAMP:20241125T082843Z
+DTSTAMP:20241126T072235Z
 DTSTART:20241127T095500Z
 DTEND:20241127T111400Z
 SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
@@ -54,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=12086&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e9ab0bab-44d2-5115-8f78-e5dd6b54b486
+UID:e178da39-4342-5aaa-b95a-d09f79a88e96
 SEQUENCE:0
-DTSTAMP:20241125T082843Z
+DTSTAMP:20241126T072235Z
 DTSTART:20241128T095500Z
 DTEND:20241128T111400Z
-SUMMARY:[販売期間外]  [4DX] [応援上映]も～っと煌めく!KING 
- OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
+SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
+ matic PRISM.1「∞ラブThanks Week」4DX2D
 LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
