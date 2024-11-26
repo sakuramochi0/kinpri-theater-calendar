@@ -6,24 +6,9 @@ NAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:c717776d-4da6-59e8-8e45-87b82ee9ad33
-SEQUENCE:0
-DTSTAMP:20241126T141153Z
-DTSTART:20241126T100000Z
-DTEND:20241126T111500Z
-SUMMARY:[-終了]  [応援上映]【-∞ラブThanks Week-】KING OF PRISM
-  -Dramatic PRISM.1-
-LOCATION:T・ジョイ博多 シアター１０
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_hakata/cinema_schedule/C3864\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_hakata/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
 UID:640193d4-f624-5379-b855-19507ad4b2bf
 SEQUENCE:0
-DTSTAMP:20241126T141153Z
+DTSTAMP:20241126T211358Z
 DTSTART:20241127T103500Z
 DTEND:20241127T115000Z
 SUMMARY:[◎予約/購入]  [応援上映]【-∞ラブThanks Week-】KING
@@ -38,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:511bfbfc-ef97-5354-a6f9-926cadd5a664
 SEQUENCE:0
-DTSTAMP:20241126T141153Z
+DTSTAMP:20241126T211358Z
 DTSTART:20241128T100000Z
 DTEND:20241128T111500Z
 SUMMARY:[◎予約/購入]  [応援上映]【-∞ラブThanks Week-】KING
