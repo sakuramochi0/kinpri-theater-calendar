@@ -6,29 +6,13 @@ NAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:15f763cc-9c2e-5cc8-819e-bbb0c1e07159
+UID:7e0eca3f-3feb-5394-8950-0748ad1608aa
 SEQUENCE:0
-DTSTAMP:20241126T071653Z
-DTSTART:20241126T100000Z
-DTEND:20241126T111900Z
-SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
- matic PRISM.1「∞ラブThanks Week」4DX2D
-LOCATION:ユナイテッド・シネマ豊洲 7screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=120
- 86&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=12086&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:f55dbbb6-6552-58aa-9e91-3b066c5a55dc
-SEQUENCE:0
-DTSTAMP:20241126T071653Z
+DTSTAMP:20241127T153505Z
 DTSTART:20241127T100000Z
 DTEND:20241127T111900Z
-SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
- matic PRISM.1「∞ラブThanks Week」4DX2D
+SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
+ OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
 LOCATION:ユナイテッド・シネマ豊洲 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=120
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9001cae1-327e-5cf8-b70d-75cfd594698d
 SEQUENCE:0
-DTSTAMP:20241126T071653Z
+DTSTAMP:20241127T153505Z
 DTSTART:20241128T100000Z
 DTEND:20241128T111900Z
 SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
