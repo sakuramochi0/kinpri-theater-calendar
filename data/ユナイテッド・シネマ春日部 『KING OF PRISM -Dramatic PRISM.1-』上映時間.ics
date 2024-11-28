@@ -5,20 +5,4 @@ NAME:ユナイテッド・シネマ春日部 『KING OF PRISM -Dramatic PR
  ISM.1-』上映時間
 X-WR-CALNAME:ユナイテッド・シネマ春日部 『KING OF PRISM -Dra
  matic PRISM.1-』上映時間
-BEGIN:VEVENT
-UID:42665428-4d06-5c46-b246-06f1ac23f82f
-SEQUENCE:0
-DTSTAMP:20241128T122733Z
-DTSTART:20241128T101000Z
-DTEND:20241128T112900Z
-SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
- OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
-LOCATION:ユナイテッド・シネマ春日部 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
- 2086&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12086&f
- rom=fm
-END:VEVENT
 END:VCALENDAR
