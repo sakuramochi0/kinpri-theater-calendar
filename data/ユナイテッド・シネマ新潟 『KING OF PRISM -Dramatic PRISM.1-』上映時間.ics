@@ -6,45 +6,13 @@ NAME:ユナイテッド・シネマ新潟 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ新潟 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b86486fc-2ffd-5e55-a946-b36f52100a3f
+UID:cedbb985-681c-5395-b013-10d28843c070
 SEQUENCE:0
-DTSTAMP:20241127T102015Z
-DTSTART:20241127T001000Z
-DTEND:20241127T012900Z
-SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
- OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
-LOCATION:ユナイテッド・シネマ新潟 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/niigata/film.php?movie=12
- 086&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/niigata/film.php?movie=12086&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:036d7afd-a766-5358-b8ef-673474a0df35
-SEQUENCE:0
-DTSTAMP:20241127T102015Z
-DTSTART:20241127T093000Z
-DTEND:20241127T104900Z
-SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
- OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
-LOCATION:ユナイテッド・シネマ新潟 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/niigata/film.php?movie=12
- 086&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/niigata/film.php?movie=12086&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:f40cb1de-7870-59fa-b497-3422bafae3f9
-SEQUENCE:0
-DTSTAMP:20241127T102015Z
+DTSTAMP:20241128T010608Z
 DTSTART:20241128T001000Z
 DTEND:20241128T012900Z
-SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
- matic PRISM.1「∞ラブThanks Week」4DX2D
+SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
+ OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
 LOCATION:ユナイテッド・シネマ新潟 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/niigata/film.php?movie=12
@@ -56,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:64ad8b73-3df5-5198-b431-4fcf7085a2c7
 SEQUENCE:0
-DTSTAMP:20241127T102015Z
+DTSTAMP:20241128T010608Z
 DTSTART:20241128T093000Z
 DTEND:20241128T104900Z
 SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
