@@ -8,7 +8,7 @@ X-WR-CALNAME:ユナイテッド・シネマ新潟 『KING OF PRISM -Dramat
 BEGIN:VEVENT
 UID:cedbb985-681c-5395-b013-10d28843c070
 SEQUENCE:0
-DTSTAMP:20241128T010608Z
+DTSTAMP:20241128T133006Z
 DTSTART:20241128T001000Z
 DTEND:20241128T012900Z
 SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
@@ -22,13 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/niigata/film.php?movie=12086&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:64ad8b73-3df5-5198-b431-4fcf7085a2c7
+UID:d83d1736-d375-5316-b161-d8bfaec53695
 SEQUENCE:0
-DTSTAMP:20241128T010608Z
+DTSTAMP:20241128T133006Z
 DTSTART:20241128T093000Z
 DTEND:20241128T104900Z
-SUMMARY:[○]  [4DX] [応援上映]も～っと煌めく!KING OF PRISM-Dra
- matic PRISM.1「∞ラブThanks Week」4DX2D
+SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
+ OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
 LOCATION:ユナイテッド・シネマ新潟 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/niigata/film.php?movie=12
