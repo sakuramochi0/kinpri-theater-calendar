@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:648a01cd-7b33-5142-b107-bff64babeb25
-SEQUENCE:0
-DTSTAMP:20241201T091240Z
-DTSTART:20241201T101000Z
-DTEND:20241201T112600Z
-SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
- めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ豊洲 7screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=119
- 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11913&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:975a7706-8817-569f-bd15-4713e02b7c0f
 SEQUENCE:0
-DTSTAMP:20241201T091240Z
+DTSTAMP:20241201T201405Z
 DTSTART:20241202T010000Z
 DTEND:20241202T021600Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1feae767-bee6-5ff2-aa60-123fde09bb87
 SEQUENCE:0
-DTSTAMP:20241201T091240Z
+DTSTAMP:20241201T201405Z
 DTSTART:20241202T093000Z
 DTEND:20241202T104600Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -56,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a5de293-009c-5a1e-9903-142a576c2115
 SEQUENCE:0
-DTSTAMP:20241201T091240Z
+DTSTAMP:20241201T201405Z
 DTSTART:20241203T010000Z
 DTEND:20241203T021600Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -72,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b149a132-5c92-50ee-89bd-7ab79eee5f2d
 SEQUENCE:0
-DTSTAMP:20241201T091240Z
+DTSTAMP:20241201T201405Z
 DTSTART:20241203T093000Z
 DTEND:20241203T104600Z
 SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
@@ -86,13 +70,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11913&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:de66a785-3a6b-590b-9ad9-d6860b23fd3a
+UID:9eb900d8-6e70-58ee-aa79-c253986d3c6a
 SEQUENCE:0
-DTSTAMP:20241201T091240Z
+DTSTAMP:20241201T201405Z
 DTSTART:20241204T010000Z
 DTEND:20241204T021600Z
-SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
+ めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ豊洲 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=119
@@ -102,13 +86,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11913&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d8174fc5-cf7e-5415-9c4b-0f2f4371bf0a
+UID:29430f40-7f64-50d0-9bf5-f37c6032730d
 SEQUENCE:0
-DTSTAMP:20241201T091240Z
+DTSTAMP:20241201T201405Z
 DTSTART:20241204T093000Z
 DTEND:20241204T104600Z
-SUMMARY:[販売期間外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
+SUMMARY:[○]  [4DX] プリズムスタァ応援上映『も～っと煌
+ めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
 LOCATION:ユナイテッド・シネマ豊洲 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=119
