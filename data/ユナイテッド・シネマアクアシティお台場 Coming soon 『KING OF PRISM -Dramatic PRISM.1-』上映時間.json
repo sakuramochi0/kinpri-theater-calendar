@@ -2,20 +2,6 @@
   {
     "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
     "screenName": "8screen",
-    "startTime": "2024-12-02T00:45:00.000Z",
-    "endTime": "2024-12-02T02:04:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[ScreenX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D",
-    "screenName": "13screen",
-    "startTime": "2024-12-02T08:40:00.000Z",
-    "endTime": "2024-12-02T09:59:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "[4DX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D",
-    "screenName": "8screen",
     "startTime": "2024-12-03T00:45:00.000Z",
     "endTime": "2024-12-03T02:04:00.000Z",
     "status": "○"
@@ -46,13 +32,13 @@
     "screenName": "8screen",
     "startTime": "2024-12-05T03:40:00.000Z",
     "endTime": "2024-12-05T04:59:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "[ScreenX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D",
     "screenName": "13screen",
     "startTime": "2024-12-05T08:40:00.000Z",
     "endTime": "2024-12-05T09:59:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
