@@ -6,25 +6,9 @@ NAME:T・ジョイ エミテラス所沢 『KING OF PRISM -Dramatic PRISM.
 X-WR-CALNAME:T・ジョイ エミテラス所沢 『KING OF PRISM -Dramati
  c PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:2a20b6d8-ddc7-555f-ba5d-3b6ed2efd362
-SEQUENCE:0
-DTSTAMP:20241203T141013Z
-DTSTART:20241203T073000Z
-DTEND:20241203T084500Z
-SUMMARY:[-終了]  【応援上映】【ScreenX】も～っと煌めく！
- KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ エミテラス所沢 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
- edule/C2569\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
- C2569
-END:VEVENT
-BEGIN:VEVENT
 UID:48762175-b429-5587-bca3-797f58d67a06
 SEQUENCE:0
-DTSTAMP:20241203T141013Z
+DTSTAMP:20241203T151105Z
 DTSTART:20241204T073000Z
 DTEND:20241204T084500Z
 SUMMARY:[◎予約/購入]  【応援上映】【ScreenX】も～っと煌
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f5548b01-8272-5358-99be-bdafadaf28a5
 SEQUENCE:0
-DTSTAMP:20241203T141013Z
+DTSTAMP:20241203T151105Z
 DTSTART:20241205T073000Z
 DTEND:20241205T084500Z
 SUMMARY:[◎予約/購入]  【応援上映】【ScreenX】も～っと煌
