@@ -7,7 +7,7 @@ X-WR-CALNAME:新宿バルト9 『KING OF PRISM -Dramatic PRISM.1-』上映
 BEGIN:VEVENT
 UID:64e2efbf-9edb-588d-ae6a-ba9984bfdee4
 SEQUENCE:0
-DTSTAMP:20241204T081417Z
+DTSTAMP:20241204T091127Z
 DTSTART:20241204T065000Z
 DTEND:20241204T080500Z
 SUMMARY:[-終了]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
@@ -19,12 +19,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:b3c30689-af59-56fe-a6dd-4f48253b84e3
+UID:38444bc7-f42f-562c-bf25-60d44322f96d
 SEQUENCE:0
-DTSTAMP:20241204T081417Z
+DTSTAMP:20241204T091127Z
 DTSTART:20241204T095500Z
 DTEND:20241204T111000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+SUMMARY:[◎購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:新宿バルト9 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3255cdcb-9575-5774-981e-939aa3163e83
 SEQUENCE:0
-DTSTAMP:20241204T081417Z
+DTSTAMP:20241204T091127Z
 DTSTART:20241204T233000Z
 DTEND:20241205T004000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
@@ -49,10 +49,94 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c9aa417d-ab11-59fb-9de6-922c21783835
 SEQUENCE:0
-DTSTAMP:20241204T081417Z
+DTSTAMP:20241204T091127Z
 DTSTART:20241206T043000Z
 DTEND:20241206T054500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:db9d04fe-ec52-5ce8-acc6-b4b4042b5972
+SEQUENCE:0
+DTSTAMP:20241204T091127Z
+DTSTART:20241207T125500Z
+DTEND:20241207T141000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:bf2aba65-f047-5086-9324-cf7958128ed9
+SEQUENCE:0
+DTSTAMP:20241204T091127Z
+DTSTART:20241208T083000Z
+DTEND:20241208T094500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:935a8a29-fef5-5645-bd32-aa0a940021f8
+SEQUENCE:0
+DTSTAMP:20241204T091127Z
+DTSTART:20241209T043000Z
+DTEND:20241209T054500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1f2ea0-0105-51c4-8863-cdc7589a7d62
+SEQUENCE:0
+DTSTAMP:20241204T091127Z
+DTSTART:20241210T072000Z
+DTEND:20241210T083500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:3a3b0f28-b63b-5af4-917c-9d18b26dc95c
+SEQUENCE:0
+DTSTAMP:20241204T091127Z
+DTSTART:20241211T084000Z
+DTEND:20241211T095500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:新宿バルト9 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:e06502de-2d47-501a-97c6-517788a705dc
+SEQUENCE:0
+DTSTAMP:20241204T091127Z
+DTSTART:20241212T063000Z
+DTEND:20241212T074500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:新宿バルト9 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
