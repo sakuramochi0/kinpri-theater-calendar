@@ -6,19 +6,115 @@ NAME:ユナイテッド・シネマPARCO CITY 浦添 『KING OF PRISM -Dra
 X-WR-CALNAME:ユナイテッド・シネマPARCO CITY 浦添 『KING OF PR
  ISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:5225dca0-8ea8-5b6a-9389-338791e09064
+UID:9e0ef91b-6fd4-5985-a704-56ffbe725e78
 SEQUENCE:0
-DTSTAMP:20241125T052352Z
-DTSTART:20241128T105500Z
-DTEND:20241128T121400Z
-SUMMARY:[販売期間外]  [ScreenX] [応援上映]も～っと煌めく!K
- ING OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」ScreenX
-LOCATION:ユナイテッド・シネマPARCO CITY 浦添 7screen
+DTSTAMP:20241206T033535Z
+DTSTART:20241206T092000Z
+DTEND:20241206T103600Z
+SUMMARY:[○]  プリズムスタァ応援上映『KING OF PRISM -Dramatic
+  PRISM.1-』
+LOCATION:ユナイテッド・シネマPARCO CITY 浦添 11screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=120
- 86&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=115
+ 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
  pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=12086&fro
+URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11512&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:d9bf18c5-ca86-5da4-9f88-be216afab862
+SEQUENCE:0
+DTSTAMP:20241206T033535Z
+DTSTART:20241207T092000Z
+DTEND:20241207T103600Z
+SUMMARY:[○]  プリズムスタァ応援上映『KING OF PRISM -Dramatic
+  PRISM.1-』
+LOCATION:ユナイテッド・シネマPARCO CITY 浦添 10screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=115
+ 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11512&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:6a84988e-3be9-549a-8807-51884eaae1b6
+SEQUENCE:0
+DTSTAMP:20241206T033535Z
+DTSTART:20241208T092000Z
+DTEND:20241208T103600Z
+SUMMARY:[○]  プリズムスタァ応援上映『KING OF PRISM -Dramatic
+  PRISM.1-』
+LOCATION:ユナイテッド・シネマPARCO CITY 浦添 11screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=115
+ 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11512&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:b636bf78-3f7b-57e9-a654-363f040f81c3
+SEQUENCE:0
+DTSTAMP:20241206T033535Z
+DTSTART:20241209T101500Z
+DTEND:20241209T113100Z
+SUMMARY:[販売期間外]  プリズムスタァ応援上映『KING OF PRI
+ SM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマPARCO CITY 浦添 11screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=115
+ 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11512&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:770e7be7-5c8c-53a8-9258-decaef26de1e
+SEQUENCE:0
+DTSTAMP:20241206T033535Z
+DTSTART:20241210T101500Z
+DTEND:20241210T113100Z
+SUMMARY:[販売期間外]  プリズムスタァ応援上映『KING OF PRI
+ SM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマPARCO CITY 浦添 11screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=115
+ 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11512&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:eca3647a-cb4e-548d-912c-63834ad449e9
+SEQUENCE:0
+DTSTAMP:20241206T033535Z
+DTSTART:20241211T101500Z
+DTEND:20241211T113100Z
+SUMMARY:[販売期間外]  プリズムスタァ応援上映『KING OF PRI
+ SM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマPARCO CITY 浦添 11screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=115
+ 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11512&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a08807d1-6931-5873-a7f9-3e9d0fdc3914
+SEQUENCE:0
+DTSTAMP:20241206T033535Z
+DTSTART:20241212T101500Z
+DTEND:20241212T113100Z
+SUMMARY:[販売期間外]  プリズムスタァ応援上映『KING OF PRI
+ SM -Dramatic PRISM.1-』
+LOCATION:ユナイテッド・シネマPARCO CITY 浦添 11screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=115
+ 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11512&fro
  m=fm
 END:VEVENT
 END:VCALENDAR
