@@ -6,60 +6,9 @@ NAME:ユナイテッド・シネマアクアシティお台場 Coming soon
 X-WR-CALNAME:ユナイテッド・シネマアクアシティお台場 Com
  ing soon 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:674e915f-bdba-5c9e-8304-9f7f04a9b60a
-SEQUENCE:0
-DTSTAMP:20241210T132949Z
-DTSTART:20241210T044500Z
-DTEND:20241210T060400Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 8screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=119
- 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=11913&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:01b105d7-d6e9-5ad4-be75-1cc870f3538a
-SEQUENCE:0
-DTSTAMP:20241210T132949Z
-DTSTART:20241210T015000Z
-DTEND:20241210T030900Z
-SUMMARY:[販売対象外]  [ScreenX] プリズムスタァ応援上映『
- も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
-LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 13screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=119
- 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=11913&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:4fb2cb2c-21ed-5e1b-a8c4-56bb7a6a7404
-SEQUENCE:0
-DTSTAMP:20241210T132949Z
-DTSTART:20241210T061000Z
-DTEND:20241210T072900Z
-SUMMARY:[販売対象外]  [ScreenX] プリズムスタァ応援上映『
- も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
-LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 13screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=119
- 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=11913&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:f60d35a7-8069-56fc-9d9c-f02fea5c9041
 SEQUENCE:0
-DTSTAMP:20241210T132949Z
+DTSTAMP:20241210T201735Z
 DTSTART:20241211T084000Z
 DTEND:20241211T095900Z
 SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
@@ -76,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6067f8fa-ae03-577f-937d-b964608bdfa5
 SEQUENCE:0
-DTSTAMP:20241210T132949Z
+DTSTAMP:20241210T201735Z
 DTSTART:20241212T084000Z
 DTEND:20241212T095900Z
 SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
@@ -93,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:11461090-ed08-5438-b0f7-9791ba936cb5
 SEQUENCE:0
-DTSTAMP:20241210T132949Z
+DTSTAMP:20241210T201735Z
 DTSTART:20241214T001000Z
 DTEND:20241214T012900Z
 SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
@@ -110,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8e08f39f-97df-5dce-956d-6002b3f806b5
 SEQUENCE:0
-DTSTAMP:20241210T132949Z
+DTSTAMP:20241210T201735Z
 DTSTART:20241215T001000Z
 DTEND:20241215T012900Z
 SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
