@@ -6,25 +6,9 @@ NAME:ユナイテッド・シネマPARCO CITY 浦添 『KING OF PRISM -Dra
 X-WR-CALNAME:ユナイテッド・シネマPARCO CITY 浦添 『KING OF PR
  ISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:5b9bfce2-a9b7-57d6-92ac-2d10b5986368
-SEQUENCE:0
-DTSTAMP:20241210T082308Z
-DTSTART:20241210T101500Z
-DTEND:20241210T113100Z
-SUMMARY:[○]  プリズムスタァ応援上映『KING OF PRISM -Dramatic
-  PRISM.1-』
-LOCATION:ユナイテッド・シネマPARCO CITY 浦添 11screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urasoe/film.php?movie=115
- 12&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urasoe/film.php?movie=11512&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:9f1c12a4-2129-5521-bd0b-1b5bbff6d2d6
 SEQUENCE:0
-DTSTAMP:20241210T082308Z
+DTSTAMP:20241211T052013Z
 DTSTART:20241211T101500Z
 DTEND:20241211T113100Z
 SUMMARY:[○]  プリズムスタァ応援上映『KING OF PRISM -Dramatic
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a2ef99b0-fdae-58b3-9ee8-d6104a2f3a1b
 SEQUENCE:0
-DTSTAMP:20241210T082308Z
+DTSTAMP:20241211T052013Z
 DTSTART:20241212T101500Z
 DTEND:20241212T113100Z
 SUMMARY:[○]  プリズムスタァ応援上映『KING OF PRISM -Dramatic
