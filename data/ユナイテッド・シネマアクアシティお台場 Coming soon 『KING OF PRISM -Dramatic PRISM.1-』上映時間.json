@@ -2,23 +2,9 @@
   {
     "title": "[ScreenX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D",
     "screenName": "13screen",
-    "startTime": "2024-12-28T06:20:00.000Z",
-    "endTime": "2024-12-28T07:39:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[ScreenX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D",
-    "screenName": "13screen",
-    "startTime": "2024-12-29T06:20:00.000Z",
-    "endTime": "2024-12-29T07:39:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "[ScreenX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D",
-    "screenName": "13screen",
     "startTime": "2024-12-30T08:45:00.000Z",
     "endTime": "2024-12-30T10:04:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[ScreenX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D",
@@ -32,13 +18,13 @@
     "screenName": "13screen",
     "startTime": "2024-01-01T08:45:00.000Z",
     "endTime": "2024-01-01T10:04:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "[ScreenX] プリズムスタァ応援上映『も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D",
     "screenName": "13screen",
     "startTime": "2024-01-02T08:45:00.000Z",
     "endTime": "2024-01-02T10:04:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
