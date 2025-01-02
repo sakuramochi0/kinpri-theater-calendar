@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター６",
+    "startTime": "2025-01-03T10:45:00.000Z",
+    "endTime": "2025-01-03T12:00:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター６",
+    "startTime": "2025-01-04T10:45:00.000Z",
+    "endTime": "2025-01-04T12:00:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター６",
+    "startTime": "2025-01-05T10:45:00.000Z",
+    "endTime": "2025-01-05T12:00:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター６",
+    "startTime": "2025-01-06T10:45:00.000Z",
+    "endTime": "2025-01-06T12:00:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター６",
+    "startTime": "2025-01-07T10:45:00.000Z",
+    "endTime": "2025-01-07T12:00:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター６",
+    "startTime": "2025-01-08T10:45:00.000Z",
+    "endTime": "2025-01-08T12:00:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター６",
+    "startTime": "2025-01-09T10:45:00.000Z",
+    "endTime": "2025-01-09T12:00:00.000Z",
+    "status": "-販売対象外"
+  }
+]
