@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマアクアシティお台場 Coming soon
 X-WR-CALNAME:ユナイテッド・シネマアクアシティお台場 Com
  ing soon 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:d984415b-9a21-56b2-ab9a-298e41b40008
+UID:90d25d8f-5824-5187-b166-c2f942a4515b
 SEQUENCE:0
-DTSTAMP:20250104T152758Z
-DTSTART:20250104T084500Z
-DTEND:20250104T100400Z
+DTSTAMP:20250105T152718Z
+DTSTART:20250105T084500Z
+DTEND:20250105T100400Z
 SUMMARY:[販売対象外]  [ScreenX] プリズムスタァ応援上映『
  も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
@@ -23,26 +23,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=11913&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:09cf6ed8-38ee-5bfa-a181-bad177900e13
-SEQUENCE:0
-DTSTAMP:20250104T152758Z
-DTSTART:20250105T084500Z
-DTEND:20250105T100400Z
-SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
- 煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
-LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 13screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=119
- 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=11913&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:0b2d848f-bec8-5496-a1cb-5f9e55850ea4
 SEQUENCE:0
-DTSTAMP:20250104T152758Z
+DTSTAMP:20250105T152718Z
 DTSTART:20250106T084500Z
 DTEND:20250106T100400Z
 SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
@@ -59,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2b348640-b7ed-5df4-b660-1e518688bb32
 SEQUENCE:0
-DTSTAMP:20250104T152758Z
+DTSTAMP:20250105T152718Z
 DTSTART:20250107T084500Z
 DTEND:20250107T100400Z
 SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
@@ -74,13 +57,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=11913&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7e180bae-8ddd-5c5a-8bcc-a5134869011b
+UID:ceed3a82-be7c-5e1c-812c-6a2627fead8d
 SEQUENCE:0
-DTSTAMP:20250104T152758Z
+DTSTAMP:20250105T152718Z
 DTSTART:20250108T084500Z
 DTEND:20250108T100400Z
-SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
- も～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
+SUMMARY:[○]  [ScreenX] プリズムスタァ応援上映『も～っと
+ 煌めく!KING OF PRISM -Dramatic PRISM.1-』ScreenX 2D
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 13screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -93,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cf82b3b7-9525-5373-9cd9-1fc8f3edd868
 SEQUENCE:0
-DTSTAMP:20250104T152758Z
+DTSTAMP:20250105T152718Z
 DTSTART:20250109T084500Z
 DTEND:20250109T100400Z
 SUMMARY:[販売期間外]  [ScreenX] プリズムスタァ応援上映『
