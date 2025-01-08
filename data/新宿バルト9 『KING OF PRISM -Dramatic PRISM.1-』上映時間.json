@@ -2,23 +2,16 @@
   {
     "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
     "screenName": "シアター９",
-    "startTime": "2025-01-07T11:05:00.000Z",
-    "endTime": "2025-01-07T12:20:00.000Z",
-    "status": "-終了"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
-    "screenName": "シアター９",
     "startTime": "2025-01-08T11:05:00.000Z",
     "endTime": "2025-01-08T12:20:00.000Z",
-    "status": "◎予約/購入"
+    "status": "-終了"
   },
   {
     "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
     "screenName": "シアター９",
     "startTime": "2025-01-09T11:05:00.000Z",
     "endTime": "2025-01-09T12:20:00.000Z",
-    "status": "◎予約/購入"
+    "status": "○予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
@@ -26,5 +19,47 @@
     "startTime": "2025-01-10T08:35:00.000Z",
     "endTime": "2025-01-10T09:50:00.000Z",
     "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター９",
+    "startTime": "2025-01-11T11:50:00.000Z",
+    "endTime": "2025-01-11T13:05:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター９",
+    "startTime": "2025-01-12T11:10:00.000Z",
+    "endTime": "2025-01-12T12:25:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター８",
+    "startTime": "2025-01-13T11:10:00.000Z",
+    "endTime": "2025-01-13T12:25:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター３",
+    "startTime": "2025-01-14T08:40:00.000Z",
+    "endTime": "2025-01-14T09:55:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター３",
+    "startTime": "2025-01-15T08:35:00.000Z",
+    "endTime": "2025-01-15T09:50:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター２",
+    "startTime": "2025-01-16T11:25:00.000Z",
+    "endTime": "2025-01-16T12:40:00.000Z",
+    "status": "-販売対象外"
   }
 ]
