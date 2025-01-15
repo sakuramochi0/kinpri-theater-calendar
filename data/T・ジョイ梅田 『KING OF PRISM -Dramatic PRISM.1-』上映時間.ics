@@ -6,23 +6,9 @@ NAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:42559f80-d2e7-5736-9d31-05c174faff66
-SEQUENCE:0
-DTSTAMP:20250114T152533Z
-DTSTART:20250115T103500Z
-DTEND:20250115T115000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ梅田 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
 UID:c4407cb2-5f48-5d61-b517-7ba2d92f5b5c
 SEQUENCE:0
-DTSTAMP:20250114T152533Z
+DTSTAMP:20250115T152606Z
 DTSTART:20250116T040500Z
 DTEND:20250116T052000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
@@ -36,10 +22,94 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5e378731-8166-5471-baf5-be316582cd51
 SEQUENCE:0
-DTSTAMP:20250114T152533Z
+DTSTAMP:20250115T152606Z
 DTSTART:20250117T101000Z
 DTEND:20250117T112500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ梅田 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:b004f989-01ea-5eca-924f-1a635eb31589
+SEQUENCE:0
+DTSTAMP:20250115T152606Z
+DTSTART:20250118T101000Z
+DTEND:20250118T112500Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ梅田 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:6606db59-ceeb-517e-9b5e-d39fdcb57f61
+SEQUENCE:0
+DTSTAMP:20250115T152606Z
+DTSTART:20250119T084000Z
+DTEND:20250119T095500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ梅田 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:e7bf735b-dcd4-5680-b031-eadd91109c9b
+SEQUENCE:0
+DTSTAMP:20250115T152606Z
+DTSTART:20250120T101000Z
+DTEND:20250120T112500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ梅田 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:3d22a10a-ccf8-5e4c-b93c-6fd987d999e9
+SEQUENCE:0
+DTSTAMP:20250115T152606Z
+DTSTART:20250121T101000Z
+DTEND:20250121T112500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ梅田 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6b3207-e285-5ecd-a4f3-585a9b22d565
+SEQUENCE:0
+DTSTAMP:20250115T152606Z
+DTSTART:20250122T101000Z
+DTEND:20250122T112500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ梅田 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864
+END:VEVENT
+BEGIN:VEVENT
+UID:861f8a18-55d2-58c8-8b3f-a1e7c9446cd8
+SEQUENCE:0
+DTSTAMP:20250115T152606Z
+DTSTART:20250123T101000Z
+DTEND:20250123T112500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:T・ジョイ梅田 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C3864\nカ
