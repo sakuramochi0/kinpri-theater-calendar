@@ -5,26 +5,12 @@ NAME:新宿バルト9 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:新宿バルト9 『KING OF PRISM -Dramatic PRISM.1-』上映
  時間
 BEGIN:VEVENT
-UID:5d4dde28-2dfa-5b9c-afc9-8fbcb8a5bfdc
+UID:7495015e-7224-5a02-a562-dae926fae6a0
 SEQUENCE:0
-DTSTAMP:20250126T152412Z
-DTSTART:20250126T145900Z
-DTEND:20250126T145900Z
-SUMMARY:[◎購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:新宿バルト9 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
-END:VEVENT
-BEGIN:VEVENT
-UID:1fa9cffd-7115-5cfa-a07b-4eb112bed5b2
-SEQUENCE:0
-DTSTAMP:20250126T152412Z
+DTSTAMP:20250127T152222Z
 DTSTART:20250127T134000Z
 DTEND:20250127T145500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+SUMMARY:[-終了]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:新宿バルト9 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
@@ -35,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bddaf4e6-963f-5a7f-ad46-8e31a2a4ddee
 SEQUENCE:0
-DTSTAMP:20250126T152412Z
+DTSTAMP:20250127T152222Z
 DTSTART:20250128T132500Z
 DTEND:20250128T144000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
@@ -49,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f9f7fe64-7c9f-5940-9c38-013205cadcae
 SEQUENCE:0
-DTSTAMP:20250126T152412Z
+DTSTAMP:20250127T152222Z
 DTSTART:20250129T134000Z
 DTEND:20250129T145500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
@@ -61,12 +47,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864
 END:VEVENT
 BEGIN:VEVENT
-UID:2ef10c96-052f-597b-905c-41c3a3124bec
+UID:7e1f49ba-c4cc-582d-9359-2bc06391dfff
 SEQUENCE:0
-DTSTAMP:20250126T152412Z
+DTSTAMP:20250127T152222Z
 DTSTART:20250130T145900Z
 DTEND:20250130T145900Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
 LOCATION:新宿バルト9 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C3864\n
