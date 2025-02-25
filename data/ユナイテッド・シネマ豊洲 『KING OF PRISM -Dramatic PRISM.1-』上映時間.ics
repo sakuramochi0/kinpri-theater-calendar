@@ -6,35 +6,35 @@ NAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:1ad6ef2e-4fbb-5ffe-b52f-fe2930269728
+UID:a0b322a8-31c0-59be-8221-c5c6ceac306e
 SEQUENCE:0
-DTSTAMP:20241204T161610Z
-DTSTART:20241204T010000Z
-DTEND:20241204T021600Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ豊洲 7screen
+DTSTAMP:20250225T153952Z
+DTSTART:20250305T115000Z
+DTEND:20250305T130700Z
+SUMMARY:[販売期間外]  KING OF PRISM9周年「KING OF PRISM -Dramatic 
+ PRISM.1-」プリズムスタァ応援上映
+LOCATION:ユナイテッド・シネマ豊洲 9screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=119
- 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=123
+ 43&from=fm\nカレンダー生成プログラムのウェブサイト: kin
  pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11913&fro
+URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=12343&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:66ecd248-a79d-5474-b4d4-11f7cb448860
+UID:eec79e4f-858d-574f-9ef6-0c4f71ab62b4
 SEQUENCE:0
-DTSTAMP:20241204T161610Z
-DTSTART:20241204T093000Z
-DTEND:20241204T104600Z
-SUMMARY:[販売対象外]  [4DX] プリズムスタァ応援上映『も
- ～っと煌めく!KING OF PRISM -Dramatic PRISM.1-』4DX2D
-LOCATION:ユナイテッド・シネマ豊洲 7screen
+DTSTAMP:20250225T153952Z
+DTSTART:20250306T100000Z
+DTEND:20250306T111700Z
+SUMMARY:[販売期間外]  KING OF PRISM9周年「KING OF PRISM -Dramatic 
+ PRISM.1-」プリズムスタァ応援上映
+LOCATION:ユナイテッド・シネマ豊洲 9screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=119
- 13&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=123
+ 43&from=fm\nカレンダー生成プログラムのウェブサイト: kin
  pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=11913&fro
+URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=12343&fro
  m=fm
 END:VEVENT
 END:VCALENDAR
