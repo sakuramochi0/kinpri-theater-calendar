@@ -6,17 +6,131 @@ NAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
 BEGIN:VEVENT
-UID:8a5ac3ec-aa6d-5b82-9ded-ec49725ede57
+UID:63882b29-cac7-5ac9-9ecb-dba3a7b147a4
 SEQUENCE:0
-DTSTAMP:20241024T141122Z
-DTSTART:20241024T100000Z
-DTEND:20241024T111500Z
-SUMMARY:[-終了]  [応援上映]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ久留米 シアター６
+DTSTAMP:20250228T152906Z
+DTSTART:20250301T094000Z
+DTEND:20250301T105000Z
+SUMMARY:[◎予約/購入]  【T-LEX上映】[応援]KING OF PRISM by Pret
+ tyRhythm
+LOCATION:T・ジョイ久留米 シアター１\n                         
+                                                    T-LEX
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864\n
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578\n
  カレンダー生成プログラムのウェブサイト: kinpri-theater-
  calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C3864
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:b53fec1d-72f1-5393-97b3-0a83d1a943d9
+SEQUENCE:0
+DTSTAMP:20250228T152906Z
+DTSTART:20250302T094000Z
+DTEND:20250302T110000Z
+SUMMARY:[◎予約/購入]  【T-LEX上映】[応援]KING OF PRISM -PRIDE 
+ the HERO-
+LOCATION:T・ジョイ久留米 シアター１\n                         
+                                                    T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:e9df575d-f42e-57fd-a699-3ed198537ea7
+SEQUENCE:0
+DTSTAMP:20250228T152906Z
+DTSTART:20250303T094000Z
+DTEND:20250303T110500Z
+SUMMARY:[◎予約/購入]  【T-LEX上映】[応援]KING OF PRISM ALL STA
+ RS -プリズムショー☆ベストテン-
+LOCATION:T・ジョイ久留米 シアター１\n                         
+                                                    T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:52abaf2f-8ab4-5a5e-a573-8f1d5e16750b
+SEQUENCE:0
+DTSTAMP:20250228T152906Z
+DTSTART:20250304T094000Z
+DTEND:20250304T105000Z
+SUMMARY:[-販売対象外]  【T-LEX上映】[応援]KING OF PRISM -Dramat
+ ic PRISM.1-
+LOCATION:T・ジョイ久留米 シアター１\n                         
+                                                    T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:2096aaf4-5a99-5faf-b50d-3899bf43e9ba
+SEQUENCE:0
+DTSTAMP:20250228T152906Z
+DTSTART:20250305T094000Z
+DTEND:20250305T105000Z
+SUMMARY:[-販売対象外]  【T-LEX上映】[応援]KING OF PRISM by Pret
+ tyRhythm
+LOCATION:T・ジョイ久留米 シアター１\n                         
+                                                    T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:09d7dac8-3862-5d72-a90d-48a23ac9dccb
+SEQUENCE:0
+DTSTAMP:20250228T152906Z
+DTSTART:20250305T112500Z
+DTEND:20250305T124500Z
+SUMMARY:[-販売対象外]  【T-LEX上映】[応援]KING OF PRISM -PRIDE 
+ the HERO-
+LOCATION:T・ジョイ久留米 シアター１\n                         
+                                                    T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:753bb551-5ba3-58c1-a9a5-bac5d541fb82
+SEQUENCE:0
+DTSTAMP:20250228T152906Z
+DTSTART:20250306T094000Z
+DTEND:20250306T110500Z
+SUMMARY:[-販売対象外]  【T-LEX上映】[応援]KING OF PRISM ALL STA
+ RS -プリズムショー☆ベストテン-
+LOCATION:T・ジョイ久留米 シアター１\n                         
+                                                    T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b4c054-78e3-5984-b158-9bcb58193655
+SEQUENCE:0
+DTSTAMP:20250228T152906Z
+DTSTART:20250306T112500Z
+DTEND:20250306T123500Z
+SUMMARY:[-販売対象外]  【T-LEX上映】[応援]KING OF PRISM -Dramat
+ ic PRISM.1-
+LOCATION:T・ジョイ久留米 シアター１\n                         
+                                                    T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/E2578
 END:VEVENT
 END:VCALENDAR

@@ -1,9 +1,58 @@
 [
   {
-    "title": "[応援上映]KING OF PRISM -Dramatic PRISM.1-",
-    "screenName": "シアター６",
-    "startTime": "2024-10-24T10:00:00.000Z",
-    "endTime": "2024-10-24T11:15:00.000Z",
-    "status": "-終了"
+    "title": "【T-LEX上映】[応援]KING OF PRISM by PrettyRhythm",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2025-03-01T09:40:00.000Z",
+    "endTime": "2025-03-01T10:50:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "【T-LEX上映】[応援]KING OF PRISM -PRIDE the HERO-",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2025-03-02T09:40:00.000Z",
+    "endTime": "2025-03-02T11:00:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "【T-LEX上映】[応援]KING OF PRISM ALL STARS -プリズムショー☆ベストテン-",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2025-03-03T09:40:00.000Z",
+    "endTime": "2025-03-03T11:05:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "【T-LEX上映】[応援]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2025-03-04T09:40:00.000Z",
+    "endTime": "2025-03-04T10:50:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "【T-LEX上映】[応援]KING OF PRISM by PrettyRhythm",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2025-03-05T09:40:00.000Z",
+    "endTime": "2025-03-05T10:50:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "【T-LEX上映】[応援]KING OF PRISM -PRIDE the HERO-",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2025-03-05T11:25:00.000Z",
+    "endTime": "2025-03-05T12:45:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "【T-LEX上映】[応援]KING OF PRISM ALL STARS -プリズムショー☆ベストテン-",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2025-03-06T09:40:00.000Z",
+    "endTime": "2025-03-06T11:05:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "【T-LEX上映】[応援]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター１\n                                                                            T-LEX",
+    "startTime": "2025-03-06T11:25:00.000Z",
+    "endTime": "2025-03-06T12:35:00.000Z",
+    "status": "-販売対象外"
   }
 ]

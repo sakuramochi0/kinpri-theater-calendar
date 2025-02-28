@@ -1,9 +1,30 @@
 [
   {
-    "title": "[応援上映]【-∞ラブThanks Week-】KING OF PRISM -Dramatic PRISM.1-",
-    "screenName": "シアター１１",
-    "startTime": "2024-11-28T10:15:00.000Z",
-    "endTime": "2024-11-28T11:30:00.000Z",
-    "status": "-終了"
+    "title": "[応援]KING OF PRISM by PrettyRhythm",
+    "screenName": "シアター２",
+    "startTime": "2025-03-01T05:00:00.000Z",
+    "endTime": "2025-03-01T06:05:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援]KING OF PRISM -PRIDE the HERO-",
+    "screenName": "シアター２",
+    "startTime": "2025-03-01T06:35:00.000Z",
+    "endTime": "2025-03-01T07:55:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援]KING OF PRISM ALL STARS -プリズムショー☆ベストテン-",
+    "screenName": "シアター２",
+    "startTime": "2025-03-01T08:40:00.000Z",
+    "endTime": "2025-03-01T10:05:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
+    "title": "[応援]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター２",
+    "startTime": "2025-03-01T10:30:00.000Z",
+    "endTime": "2025-03-01T11:40:00.000Z",
+    "status": "◎予約/購入"
   }
 ]
