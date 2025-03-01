@@ -1,19 +1,5 @@
 [
   {
-    "title": "[応援]KING OF PRISM by PrettyRhythm",
-    "screenName": "シアター５",
-    "startTime": "2025-03-01T04:45:00.000Z",
-    "endTime": "2025-03-01T05:55:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援]KING OF PRISM -PRIDE the HERO-",
-    "screenName": "シアター５",
-    "startTime": "2025-03-01T06:15:00.000Z",
-    "endTime": "2025-03-01T07:35:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
     "title": "[応援]KING OF PRISM ALL STARS -プリズムショー☆ベストテン-",
     "screenName": "シアター５",
     "startTime": "2025-03-02T04:45:00.000Z",
@@ -39,7 +25,7 @@
     "screenName": "シアター１０\n                                                                            T-LEX",
     "startTime": "2025-03-04T10:00:00.000Z",
     "endTime": "2025-03-04T11:20:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援]KING OF PRISM ALL STARS -プリズムショー☆ベストテン-",
