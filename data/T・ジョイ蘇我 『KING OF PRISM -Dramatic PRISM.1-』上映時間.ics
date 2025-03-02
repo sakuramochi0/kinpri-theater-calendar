@@ -5,4 +5,65 @@ NAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
+BEGIN:VEVENT
+UID:2972b110-82a8-5f60-9055-f4419653d838
+SEQUENCE:0
+DTSTAMP:20250302T152852Z
+DTSTART:20250303T100000Z
+DTEND:20250303T110500Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM by PrettyRhythm
+LOCATION:T・ジョイ蘇我 シアター７\n                            
+                                                 T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/E2578\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ebccea-859f-5a58-a811-5bb137e55000
+SEQUENCE:0
+DTSTAMP:20250302T152852Z
+DTSTART:20250304T100000Z
+DTEND:20250304T112000Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -PRIDE the HERO-
+LOCATION:T・ジョイ蘇我 シアター７\n                            
+                                                 T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/E2578\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:03549eb1-0bc8-5de1-8a22-5a797432b134
+SEQUENCE:0
+DTSTAMP:20250302T152852Z
+DTSTART:20250305T100000Z
+DTEND:20250305T112500Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM ALL STARS -プリズム
+ ショー☆ベストテン-
+LOCATION:T・ジョイ蘇我 シアター７\n                            
+                                                 T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/E2578\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:901a6535-abd6-5995-b9f4-838532674924
+SEQUENCE:0
+DTSTAMP:20250302T152852Z
+DTSTART:20250306T100000Z
+DTEND:20250306T111000Z
+SUMMARY:[-販売対象外]  [応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ蘇我 シアター７\n                            
+                                                 T-LEX
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/E2578\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/E2578
+END:VEVENT
 END:VCALENDAR

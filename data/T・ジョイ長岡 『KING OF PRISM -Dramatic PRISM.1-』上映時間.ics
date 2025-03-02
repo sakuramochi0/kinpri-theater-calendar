@@ -6,38 +6,9 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:036eae53-47a1-53da-a15f-6111c4d96977
-SEQUENCE:0
-DTSTAMP:20250301T152929Z
-DTSTART:20250302T044500Z
-DTEND:20250302T061000Z
-SUMMARY:[◎予約/購入]  [応援]KING OF PRISM ALL STARS -プリズム
- ショー☆ベストテン-
-LOCATION:T・ジョイ長岡 シアター５
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/E2578\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/E2578
-END:VEVENT
-BEGIN:VEVENT
-UID:60eb6f38-c11a-5b75-85fc-b9c99404e415
-SEQUENCE:0
-DTSTAMP:20250301T152929Z
-DTSTART:20250302T063000Z
-DTEND:20250302T074000Z
-SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -Dramatic PRISM.1-
-LOCATION:T・ジョイ長岡 シアター５
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/E2578\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/E2578
-END:VEVENT
-BEGIN:VEVENT
 UID:b3c8c5e7-190a-5245-93f9-d0af01aaab6d
 SEQUENCE:0
-DTSTAMP:20250301T152929Z
+DTSTAMP:20250302T152815Z
 DTSTART:20250303T100000Z
 DTEND:20250303T111000Z
 SUMMARY:[◎予約/購入]  【T-LEX上映】[応援]KING OF PRISM by Pret
@@ -53,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a3ba743c-2646-59e9-b939-8f41acd79616
 SEQUENCE:0
-DTSTAMP:20250301T152929Z
+DTSTAMP:20250302T152815Z
 DTSTART:20250304T100000Z
 DTEND:20250304T112000Z
 SUMMARY:[◎予約/購入]  【T-LEX上映】[応援]KING OF PRISM -PRIDE 
@@ -67,12 +38,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/E2578
 END:VEVENT
 BEGIN:VEVENT
-UID:9a462717-f051-5e05-8922-af339262376d
+UID:b8dc1fad-f4f0-554b-a002-ee4d22880f5c
 SEQUENCE:0
-DTSTAMP:20250301T152929Z
+DTSTAMP:20250302T152815Z
 DTSTART:20250305T100000Z
 DTEND:20250305T112500Z
-SUMMARY:[-販売対象外]  [応援]KING OF PRISM ALL STARS -プリズム
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM ALL STARS -プリズム
  ショー☆ベストテン-
 LOCATION:T・ジョイ長岡 シアター１０\n                         
                                                     T-LEX
@@ -85,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7ad34533-015f-5051-bf2b-95758f85051e
 SEQUENCE:0
-DTSTAMP:20250301T152929Z
+DTSTAMP:20250302T152815Z
 DTSTART:20250306T100000Z
 DTEND:20250306T111000Z
 SUMMARY:[-販売対象外]  【T-LEX上映】[応援]KING OF PRISM -Dramat
