@@ -1,12 +1,5 @@
 [
   {
-    "title": "【T-LEX上映】[応援]KING OF PRISM by PrettyRhythm",
-    "screenName": "シアター１０\n                                                                            T-LEX",
-    "startTime": "2025-03-03T10:00:00.000Z",
-    "endTime": "2025-03-03T11:10:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
     "title": "【T-LEX上映】[応援]KING OF PRISM -PRIDE the HERO-",
     "screenName": "シアター１０\n                                                                            T-LEX",
     "startTime": "2025-03-04T10:00:00.000Z",
@@ -25,6 +18,6 @@
     "screenName": "シアター１０\n                                                                            T-LEX",
     "startTime": "2025-03-06T10:00:00.000Z",
     "endTime": "2025-03-06T11:10:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   }
 ]

@@ -2,13 +2,6 @@
   {
     "title": "KING OF PRISM9周年「KING OF PRISM -Dramatic PRISM.1-」プリズムスタァ応援上映",
     "screenName": "5screen",
-    "startTime": "2025-03-02T11:00:00.000Z",
-    "endTime": "2025-03-02T12:17:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "KING OF PRISM9周年「KING OF PRISM -Dramatic PRISM.1-」プリズムスタァ応援上映",
-    "screenName": "5screen",
     "startTime": "2025-03-04T11:00:00.000Z",
     "endTime": "2025-03-04T12:17:00.000Z",
     "status": "○"
@@ -18,6 +11,6 @@
     "screenName": "5screen",
     "startTime": "2025-03-06T11:00:00.000Z",
     "endTime": "2025-03-06T12:17:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
