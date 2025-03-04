@@ -5,4 +5,20 @@ NAME:TOHOシネマズ 高知 『KING OF PRISM -Dramatic PRISM.1-』上映
  時間
 X-WR-CALNAME:TOHOシネマズ 高知 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
+BEGIN:VEVENT
+UID:a7156a3b-b1fc-5121-8c92-cef7810930df
+SEQUENCE:0
+DTSTAMP:20250304T153328Z
+DTSTART:20250304T101500Z
+DTEND:20250304T114500Z
+SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｐ
+ ＲＩＤＥ　ｔｈｅ　ＨＥＲＯ（発声ＯＫ）
+LOCATION:TOHOシネマズ 高知 SCREEN1
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=014388\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=014388
+END:VEVENT
 END:VCALENDAR

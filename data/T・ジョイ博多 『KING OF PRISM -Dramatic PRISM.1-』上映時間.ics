@@ -6,13 +6,27 @@ NAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ博多 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:57512507-c25a-5e4b-aa55-9f9070d107b8
+UID:8cfc5078-14b8-58a3-8233-f84f0677499d
 SEQUENCE:0
-DTSTAMP:20250228T152854Z
-DTSTART:20250301T100000Z
-DTEND:20250301T111000Z
+DTSTAMP:20250304T153232Z
+DTSTART:20250305T103000Z
+DTEND:20250305T114000Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ博多 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_hakata/cinema_schedule/E2578\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_hakata/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:ac76f5c3-0feb-50fd-8185-654055a0e07c
+SEQUENCE:0
+DTSTAMP:20250304T153232Z
+DTSTART:20250306T100000Z
+DTEND:20250306T111000Z
 SUMMARY:[◎予約/購入]  [応援]KING OF PRISM by PrettyRhythm
-LOCATION:T・ジョイ博多 シアター８
+LOCATION:T・ジョイ博多 シアター１
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_hakata/cinema_schedule/E2578\n
  カレンダー生成プログラムのウェブサイト: kinpri-theater-

@@ -6,25 +6,9 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:a3ba743c-2646-59e9-b939-8f41acd79616
-SEQUENCE:0
-DTSTAMP:20250303T153157Z
-DTSTART:20250304T100000Z
-DTEND:20250304T112000Z
-SUMMARY:[◎予約/購入]  【T-LEX上映】[応援]KING OF PRISM -PRIDE 
- the HERO-
-LOCATION:T・ジョイ長岡 シアター１０\n                         
-                                                    T-LEX
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/E2578\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/E2578
-END:VEVENT
-BEGIN:VEVENT
 UID:b8dc1fad-f4f0-554b-a002-ee4d22880f5c
 SEQUENCE:0
-DTSTAMP:20250303T153157Z
+DTSTAMP:20250304T153106Z
 DTSTART:20250305T100000Z
 DTEND:20250305T112500Z
 SUMMARY:[◎予約/購入]  [応援]KING OF PRISM ALL STARS -プリズム
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:124cc997-d2c7-5019-9c47-4485a37d5968
 SEQUENCE:0
-DTSTAMP:20250303T153157Z
+DTSTAMP:20250304T153106Z
 DTSTART:20250306T100000Z
 DTEND:20250306T111000Z
 SUMMARY:[◎予約/購入]  【T-LEX上映】[応援]KING OF PRISM -Dramat

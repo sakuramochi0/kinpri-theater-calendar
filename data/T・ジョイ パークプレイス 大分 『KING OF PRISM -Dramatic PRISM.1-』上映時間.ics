@@ -6,11 +6,25 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:f69b1233-78c4-56c6-90db-aa53e67cbe62
+UID:d03907e5-e3a0-5977-9763-bc3c3cb58fc2
 SEQUENCE:0
-DTSTAMP:20250228T152919Z
-DTSTART:20250301T100500Z
-DTEND:20250301T111500Z
+DTSTAMP:20250304T153300Z
+DTSTART:20250305T100500Z
+DTEND:20250305T112000Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ パークプレイス 大分 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/E
+ 2578\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:3ccc002d-a436-5619-97eb-b2c934c26a8d
+SEQUENCE:0
+DTSTAMP:20250304T153300Z
+DTSTART:20250306T100500Z
+DTEND:20250306T111500Z
 SUMMARY:[◎予約/購入]  [応援]KING OF PRISM by PrettyRhythm
 LOCATION:T・ジョイ パークプレイス 大分 シアター４
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映

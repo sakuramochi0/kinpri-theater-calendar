@@ -1,9 +1,16 @@
 [
   {
+    "title": "[応援]KING OF PRISM -Dramatic PRISM.1-",
+    "screenName": "シアター３",
+    "startTime": "2025-03-05T10:30:00.000Z",
+    "endTime": "2025-03-05T11:40:00.000Z",
+    "status": "◎予約/購入"
+  },
+  {
     "title": "[応援]KING OF PRISM by PrettyRhythm",
-    "screenName": "シアター８",
-    "startTime": "2025-03-01T10:00:00.000Z",
-    "endTime": "2025-03-01T11:10:00.000Z",
+    "screenName": "シアター１",
+    "startTime": "2025-03-06T10:00:00.000Z",
+    "endTime": "2025-03-06T11:10:00.000Z",
     "status": "◎予約/購入"
   }
 ]

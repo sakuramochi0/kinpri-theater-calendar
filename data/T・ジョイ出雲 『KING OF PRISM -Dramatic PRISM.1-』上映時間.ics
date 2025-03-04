@@ -5,4 +5,33 @@ NAME:T・ジョイ出雲 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ出雲 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
+BEGIN:VEVENT
+UID:dbb2f716-46c5-593e-bea5-ac861b7427e9
+SEQUENCE:0
+DTSTAMP:20250304T153222Z
+DTSTART:20250305T103500Z
+DTEND:20250305T120000Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM ALL STARS -プリズム
+ ショー☆ベストテン-
+LOCATION:T・ジョイ出雲 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/E2578\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/E2578
+END:VEVENT
+BEGIN:VEVENT
+UID:79f4a502-9e19-5209-86d9-06375a55fa8c
+SEQUENCE:0
+DTSTAMP:20250304T153222Z
+DTSTART:20250306T103500Z
+DTEND:20250306T114500Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ出雲 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_izumo/cinema_schedule/E2578\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_izumo/cinema_schedule/E2578
+END:VEVENT
 END:VCALENDAR

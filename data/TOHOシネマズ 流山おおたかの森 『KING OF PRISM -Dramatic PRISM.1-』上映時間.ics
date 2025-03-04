@@ -5,4 +5,20 @@ NAME:TOHOシネマズ 流山おおたかの森 『KING OF PRISM -Dramatic
  PRISM.1-』上映時間
 X-WR-CALNAME:TOHOシネマズ 流山おおたかの森 『KING OF PRISM -D
  ramatic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:01a75d44-b82a-59c0-bb18-da0f884ee767
+SEQUENCE:0
+DTSTAMP:20250304T153322Z
+DTSTART:20250304T080000Z
+DTEND:20250304T092500Z
+SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｐ
+ ＲＩＤＥ　ｔｈｅ　ＨＥＲＯ（発声ＯＫ）
+LOCATION:TOHOシネマズ 流山おおたかの森 SCREEN2
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=014388\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=014388
+END:VEVENT
 END:VCALENDAR
