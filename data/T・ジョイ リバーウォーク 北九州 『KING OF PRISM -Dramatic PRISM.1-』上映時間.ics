@@ -6,33 +6,227 @@ NAME:T・ジョイ リバーウォーク 北九州 『KING OF PRISM -Drama
 X-WR-CALNAME:T・ジョイ リバーウォーク 北九州 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:8499fc1a-77cf-5874-a88f-1a9b0fbb94b2
+UID:091f3b18-2608-5839-95a2-a5aed1b5da6b
 SEQUENCE:0
-DTSTAMP:20250304T153250Z
-DTSTART:20250305T100000Z
-DTEND:20250305T111000Z
-SUMMARY:[◎予約/購入]  [応援]KING OF PRISM by PrettyRhythm
-LOCATION:T・ジョイ リバーウォーク 北九州 シアター２
+DTSTAMP:20250712T152846Z
+DTSTART:20250713T092500Z
+DTEND:20250713T103500Z
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
- dule/E2578\nカレンダー生成プログラムのウェブサイト: kin
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
  pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/E
- 2578
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
 END:VEVENT
 BEGIN:VEVENT
-UID:647f9d4a-c730-5b6a-a2c5-b8f3492c03a3
+UID:61dfabe5-a5ad-5d32-85ef-7dc4313ea6c0
 SEQUENCE:0
-DTSTAMP:20250304T153250Z
-DTSTART:20250306T100000Z
-DTEND:20250306T112000Z
-SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -PRIDE the HERO-
-LOCATION:T・ジョイ リバーウォーク 北九州 シアター２
+DTSTAMP:20250712T152846Z
+DTSTART:20250713T032000Z
+DTEND:20250713T043000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
- dule/E2578\nカレンダー生成プログラムのウェブサイト: kin
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
  pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/E
- 2578
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:fac9d628-dd0a-5586-bc82-d3a3bacbeb38
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250714T003000Z
+DTEND:20250714T014000Z
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:60b04778-2d31-571d-b5a5-4bd9dcf5d770
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250714T032000Z
+DTEND:20250714T043000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:125ebca5-eb12-5521-a7c9-ce6ac2aa7ff8
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250714T113000Z
+DTEND:20250714T124000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8c433b-9185-5625-99f1-30e37b553c18
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250715T003000Z
+DTEND:20250715T014000Z
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:046a30b9-5cad-55ec-ae6f-35b3dfca020d
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250715T032000Z
+DTEND:20250715T043000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:4f76c7fd-0278-5798-8e8b-cae3b44ea167
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250715T113000Z
+DTEND:20250715T124000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:2faa3ebe-b363-5a65-946a-c4b4739e5074
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250716T003000Z
+DTEND:20250716T014000Z
+SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:d7666e66-ff0e-57da-bd01-db8a22c5580f
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250716T032000Z
+DTEND:20250716T043000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:172844ab-b377-5c86-ae99-656695cb6299
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250716T113000Z
+DTEND:20250716T124000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:edd9898f-a5e3-5c38-892e-e53a68e080e0
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250717T003000Z
+DTEND:20250717T014000Z
+SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f06a5a-cadd-5e04-90e0-f5d4435ae49d
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250717T032000Z
+DTEND:20250717T043000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
+END:VEVENT
+BEGIN:VEVENT
+UID:262f0ead-2d10-5f83-9ee0-40dbf11b5b0b
+SEQUENCE:0
+DTSTAMP:20250712T152846Z
+DTSTART:20250717T113000Z
+DTEND:20250717T124000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター７
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
+ 4251
 END:VEVENT
 END:VCALENDAR
