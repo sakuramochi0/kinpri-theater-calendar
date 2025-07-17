@@ -1,40 +1,5 @@
 [
   {
-    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター６",
-    "startTime": "2025-07-17T02:25:00.000Z",
-    "endTime": "2025-07-17T03:40:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター３",
-    "startTime": "2025-07-17T07:00:00.000Z",
-    "endTime": "2025-07-17T08:15:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター６",
-    "startTime": "2025-07-17T04:00:00.000Z",
-    "endTime": "2025-07-17T05:15:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター１",
-    "startTime": "2025-07-17T10:50:00.000Z",
-    "endTime": "2025-07-17T12:05:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター１",
-    "startTime": "2025-07-17T12:25:00.000Z",
-    "endTime": "2025-07-17T13:40:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
     "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
     "screenName": "シアター１１",
     "startTime": "2025-07-17T23:50:00.000Z",
@@ -81,42 +46,42 @@
     "screenName": "シアター４",
     "startTime": "2025-07-19T04:35:00.000Z",
     "endTime": "2025-07-19T05:50:00.000Z",
-    "status": "△予約/購入"
+    "status": "☓満席"
   },
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
     "screenName": "シアター４",
     "startTime": "2025-07-19T12:30:00.000Z",
     "endTime": "2025-07-19T13:45:00.000Z",
-    "status": "○予約/購入"
+    "status": "△予約/購入"
   },
   {
     "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
     "screenName": "シアター１１",
     "startTime": "2025-07-19T23:50:00.000Z",
     "endTime": "2025-07-20T01:05:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
     "screenName": "シアター３",
     "startTime": "2025-07-20T06:45:00.000Z",
     "endTime": "2025-07-20T08:00:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
     "screenName": "シアター４",
     "startTime": "2025-07-20T04:35:00.000Z",
     "endTime": "2025-07-20T05:50:00.000Z",
-    "status": "-販売対象外"
+    "status": "△予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
     "screenName": "シアター４",
     "startTime": "2025-07-20T12:45:00.000Z",
     "endTime": "2025-07-20T14:00:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
