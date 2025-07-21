@@ -6,41 +6,9 @@ NAME:T・ジョイ エミテラス所沢 『KING OF PRISM -Dramatic PRISM.
 X-WR-CALNAME:T・ジョイ エミテラス所沢 『KING OF PRISM -Dramati
  c PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:10ad075a-a73d-5f7b-bdc6-a5751a28ff76
-SEQUENCE:0
-DTSTAMP:20250719T152921Z
-DTSTART:20250720T045000Z
-DTEND:20250720T060500Z
-SUMMARY:[☓満席]  [通常上映]KING OF PRISM-Your Endless Call-ルー
- ト4はじまり
-LOCATION:T・ジョイ エミテラス所沢 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
- edule/C4251\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
- C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:792f77e5-34af-55fe-b539-eefffc98e9c1
-SEQUENCE:0
-DTSTAMP:20250719T152921Z
-DTSTART:20250721T045000Z
-DTEND:20250721T060500Z
-SUMMARY:[○予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート4はじまり
-LOCATION:T・ジョイ エミテラス所沢 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
- edule/C4251\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
- C4251
-END:VEVENT
-BEGIN:VEVENT
 UID:6c506d24-be61-5d79-8132-c1cf65f182a2
 SEQUENCE:0
-DTSTAMP:20250719T152921Z
+DTSTAMP:20250721T154648Z
 DTSTART:20250722T110000Z
 DTEND:20250722T121500Z
 SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -54,12 +22,12 @@ URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
  C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:bc8460c0-7da3-5625-9708-a1fa9daa5d18
+UID:7ad42d84-54bd-58e2-a848-22704fbe58a0
 SEQUENCE:0
-DTSTAMP:20250719T152921Z
+DTSTAMP:20250721T154648Z
 DTSTART:20250723T110000Z
 DTEND:20250723T121500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート4はじまり
 LOCATION:T・ジョイ エミテラス所沢 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -70,12 +38,12 @@ URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
  C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:3263eaed-46dc-5807-b017-750f0f315845
+UID:591974fb-c0e4-56d8-8cbf-5c5c809935a6
 SEQUENCE:0
-DTSTAMP:20250719T152921Z
+DTSTAMP:20250721T154648Z
 DTSTART:20250724T110000Z
 DTEND:20250724T121500Z
-SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
  ルート4はじまり
 LOCATION:T・ジョイ エミテラス所沢 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映

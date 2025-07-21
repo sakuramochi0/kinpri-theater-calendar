@@ -2,30 +2,16 @@
   {
     "title": "【生誕ウィーク】「KING OF PRISM-Your Endless Call-route4」×「Paradox Live」コラボ上映",
     "screenName": "3screen",
-    "startTime": "2025-07-19T22:50:00.000Z",
-    "endTime": "2025-07-20T00:08:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "【生誕ウィーク】「KING OF PRISM-Your Endless Callルート4」×「ParadoxLive」コラボ＜応援上映＞",
-    "screenName": "4screen",
-    "startTime": "2025-07-20T08:40:00.000Z",
-    "endTime": "2025-07-20T10:01:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "【生誕ウィーク】「KING OF PRISM-Your Endless Call-route4」×「Paradox Live」コラボ上映",
-    "screenName": "3screen",
     "startTime": "2025-07-20T22:50:00.000Z",
     "endTime": "2025-07-21T00:08:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "【生誕ウィーク】「KING OF PRISM-Your Endless Callルート4」×「ParadoxLive」コラボ＜応援上映＞",
     "screenName": "4screen",
     "startTime": "2025-07-21T08:40:00.000Z",
     "endTime": "2025-07-21T10:01:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "【生誕ウィーク】「KING OF PRISM-Your Endless Call-route4」×「Paradox Live」コラボ上映",
@@ -60,13 +46,13 @@
     "screenName": "8screen",
     "startTime": "2025-07-23T23:15:00.000Z",
     "endTime": "2025-07-24T00:33:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "【生誕ウィーク】「KING OF PRISM-Your Endless Callルート4」×「ParadoxLive」コラボ＜応援上映＞",
     "screenName": "4screen",
     "startTime": "2025-07-24T09:15:00.000Z",
     "endTime": "2025-07-24T10:36:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
