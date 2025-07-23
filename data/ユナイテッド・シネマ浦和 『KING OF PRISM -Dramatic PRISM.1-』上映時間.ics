@@ -6,14 +6,14 @@ NAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:2d48697a-0e88-5121-9a3a-150719ae6911
+UID:a2bff0c0-308c-5a82-8a26-b1cccd242854
 SEQUENCE:0
-DTSTAMP:20250721T155125Z
-DTSTART:20250721T101500Z
-DTEND:20250721T113300Z
+DTSTAMP:20250723T155230Z
+DTSTART:20250723T132500Z
+DTEND:20250723T144300Z
 SUMMARY:[販売対象外]  【生誕ウィーク】「KING OF PRISM-Your E
  ndless Call-route4」×「Paradox Live」コラボ上映
-LOCATION:ユナイテッド・シネマ浦和 1screen
+LOCATION:ユナイテッド・シネマ浦和 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
  8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
@@ -22,11 +22,11 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d3e5a6d4-0835-52de-bac5-6a357eec0c73
+UID:520ec811-bcf5-5a67-b276-ac0feb164605
 SEQUENCE:0
-DTSTAMP:20250721T155125Z
-DTSTART:20250721T030000Z
-DTEND:20250721T042100Z
+DTSTAMP:20250723T155230Z
+DTSTART:20250723T074500Z
+DTEND:20250723T090600Z
 SUMMARY:[販売対象外]  【生誕ウィーク】「KING OF PRISM-Your E
  ndless Callルート4」×「ParadoxLive」コラボ＜応援上映＞
 LOCATION:ユナイテッド・シネマ浦和 1screen
@@ -38,73 +38,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:6fd1f9ac-1d09-530f-971c-0f7f7c9c983e
-SEQUENCE:0
-DTSTAMP:20250721T155125Z
-DTSTART:20250722T132500Z
-DTEND:20250722T144300Z
-SUMMARY:[○]  【生誕ウィーク】「KING OF PRISM-Your Endless Call-
- route4」×「Paradox Live」コラボ上映
-LOCATION:ユナイテッド・シネマ浦和 7screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
- 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:4f63f7b6-0f57-5b41-8497-6aa0cdafbbdb
-SEQUENCE:0
-DTSTAMP:20250721T155125Z
-DTSTART:20250722T074500Z
-DTEND:20250722T090600Z
-SUMMARY:[○]  【生誕ウィーク】「KING OF PRISM-Your Endless Call
- ルート4」×「ParadoxLive」コラボ＜応援上映＞
-LOCATION:ユナイテッド・シネマ浦和 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
- 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:02135bca-a0fc-5b92-85ce-5be114723945
-SEQUENCE:0
-DTSTAMP:20250721T155125Z
-DTSTART:20250723T132500Z
-DTEND:20250723T144300Z
-SUMMARY:[○]  【生誕ウィーク】「KING OF PRISM-Your Endless Call-
- route4」×「Paradox Live」コラボ上映
-LOCATION:ユナイテッド・シネマ浦和 7screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
- 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:1cab4d91-02ff-51cc-86a3-b8207d2001e2
-SEQUENCE:0
-DTSTAMP:20250721T155125Z
-DTSTART:20250723T074500Z
-DTEND:20250723T090600Z
-SUMMARY:[○]  【生誕ウィーク】「KING OF PRISM-Your Endless Call
- ルート4」×「ParadoxLive」コラボ＜応援上映＞
-LOCATION:ユナイテッド・シネマ浦和 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
- 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
 UID:83e1ea3f-68e4-59dc-9610-aaa65985bada
 SEQUENCE:0
-DTSTAMP:20250721T155125Z
+DTSTAMP:20250723T155230Z
 DTSTART:20250724T132500Z
 DTEND:20250724T144300Z
 SUMMARY:[○]  【生誕ウィーク】「KING OF PRISM-Your Endless Call-
@@ -120,11 +56,187 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eb700aba-1f5d-5bb2-b467-c9a2b86618b0
 SEQUENCE:0
-DTSTAMP:20250721T155125Z
+DTSTAMP:20250723T155230Z
 DTSTART:20250724T074500Z
 DTEND:20250724T090600Z
 SUMMARY:[○]  【生誕ウィーク】「KING OF PRISM-Your Endless Call
  ルート4」×「ParadoxLive」コラボ＜応援上映＞
+LOCATION:ユナイテッド・シネマ浦和 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:50534337-582c-5ac3-8eb4-0a91b72ef29b
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250725T133500Z
+DTEND:20250725T144800Z
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
+ ver The Rainbow
+LOCATION:ユナイテッド・シネマ浦和 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1a103eba-1709-5a73-8c8b-e435c390c2e8
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250725T092000Z
+DTEND:20250725T103600Z
+SUMMARY:[×]  KING OF PRISM-Your Endless Call- route1われらが青春 Ov
+ er The Rainbow＜応援上映＞
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a116e1a2-a8e3-5601-9547-2c317906426c
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250725T110000Z
+DTEND:20250725T121600Z
+SUMMARY:[×]  KING OF PRISM-Your Endless Call- route1われらが青春 Ov
+ er The Rainbow＜応援上映＞
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:99b7e82d-c735-5119-b464-715700d78f42
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250726T112500Z
+DTEND:20250726T123800Z
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
+ ver The Rainbow
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:060de978-4bb5-506e-8c73-b1aeb2627f67
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250726T090500Z
+DTEND:20250726T110000Z
+SUMMARY:[△]  「KING OF PRISM-Your Endless Call」Callings登壇舞台
+ 挨拶ライブビューイング
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:807ccfa3-2907-5ff7-ad0e-8b89e0fefc00
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250727T120500Z
+DTEND:20250727T131800Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
+ らが青春 Over The Rainbow
+LOCATION:ユナイテッド・シネマ浦和 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:23d7205b-f1a0-5e77-86b2-7b53a9afe856
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250727T022000Z
+DTEND:20250727T033600Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
+ らが青春 Over The Rainbow＜応援上映＞
+LOCATION:ユナイテッド・シネマ浦和 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:26d69e6d-b9a3-5cfa-ac27-640c107e0094
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250728T110500Z
+DTEND:20250728T122100Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
+ らが青春 Over The Rainbow＜応援上映＞
+LOCATION:ユナイテッド・シネマ浦和 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:2c936233-f636-59be-aaa7-76d204e9277b
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250729T115000Z
+DTEND:20250729T130600Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
+ らが青春 Over The Rainbow＜応援上映＞
+LOCATION:ユナイテッド・シネマ浦和 9screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:cd862d36-d0ad-5d27-b327-10cd35ed0fd9
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250730T094500Z
+DTEND:20250730T110100Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
+ らが青春 Over The Rainbow＜応援上映＞
+LOCATION:ユナイテッド・シネマ浦和 9screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:59140f40-b711-505d-8028-b745da9527d3
+SEQUENCE:0
+DTSTAMP:20250723T155230Z
+DTSTART:20250731T110500Z
+DTEND:20250731T122100Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
+ らが青春 Over The Rainbow＜応援上映＞
 LOCATION:ユナイテッド・シネマ浦和 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
