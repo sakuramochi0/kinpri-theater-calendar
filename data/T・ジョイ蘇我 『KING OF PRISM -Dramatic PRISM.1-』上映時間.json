@@ -1,65 +1,72 @@
 [
   {
-    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター７\n                                                                            T-LEX",
-    "startTime": "2025-07-22T23:50:00.000Z",
-    "endTime": "2025-07-23T01:05:00.000Z",
-    "status": "◎予約/購入"
+    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター１２",
+    "startTime": "2025-07-25T05:55:00.000Z",
+    "endTime": "2025-07-25T07:10:00.000Z",
+    "status": "△予約/購入"
   },
   {
-    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター１０",
-    "startTime": "2025-07-23T09:15:00.000Z",
-    "endTime": "2025-07-23T10:30:00.000Z",
-    "status": "◎予約/購入"
+    "title": "[応援]【Callings挨拶中継】KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター９",
+    "startTime": "2025-07-26T09:05:00.000Z",
+    "endTime": "2025-07-26T10:50:00.000Z",
+    "status": "△予約/購入"
   },
   {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター１０",
-    "startTime": "2025-07-23T05:20:00.000Z",
-    "endTime": "2025-07-23T06:35:00.000Z",
-    "status": "◎予約/購入"
+    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター１２",
+    "startTime": "2025-07-26T05:55:00.000Z",
+    "endTime": "2025-07-26T07:10:00.000Z",
+    "status": "△予約/購入"
   },
   {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター１１",
-    "startTime": "2025-07-23T12:25:00.000Z",
-    "endTime": "2025-07-23T13:40:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター７\n                                                                            T-LEX",
-    "startTime": "2025-07-23T23:50:00.000Z",
-    "endTime": "2025-07-24T01:05:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター１０",
-    "startTime": "2025-07-24T09:15:00.000Z",
-    "endTime": "2025-07-24T10:30:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター１０",
-    "startTime": "2025-07-24T05:20:00.000Z",
-    "endTime": "2025-07-24T06:35:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター１１",
-    "startTime": "2025-07-24T12:25:00.000Z",
-    "endTime": "2025-07-24T13:40:00.000Z",
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター１２",
+    "startTime": "2025-07-27T08:15:00.000Z",
+    "endTime": "2025-07-27T09:30:00.000Z",
     "status": "◎予約/購入"
   },
   {
     "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
     "screenName": "シアター１２",
-    "startTime": "2025-07-25T05:55:00.000Z",
-    "endTime": "2025-07-25T07:10:00.000Z",
-    "status": "◎予約/購入"
+    "startTime": "2025-07-28T05:55:00.000Z",
+    "endTime": "2025-07-28T07:10:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター１２",
+    "startTime": "2025-07-29T05:55:00.000Z",
+    "endTime": "2025-07-29T07:10:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター１２",
+    "startTime": "2025-07-30T05:55:00.000Z",
+    "endTime": "2025-07-30T07:10:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター７\n                                                                            T-LEX",
+    "startTime": "2025-07-30T10:05:00.000Z",
+    "endTime": "2025-07-30T11:20:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター１２",
+    "startTime": "2025-07-31T05:55:00.000Z",
+    "endTime": "2025-07-31T07:10:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター７\n                                                                            T-LEX",
+    "startTime": "2025-07-31T10:05:00.000Z",
+    "endTime": "2025-07-31T11:20:00.000Z",
+    "status": "-販売対象外"
   }
 ]

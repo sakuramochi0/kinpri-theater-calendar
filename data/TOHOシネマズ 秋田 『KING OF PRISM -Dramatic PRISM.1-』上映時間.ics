@@ -6,117 +6,32 @@ NAME:TOHOシネマズ 秋田 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:TOHOシネマズ 秋田 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:a1aea0a4-5e70-5f71-bde3-373cb52a9e7b
-SEQUENCE:0
-DTSTAMP:20250718T153227Z
-DTSTART:20250718T062000Z
-DTEND:20250718T073500Z
-SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
- ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４（発声
- ＯＫ）
-LOCATION:TOHOシネマズ 秋田 SCREEN8
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=026083
-END:VEVENT
-BEGIN:VEVENT
-UID:270c2304-0d9f-581f-a721-b05aa7cd6770
-SEQUENCE:0
-DTSTAMP:20250718T153227Z
-DTSTART:20250719T075500Z
-DTEND:20250719T091000Z
-SUMMARY:[◎販売中]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ
- ｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４（発声Ｏ
- Ｋ）
-LOCATION:TOHOシネマズ 秋田 SCREEN8
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=026083
-END:VEVENT
-BEGIN:VEVENT
-UID:5f582b75-f971-5dd7-aa18-707bb420e862
-SEQUENCE:0
-DTSTAMP:20250718T153227Z
-DTSTART:20250720T105000Z
-DTEND:20250720T120500Z
-SUMMARY:[◎販売中]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ
- ｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４（発声Ｏ
- Ｋ）
-LOCATION:TOHOシネマズ 秋田 SCREEN8
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=026083
-END:VEVENT
-BEGIN:VEVENT
-UID:fc70d0f2-81da-58f4-b349-fe998e832954
-SEQUENCE:0
-DTSTAMP:20250718T153227Z
-DTSTART:20250721T074000Z
-DTEND:20250721T085500Z
-SUMMARY:[◎販売中]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ
- ｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４（発声Ｏ
- Ｋ）
-LOCATION:TOHOシネマズ 秋田 SCREEN8
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=026083
-END:VEVENT
-BEGIN:VEVENT
-UID:bd522263-4a4d-5b84-99bc-46300e79efe6
-SEQUENCE:0
-DTSTAMP:20250718T153227Z
-DTSTART:20250722T093000Z
-DTEND:20250722T104500Z
-SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
- ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４（発声
- ＯＫ）
-LOCATION:TOHOシネマズ 秋田 SCREEN1
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=026083
-END:VEVENT
-BEGIN:VEVENT
-UID:11156f1e-2919-5182-939e-2ef49d3a76c7
-SEQUENCE:0
-DTSTAMP:20250718T153227Z
-DTSTART:20250723T092000Z
-DTEND:20250723T103500Z
-SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
- ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４（発声
- ＯＫ）
-LOCATION:TOHOシネマズ 秋田 SCREEN1
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=026083
-END:VEVENT
-BEGIN:VEVENT
 UID:45afba06-fb47-5c61-8c35-f3c7dcc79004
 SEQUENCE:0
-DTSTAMP:20250718T153227Z
+DTSTAMP:20250724T152832Z
 DTSTART:20250724T092000Z
 DTEND:20250724T103500Z
 SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
  ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４（発声
  ＯＫ）
 LOCATION:TOHOシネマズ 秋田 SCREEN1
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=026083
+END:VEVENT
+BEGIN:VEVENT
+UID:c37f6b49-0f5f-5209-9add-0d751fe3fb2a
+SEQUENCE:0
+DTSTAMP:20250724T152832Z
+DTSTART:20250726T090500Z
+DTEND:20250726T105000Z
+SUMMARY:[◎販売中]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ
+ ｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート１（舞台挨
+ 拶中継・発声ＯＫ）
+LOCATION:TOHOシネマズ 秋田 SCREEN3
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
  kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト

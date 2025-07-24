@@ -1,12 +1,5 @@
 [
   {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター４",
-    "startTime": "2025-07-24T08:15:00.000Z",
-    "endTime": "2025-07-24T09:25:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
     "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
     "screenName": "シアター６",
     "startTime": "2025-07-25T09:20:00.000Z",
@@ -25,7 +18,7 @@
     "screenName": "シアター６",
     "startTime": "2025-07-27T09:20:00.000Z",
     "endTime": "2025-07-27T10:30:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
