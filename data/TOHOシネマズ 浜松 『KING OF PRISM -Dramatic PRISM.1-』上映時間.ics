@@ -6,26 +6,9 @@ NAME:TOHOシネマズ 浜松 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:TOHOシネマズ 浜松 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:720d59bc-b36c-5664-9cc8-946674e1b155
-SEQUENCE:0
-DTSTAMP:20250724T152840Z
-DTSTART:20250724T115000Z
-DTEND:20250724T131000Z
-SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
- ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４（発声
- ＯＫ）
-LOCATION:TOHOシネマズ 浜松 SCREEN1
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=026083
-END:VEVENT
-BEGIN:VEVENT
 UID:c37f6b49-0f5f-5209-9add-0d751fe3fb2a
 SEQUENCE:0
-DTSTAMP:20250724T152840Z
+DTSTAMP:20250725T153427Z
 DTSTART:20250726T090500Z
 DTEND:20250726T105000Z
 SUMMARY:[◎販売中]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ

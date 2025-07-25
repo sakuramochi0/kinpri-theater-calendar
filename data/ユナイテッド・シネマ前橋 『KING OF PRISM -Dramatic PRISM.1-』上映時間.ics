@@ -6,45 +6,13 @@ NAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:a9e0d851-4d64-5853-9382-212c1098474d
+UID:b4f58437-4aa6-5088-9ebe-f4b588b24a45
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
-DTSTART:20250723T231500Z
-DTEND:20250724T003300Z
-SUMMARY:[販売対象外]  【生誕ウィーク】「KING OF PRISM-Your E
- ndless Call-route4」×「Paradox Live」コラボ上映
-LOCATION:ユナイテッド・シネマ前橋 8screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
- 2418&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=12418&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:dfac916d-4cda-5e88-9fc2-84653f1a2f22
-SEQUENCE:0
-DTSTAMP:20250724T154939Z
-DTSTART:20250724T091500Z
-DTEND:20250724T103600Z
-SUMMARY:[販売対象外]  【生誕ウィーク】「KING OF PRISM-Your E
- ndless Callルート4」×「ParadoxLive」コラボ＜応援上映＞
-LOCATION:ユナイテッド・シネマ前橋 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
- 2418&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=12418&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:63a0fa45-85f1-5bf9-922b-e44778ff5d85
-SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250724T230000Z
 DTEND:20250725T001300Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
- ver The Rainbow
+SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route1われ
+ らが青春 Over The Rainbow
 LOCATION:ユナイテッド・シネマ前橋 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -54,13 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=12418&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e1c1b442-256b-5de4-af07-ce1c99cf1a6a
+UID:7f65c6ad-d764-560a-b1d2-7ceaccde6083
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250725T092000Z
 DTEND:20250725T103600Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
- ver The Rainbow＜応援上映＞
+SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route1われ
+ らが青春 Over The Rainbow＜応援上映＞
 LOCATION:ユナイテッド・シネマ前橋 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -72,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b4f879ab-4384-50dc-8b2a-d68d480f015a
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250725T230000Z
 DTEND:20250726T001300Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
@@ -88,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fa6b709d-d5c8-5bf3-b2b2-1b8bbdbecda7
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250726T090500Z
 DTEND:20250726T110000Z
 SUMMARY:[○]  「KING OF PRISM-Your Endless Call」Callings登壇舞台
@@ -104,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2ac0e1aa-3dd5-58ca-a57b-24cf629653d2
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250726T230000Z
 DTEND:20250727T001300Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
@@ -120,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1a9fc75b-67b8-50d3-9ef3-69ceef0c53d2
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250727T092000Z
 DTEND:20250727T103600Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
@@ -134,13 +102,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=12418&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ba795675-56bb-50a2-8363-4e1ca8f90a3d
+UID:e4c6ec67-2b85-5c91-a4d5-14cb7ae3d99e
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250727T230000Z
 DTEND:20250728T001300Z
-SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
- らが青春 Over The Rainbow
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
+ ver The Rainbow
 LOCATION:ユナイテッド・シネマ前橋 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -150,13 +118,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=12418&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:adda3722-95a1-54b7-807c-3df356115bd4
+UID:1a352b68-cdb0-50e4-b9d9-834072b991f8
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250728T092000Z
 DTEND:20250728T103600Z
-SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
- らが青春 Over The Rainbow＜応援上映＞
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
+ ver The Rainbow＜応援上映＞
 LOCATION:ユナイテッド・シネマ前橋 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
@@ -168,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deca0b9d-a10d-523e-97df-ac6815ce09a8
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250728T230000Z
 DTEND:20250729T001300Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
@@ -184,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:77a1a17a-ac92-5ea2-bdcd-9edfbcabd1f5
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250729T112500Z
 DTEND:20250729T124100Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
@@ -200,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ef2512e6-f4d7-56af-ac87-8d33a9f2cd05
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250729T230000Z
 DTEND:20250730T001300Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
@@ -216,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd61cf33-cb38-5738-891c-be6567fa26b8
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250730T094000Z
 DTEND:20250730T105600Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
@@ -232,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a2f92b59-f85c-5d8f-b07b-394c2fc2fcf5
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250730T230000Z
 DTEND:20250731T001300Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
@@ -248,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8ff6c6ab-5347-51ad-b172-1368f8debefd
 SEQUENCE:0
-DTSTAMP:20250724T154939Z
+DTSTAMP:20250725T155444Z
 DTSTART:20250731T092000Z
 DTEND:20250731T103600Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
