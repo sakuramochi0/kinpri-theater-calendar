@@ -6,11 +6,11 @@ NAME:TOHOシネマズ 流山おおたかの森 『KING OF PRISM -Dramatic
 X-WR-CALNAME:TOHOシネマズ 流山おおたかの森 『KING OF PRISM -D
  ramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:271c01b4-a45b-59ed-b724-afe0053d5c72
+UID:a986f641-5ab8-50bc-a3ce-7016fc297468
 SEQUENCE:0
-DTSTAMP:20250725T153424Z
-DTSTART:20250724T232000Z
-DTEND:20250725T003500Z
+DTSTAMP:20250727T152856Z
+DTSTART:20250727T071500Z
+DTEND:20250727T083000Z
 SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
  ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート１　われ
  らが青春　（発声ＯＫ）
@@ -23,43 +23,9 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=026083
 END:VEVENT
 BEGIN:VEVENT
-UID:7c450d58-be77-5ddc-9c97-7b4a691daab7
-SEQUENCE:0
-DTSTAMP:20250725T153424Z
-DTSTART:20250726T090500Z
-DTEND:20250726T105000Z
-SUMMARY:[売り切れ]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ
- ｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート１（舞台挨
- 拶中継・発声ＯＫ）
-LOCATION:TOHOシネマズ 流山おおたかの森 SCREEN10
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=026083
-END:VEVENT
-BEGIN:VEVENT
-UID:9a3c320e-ddab-5fc4-b220-41db09229260
-SEQUENCE:0
-DTSTAMP:20250725T153424Z
-DTSTART:20250727T071500Z
-DTEND:20250727T083000Z
-SUMMARY:[◎販売中]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ
- ｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート１　われら
- が青春　（発声ＯＫ）
-LOCATION:TOHOシネマズ 流山おおたかの森 SCREEN7
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=026083
-END:VEVENT
-BEGIN:VEVENT
 UID:bb27280e-cf2b-5344-bc91-718bf7913938
 SEQUENCE:0
-DTSTAMP:20250725T153424Z
+DTSTAMP:20250727T152856Z
 DTSTART:20250727T232000Z
 DTEND:20250728T003500Z
 SUMMARY:[◎販売中]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ
@@ -76,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:26956879-dd5a-57de-b997-8125b88daa88
 SEQUENCE:0
-DTSTAMP:20250725T153424Z
+DTSTAMP:20250727T152856Z
 DTSTART:20250730T232000Z
 DTEND:20250731T003500Z
 SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
