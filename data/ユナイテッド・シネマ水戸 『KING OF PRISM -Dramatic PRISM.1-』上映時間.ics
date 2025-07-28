@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b53555d1-ea44-586d-85a8-1647f16e57e1
+UID:e00ebf5c-4721-54ec-a2c5-5fd7a502f2aa
 SEQUENCE:0
-DTSTAMP:20250727T154509Z
-DTSTART:20250727T103500Z
-DTEND:20250727T115100Z
+DTSTAMP:20250728T153414Z
+DTSTART:20250728T103500Z
+DTEND:20250728T115100Z
 SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route1われ
  らが青春 Over The Rainbow＜応援上映＞
 LOCATION:ユナイテッド・シネマ水戸 5screen
@@ -22,25 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d532255e-78d9-5e06-bd8d-956061d1eac4
-SEQUENCE:0
-DTSTAMP:20250727T154509Z
-DTSTART:20250728T103500Z
-DTEND:20250728T115100Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
- ver The Rainbow＜応援上映＞
-LOCATION:ユナイテッド・シネマ水戸 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
 UID:f33f2050-9bcc-5f9a-9255-ccbcc48817f6
 SEQUENCE:0
-DTSTAMP:20250727T154509Z
+DTSTAMP:20250728T153414Z
 DTSTART:20250729T102000Z
 DTEND:20250729T113600Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
@@ -56,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:927346f7-d910-5424-ad17-0e9d7b4390eb
 SEQUENCE:0
-DTSTAMP:20250727T154509Z
+DTSTAMP:20250728T153414Z
 DTSTART:20250730T103500Z
 DTEND:20250730T115100Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
@@ -70,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:89929fd8-7816-5b5c-a758-7079f394b91a
+UID:ffbeea64-b78c-5e94-9d62-51158ffcf121
 SEQUENCE:0
-DTSTAMP:20250727T154509Z
+DTSTAMP:20250728T153414Z
 DTSTART:20250731T103500Z
 DTEND:20250731T115100Z
-SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route1われ
- らが青春 Over The Rainbow＜応援上映＞
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
+ ver The Rainbow＜応援上映＞
 LOCATION:ユナイテッド・シネマ水戸 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418

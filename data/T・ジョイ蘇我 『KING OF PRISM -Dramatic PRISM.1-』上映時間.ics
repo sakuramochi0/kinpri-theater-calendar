@@ -6,13 +6,13 @@ NAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:468a333a-d693-5765-a78c-08e4fdc14b93
+UID:e24a36a6-508d-544b-a20c-bb4ef752bad0
 SEQUENCE:0
-DTSTAMP:20250726T152817Z
-DTSTART:20250727T081500Z
-DTEND:20250727T093000Z
-SUMMARY:[☓満席]  [応援上映]KING OF PRISM-Your Endless Call-ルー
- ト1オバレ
+DTSTAMP:20250728T153150Z
+DTSTART:20250729T055500Z
+DTEND:20250729T071000Z
+SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
 LOCATION:T・ジョイ蘇我 シアター１２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C4251\nカ
@@ -21,11 +21,11 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:9f35aa57-f50f-50e8-880f-8a1adbec9927
+UID:d4a6ee62-2ac5-58a7-8921-9e622b06768e
 SEQUENCE:0
-DTSTAMP:20250726T152817Z
-DTSTART:20250728T055500Z
-DTEND:20250728T071000Z
+DTSTAMP:20250728T153150Z
+DTSTART:20250730T055500Z
+DTEND:20250730T071000Z
 SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
  ルート1オバレ
 LOCATION:T・ジョイ蘇我 シアター１２
@@ -36,42 +36,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:420680ab-691f-5fcc-9d97-09c197d9c3ec
+UID:7555bb0c-1a15-5233-935f-444bead099b6
 SEQUENCE:0
-DTSTAMP:20250726T152817Z
-DTSTART:20250729T055500Z
-DTEND:20250729T071000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
-LOCATION:T・ジョイ蘇我 シアター１２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:9e9be7a7-f41a-5502-851b-87c92af4df45
-SEQUENCE:0
-DTSTAMP:20250726T152817Z
-DTSTART:20250730T055500Z
-DTEND:20250730T071000Z
-SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
-LOCATION:T・ジョイ蘇我 シアター１２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:503ac87a-b4b1-525a-8226-228cd3c90619
-SEQUENCE:0
-DTSTAMP:20250726T152817Z
+DTSTAMP:20250728T153150Z
 DTSTART:20250730T100500Z
 DTEND:20250730T112000Z
-SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
  ルート1オバレ
 LOCATION:T・ジョイ蘇我 シアター７\n                            
                                                  T-LEX
@@ -82,12 +52,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:33bd1df1-06bc-5767-a2f8-f56b3d105ccd
+UID:c1ef7c38-a292-5444-bb8c-3bc43aa34b83
 SEQUENCE:0
-DTSTAMP:20250726T152817Z
+DTSTAMP:20250728T153150Z
 DTSTART:20250731T055500Z
 DTEND:20250731T071000Z
-SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
  ルート1オバレ
 LOCATION:T・ジョイ蘇我 シアター１２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -97,12 +67,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:df91782a-6d12-559e-887e-8c22774515a6
+UID:bd9a8137-ddd5-5505-937e-5c3b0d8367d9
 SEQUENCE:0
-DTSTAMP:20250726T152817Z
+DTSTAMP:20250728T153150Z
 DTSTART:20250731T100500Z
 DTEND:20250731T112000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート1オバレ
 LOCATION:T・ジョイ蘇我 シアター７\n                            
                                                  T-LEX

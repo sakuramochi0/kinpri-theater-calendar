@@ -1,24 +1,10 @@
 [
   {
-    "title": "「KING OF PRISM-Your Endless Call」Callings登壇舞台挨拶ライブビューイング",
-    "screenName": "4screen",
-    "startTime": "2025-07-26T09:05:00.000Z",
-    "endTime": "2025-07-26T11:00:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "KING OF PRISM-Your Endless Call- route1われらが青春 Over The Rainbow＜応援上映＞",
-    "screenName": "4screen",
-    "startTime": "2025-07-27T08:30:00.000Z",
-    "endTime": "2025-07-27T09:46:00.000Z",
-    "status": "○"
-  },
-  {
     "title": "KING OF PRISM-Your Endless Call- route1われらが青春 Over The Rainbow＜応援上映＞",
     "screenName": "4screen",
     "startTime": "2025-07-28T08:45:00.000Z",
     "endTime": "2025-07-28T10:01:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "KING OF PRISM-Your Endless Call- route1われらが青春 Over The Rainbow＜応援上映＞",
@@ -32,13 +18,13 @@
     "screenName": "4screen",
     "startTime": "2025-07-30T08:45:00.000Z",
     "endTime": "2025-07-30T10:01:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "KING OF PRISM-Your Endless Call- route1われらが青春 Over The Rainbow＜応援上映＞",
     "screenName": "4screen",
     "startTime": "2025-07-31T08:45:00.000Z",
     "endTime": "2025-07-31T10:01:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
