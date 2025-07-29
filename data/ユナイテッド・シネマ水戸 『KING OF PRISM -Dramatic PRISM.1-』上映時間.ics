@@ -6,29 +6,13 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:e00ebf5c-4721-54ec-a2c5-5fd7a502f2aa
+UID:59fb713d-1d69-5fcf-a023-53c57b2634e2
 SEQUENCE:0
-DTSTAMP:20250728T153414Z
-DTSTART:20250728T103500Z
-DTEND:20250728T115100Z
-SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route1われ
- らが青春 Over The Rainbow＜応援上映＞
-LOCATION:ユナイテッド・シネマ水戸 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:f33f2050-9bcc-5f9a-9255-ccbcc48817f6
-SEQUENCE:0
-DTSTAMP:20250728T153414Z
+DTSTAMP:20250729T155107Z
 DTSTART:20250729T102000Z
 DTEND:20250729T113600Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
- ver The Rainbow＜応援上映＞
+SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route1われ
+ らが青春 Over The Rainbow＜応援上映＞
 LOCATION:ユナイテッド・シネマ水戸 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:927346f7-d910-5424-ad17-0e9d7b4390eb
 SEQUENCE:0
-DTSTAMP:20250728T153414Z
+DTSTAMP:20250729T155107Z
 DTSTART:20250730T103500Z
 DTEND:20250730T115100Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
@@ -56,12 +40,124 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ffbeea64-b78c-5e94-9d62-51158ffcf121
 SEQUENCE:0
-DTSTAMP:20250728T153414Z
+DTSTAMP:20250729T155107Z
 DTSTART:20250731T103500Z
 DTEND:20250731T115100Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
  ver The Rainbow＜応援上映＞
 LOCATION:ユナイテッド・シネマ水戸 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4feb35-083b-5a9b-9dd3-5dd38c4f2512
+SEQUENCE:0
+DTSTAMP:20250729T155107Z
+DTSTART:20250801T104000Z
+DTEND:20250801T115700Z
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
+ カップ＜応援上映＞
+LOCATION:ユナイテッド・シネマ水戸 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:20d6e949-b9e3-567a-a567-47786bafc264
+SEQUENCE:0
+DTSTAMP:20250729T155107Z
+DTSTART:20250802T104000Z
+DTEND:20250802T115700Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
+ のキングカップ＜応援上映＞
+LOCATION:ユナイテッド・シネマ水戸 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:3cc985ab-1e8a-510a-b9a2-8b4f53db0241
+SEQUENCE:0
+DTSTAMP:20250729T155107Z
+DTSTART:20250803T104000Z
+DTEND:20250803T115700Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
+ のキングカップ＜応援上映＞
+LOCATION:ユナイテッド・シネマ水戸 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:6f574df3-d840-59bb-8084-63c0b6ff9358
+SEQUENCE:0
+DTSTAMP:20250729T155107Z
+DTSTART:20250804T000000Z
+DTEND:20250804T011700Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
+ のキングカップ＜応援上映＞
+LOCATION:ユナイテッド・シネマ水戸 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:44e0f215-3e1e-52b3-93a3-9a3dda7e100a
+SEQUENCE:0
+DTSTAMP:20250729T155107Z
+DTSTART:20250805T104000Z
+DTEND:20250805T115700Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
+ のキングカップ＜応援上映＞
+LOCATION:ユナイテッド・シネマ水戸 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7eca2c-8875-543b-a67a-b848d5b5ec5d
+SEQUENCE:0
+DTSTAMP:20250729T155107Z
+DTSTART:20250806T104000Z
+DTEND:20250806T115700Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
+ のキングカップ＜応援上映＞
+LOCATION:ユナイテッド・シネマ水戸 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:f2962a9f-582d-54e7-9c99-8330260fd3a5
+SEQUENCE:0
+DTSTAMP:20250729T155107Z
+DTSTART:20250807T101500Z
+DTEND:20250807T113200Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
+ のキングカップ＜応援上映＞
+LOCATION:ユナイテッド・シネマ水戸 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
  &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
