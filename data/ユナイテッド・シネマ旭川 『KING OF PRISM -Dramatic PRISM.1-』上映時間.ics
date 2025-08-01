@@ -6,45 +6,13 @@ NAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:da01183c-d5d0-5e8b-b068-b12a95283713
+UID:d9b1e06a-d8c1-5a3e-aa3d-661162119ef4
 SEQUENCE:0
-DTSTAMP:20250730T155316Z
-DTSTART:20250730T084500Z
-DTEND:20250730T100100Z
-SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route1われ
- らが青春 Over The Rainbow＜応援上映＞
-LOCATION:ユナイテッド・シネマ旭川 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
- 12418&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12418&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:f93e1beb-56bc-5ea2-b387-737def448df0
-SEQUENCE:0
-DTSTAMP:20250730T155316Z
-DTSTART:20250731T084500Z
-DTEND:20250731T100100Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call- route1われらが青春 O
- ver The Rainbow＜応援上映＞
-LOCATION:ユナイテッド・シネマ旭川 4screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
- 12418&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12418&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:a57eeb32-e286-589f-abf8-a5fd5e537479
-SEQUENCE:0
-DTSTAMP:20250730T155316Z
+DTSTAMP:20250801T154857Z
 DTSTART:20250801T124000Z
 DTEND:20250801T135700Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
- カップ＜応援上映＞
+SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route2伝説
+ のキングカップ＜応援上映＞
 LOCATION:ユナイテッド・シネマ旭川 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
@@ -56,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d910fc38-d639-5a4f-82be-2308f206e9a3
 SEQUENCE:0
-DTSTAMP:20250730T155316Z
+DTSTAMP:20250801T154857Z
 DTSTART:20250802T124000Z
 DTEND:20250802T135700Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
@@ -70,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12418&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:98ac0675-8876-595d-9717-1d09855d0b14
+UID:ce4a3a9a-d415-5047-b75f-a8b8793c07ac
 SEQUENCE:0
-DTSTAMP:20250730T155316Z
+DTSTAMP:20250801T154857Z
 DTSTART:20250803T124000Z
 DTEND:20250803T135700Z
-SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
- のキングカップ＜応援上映＞
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
+ カップ＜応援上映＞
 LOCATION:ユナイテッド・シネマ旭川 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
@@ -86,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12418&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:8bdf28c7-f5f0-5ec6-8661-38931fb83ac7
+UID:0200fca9-6497-5508-9122-303152554542
 SEQUENCE:0
-DTSTAMP:20250730T155316Z
+DTSTAMP:20250801T154857Z
 DTSTART:20250804T124000Z
 DTEND:20250804T135700Z
-SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
- のキングカップ＜応援上映＞
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
+ カップ＜応援上映＞
 LOCATION:ユナイテッド・シネマ旭川 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
@@ -104,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fc880c03-037f-5082-8571-578d8d268092
 SEQUENCE:0
-DTSTAMP:20250730T155316Z
+DTSTAMP:20250801T154857Z
 DTSTART:20250805T124000Z
 DTEND:20250805T135700Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
@@ -120,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:919a9032-b3ce-5029-b5df-fecbfab508cf
 SEQUENCE:0
-DTSTAMP:20250730T155316Z
+DTSTAMP:20250801T154857Z
 DTSTART:20250806T124000Z
 DTEND:20250806T135700Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
@@ -136,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:71a8f01d-ab8f-5cdf-85e4-c2a5bf968073
 SEQUENCE:0
-DTSTAMP:20250730T155316Z
+DTSTAMP:20250801T154857Z
 DTSTART:20250807T124000Z
 DTEND:20250807T135700Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
