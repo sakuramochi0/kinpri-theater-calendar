@@ -2,23 +2,9 @@
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート2キング",
     "screenName": "シアター７",
-    "startTime": "2025-08-02T03:20:00.000Z",
-    "endTime": "2025-08-02T04:30:00.000Z",
-    "status": "△予約/購入"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート2キング",
-    "screenName": "シアター１０",
-    "startTime": "2025-08-02T10:30:00.000Z",
-    "endTime": "2025-08-02T11:40:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート2キング",
-    "screenName": "シアター７",
     "startTime": "2025-08-03T03:20:00.000Z",
     "endTime": "2025-08-03T04:30:00.000Z",
-    "status": "◎予約/購入"
+    "status": "○予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート2キング",
@@ -46,14 +32,14 @@
     "screenName": "シアター７",
     "startTime": "2025-08-05T03:35:00.000Z",
     "endTime": "2025-08-05T04:45:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート2キング",
     "screenName": "シアター１０",
     "startTime": "2025-08-05T10:30:00.000Z",
     "endTime": "2025-08-05T11:40:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート2キング",

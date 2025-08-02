@@ -6,39 +6,9 @@ NAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:鹿児島ミッテ10 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
 BEGIN:VEVENT
-UID:5cce783e-61aa-59e1-aa73-108fc9823db3
-SEQUENCE:0
-DTSTAMP:20250731T153549Z
-DTSTART:20250801T102000Z
-DTEND:20250801T113500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:鹿児島ミッテ10 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/kagoshima_mitte10/cinema_schedule/C425
- 1\nカレンダー生成プログラムのウェブサイト: kinpri-theat
- er-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:24236f3f-bd6e-504e-b532-6e1a936213bd
-SEQUENCE:0
-DTSTAMP:20250731T153549Z
-DTSTART:20250802T102000Z
-DTEND:20250802T113500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:鹿児島ミッテ10 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/kagoshima_mitte10/cinema_schedule/C425
- 1\nカレンダー生成プログラムのウェブサイト: kinpri-theat
- er-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
 UID:c2ac9c50-82a4-5df9-b585-ae9586c2e38f
 SEQUENCE:0
-DTSTAMP:20250731T153549Z
+DTSTAMP:20250802T153049Z
 DTSTART:20250803T102000Z
 DTEND:20250803T113500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -51,12 +21,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:3b75387a-2ca6-5c5a-8f31-c54fd00ff706
+UID:e65bdc68-5f87-5f02-9e3a-19cdef8cd79d
 SEQUENCE:0
-DTSTAMP:20250731T153549Z
+DTSTAMP:20250802T153049Z
 DTSTART:20250804T102000Z
 DTEND:20250804T113500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:鹿児島ミッテ10 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -66,12 +36,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/kagoshima_mitte10/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:8f97ec84-f354-5f0d-9652-d152612bc03d
+UID:0276697a-9bde-59c7-8b3e-3eb4de428ba4
 SEQUENCE:0
-DTSTAMP:20250731T153549Z
+DTSTAMP:20250802T153049Z
 DTSTART:20250805T102000Z
 DTEND:20250805T113500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:鹿児島ミッテ10 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -83,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bcd0a267-a332-5c80-aca5-753f425496bf
 SEQUENCE:0
-DTSTAMP:20250731T153549Z
+DTSTAMP:20250802T153049Z
 DTSTART:20250806T102000Z
 DTEND:20250806T113500Z
 SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -98,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:be2582ee-a75e-563a-b0d5-a9380463f3ca
 SEQUENCE:0
-DTSTAMP:20250731T153549Z
+DTSTAMP:20250802T153049Z
 DTSTART:20250807T102000Z
 DTEND:20250807T113500Z
 SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
