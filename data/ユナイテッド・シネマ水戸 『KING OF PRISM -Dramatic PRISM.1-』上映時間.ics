@@ -6,29 +6,13 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:bd81d210-58c5-5a32-8644-d300e2deaf3d
+UID:d07bbcef-bd1a-58d7-8da9-f702a96729b0
 SEQUENCE:0
-DTSTAMP:20250803T155208Z
-DTSTART:20250803T104000Z
-DTEND:20250803T115700Z
-SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route2伝説
- のキングカップ＜応援上映＞
-LOCATION:ユナイテッド・シネマ水戸 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:72af70d2-9527-508e-8a96-9062a1a49faa
-SEQUENCE:0
-DTSTAMP:20250803T155208Z
+DTSTAMP:20250804T154754Z
 DTSTART:20250804T000000Z
 DTEND:20250804T011700Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
- カップ＜応援上映＞
+SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route2伝説
+ のキングカップ＜応援上映＞
 LOCATION:ユナイテッド・シネマ水戸 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
@@ -40,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:35334977-55fe-57be-9841-5f8bb0ed6f6d
 SEQUENCE:0
-DTSTAMP:20250803T155208Z
+DTSTAMP:20250804T154754Z
 DTSTART:20250805T104000Z
 DTEND:20250805T115700Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
@@ -56,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b4c68b5a-071c-5e68-844a-0a74a067edea
 SEQUENCE:0
-DTSTAMP:20250803T155208Z
+DTSTAMP:20250804T154754Z
 DTSTART:20250806T104000Z
 DTEND:20250806T115700Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
@@ -70,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12418&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f2962a9f-582d-54e7-9c99-8330260fd3a5
+UID:6f3d98ac-20d9-5725-a935-3073bea24396
 SEQUENCE:0
-DTSTAMP:20250803T155208Z
+DTSTAMP:20250804T154754Z
 DTSTART:20250807T101500Z
 DTEND:20250807T113200Z
-SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route2伝説
- のキングカップ＜応援上映＞
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
+ カップ＜応援上映＞
 LOCATION:ユナイテッド・シネマ水戸 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12418
