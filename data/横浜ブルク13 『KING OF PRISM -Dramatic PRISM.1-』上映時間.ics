@@ -5,129 +5,9 @@ NAME:横浜ブルク13 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:横浜ブルク13 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:c56d7944-72f2-5289-b202-52fee78a4ec5
-SEQUENCE:0
-DTSTAMP:20250803T152930Z
-DTSTART:20250804T034000Z
-DTEND:20250804T045500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:横浜ブルク13 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
- nカレンダー生成プログラムのウェブサイト: kinpri-theater
- -calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:a6ee9639-0436-59b6-bf9f-d8384a58ff29
-SEQUENCE:0
-DTSTAMP:20250803T152930Z
-DTSTART:20250804T105000Z
-DTEND:20250804T120500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:横浜ブルク13 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
- nカレンダー生成プログラムのウェブサイト: kinpri-theater
- -calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:e66eb0f7-168a-5447-9e60-d8361f544d1e
-SEQUENCE:0
-DTSTAMP:20250803T152930Z
-DTSTART:20250804T012500Z
-DTEND:20250804T024000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:横浜ブルク13 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
- nカレンダー生成プログラムのウェブサイト: kinpri-theater
- -calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:91031b49-bbde-5f24-9434-fcfcb3974bdd
-SEQUENCE:0
-DTSTAMP:20250803T152930Z
-DTSTART:20250804T122500Z
-DTEND:20250804T134000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:横浜ブルク13 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
- nカレンダー生成プログラムのウェブサイト: kinpri-theater
- -calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:cfd681f6-6da2-5662-bcc0-b3c3eb82abec
-SEQUENCE:0
-DTSTAMP:20250803T152930Z
-DTSTART:20250805T034000Z
-DTEND:20250805T045500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:横浜ブルク13 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
- nカレンダー生成プログラムのウェブサイト: kinpri-theater
- -calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:f82b1333-58ef-5234-92b3-f7d648dc34bd
-SEQUENCE:0
-DTSTAMP:20250803T152930Z
-DTSTART:20250805T105000Z
-DTEND:20250805T120500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:横浜ブルク13 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
- nカレンダー生成プログラムのウェブサイト: kinpri-theater
- -calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:a99de57f-06b9-552d-aaa4-c9d7b76125cf
-SEQUENCE:0
-DTSTAMP:20250803T152930Z
-DTSTART:20250805T012500Z
-DTEND:20250805T024000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:横浜ブルク13 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
- nカレンダー生成プログラムのウェブサイト: kinpri-theater
- -calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:a5afecff-1513-5199-9adc-bf388ce2033d
-SEQUENCE:0
-DTSTAMP:20250803T152930Z
-DTSTART:20250805T122500Z
-DTEND:20250805T134000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:横浜ブルク13 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
- nカレンダー生成プログラムのウェブサイト: kinpri-theater
- -calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
 UID:7b857e84-9b9f-513f-9aca-f2f5d8ebf8f3
 SEQUENCE:0
-DTSTAMP:20250803T152930Z
+DTSTAMP:20250805T153445Z
 DTSTART:20250806T034000Z
 DTEND:20250806T045500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -142,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2ee30c01-2c97-5565-ac7d-f3c4a599a418
 SEQUENCE:0
-DTSTAMP:20250803T152930Z
+DTSTAMP:20250805T153445Z
 DTSTART:20250806T105000Z
 DTEND:20250806T120500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -157,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1ed27deb-d042-5a72-8b56-520d6c9bf5c6
 SEQUENCE:0
-DTSTAMP:20250803T152930Z
+DTSTAMP:20250805T153445Z
 DTSTART:20250806T012500Z
 DTEND:20250806T024000Z
 SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -172,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:acd5de86-e9dd-5279-84fc-016c79410443
 SEQUENCE:0
-DTSTAMP:20250803T152930Z
+DTSTAMP:20250805T153445Z
 DTSTART:20250806T122500Z
 DTEND:20250806T134000Z
 SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -185,12 +65,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:954c83df-809d-57cc-8a0d-69a716d5a9d2
+UID:b77e54d6-939d-5fbc-b536-182d8de7db19
 SEQUENCE:0
-DTSTAMP:20250803T152930Z
+DTSTAMP:20250805T153445Z
 DTSTART:20250807T034000Z
 DTEND:20250807T045500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:横浜ブルク13 シアター９
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -200,12 +80,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:1c7757ad-01ce-5c34-8454-d8c94639b347
+UID:d189d998-86b3-5341-bfdd-7dc2ac792a9c
 SEQUENCE:0
-DTSTAMP:20250803T152930Z
+DTSTAMP:20250805T153445Z
 DTSTART:20250807T110500Z
 DTEND:20250807T122000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:横浜ブルク13 シアター１
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -215,12 +95,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:911f7520-97d2-5b49-af3f-3dcebde0554b
+UID:0310a95a-a67c-57f1-b2cb-69f4c81b37fe
 SEQUENCE:0
-DTSTAMP:20250803T152930Z
+DTSTAMP:20250805T153445Z
 DTSTART:20250807T012500Z
 DTEND:20250807T024000Z
-SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:横浜ブルク13 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -230,14 +110,59 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:415474fd-ab96-5e06-a524-fa650f120ad3
+UID:3a6cc304-f4e5-5e33-a337-0762ea847dd4
 SEQUENCE:0
-DTSTAMP:20250803T152930Z
+DTSTAMP:20250805T153445Z
 DTSTART:20250807T124000Z
 DTEND:20250807T135500Z
-SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
+ nカレンダー生成プログラムのウェブサイト: kinpri-theater
+ -calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:8daf5db0-05bd-551e-8ef7-15ccb8ca454e
+SEQUENCE:0
+DTSTAMP:20250805T153445Z
+DTSTART:20250808T032000Z
+DTEND:20250808T044000Z
+SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:横浜ブルク13 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
+ nカレンダー生成プログラムのウェブサイト: kinpri-theater
+ -calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:def912b7-e83e-562b-80aa-63dc0a13f641
+SEQUENCE:0
+DTSTAMP:20250805T153445Z
+DTSTART:20250808T103000Z
+DTEND:20250808T115000Z
+SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:横浜ブルク13 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
+ nカレンダー生成プログラムのウェブサイト: kinpri-theater
+ -calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:252ec91c-3a80-5f26-9bb6-8682071f7d39
+SEQUENCE:0
+DTSTAMP:20250805T153445Z
+DTSTART:20250807T231000Z
+DTEND:20250808T002500Z
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:横浜ブルク13 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/C4251\
  nカレンダー生成プログラムのウェブサイト: kinpri-theater

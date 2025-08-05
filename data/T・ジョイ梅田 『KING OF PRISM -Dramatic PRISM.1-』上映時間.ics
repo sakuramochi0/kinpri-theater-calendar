@@ -6,189 +6,9 @@ NAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:13582a2f-873f-5c2d-9334-4fc2e28988cf
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250804T121500Z
-DTEND:20250804T133000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:c846395a-0b8d-5166-9940-e74c9525646c
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250803T235500Z
-DTEND:20250804T011000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:571e1996-c010-51d6-affb-92ef20a9bd1b
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250804T040000Z
-DTEND:20250804T051500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:07242581-f6d3-50fc-9452-dd1ca5a9aec8
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250804T062000Z
-DTEND:20250804T073500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:689fd7cf-15af-55f9-b99e-b067e56c87be
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250804T072500Z
-DTEND:20250804T084000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:8072278c-d187-5ebd-8552-1f94e0f0a4ce
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250804T104000Z
-DTEND:20250804T115500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:363e22fe-9159-5d22-8820-dde989189b7a
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250805T121500Z
-DTEND:20250805T133200Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:c38824d9-31b3-574d-9733-2ef5b88986c4
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250804T235500Z
-DTEND:20250805T011000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:ebd52830-285a-5f81-962a-3e843b941501
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250805T040000Z
-DTEND:20250805T051500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:6be3c083-7111-5861-bd06-e62bc092b026
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250805T062000Z
-DTEND:20250805T073500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター３
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:ec3eb4fb-1666-5640-9d3c-7090703710c6
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250805T072500Z
-DTEND:20250805T084000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:0a379e29-2d0e-53af-be69-0138ed88d200
-SEQUENCE:0
-DTSTAMP:20250803T153011Z
-DTSTART:20250805T104000Z
-DTEND:20250805T115500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート2キング
-LOCATION:T・ジョイ梅田 シアター２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
 UID:296f6487-49da-52df-94b8-519ff4cce9cf
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250806T121500Z
 DTEND:20250806T133000Z
 SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -203,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a4957a52-c389-5c4a-9461-f6572cbb6e50
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250805T235500Z
 DTEND:20250806T011000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -218,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:88cd3f60-5ff7-5635-a2d3-71bef4f59fcf
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250806T040000Z
 DTEND:20250806T051500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -233,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2e65a79e-afeb-517d-940f-50bd7b80839a
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250806T062000Z
 DTEND:20250806T073500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -248,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eccfea75-625b-5980-936e-3ff469e8e171
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250806T072500Z
 DTEND:20250806T084000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -263,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1b36d879-d766-54ab-952a-fac2d181ca9b
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250806T104000Z
 DTEND:20250806T115500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -276,12 +96,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:b54977bc-6125-52bc-9ff7-985460acc812
+UID:22c30bae-d411-577f-b899-14472232e154
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250807T121500Z
 DTEND:20250807T133000Z
-SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:T・ジョイ梅田 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -291,12 +111,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:44847af5-255e-5f66-9b43-526239911fbf
+UID:1993a1ad-6259-55d2-8006-ae80cf30dcd9
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250806T235500Z
 DTEND:20250807T011000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:T・ジョイ梅田 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -306,12 +126,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:5263c77a-cd35-555d-830b-df6a746f78d1
+UID:c570feb2-1bf8-52a8-ade6-cf47e78974c7
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250807T040000Z
 DTEND:20250807T051500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:T・ジョイ梅田 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -321,12 +141,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:aaa8b2ec-ab1e-5776-9906-8e5b18eec08b
+UID:b9b40791-9608-5a6a-8526-2e68ab6004b2
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250807T072500Z
 DTEND:20250807T084000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:T・ジョイ梅田 シアター２
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -336,14 +156,134 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:b883e54b-044f-5032-8e75-cd99b51c04b9
+UID:4a19983c-ed06-5e40-95c7-86394227173c
 SEQUENCE:0
-DTSTAMP:20250803T153011Z
+DTSTAMP:20250805T153523Z
 DTSTART:20250807T104000Z
 DTEND:20250807T115500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート2キング
 LOCATION:T・ジョイ梅田 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:7987b24a-c73b-5058-b91b-cbad7e433cbc
+SEQUENCE:0
+DTSTAMP:20250805T153523Z
+DTSTART:20250808T030500Z
+DTEND:20250808T042000Z
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ梅田 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:de6a6d29-9f18-5dc4-be66-753ff5debdac
+SEQUENCE:0
+DTSTAMP:20250805T153523Z
+DTSTART:20250808T064000Z
+DTEND:20250808T075500Z
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ梅田 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:08d52f66-59ca-5cd2-b834-0a1255e92da2
+SEQUENCE:0
+DTSTAMP:20250805T153523Z
+DTSTART:20250807T234500Z
+DTEND:20250808T010000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ梅田 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:41f95edc-1005-5c2f-919d-7d57f55479d9
+SEQUENCE:0
+DTSTAMP:20250805T153523Z
+DTSTART:20250808T013000Z
+DTEND:20250808T024500Z
+SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ梅田 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:53234899-1a54-5198-aa76-5ed83349135e
+SEQUENCE:0
+DTSTAMP:20250805T153523Z
+DTSTART:20250808T040000Z
+DTEND:20250808T051500Z
+SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ梅田 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:a74223e7-1d6d-534d-915c-fb47503870d8
+SEQUENCE:0
+DTSTAMP:20250805T153523Z
+DTSTART:20250808T082000Z
+DTEND:20250808T093500Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ梅田 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:7310b5e4-d814-5595-b46a-b09c4ec56277
+SEQUENCE:0
+DTSTAMP:20250805T153523Z
+DTSTART:20250808T095500Z
+DTEND:20250808T111000Z
+SUMMARY:[☓満席]  [応援上映]KING OF PRISM-Your Endless Call-ルー
+ ト3クイーン
+LOCATION:T・ジョイ梅田 シアター２
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:d0fe6cd5-30e7-59e8-9219-25bbc5a5b3e7
+SEQUENCE:0
+DTSTAMP:20250805T153523Z
+DTSTART:20250808T123000Z
+DTEND:20250808T134500Z
+SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ梅田 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
  レンダー生成プログラムのウェブサイト: kinpri-theater-cal

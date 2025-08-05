@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ岡崎 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ岡崎 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b98bd622-5f9c-56b9-98e0-953bc6ac78bd
+UID:7fe399ac-6ae8-5586-bef7-6d0c83e02197
 SEQUENCE:0
-DTSTAMP:20250804T155134Z
-DTSTART:20250804T085000Z
-DTEND:20250804T100700Z
+DTSTAMP:20250805T155917Z
+DTSTART:20250805T085000Z
+DTEND:20250805T100700Z
 SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route2伝説
  のキングカップ＜応援上映＞
 LOCATION:ユナイテッド・シネマ岡崎 7screen
@@ -22,25 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12418&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9c9c8ddd-8379-5346-8ef7-21386bd32331
-SEQUENCE:0
-DTSTAMP:20250804T155134Z
-DTSTART:20250805T085000Z
-DTEND:20250805T100700Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
- カップ＜応援上映＞
-LOCATION:ユナイテッド・シネマ岡崎 7screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
- 418&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12418&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:909aef8d-7ad8-5138-be34-f0cfd2e4fb7e
 SEQUENCE:0
-DTSTAMP:20250804T155134Z
+DTSTAMP:20250805T155917Z
 DTSTART:20250806T085000Z
 DTEND:20250806T100700Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
@@ -56,12 +40,130 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8e2d3a19-3cde-50f1-bddc-7b903ea2bbb7
 SEQUENCE:0
-DTSTAMP:20250804T155134Z
+DTSTAMP:20250805T155917Z
 DTSTART:20250807T085000Z
 DTEND:20250807T100700Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route2伝説のキング
  カップ＜応援上映＞
 LOCATION:ユナイテッド・シネマ岡崎 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
+ 418&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12418&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:053d1769-81f6-555e-a02f-2496a3cd012f
+SEQUENCE:0
+DTSTAMP:20250805T155917Z
+DTSTART:20250808T102000Z
+DTEND:20250808T114100Z
+SUMMARY:[○]  【生誕ウィーク】「KING OF PRISM-Your Endless Call
+ 」×「アイドルマスターSideM」コラボ＜応援上映＞
+LOCATION:ユナイテッド・シネマ岡崎 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
+ 418&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12418&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba210d5-a337-5633-b924-54a0d6fbf8a9
+SEQUENCE:0
+DTSTAMP:20250805T155917Z
+DTSTART:20250809T102000Z
+DTEND:20250809T114100Z
+SUMMARY:[販売期間外]  【生誕ウィーク】「KING OF PRISM-Your E
+ ndless Call」×「アイドルマスターSideM」コラボ＜応援上
+ 映＞
+LOCATION:ユナイテッド・シネマ岡崎 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
+ 418&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12418&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:be3d58cf-d6c7-5bb6-8cee-3de3a3c01b52
+SEQUENCE:0
+DTSTAMP:20250805T155917Z
+DTSTART:20250810T102000Z
+DTEND:20250810T114100Z
+SUMMARY:[販売期間外]  【生誕ウィーク】「KING OF PRISM-Your E
+ ndless Call」×「アイドルマスターSideM」コラボ＜応援上
+ 映＞
+LOCATION:ユナイテッド・シネマ岡崎 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
+ 418&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12418&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:69fb1eed-a12d-55bd-a991-d5684e2016e1
+SEQUENCE:0
+DTSTAMP:20250805T155917Z
+DTSTART:20250811T102000Z
+DTEND:20250811T114100Z
+SUMMARY:[販売期間外]  【生誕ウィーク】「KING OF PRISM-Your E
+ ndless Call」×「アイドルマスターSideM」コラボ＜応援上
+ 映＞
+LOCATION:ユナイテッド・シネマ岡崎 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
+ 418&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12418&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec8be27-97d4-5f03-baaf-c63cbf74945d
+SEQUENCE:0
+DTSTAMP:20250805T155917Z
+DTSTART:20250812T102000Z
+DTEND:20250812T114100Z
+SUMMARY:[販売期間外]  【生誕ウィーク】「KING OF PRISM-Your E
+ ndless Call」×「アイドルマスターSideM」コラボ＜応援上
+ 映＞
+LOCATION:ユナイテッド・シネマ岡崎 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
+ 418&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12418&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:10c1b4db-facf-580f-9353-56daf35f25bc
+SEQUENCE:0
+DTSTAMP:20250805T155917Z
+DTSTART:20250813T102000Z
+DTEND:20250813T114100Z
+SUMMARY:[販売期間外]  【生誕ウィーク】「KING OF PRISM-Your E
+ ndless Call」×「アイドルマスターSideM」コラボ＜応援上
+ 映＞
+LOCATION:ユナイテッド・シネマ岡崎 2screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
+ 418&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/okazaki/film.php?movie=12418&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:9dd82c50-0348-5fe3-b0af-2e14d9c1d9be
+SEQUENCE:0
+DTSTAMP:20250805T155917Z
+DTSTART:20250814T102000Z
+DTEND:20250814T114100Z
+SUMMARY:[販売期間外]  【生誕ウィーク】「KING OF PRISM-Your E
+ ndless Call」×「アイドルマスターSideM」コラボ＜応援上
+ 映＞
+LOCATION:ユナイテッド・シネマ岡崎 2screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/okazaki/film.php?movie=12
  418&from=fm\nカレンダー生成プログラムのウェブサイト: ki
