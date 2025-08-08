@@ -6,15 +6,15 @@ NAME:TOHOシネマズ 熊本サクラマチ 『KING OF PRISM -Dramatic PRI
 X-WR-CALNAME:TOHOシネマズ 熊本サクラマチ 『KING OF PRISM -Dram
  atic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:9166c595-877c-593c-b56b-f67d1a11818f
+UID:dc035719-d8a0-52a0-9f60-bf43fb671070
 SEQUENCE:0
-DTSTAMP:20250724T152849Z
-DTSTART:20250724T103000Z
-DTEND:20250724T115000Z
+DTSTAMP:20250808T153344Z
+DTSTART:20250808T091500Z
+DTEND:20250808T103500Z
 SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
- ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４　夢と
- 未来はじまりの物語
-LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN8
+ ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート３（発声
+ ＯＫ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN4
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
  kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
@@ -23,15 +23,15 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=026083
 END:VEVENT
 BEGIN:VEVENT
-UID:9166c595-877c-593c-b56b-f67d1a11818f
+UID:44fc6452-b734-5f68-b441-7e93d0d79843
 SEQUENCE:0
-DTSTAMP:20250724T152849Z
-DTSTART:20250724T103000Z
-DTEND:20250724T115000Z
-SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
- ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４　夢と
- 未来はじまりの物語
-LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN8
+DTSTAMP:20250808T153344Z
+DTSTART:20250812T092000Z
+DTEND:20250812T113000Z
+SUMMARY:[販売期間外]  「ＳｉｄｅＭ」ダイジェスト付き
+ 　ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　ルート３　奇跡のク
+ イーン（発声ＯＫ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN5
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
  kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
@@ -40,15 +40,15 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=026083
 END:VEVENT
 BEGIN:VEVENT
-UID:9166c595-877c-593c-b56b-f67d1a11818f
+UID:cba36bd5-0b0e-5e33-9444-b0f2662b8571
 SEQUENCE:0
-DTSTAMP:20250724T152849Z
-DTSTART:20250724T103000Z
-DTEND:20250724T115000Z
-SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
- ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート４　夢と
- 未来はじまりの物語
-LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN8
+DTSTAMP:20250808T153344Z
+DTSTART:20250813T092000Z
+DTEND:20250813T113000Z
+SUMMARY:[販売期間外]  「ＳｉｄｅＭ」ダイジェスト付き
+ 　ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　ルート３　奇跡のク
+ イーン（発声ＯＫ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN5
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
  kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
@@ -57,15 +57,15 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=026083
 END:VEVENT
 BEGIN:VEVENT
-UID:f1efdbf1-65de-5fe5-8d1d-199788854a10
+UID:081fd0e1-1977-5034-a640-ffd4e40b6be6
 SEQUENCE:0
-DTSTAMP:20250724T152849Z
-DTSTART:20250726T090500Z
-DTEND:20250726T105000Z
-SUMMARY:[○販売中]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ
- ｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート１（舞台挨
- 拶中継・発声ＯＫ）
-LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN7
+DTSTAMP:20250808T153344Z
+DTSTART:20250814T092000Z
+DTEND:20250814T113000Z
+SUMMARY:[販売期間外]  「ＳｉｄｅＭ」ダイジェスト付き
+ 　ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　ルート３　奇跡のク
+ イーン（発声ＯＫ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN5
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
  kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト

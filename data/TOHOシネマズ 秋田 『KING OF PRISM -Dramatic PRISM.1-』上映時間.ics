@@ -6,15 +6,15 @@ NAME:TOHOシネマズ 秋田 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:TOHOシネマズ 秋田 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:c37f6b49-0f5f-5209-9add-0d751fe3fb2a
+UID:4b0aec79-54d1-5697-a2db-1f9578a94aa5
 SEQUENCE:0
-DTSTAMP:20250725T153419Z
-DTSTART:20250726T090500Z
-DTEND:20250726T105000Z
-SUMMARY:[◎販売中]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙｏ
- ｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート１（舞台挨
- 拶中継・発声ＯＫ）
-LOCATION:TOHOシネマズ 秋田 SCREEN3
+DTSTAMP:20250808T153334Z
+DTSTART:20250808T094500Z
+DTEND:20250808T110500Z
+SUMMARY:[販売期間外]  ＫＩＮＧ　ＯＦ　ＰＲＩＳＭ　Ｙ
+ ｏｕｒ　Ｅｎｄｌｅｓｓ　Ｃａｌｌ　ルート３（発声
+ ＯＫ）
+LOCATION:TOHOシネマズ 秋田 SCREEN5
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
  kuhin_cd=026083\nカレンダー生成プログラムのウェブサイト
