@@ -1,41 +1,6 @@
 [
   {
     "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター５",
-    "startTime": "2025-08-09T03:00:00.000Z",
-    "endTime": "2025-08-09T04:15:00.000Z",
-    "status": "☓満席"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター６",
-    "startTime": "2025-08-08T23:45:00.000Z",
-    "endTime": "2025-08-09T01:00:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター５",
-    "startTime": "2025-08-09T01:25:00.000Z",
-    "endTime": "2025-08-09T02:40:00.000Z",
-    "status": "△予約/購入"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター２",
-    "startTime": "2025-08-09T06:10:00.000Z",
-    "endTime": "2025-08-09T07:25:00.000Z",
-    "status": "☓満席"
-  },
-  {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター５",
-    "startTime": "2025-08-09T12:10:00.000Z",
-    "endTime": "2025-08-09T13:25:00.000Z",
-    "status": "△予約/購入"
-  },
-  {
-    "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター４",
     "startTime": "2025-08-10T10:35:00.000Z",
     "endTime": "2025-08-10T11:50:00.000Z",
@@ -67,7 +32,7 @@
     "screenName": "シアター６",
     "startTime": "2025-08-11T02:15:00.000Z",
     "endTime": "2025-08-11T04:20:00.000Z",
-    "status": "○予約/購入"
+    "status": "△予約/購入"
   },
   {
     "title": "[応援]【「SideM」ダイジェスト付】KING OF PRISM-Your Endless Call-ルート3クイーン",
@@ -81,14 +46,14 @@
     "screenName": "シアター５",
     "startTime": "2025-08-11T07:30:00.000Z",
     "endTime": "2025-08-11T09:35:00.000Z",
-    "status": "△予約/購入"
+    "status": "☓満席"
   },
   {
     "title": "[応援]【「SideM」ダイジェスト付】KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター２",
     "startTime": "2025-08-11T09:50:00.000Z",
     "endTime": "2025-08-11T11:55:00.000Z",
-    "status": "○予約/購入"
+    "status": "△予約/購入"
   },
   {
     "title": "[応援]【「SideM」ダイジェスト付】KING OF PRISM-Your Endless Call-ルート3クイーン",
@@ -116,56 +81,56 @@
     "screenName": "シアター３",
     "startTime": "2025-08-11T08:20:00.000Z",
     "endTime": "2025-08-11T09:35:00.000Z",
-    "status": "◎予約/購入"
+    "status": "○予約/購入"
   },
   {
     "title": "[応援]【「SideM」ダイジェスト付】KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター６",
     "startTime": "2025-08-12T02:10:00.000Z",
     "endTime": "2025-08-12T04:15:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援]【「SideM」ダイジェスト付】KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター５",
     "startTime": "2025-08-12T07:30:00.000Z",
     "endTime": "2025-08-12T09:35:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援]【「SideM」ダイジェスト付】KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター２",
     "startTime": "2025-08-12T09:50:00.000Z",
     "endTime": "2025-08-12T11:55:00.000Z",
-    "status": "-販売対象外"
+    "status": "○予約/購入"
   },
   {
     "title": "[応援]【「SideM」ダイジェスト付】KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター３",
     "startTime": "2025-08-12T12:30:00.000Z",
     "endTime": "2025-08-12T14:35:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[通常上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター２",
     "startTime": "2025-08-12T03:55:00.000Z",
     "endTime": "2025-08-12T05:10:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター５",
     "startTime": "2025-08-12T01:30:00.000Z",
     "endTime": "2025-08-12T02:45:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター３",
     "startTime": "2025-08-12T08:20:00.000Z",
     "endTime": "2025-08-12T09:35:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援]【「SideM」ダイジェスト付】KING OF PRISM-Your Endless Call-ルート3クイーン",
