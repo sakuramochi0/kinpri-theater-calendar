@@ -6,72 +6,12 @@ NAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:T・ジョイ久留米 『KING OF PRISM -Dramatic PRISM.1-』
  上映時間
 BEGIN:VEVENT
-UID:7fd001a9-2d5b-5943-a25a-e023560e3856
+UID:64b1501d-24c7-5dde-94b7-b72c7e80f868
 SEQUENCE:0
-DTSTAMP:20250807T153509Z
-DTSTART:20250808T105000Z
-DTEND:20250808T121000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ久留米 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:fd215595-4dd8-5a5f-a676-73889485d0a6
-SEQUENCE:0
-DTSTAMP:20250807T153509Z
-DTSTART:20250809T105000Z
-DTEND:20250809T121000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ久留米 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:9eacf0c9-c4b0-5503-8159-0e433f04ba31
-SEQUENCE:0
-DTSTAMP:20250807T153509Z
-DTSTART:20250810T105000Z
-DTEND:20250810T121000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ久留米 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:1ba95e1f-6c82-56fd-b0f5-267277f40953
-SEQUENCE:0
-DTSTAMP:20250807T153509Z
-DTSTART:20250811T105000Z
-DTEND:20250811T121000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ久留米 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:b83afd26-7cd4-51f6-93cb-de03edc2e368
-SEQUENCE:0
-DTSTAMP:20250807T153509Z
+DTSTAMP:20250811T153317Z
 DTSTART:20250812T105000Z
 DTEND:20250812T121000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート3クイーン
 LOCATION:T・ジョイ久留米 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -81,12 +21,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:21055f1f-aa28-5ea8-ba45-9e678f53b2e7
+UID:84b3cb7c-f223-5544-8930-8ccc0049c6f8
 SEQUENCE:0
-DTSTAMP:20250807T153509Z
+DTSTAMP:20250811T153317Z
 DTSTART:20250813T105000Z
 DTEND:20250813T121000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート3クイーン
 LOCATION:T・ジョイ久留米 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -96,12 +36,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_kurume/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:b53ce747-7868-5183-a84e-502999c13df1
+UID:cf0a8fa4-b65c-54a5-b4b5-ce8ec72155ac
 SEQUENCE:0
-DTSTAMP:20250807T153509Z
+DTSTAMP:20250811T153317Z
 DTSTART:20250814T105000Z
 DTEND:20250814T121000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート3クイーン
 LOCATION:T・ジョイ久留米 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映

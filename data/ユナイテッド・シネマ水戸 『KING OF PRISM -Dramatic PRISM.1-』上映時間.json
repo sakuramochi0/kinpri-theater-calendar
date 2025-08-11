@@ -1,17 +1,10 @@
 [
   {
-    "title": "【生誕ウィーク】「KING OF PRISM-Your Endless Call」×「アイドルマスターSideM」コラボ＜応援上映＞",
-    "screenName": "4screen",
-    "startTime": "2025-08-10T10:45:00.000Z",
-    "endTime": "2025-08-10T12:06:00.000Z",
-    "status": "販売対象外"
-  },
-  {
     "title": "＜応援上映＞「アイドルマスターSideM」ダイジェスト付「KING OF PRISM-Your Endless Call-」",
     "screenName": "2screen",
     "startTime": "2025-08-11T09:50:00.000Z",
     "endTime": "2025-08-11T12:01:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "＜応援上映＞「アイドルマスターSideM」ダイジェスト付「KING OF PRISM-Your Endless Call-」",
@@ -32,6 +25,6 @@
     "screenName": "2screen",
     "startTime": "2025-08-14T09:50:00.000Z",
     "endTime": "2025-08-14T12:01:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]

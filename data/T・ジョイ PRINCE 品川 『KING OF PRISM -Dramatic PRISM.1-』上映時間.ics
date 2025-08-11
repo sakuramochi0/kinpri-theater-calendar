@@ -6,54 +6,9 @@ NAME:T・ジョイ PRINCE 品川 『KING OF PRISM -Dramatic PRISM.1-』上
 X-WR-CALNAME:T・ジョイ PRINCE 品川 『KING OF PRISM -Dramatic PRISM.
  1-』上映時間
 BEGIN:VEVENT
-UID:d35249f7-6b73-5cf0-ad87-8de5f5c8dd04
-SEQUENCE:0
-DTSTAMP:20250810T152804Z
-DTSTART:20250811T105500Z
-DTEND:20250811T130000Z
-SUMMARY:[△予約/購入]  [応援]【「SideM」ダイジェスト付】
- KING OF PRISM-Your Endless Call-ルート3クイーン
-LOCATION:T・ジョイ PRINCE 品川 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
- C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
- heater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:0d9bad1b-fff6-5190-b660-b854af832ab7
-SEQUENCE:0
-DTSTAMP:20250810T152804Z
-DTSTART:20250810T234000Z
-DTEND:20250811T005500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ PRINCE 品川 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
- C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
- heater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:cdf002c6-f2b5-5ba3-903c-67956d2684a5
-SEQUENCE:0
-DTSTAMP:20250810T152804Z
-DTSTART:20250811T102000Z
-DTEND:20250811T113500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ PRINCE 品川 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
- C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
- heater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
 UID:bfa6c883-07d5-5dd9-bdb4-3e213291cf7b
 SEQUENCE:0
-DTSTAMP:20250810T152804Z
+DTSTAMP:20250811T153205Z
 DTSTART:20250812T061000Z
 DTEND:20250812T081500Z
 SUMMARY:[◎予約/購入]  [応援]【「SideM」ダイジェスト付】
@@ -68,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e43184a9-2d53-5f2f-8a3e-f3c310cb65f0
 SEQUENCE:0
-DTSTAMP:20250810T152804Z
+DTSTAMP:20250811T153205Z
 DTSTART:20250812T115500Z
 DTEND:20250812T140000Z
 SUMMARY:[◎予約/購入]  [応援]【「SideM」ダイジェスト付】
@@ -83,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:053e4433-d8dc-5f3b-8966-33180d06127a
 SEQUENCE:0
-DTSTAMP:20250810T152804Z
+DTSTAMP:20250811T153205Z
 DTSTART:20250812T102000Z
 DTEND:20250812T113500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -98,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:69344343-eae7-50ff-96ad-1cf5fc467765
 SEQUENCE:0
-DTSTAMP:20250810T152804Z
+DTSTAMP:20250811T153205Z
 DTSTART:20250813T061000Z
 DTEND:20250813T081500Z
 SUMMARY:[◎予約/購入]  [応援]【「SideM」ダイジェスト付】
@@ -113,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e2ae54f1-9b3a-5537-b841-725aeda84362
 SEQUENCE:0
-DTSTAMP:20250810T152804Z
+DTSTAMP:20250811T153205Z
 DTSTART:20250813T115500Z
 DTEND:20250813T140000Z
 SUMMARY:[◎予約/購入]  [応援]【「SideM」ダイジェスト付】
@@ -128,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5f6c68ff-70aa-5d10-ab21-b44b65eb18e1
 SEQUENCE:0
-DTSTAMP:20250810T152804Z
+DTSTAMP:20250811T153205Z
 DTSTART:20250813T102000Z
 DTEND:20250813T113500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -141,12 +96,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:1b66b69a-b8ce-5df6-9ebc-78084f7a0844
+UID:7b06a6f8-ce0d-5e14-93ee-3970d78b94c2
 SEQUENCE:0
-DTSTAMP:20250810T152804Z
+DTSTAMP:20250811T153205Z
 DTSTART:20250814T061000Z
 DTEND:20250814T081500Z
-SUMMARY:[-販売対象外]  [応援]【「SideM」ダイジェスト付】
+SUMMARY:[◎予約/購入]  [応援]【「SideM」ダイジェスト付】
  KING OF PRISM-Your Endless Call-ルート3クイーン
 LOCATION:T・ジョイ PRINCE 品川 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -156,12 +111,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:bab65777-1634-5e8f-a4ec-1ff7092acd01
+UID:737bca42-5849-561e-9212-01013c70a9a6
 SEQUENCE:0
-DTSTAMP:20250810T152804Z
+DTSTAMP:20250811T153205Z
 DTSTART:20250814T115500Z
 DTEND:20250814T140000Z
-SUMMARY:[-販売対象外]  [応援]【「SideM」ダイジェスト付】
+SUMMARY:[◎予約/購入]  [応援]【「SideM」ダイジェスト付】
  KING OF PRISM-Your Endless Call-ルート3クイーン
 LOCATION:T・ジョイ PRINCE 品川 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -171,12 +126,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:43e93047-01eb-51e2-bef7-61b339876783
+UID:c525479c-9be7-595d-b80d-c28980521867
 SEQUENCE:0
-DTSTAMP:20250810T152804Z
+DTSTAMP:20250811T153205Z
 DTSTART:20250814T102000Z
 DTEND:20250814T113500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート3クイーン
 LOCATION:T・ジョイ PRINCE 品川 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
