@@ -2,16 +2,9 @@
   {
     "title": "＜応援上映＞「アイドルマスターSideM」ダイジェスト付「KING OF PRISM-Your Endless Call-」",
     "screenName": "2screen",
-    "startTime": "2025-08-11T09:50:00.000Z",
-    "endTime": "2025-08-11T12:01:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "＜応援上映＞「アイドルマスターSideM」ダイジェスト付「KING OF PRISM-Your Endless Call-」",
-    "screenName": "2screen",
     "startTime": "2025-08-12T09:50:00.000Z",
     "endTime": "2025-08-12T12:01:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "＜応援上映＞「アイドルマスターSideM」ダイジェスト付「KING OF PRISM-Your Endless Call-」",
@@ -26,5 +19,54 @@
     "startTime": "2025-08-14T09:50:00.000Z",
     "endTime": "2025-08-14T12:01:00.000Z",
     "status": "○"
+  },
+  {
+    "title": "【生誕ウィーク】KING OF PRISM-Your Endless Call-route4はじまり＜プリズムスタァ応援上映＞",
+    "screenName": "4screen",
+    "startTime": "2025-08-15T10:00:00.000Z",
+    "endTime": "2025-08-15T11:18:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "【生誕ウィーク】KING OF PRISM-Your Endless Call-route4はじまり＜プリズムスタァ応援上映＞",
+    "screenName": "4screen",
+    "startTime": "2025-08-16T08:30:00.000Z",
+    "endTime": "2025-08-16T09:48:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "【生誕ウィーク】KING OF PRISM-Your Endless Call-route4はじまり＜プリズムスタァ応援上映＞",
+    "screenName": "4screen",
+    "startTime": "2025-08-17T10:00:00.000Z",
+    "endTime": "2025-08-17T11:18:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "【生誕ウィーク】KING OF PRISM-Your Endless Call-route4はじまり＜プリズムスタァ応援上映＞",
+    "screenName": "4screen",
+    "startTime": "2025-08-18T10:00:00.000Z",
+    "endTime": "2025-08-18T11:18:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "【生誕ウィーク】KING OF PRISM-Your Endless Call-route4はじまり＜プリズムスタァ応援上映＞",
+    "screenName": "4screen",
+    "startTime": "2025-08-19T10:00:00.000Z",
+    "endTime": "2025-08-19T11:18:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "【生誕ウィーク】KING OF PRISM-Your Endless Call-route4はじまり＜プリズムスタァ応援上映＞",
+    "screenName": "4screen",
+    "startTime": "2025-08-20T10:00:00.000Z",
+    "endTime": "2025-08-20T11:18:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "【生誕ウィーク】KING OF PRISM-Your Endless Call-route4はじまり＜プリズムスタァ応援上映＞",
+    "screenName": "4screen",
+    "startTime": "2025-08-21T10:00:00.000Z",
+    "endTime": "2025-08-21T11:18:00.000Z",
+    "status": "販売期間外"
   }
 ]

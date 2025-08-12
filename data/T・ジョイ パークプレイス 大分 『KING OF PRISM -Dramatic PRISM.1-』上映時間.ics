@@ -6,132 +6,12 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:38bfd2c4-50a4-527f-9537-62969536dc4b
+UID:9385b920-e27d-55a3-ac11-6400252533fc
 SEQUENCE:0
-DTSTAMP:20250807T153545Z
-DTSTART:20250808T084500Z
-DTEND:20250808T100000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ パークプレイス 大分 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
- 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
- eater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:d62fdae5-7b88-5581-9ca0-52e31a3e8e25
-SEQUENCE:0
-DTSTAMP:20250807T153545Z
-DTSTART:20250809T084500Z
-DTEND:20250809T100000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ パークプレイス 大分 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
- 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
- eater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:8abdafcb-e79f-5415-b40f-e02c9ec00bd1
-SEQUENCE:0
-DTSTAMP:20250807T153545Z
-DTSTART:20250810T084500Z
-DTEND:20250810T100000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ パークプレイス 大分 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
- 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
- eater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:78258a3c-b7bf-5c78-9fa4-db06e2d2ec05
-SEQUENCE:0
-DTSTAMP:20250807T153545Z
-DTSTART:20250811T105500Z
-DTEND:20250811T121000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ パークプレイス 大分 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
- 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
- eater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:0a5d0f84-07ee-5c59-bdc6-a718679fc1b8
-SEQUENCE:0
-DTSTAMP:20250807T153545Z
-DTSTART:20250811T072500Z
-DTEND:20250811T093500Z
-SUMMARY:[-販売対象外]  [応援]【「SideM」ダイジェスト付】
- KING OF PRISM-Your Endless Call-ルート3クイーン
-LOCATION:T・ジョイ パークプレイス 大分 シアター５
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
- 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
- eater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:40227aef-253b-5a5d-a058-e99b9e69dd10
-SEQUENCE:0
-DTSTAMP:20250807T153545Z
-DTSTART:20250812T105500Z
-DTEND:20250812T121000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ パークプレイス 大分 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
- 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
- eater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:9efef749-233c-5e93-ac94-27e6c66f46aa
-SEQUENCE:0
-DTSTAMP:20250807T153545Z
-DTSTART:20250812T072500Z
-DTEND:20250812T093500Z
-SUMMARY:[-販売対象外]  [応援]【「SideM」ダイジェスト付】
- KING OF PRISM-Your Endless Call-ルート3クイーン
-LOCATION:T・ジョイ パークプレイス 大分 シアター５
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
- 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
- eater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:e316dc95-225a-5d6d-99cd-ece70384e645
-SEQUENCE:0
-DTSTAMP:20250807T153545Z
-DTSTART:20250813T105500Z
-DTEND:20250813T121000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:T・ジョイ パークプレイス 大分 シアター１
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
- 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
- eater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:98ea3588-0bb0-51ae-a420-2fb90aee6873
-SEQUENCE:0
-DTSTAMP:20250807T153545Z
+DTSTAMP:20250812T153237Z
 DTSTART:20250813T072500Z
 DTEND:20250813T093500Z
-SUMMARY:[-販売対象外]  [応援]【「SideM」ダイジェスト付】
+SUMMARY:[◎予約/購入]  [応援]【「SideM」ダイジェスト付】
  KING OF PRISM-Your Endless Call-ルート3クイーン
 LOCATION:T・ジョイ パークプレイス 大分 シアター５
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -141,12 +21,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:46bbdf37-54ec-5250-b861-7b2e9a7f81f9
+UID:ce04b581-ffbe-5f44-9ed2-727bc394e927
 SEQUENCE:0
-DTSTAMP:20250807T153545Z
-DTSTART:20250814T105500Z
-DTEND:20250814T121000Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+DTSTAMP:20250812T153237Z
+DTSTART:20250813T105500Z
+DTEND:20250813T121000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート3クイーン
 LOCATION:T・ジョイ パークプレイス 大分 シアター１
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -156,14 +36,134 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:09e195e0-d663-54b0-a6bc-87a20c9165e4
+UID:859df903-587c-52b1-b5b4-0cd136476fdd
 SEQUENCE:0
-DTSTAMP:20250807T153545Z
+DTSTAMP:20250812T153237Z
 DTSTART:20250814T072500Z
 DTEND:20250814T093500Z
-SUMMARY:[-販売対象外]  [応援]【「SideM」ダイジェスト付】
+SUMMARY:[◎予約/購入]  [応援]【「SideM」ダイジェスト付】
  KING OF PRISM-Your Endless Call-ルート3クイーン
 LOCATION:T・ジョイ パークプレイス 大分 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b1b3ac-dfd6-57b5-bc5c-a84fd7b52942
+SEQUENCE:0
+DTSTAMP:20250812T153237Z
+DTSTART:20250814T105500Z
+DTEND:20250814T121000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート3クイーン
+LOCATION:T・ジョイ パークプレイス 大分 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:4e43f37e-e980-51c0-8d13-158b3e0e5b1c
+SEQUENCE:0
+DTSTAMP:20250812T153237Z
+DTSTART:20250815T083000Z
+DTEND:20250815T094500Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:1717c422-1c1c-5faa-80e8-e8e699eefc0c
+SEQUENCE:0
+DTSTAMP:20250812T153237Z
+DTSTART:20250816T103500Z
+DTEND:20250816T115000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:123c2152-f287-5a02-9664-c0a1a2ab9b7f
+SEQUENCE:0
+DTSTAMP:20250812T153237Z
+DTSTART:20250817T083000Z
+DTEND:20250817T094500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:2de26864-bb88-5d38-9042-204606ce1e3e
+SEQUENCE:0
+DTSTAMP:20250812T153237Z
+DTSTART:20250818T083000Z
+DTEND:20250818T094500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:67907ae9-84d2-532a-841f-d16e3142592b
+SEQUENCE:0
+DTSTAMP:20250812T153237Z
+DTSTART:20250819T083000Z
+DTEND:20250819T094500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:50e006f0-934e-52f9-a919-1bbb9086320e
+SEQUENCE:0
+DTSTAMP:20250812T153237Z
+DTSTART:20250820T083000Z
+DTEND:20250820T094500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:38a38f9c-1969-568c-a2d4-2afd1a855b62
+SEQUENCE:0
+DTSTAMP:20250812T153237Z
+DTSTART:20250821T083000Z
+DTEND:20250821T094500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
  4251\nカレンダー生成プログラムのウェブサイト: kinpri-th

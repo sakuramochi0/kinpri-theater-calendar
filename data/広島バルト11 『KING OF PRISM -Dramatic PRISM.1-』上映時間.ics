@@ -5,26 +5,11 @@ NAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:広島バルト11 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:3c32da16-009e-5e38-8928-6eaaaef4a61b
+UID:4e7e98bd-5e23-5952-913e-80c04ef4a7fc
 SEQUENCE:0
-DTSTAMP:20250809T152832Z
-DTSTART:20250810T105000Z
-DTEND:20250810T121000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:広島バルト11 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
- \nカレンダー生成プログラムのウェブサイト: kinpri-theate
- r-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:418eeca4-9c6c-5087-9ae5-2c57297b4415
-SEQUENCE:0
-DTSTAMP:20250809T152832Z
-DTSTART:20250811T102000Z
-DTEND:20250811T122500Z
+DTSTAMP:20250812T153137Z
+DTSTART:20250813T031000Z
+DTEND:20250813T051500Z
 SUMMARY:[△予約/購入]  [応援]【「SideM」ダイジェスト付】
  KING OF PRISM-Your Endless Call-ルート3クイーン
 LOCATION:広島バルト11 シアター９
@@ -35,14 +20,14 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:f0519bab-00cd-55ed-a7b6-5e479d899247
+UID:a164ddb0-cca5-5ea6-9018-ecf7ecd91a17
 SEQUENCE:0
-DTSTAMP:20250809T152832Z
-DTSTART:20250811T013000Z
-DTEND:20250811T025000Z
+DTSTAMP:20250812T153137Z
+DTSTART:20250813T013500Z
+DTEND:20250813T025500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート3クイーン
-LOCATION:広島バルト11 シアター５
+LOCATION:広島バルト11 シアター９
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
  \nカレンダー生成プログラムのウェブサイト: kinpri-theate
@@ -50,11 +35,11 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:5cca8ace-d692-58e8-9ac9-b337b6d40137
+UID:69aad0c8-5485-5f41-9826-23a5119202a8
 SEQUENCE:0
-DTSTAMP:20250809T152832Z
-DTSTART:20250812T031000Z
-DTEND:20250812T051500Z
+DTSTAMP:20250812T153137Z
+DTSTART:20250814T031000Z
+DTEND:20250814T051500Z
 SUMMARY:[◎予約/購入]  [応援]【「SideM」ダイジェスト付】
  KING OF PRISM-Your Endless Call-ルート3クイーン
 LOCATION:広島バルト11 シアター９
@@ -65,11 +50,11 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:811cff53-854c-5705-97cd-c0d1addf332b
+UID:82f6434f-ab8f-53d6-8beb-84f8bfdd8849
 SEQUENCE:0
-DTSTAMP:20250809T152832Z
-DTSTART:20250812T013500Z
-DTEND:20250812T025500Z
+DTSTAMP:20250812T153137Z
+DTSTART:20250814T013500Z
+DTEND:20250814T025500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート3クイーン
 LOCATION:広島バルト11 シアター９
@@ -80,59 +65,14 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:ffe252a6-9657-53af-a9a9-f040f44704ab
+UID:33f13e4c-794f-55f0-bb34-d6974dfdc4c1
 SEQUENCE:0
-DTSTAMP:20250809T152832Z
-DTSTART:20250813T031000Z
-DTEND:20250813T051500Z
-SUMMARY:[-販売対象外]  [応援]【「SideM」ダイジェスト付】
- KING OF PRISM-Your Endless Call-ルート3クイーン
-LOCATION:広島バルト11 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
- \nカレンダー生成プログラムのウェブサイト: kinpri-theate
- r-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:4a5ad652-fd24-5c7e-934b-9608639cda11
-SEQUENCE:0
-DTSTAMP:20250809T152832Z
-DTSTART:20250813T013500Z
-DTEND:20250813T025500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:広島バルト11 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
- \nカレンダー生成プログラムのウェブサイト: kinpri-theate
- r-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:5c034973-af70-5156-8632-503725e7bbb2
-SEQUENCE:0
-DTSTAMP:20250809T152832Z
-DTSTART:20250814T031000Z
-DTEND:20250814T051500Z
-SUMMARY:[-販売対象外]  [応援]【「SideM」ダイジェスト付】
- KING OF PRISM-Your Endless Call-ルート3クイーン
-LOCATION:広島バルト11 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
- \nカレンダー生成プログラムのウェブサイト: kinpri-theate
- r-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:5d2e87dd-383c-5973-a6e7-f0d19571095f
-SEQUENCE:0
-DTSTAMP:20250809T152832Z
-DTSTART:20250814T013500Z
-DTEND:20250814T025500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート3クイーン
-LOCATION:広島バルト11 シアター９
+DTSTAMP:20250812T153137Z
+DTSTART:20250815T101500Z
+DTEND:20250815T113000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:広島バルト11 シアター４
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/hiroshima_wald11/cinema_schedule/C4251
  \nカレンダー生成プログラムのウェブサイト: kinpri-theate
