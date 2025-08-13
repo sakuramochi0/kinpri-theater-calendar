@@ -6,13 +6,14 @@ NAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:e888f0d4-75eb-5d9b-9749-f58aaeeca2e7
+UID:2d283413-0978-57da-9534-4a1da329d454
 SEQUENCE:0
-DTSTAMP:20250812T153540Z
+DTSTAMP:20250813T153058Z
 DTSTART:20250813T102500Z
 DTEND:20250813T114600Z
-SUMMARY:[○]  【生誕ウィーク】「KING OF PRISM-Your Endless Call
- 」×「アイドルマスターSideM」コラボ＜応援上映＞
+SUMMARY:[販売対象外]  【生誕ウィーク】「KING OF PRISM-Your E
+ ndless Call」×「アイドルマスターSideM」コラボ＜応援上
+ 映＞
 LOCATION:ユナイテッド・シネマ旭川 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
@@ -24,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0ab7e70d-9c89-5a0f-9897-b0c91160467f
 SEQUENCE:0
-DTSTAMP:20250812T153540Z
+DTSTAMP:20250813T153058Z
 DTSTART:20250821T121000Z
 DTEND:20250821T132800Z
 SUMMARY:[販売期間外]  【生誕ウィーク】KING OF PRISM-Your Endl
