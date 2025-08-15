@@ -6,12 +6,87 @@ NAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -Dramatic
 X-WR-CALNAME:T・ジョイ パークプレイス 大分 『KING OF PRISM -
  Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:4e43f37e-e980-51c0-8d13-158b3e0e5b1c
+UID:e224dd54-cf8a-5722-a496-76b0e39669bd
 SEQUENCE:0
-DTSTAMP:20250814T153356Z
-DTSTART:20250815T083000Z
-DTEND:20250815T094500Z
+DTSTAMP:20250815T153202Z
+DTSTART:20250816T103500Z
+DTEND:20250816T115000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:46bb681a-91c5-50f7-a937-7f40a4b5e77c
+SEQUENCE:0
+DTSTAMP:20250815T153202Z
+DTSTART:20250817T083000Z
+DTEND:20250817T094500Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:5455cc40-178c-5668-a740-9155eeba55db
+SEQUENCE:0
+DTSTAMP:20250815T153202Z
+DTSTART:20250818T083000Z
+DTEND:20250818T094500Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:67907ae9-84d2-532a-841f-d16e3142592b
+SEQUENCE:0
+DTSTAMP:20250815T153202Z
+DTSTART:20250819T083000Z
+DTEND:20250819T094500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:50e006f0-934e-52f9-a919-1bbb9086320e
+SEQUENCE:0
+DTSTAMP:20250815T153202Z
+DTSTART:20250820T083000Z
+DTEND:20250820T094500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート4はじまり
+LOCATION:T・ジョイ パークプレイス 大分 シアター３
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C
+ 4251\nカレンダー生成プログラムのウェブサイト: kinpri-th
+ eater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_parkplace_oita/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:38a38f9c-1969-568c-a2d4-2afd1a855b62
+SEQUENCE:0
+DTSTAMP:20250815T153202Z
+DTSTART:20250821T083000Z
+DTEND:20250821T094500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート4はじまり
 LOCATION:T・ジョイ パークプレイス 大分 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
