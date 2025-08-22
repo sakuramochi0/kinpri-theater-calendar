@@ -6,14 +6,14 @@ NAME:T・ジョイ PRINCE 品川 『KING OF PRISM -Dramatic PRISM.1-』上
 X-WR-CALNAME:T・ジョイ PRINCE 品川 『KING OF PRISM -Dramatic PRISM.
  1-』上映時間
 BEGIN:VEVENT
-UID:9e3a3b41-ead8-5657-9d38-ab56b606087f
+UID:5a2b1070-9a3d-5fb8-bc2b-687b79a8795d
 SEQUENCE:0
-DTSTAMP:20250819T153143Z
-DTSTART:20250819T232500Z
-DTEND:20250820T003500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート4はじまり
-LOCATION:T・ジョイ PRINCE 品川 シアター９
+DTSTAMP:20250822T152957Z
+DTSTART:20250823T023000Z
+DTEND:20250823T041500Z
+SUMMARY:[△予約/購入]  [応援]【三強集結！挨拶中継】KING 
+ OF PRISM-Your Endless Call-ルート1オバレ
+LOCATION:T・ジョイ PRINCE 品川 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
  C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
@@ -21,41 +21,11 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:2b926f6a-20d7-58f3-82de-108b05e59541
+UID:329f4b58-d6d9-539c-9e7c-32ed56de95a8
 SEQUENCE:0
-DTSTAMP:20250819T153143Z
-DTSTART:20250820T114000Z
-DTEND:20250820T125000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート4はじまり
-LOCATION:T・ジョイ PRINCE 品川 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
- C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
- heater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:82e405fd-0380-5b86-8268-bf676ee4433a
-SEQUENCE:0
-DTSTAMP:20250819T153143Z
-DTSTART:20250821T122000Z
-DTEND:20250821T133000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート4はじまり
-LOCATION:T・ジョイ PRINCE 品川 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
- C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
- heater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:6e7b05a0-bcf5-5c6f-a5e0-7c8257770345
-SEQUENCE:0
-DTSTAMP:20250819T153143Z
-DTSTART:20250821T233500Z
-DTEND:20250822T004500Z
+DTSTAMP:20250822T152957Z
+DTSTART:20250823T235500Z
+DTEND:20250824T010500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート1オバレ
 LOCATION:T・ジョイ PRINCE 品川 シアター８
@@ -66,12 +36,132 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:30f209a6-d516-5f77-91f4-6bdff0eeccf2
+UID:9515a315-4c00-5c73-8ad9-a32bd1be6860
 SEQUENCE:0
-DTSTAMP:20250819T153143Z
-DTSTART:20250822T091000Z
-DTEND:20250822T102000Z
+DTSTAMP:20250822T152957Z
+DTSTART:20250824T093000Z
+DTEND:20250824T104000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
+LOCATION:T・ジョイ PRINCE 品川 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ea7650-8ea1-57d0-8179-1396fe2c7bf1
+SEQUENCE:0
+DTSTAMP:20250822T152957Z
+DTSTART:20250824T235500Z
+DTEND:20250825T010500Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
+LOCATION:T・ジョイ PRINCE 品川 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1eb6a4-7bad-54b3-bc86-152992b48efb
+SEQUENCE:0
+DTSTAMP:20250822T152957Z
+DTSTART:20250825T093000Z
+DTEND:20250825T104000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
+LOCATION:T・ジョイ PRINCE 品川 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:c7398ebe-8402-595a-82a0-07e4b5d9ac18
+SEQUENCE:0
+DTSTAMP:20250822T152957Z
+DTSTART:20250825T235500Z
+DTEND:20250826T010500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
+LOCATION:T・ジョイ PRINCE 品川 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:0c00c33d-0b89-5cb9-bbb3-0357f8f01846
+SEQUENCE:0
+DTSTAMP:20250822T152957Z
+DTSTART:20250826T093000Z
+DTEND:20250826T104000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
+LOCATION:T・ジョイ PRINCE 品川 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:6a95eddf-52a4-5d62-8f49-53a1ee3d5986
+SEQUENCE:0
+DTSTAMP:20250822T152957Z
+DTSTART:20250826T235500Z
+DTEND:20250827T010500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
+LOCATION:T・ジョイ PRINCE 品川 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:6e0508a8-2316-522b-a1d2-2af7b2658b31
+SEQUENCE:0
+DTSTAMP:20250822T152957Z
+DTSTART:20250827T093000Z
+DTEND:20250827T104000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
+LOCATION:T・ジョイ PRINCE 品川 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:ad98e9e6-f40d-55b6-a41b-1df0f980fc13
+SEQUENCE:0
+DTSTAMP:20250822T152957Z
+DTSTART:20250827T235500Z
+DTEND:20250828T010500Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
+LOCATION:T・ジョイ PRINCE 品川 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:36a31874-21ee-5538-95ce-d81bf01fdbc3
+SEQUENCE:0
+DTSTAMP:20250822T152957Z
+DTSTART:20250828T093000Z
+DTEND:20250828T104000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート1オバレ
 LOCATION:T・ジョイ PRINCE 品川 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
