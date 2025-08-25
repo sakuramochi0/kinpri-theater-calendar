@@ -5,4 +5,132 @@ NAME:ユナイテッド・シネマ春日部 『KING OF PRISM -Dramatic PR
  ISM.1-』上映時間
 X-WR-CALNAME:ユナイテッド・シネマ春日部 『KING OF PRISM -Dra
  matic PRISM.1-』上映時間
+BEGIN:VEVENT
+UID:abd5a83e-8407-59ff-983a-652d43aeea8e
+SEQUENCE:0
+DTSTAMP:20250825T153755Z
+DTSTART:20250824T233000Z
+DTEND:20250825T004300Z
+SUMMARY:[販売対象外]  [4DX] も～っとつながる！KING OF PRISM-
+ Your Endless Call- ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:4888c698-2d9b-5c5e-8af5-e64526d75914
+SEQUENCE:0
+DTSTAMP:20250825T153755Z
+DTSTART:20250825T070000Z
+DTEND:20250825T081600Z
+SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:c46585a2-8ba5-5913-ac3e-58608d0d14f9
+SEQUENCE:0
+DTSTAMP:20250825T153755Z
+DTSTART:20250825T233000Z
+DTEND:20250826T004300Z
+SUMMARY:[○]  [4DX] も～っとつながる！KING OF PRISM-Your Endless
+  Call- ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:db5536b3-3483-5878-a8dc-16b065c004be
+SEQUENCE:0
+DTSTAMP:20250825T153755Z
+DTSTART:20250826T070000Z
+DTEND:20250826T081600Z
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:094006b3-d9d0-5e0a-af00-dfe67ca3a1a7
+SEQUENCE:0
+DTSTAMP:20250825T153755Z
+DTSTART:20250826T233000Z
+DTEND:20250827T004300Z
+SUMMARY:[○]  [4DX] も～っとつながる！KING OF PRISM-Your Endless
+  Call- ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:b686df4a-f867-5eee-92eb-7521cd6aa933
+SEQUENCE:0
+DTSTAMP:20250825T153755Z
+DTSTART:20250827T070000Z
+DTEND:20250827T081600Z
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:957da3a7-bf25-57fd-9c82-387dfd461976
+SEQUENCE:0
+DTSTAMP:20250825T153755Z
+DTSTART:20250827T233000Z
+DTEND:20250828T004300Z
+SUMMARY:[○]  [4DX] も～っとつながる！KING OF PRISM-Your Endless
+  Call- ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:709854be-728a-5db5-bb77-f438e62b5fb4
+SEQUENCE:0
+DTSTAMP:20250825T153755Z
+DTSTART:20250828T070000Z
+DTEND:20250828T081600Z
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
 END:VCALENDAR
