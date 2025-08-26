@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ札幌 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ札幌 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:3d672c8d-5f18-51dd-9182-54ec8281ffd1
+UID:93e76bb7-e4f6-5eb8-9f84-2411a5f72cfd
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
-DTSTART:20250825T071000Z
-DTEND:20250825T082300Z
+DTSTAMP:20250826T155134Z
+DTSTART:20250826T071000Z
+DTEND:20250826T082300Z
 SUMMARY:[販売対象外]  [4DX] も～っとつながる！KING OF PRISM-
  Your Endless Call- ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
@@ -22,11 +22,11 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:60567d59-9455-575b-80fb-1aabdd1e28cf
+UID:9582dbe1-08fa-58d8-adf9-56cc2d7090ff
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
-DTSTART:20250825T022000Z
-DTEND:20250825T033600Z
+DTSTAMP:20250826T155134Z
+DTSTART:20250826T022000Z
+DTEND:20250826T033600Z
 SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
  る！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ札幌 1screen
@@ -38,11 +38,11 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:29bbb7de-224b-5a68-b9a9-6056a77771c8
+UID:d2e918e9-c85e-5e77-ad1c-fed9a876cb89
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
-DTSTART:20250824T231000Z
-DTEND:20250825T002300Z
+DTSTAMP:20250826T155134Z
+DTSTART:20250825T231000Z
+DTEND:20250826T002300Z
 SUMMARY:[販売対象外]  [ScreenX] も～っとつながる！KING OF PR
  ISM-Your Endless Call-ルート1オバレ ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
@@ -54,11 +54,11 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d986544f-7de5-5641-b2b0-5a3f6d12808f
+UID:94be9e0d-1084-59c2-a99d-ea444aba6b1d
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
-DTSTART:20250825T093000Z
-DTEND:20250825T104600Z
+DTSTAMP:20250826T155134Z
+DTSTART:20250826T093000Z
+DTEND:20250826T104600Z
 SUMMARY:[販売対象外]  [ScreenX] ＜応援上映＞も～っとつな
  がる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
@@ -70,73 +70,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
  om=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2df59f37-b55b-5a12-a33a-3c4267228391
-SEQUENCE:0
-DTSTAMP:20250825T154707Z
-DTSTART:20250826T071000Z
-DTEND:20250826T082300Z
-SUMMARY:[○]  [4DX] も～っとつながる！KING OF PRISM-Your Endless
-  Call- ルート1オバレ 4DX2D
-LOCATION:ユナイテッド・シネマ札幌 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
- 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:1942f92b-cf2a-5205-bd51-56858adfa97d
-SEQUENCE:0
-DTSTAMP:20250825T154707Z
-DTSTART:20250826T022000Z
-DTEND:20250826T033600Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート1オバレ 4DX2D
-LOCATION:ユナイテッド・シネマ札幌 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
- 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:1e962ce5-6780-543d-8950-d5c609c84f65
-SEQUENCE:0
-DTSTAMP:20250825T154707Z
-DTSTART:20250825T231000Z
-DTEND:20250826T002300Z
-SUMMARY:[○]  [ScreenX] も～っとつながる！KING OF PRISM-Your End
- less Call-ルート1オバレ ScreenX 2D
-LOCATION:ユナイテッド・シネマ札幌 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
- 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:12fb27e6-0cee-5b02-8ea6-91117e942b3f
-SEQUENCE:0
-DTSTAMP:20250825T154707Z
-DTSTART:20250826T093000Z
-DTEND:20250826T104600Z
-SUMMARY:[○]  [ScreenX] ＜応援上映＞も～っとつながる！KING
-  OF PRISM-YEC- ルート1オバレ ScreenX 2D
-LOCATION:ユナイテッド・シネマ札幌 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
- 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
- npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
- om=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:70f58c5a-18f7-5ffa-95b2-a16811e7f517
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
+DTSTAMP:20250826T155134Z
 DTSTART:20250827T071000Z
 DTEND:20250827T082300Z
 SUMMARY:[○]  [4DX] も～っとつながる！KING OF PRISM-Your Endless
@@ -152,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e57581a-4456-547b-95d5-9fdef5879e34
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
+DTSTAMP:20250826T155134Z
 DTSTART:20250827T022000Z
 DTEND:20250827T033600Z
 SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
@@ -168,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:47eb7e68-64ae-5528-aaf6-dbe3a22f7624
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
+DTSTAMP:20250826T155134Z
 DTSTART:20250826T231000Z
 DTEND:20250827T002300Z
 SUMMARY:[○]  [ScreenX] も～っとつながる！KING OF PRISM-Your End
@@ -184,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1485aa9c-dc20-54d0-b9e7-1016145694e1
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
+DTSTAMP:20250826T155134Z
 DTSTART:20250827T093000Z
 DTEND:20250827T104600Z
 SUMMARY:[○]  [ScreenX] ＜応援上映＞も～っとつながる！KING
@@ -200,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:77f4c497-274b-561d-990c-ca216db1fa57
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
+DTSTAMP:20250826T155134Z
 DTSTART:20250828T071000Z
 DTEND:20250828T082300Z
 SUMMARY:[○]  [4DX] も～っとつながる！KING OF PRISM-Your Endless
@@ -216,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eea4475e-aeb5-5d06-bee8-c288fbaa285b
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
+DTSTAMP:20250826T155134Z
 DTSTART:20250828T022000Z
 DTEND:20250828T033600Z
 SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
@@ -232,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7a13fee3-1a97-59c9-b92c-8c9e0f1c99f7
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
+DTSTAMP:20250826T155134Z
 DTSTART:20250827T231000Z
 DTEND:20250828T002300Z
 SUMMARY:[○]  [ScreenX] も～っとつながる！KING OF PRISM-Your End
@@ -248,11 +184,347 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d178ba72-f4f7-5964-957f-74334afbc5ee
 SEQUENCE:0
-DTSTAMP:20250825T154707Z
+DTSTAMP:20250826T155134Z
 DTSTART:20250828T093000Z
 DTEND:20250828T104600Z
 SUMMARY:[○]  [ScreenX] ＜応援上映＞も～っとつながる！KING
   OF PRISM-YEC- ルート1オバレ ScreenX 2D
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:384daee7-d2ba-534e-95de-809caa268c6d
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250829T032000Z
+DTEND:20250829T043300Z
+SUMMARY:[○]  [4DX] も～っとつながる！KING OF PRISM-Your Endless
+  Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:fa8fc9e4-061d-5bcd-bb01-b7218d2ec448
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250829T105000Z
+DTEND:20250829T120600Z
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:e6565100-c7a8-562a-bbe7-d20a82ceafe4
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250829T052000Z
+DTEND:20250829T063600Z
+SUMMARY:[○]  [ScreenX] ＜応援上映＞も～っとつながる！KING
+  OF PRISM-YEC- ルート2キング ScreenX 2D
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:b0fd1e3e-749b-5358-9746-d3e82b2653e7
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250829T225000Z
+DTEND:20250830T000300Z
+SUMMARY:[販売期間外]  [4DX] も～っとつながる！KING OF PRISM-
+ Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:50901b7e-5741-5d83-9fe3-e5edbf75f960
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250830T093000Z
+DTEND:20250830T104600Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:4e8f0fc7-300c-541a-a47b-c0f5162242ce
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250830T052000Z
+DTEND:20250830T063600Z
+SUMMARY:[販売期間外]  [ScreenX] ＜応援上映＞も～っとつな
+ がる！KING OF PRISM-YEC- ルート2キング ScreenX 2D
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:2f29e75d-f122-556c-994d-cfe62769cec8
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250830T225000Z
+DTEND:20250831T000300Z
+SUMMARY:[販売期間外]  [4DX] も～っとつながる！KING OF PRISM-
+ Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:b2ddc6d8-4d92-58ae-b893-bc4ebacdbc87
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250831T093000Z
+DTEND:20250831T104600Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:23ca9340-e8a4-5298-a74f-2f3cd6a49385
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250831T052000Z
+DTEND:20250831T063600Z
+SUMMARY:[販売期間外]  [ScreenX] ＜応援上映＞も～っとつな
+ がる！KING OF PRISM-YEC- ルート2キング ScreenX 2D
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:de2fd304-dc1a-55e9-aaa9-41a15f54b4fe
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250831T225000Z
+DTEND:20250901T000300Z
+SUMMARY:[販売期間外]  [4DX] も～っとつながる！KING OF PRISM-
+ Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:9ed0a71c-e6bc-5b71-ad75-9e67cf481e06
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250901T093000Z
+DTEND:20250901T104600Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:01df93b3-4120-5238-b11a-26ea41892729
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250901T052000Z
+DTEND:20250901T063600Z
+SUMMARY:[販売期間外]  [ScreenX] ＜応援上映＞も～っとつな
+ がる！KING OF PRISM-YEC- ルート2キング ScreenX 2D
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e2cc40-c5f4-5987-bb1d-1bf0643a1e58
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250901T225000Z
+DTEND:20250902T000300Z
+SUMMARY:[販売期間外]  [4DX] も～っとつながる！KING OF PRISM-
+ Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:c0fcfbcd-6413-5b66-8f0a-ae43d6757f24
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250902T093000Z
+DTEND:20250902T104600Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:2a238ded-cd70-5a25-959f-a14129988f4b
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250902T052000Z
+DTEND:20250902T063600Z
+SUMMARY:[販売期間外]  [ScreenX] ＜応援上映＞も～っとつな
+ がる！KING OF PRISM-YEC- ルート2キング ScreenX 2D
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:aecdeddc-8d69-5b51-ad31-d58c0cfaa910
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250902T225000Z
+DTEND:20250903T000300Z
+SUMMARY:[販売期間外]  [4DX] も～っとつながる！KING OF PRISM-
+ Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d2048e-5a33-5f44-b612-c61454cd9a74
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250903T093000Z
+DTEND:20250903T104600Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:0b47fc05-5019-5d61-b171-336da22a75b3
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250903T052000Z
+DTEND:20250903T063600Z
+SUMMARY:[販売期間外]  [ScreenX] ＜応援上映＞も～っとつな
+ がる！KING OF PRISM-YEC- ルート2キング ScreenX 2D
+LOCATION:ユナイテッド・シネマ札幌 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:35349cad-13c7-5a1f-93bc-6163b59fd4b3
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250903T225000Z
+DTEND:20250904T000300Z
+SUMMARY:[販売期間外]  [4DX] も～っとつながる！KING OF PRISM-
+ Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9d5b6e-575a-5baa-a698-05cab3d4416a
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250904T093000Z
+DTEND:20250904T104600Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ札幌 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12
+ 915&from=fm\nカレンダー生成プログラムのウェブサイト: ki
+ npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/sapporo/film.php?movie=12915&fr
+ om=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:ff6b3821-039d-5370-9780-4cde2d9ebed3
+SEQUENCE:0
+DTSTAMP:20250826T155134Z
+DTSTART:20250904T052000Z
+DTEND:20250904T063600Z
+SUMMARY:[販売期間外]  [ScreenX] ＜応援上映＞も～っとつな
+ がる！KING OF PRISM-YEC- ルート2キング ScreenX 2D
 LOCATION:ユナイテッド・シネマ札幌 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/sapporo/film.php?movie=12

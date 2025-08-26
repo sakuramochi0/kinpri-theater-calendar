@@ -5,118 +5,13 @@ NAME:新宿バルト9 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:新宿バルト9 『KING OF PRISM -Dramatic PRISM.1-』上映
  時間
 BEGIN:VEVENT
-UID:29558993-4dd7-5a9d-924b-7f13cd40db3f
+UID:97d59102-7bc0-5404-b066-00126317e7c8
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
-DTSTART:20250825T143000Z
-DTEND:20250825T145900Z
-SUMMARY:[-販売終了]  [通常上映]KING OF PRISM-Your Endless Call-ル
- ート1オバレ
-LOCATION:新宿バルト9 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:8acc6990-d4ef-55ee-ae91-e795dd94246b
-SEQUENCE:0
-DTSTAMP:20250825T153127Z
-DTSTART:20250824T233000Z
-DTEND:20250825T004000Z
-SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
- 1オバレ
-LOCATION:新宿バルト9 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:b50410a5-e486-51ff-a0ce-c7af44b64dc2
-SEQUENCE:0
-DTSTAMP:20250825T153127Z
-DTSTART:20250825T040000Z
-DTEND:20250825T051500Z
-SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
- 1オバレ
-LOCATION:新宿バルト9 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:a3314672-0c30-575a-8a61-10b1bb08b07a
-SEQUENCE:0
-DTSTAMP:20250825T153127Z
-DTSTART:20250825T074500Z
-DTEND:20250825T085500Z
-SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
- 1オバレ
-LOCATION:新宿バルト9 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:01cbd76c-3a1e-57b9-aa88-5fa75482a52f
-SEQUENCE:0
-DTSTAMP:20250825T153127Z
-DTSTART:20250825T092000Z
-DTEND:20250825T103500Z
-SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
- 1オバレ
-LOCATION:新宿バルト9 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:ba07318e-9461-58ad-89b7-1ae9717f08e1
-SEQUENCE:0
-DTSTAMP:20250825T153127Z
-DTSTART:20250825T121000Z
-DTEND:20250825T132500Z
-SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
- 1オバレ
-LOCATION:新宿バルト9 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:2225e927-e716-5a93-92b1-d4707d0fbcb5
-SEQUENCE:0
-DTSTAMP:20250825T153127Z
-DTSTART:20250825T135000Z
-DTEND:20250825T145900Z
-SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
- 1オバレ
-LOCATION:新宿バルト9 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:b1c048ee-a710-585a-8088-6c3438d38d42
-SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250826T130500Z
 DTEND:20250826T141500Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
+SUMMARY:[-終了]  [通常上映]KING OF PRISM-Your Endless Call-ルート
+ 1オバレ
 LOCATION:新宿バルト9 シアター９
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
@@ -125,13 +20,13 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:a29b046f-60c3-5547-96fa-fbe0f444376c
+UID:5846af33-12b7-5502-becb-a3e33301f323
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250825T232500Z
 DTEND:20250826T004000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
+SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
+ 1オバレ
 LOCATION:新宿バルト9 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
@@ -140,13 +35,13 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:5ff570fe-b182-58f3-8e3f-5229fd97d84f
+UID:1e38b1e1-e213-5e12-b166-a71b4904403b
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250826T042500Z
 DTEND:20250826T054000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
+SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
+ 1オバレ
 LOCATION:新宿バルト9 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
@@ -155,13 +50,13 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:48f2cbf0-83c8-5dad-a245-fcfbf8627a94
+UID:ca6a355e-4712-56e2-a51f-be2d341ded8e
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250826T070000Z
 DTEND:20250826T081500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
+SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
+ 1オバレ
 LOCATION:新宿バルト9 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
@@ -170,13 +65,13 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:a465367d-c794-5cb1-8bcb-d452b6776c97
+UID:a32095bc-6ad6-5b76-9f98-7c521b868f53
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250826T093500Z
 DTEND:20250826T105000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
+SUMMARY:[-終了]  [応援上映]KING OF PRISM-Your Endless Call-ルート
+ 1オバレ
 LOCATION:新宿バルト9 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
@@ -187,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:daf65c7d-512c-5cd9-914b-e33d69deadfb
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250827T141000Z
 DTEND:20250827T145900Z
 SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -202,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8e49a7e4-0a64-59b0-a735-c7dff71dd571
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250826T233000Z
 DTEND:20250827T004000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -217,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c8778fe9-5ac0-50dc-88c1-0c8d97eef4c0
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250827T013500Z
 DTEND:20250827T025000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -232,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9c55c40b-8889-5d5b-8f71-2a7072d3db75
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250827T042000Z
 DTEND:20250827T053500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -247,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e8d8b258-a202-5f1c-824e-3118b0b2ed08
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250827T080500Z
 DTEND:20250827T091500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -262,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ef6329fa-e458-52ff-bd8d-d8df590ad351
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250827T093000Z
 DTEND:20250827T104500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -277,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:29c7d878-4bd2-5c8a-a8b3-5f3e181451b7
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250827T123000Z
 DTEND:20250827T134500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -292,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3c08a409-56cb-57ed-b152-6583df455028
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250828T145900Z
 DTEND:20250828T145900Z
 SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -307,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:952a6b2e-e029-5029-8c51-66b099772950
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250827T233000Z
 DTEND:20250828T004000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -322,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d86e8fdc-d3a5-5f86-b1e2-b9cc488d3da9
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250828T042000Z
 DTEND:20250828T053500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -337,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:748d29cd-46c4-5b62-8c98-b4495318425d
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250828T081500Z
 DTEND:20250828T093000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -352,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f90b2008-4956-5080-b48a-0c5039e74a3e
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250828T100000Z
 DTEND:20250828T111500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -367,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fcc08c90-1c26-54f2-aa71-bb2608f01170
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250828T114000Z
 DTEND:20250828T125500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -382,12 +277,87 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2f1bce08-1992-518b-9a59-55b4615cdab9
 SEQUENCE:0
-DTSTAMP:20250825T153127Z
+DTSTAMP:20250826T152915Z
 DTSTART:20250828T132000Z
 DTEND:20250828T143500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート1オバレ
 LOCATION:新宿バルト9 シアター９
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:72b528e2-cf11-537c-9247-b4fecfd898b7
+SEQUENCE:0
+DTSTAMP:20250826T152915Z
+DTSTART:20250829T135500Z
+DTEND:20250829T145900Z
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
+ ルート2キング
+LOCATION:新宿バルト9 シアター１
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:72ab7ce5-98d9-55cf-b3c9-ff77c8cf838a
+SEQUENCE:0
+DTSTAMP:20250826T152915Z
+DTSTART:20250829T000000Z
+DTEND:20250829T011500Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート2キング
+LOCATION:新宿バルト9 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:85a5177a-0948-5c81-8b74-e28d38f904b5
+SEQUENCE:0
+DTSTAMP:20250826T152915Z
+DTSTART:20250829T040000Z
+DTEND:20250829T051500Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート2キング
+LOCATION:新宿バルト9 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:6bd9cdec-dff2-5d6e-874e-9b5ef0c80ad9
+SEQUENCE:0
+DTSTAMP:20250826T152915Z
+DTSTART:20250829T090000Z
+DTEND:20250829T101000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート2キング
+LOCATION:新宿バルト9 シアター８
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:ef5d5b84-99f5-5479-8d11-18a85da55920
+SEQUENCE:0
+DTSTAMP:20250826T152915Z
+DTSTART:20250829T114000Z
+DTEND:20250829T125500Z
+SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート2キング
+LOCATION:新宿バルト9 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/shinjuku_wald9/cinema_schedule/C4251\n
  カレンダー生成プログラムのウェブサイト: kinpri-theater-

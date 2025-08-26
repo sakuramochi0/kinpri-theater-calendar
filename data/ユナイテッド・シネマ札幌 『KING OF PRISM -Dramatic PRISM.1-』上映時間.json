@@ -2,58 +2,30 @@
   {
     "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D",
     "screenName": "1screen",
-    "startTime": "2025-08-25T07:10:00.000Z",
-    "endTime": "2025-08-25T08:23:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D",
-    "screenName": "1screen",
-    "startTime": "2025-08-25T02:20:00.000Z",
-    "endTime": "2025-08-25T03:36:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[ScreenX] も～っとつながる！KING OF PRISM-Your Endless Call-ルート1オバレ ScreenX 2D",
-    "screenName": "6screen",
-    "startTime": "2025-08-24T23:10:00.000Z",
-    "endTime": "2025-08-25T00:23:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
-    "screenName": "6screen",
-    "startTime": "2025-08-25T09:30:00.000Z",
-    "endTime": "2025-08-25T10:46:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D",
-    "screenName": "1screen",
     "startTime": "2025-08-26T07:10:00.000Z",
     "endTime": "2025-08-26T08:23:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D",
     "screenName": "1screen",
     "startTime": "2025-08-26T02:20:00.000Z",
     "endTime": "2025-08-26T03:36:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[ScreenX] も～っとつながる！KING OF PRISM-Your Endless Call-ルート1オバレ ScreenX 2D",
     "screenName": "6screen",
     "startTime": "2025-08-25T23:10:00.000Z",
     "endTime": "2025-08-26T00:23:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
     "screenName": "6screen",
     "startTime": "2025-08-26T09:30:00.000Z",
     "endTime": "2025-08-26T10:46:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D",
@@ -110,5 +82,152 @@
     "startTime": "2025-08-28T09:30:00.000Z",
     "endTime": "2025-08-28T10:46:00.000Z",
     "status": "○"
+  },
+  {
+    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-08-29T03:20:00.000Z",
+    "endTime": "2025-08-29T04:33:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-08-29T10:50:00.000Z",
+    "endTime": "2025-08-29T12:06:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート2キング ScreenX 2D",
+    "screenName": "6screen",
+    "startTime": "2025-08-29T05:20:00.000Z",
+    "endTime": "2025-08-29T06:36:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-08-29T22:50:00.000Z",
+    "endTime": "2025-08-30T00:03:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-08-30T09:30:00.000Z",
+    "endTime": "2025-08-30T10:46:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート2キング ScreenX 2D",
+    "screenName": "6screen",
+    "startTime": "2025-08-30T05:20:00.000Z",
+    "endTime": "2025-08-30T06:36:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-08-30T22:50:00.000Z",
+    "endTime": "2025-08-31T00:03:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-08-31T09:30:00.000Z",
+    "endTime": "2025-08-31T10:46:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート2キング ScreenX 2D",
+    "screenName": "6screen",
+    "startTime": "2025-08-31T05:20:00.000Z",
+    "endTime": "2025-08-31T06:36:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-08-31T22:50:00.000Z",
+    "endTime": "2025-09-01T00:03:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-09-01T09:30:00.000Z",
+    "endTime": "2025-09-01T10:46:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート2キング ScreenX 2D",
+    "screenName": "6screen",
+    "startTime": "2025-09-01T05:20:00.000Z",
+    "endTime": "2025-09-01T06:36:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-09-01T22:50:00.000Z",
+    "endTime": "2025-09-02T00:03:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-09-02T09:30:00.000Z",
+    "endTime": "2025-09-02T10:46:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート2キング ScreenX 2D",
+    "screenName": "6screen",
+    "startTime": "2025-09-02T05:20:00.000Z",
+    "endTime": "2025-09-02T06:36:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-09-02T22:50:00.000Z",
+    "endTime": "2025-09-03T00:03:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-09-03T09:30:00.000Z",
+    "endTime": "2025-09-03T10:46:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート2キング ScreenX 2D",
+    "screenName": "6screen",
+    "startTime": "2025-09-03T05:20:00.000Z",
+    "endTime": "2025-09-03T06:36:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-09-03T22:50:00.000Z",
+    "endTime": "2025-09-04T00:03:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
+    "screenName": "1screen",
+    "startTime": "2025-09-04T09:30:00.000Z",
+    "endTime": "2025-09-04T10:46:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート2キング ScreenX 2D",
+    "screenName": "6screen",
+    "startTime": "2025-09-04T05:20:00.000Z",
+    "endTime": "2025-09-04T06:36:00.000Z",
+    "status": "販売期間外"
   }
 ]
