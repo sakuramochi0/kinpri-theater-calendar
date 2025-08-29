@@ -6,82 +6,14 @@ NAME:TOHOシネマズ 池袋 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:TOHOシネマズ 池袋 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:09e9a6ee-bce7-541a-a376-82677d414823
+UID:0e16668d-2152-59f1-a306-9c76978935f7
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
-DTSTART:20250828T090000Z
-DTEND:20250828T101500Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート１　われらが青春（Ｓｃｒｅ
- ｅｎＸ）
-LOCATION:TOHOシネマズ 池袋 SCREEN10
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:7ce9db2a-eac4-5302-9a3b-d9abdcee353a
-SEQUENCE:0
-DTSTAMP:20250828T152829Z
-DTSTART:20250827T235000Z
-DTEND:20250828T010500Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート１　われらが青春（Ｓｃｒｅ
- ｅｎＸ）
-LOCATION:TOHOシネマズ 池袋 SCREEN10
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:b6909334-9fe0-565c-a799-92208f9e9d6a
-SEQUENCE:0
-DTSTAMP:20250828T152829Z
-DTSTART:20250828T013000Z
-DTEND:20250828T024500Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート１　われらが青春（Ｓｃｒｅ
- ｅｎＸ）
-LOCATION:TOHOシネマズ 池袋 SCREEN10
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:82e18aff-4d36-5652-a515-25cda4e8530f
-SEQUENCE:0
-DTSTAMP:20250828T152829Z
-DTSTART:20250828T104000Z
-DTEND:20250828T115500Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート１　われらが青春（Ｓｃｒｅ
- ｅｎＸ）
-LOCATION:TOHOシネマズ 池袋 SCREEN10
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:38662c5d-e1df-5a84-b550-697ac92b20a0
-SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250829T091000Z
 DTEND:20250829T102500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
+ ｃｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -91,14 +23,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:e8f242ed-4a03-5544-b1a7-d850b942cf1f
+UID:51877688-43fa-5cc4-bab4-78af96702be1
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250828T231500Z
 DTEND:20250829T003000Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
+ ｃｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -108,14 +40,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:0a30aa56-8eda-59b9-b9c1-d6a119086637
+UID:8722943b-01e2-52e0-b77d-ee0750008503
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250829T005500Z
 DTEND:20250829T021000Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
+ ｃｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -125,14 +57,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:b28f696b-560a-549d-91ca-fdd393e90817
+UID:3f94f826-ce69-5151-ac84-147478af45c3
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250829T023500Z
 DTEND:20250829T035000Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
+ ｃｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -142,14 +74,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:8a15558c-3984-5e8f-80bf-0ca4498af1b6
+UID:8e85a9b9-a852-5269-9af6-4d5b76630bd8
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250829T073000Z
 DTEND:20250829T084500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
+ ｃｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -159,14 +91,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:c7d745a5-a4b5-5c20-9d75-90c3b847d7e9
+UID:54c0c1ae-1804-5248-a3ec-af71a14f5017
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250829T105000Z
 DTEND:20250829T120500Z
-SUMMARY:[売り切れ]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
+ ｃｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -178,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5abe45eb-8c49-5c52-83ab-0aba63b47612
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250830T091000Z
 DTEND:20250830T102500Z
 SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
@@ -195,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8e706fc1-0921-54af-a932-c5319d30e439
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250829T231500Z
 DTEND:20250830T003000Z
 SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
@@ -210,12 +142,12 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:8864efa0-108e-5748-84f5-263ae8cd9f93
+UID:16bffa52-6a0e-52f7-8db8-3b23b78c33fc
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250830T005500Z
 DTEND:20250830T021000Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+SUMMARY:[○販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
  　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
  ｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
@@ -229,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:13f45b76-cc38-5354-af82-e510d0da64d2
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250830T023500Z
 DTEND:20250830T035000Z
 SUMMARY:[販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ　
@@ -246,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6e181388-8de0-54cf-bb79-6b3865572d55
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250830T073000Z
 DTEND:20250830T084500Z
 SUMMARY:[販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ　
@@ -263,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dbce8791-f834-5915-927b-f0669c0c75c3
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250830T105000Z
 DTEND:20250830T120500Z
 SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
@@ -280,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c685945d-2f91-537e-9d03-1ac913282446
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250831T080000Z
 DTEND:20250831T091500Z
 SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
@@ -295,12 +227,12 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:6a93237f-142c-52c8-b32e-4eb24d7e7f06
+UID:1450ddec-967a-54d8-9989-d579f9c39ea2
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250831T044000Z
 DTEND:20250831T055500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+SUMMARY:[○販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
  　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
  ｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
@@ -312,12 +244,12 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:3ae5cfbd-fcd3-59ab-8e2f-6cdefed81625
+UID:a0e101b9-6777-5056-9c38-9d855699a887
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250831T062000Z
 DTEND:20250831T073500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+SUMMARY:[○販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
  　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
  ｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
@@ -331,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:77a08a9b-ffe5-54c8-a5a6-fab0b41f8e50
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250831T094000Z
 DTEND:20250831T105500Z
 SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
@@ -346,14 +278,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:6ba0b08f-f7c1-577a-a033-6d02da9713b4
+UID:0c084a58-8c01-57ac-a2df-e315dea6221d
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250901T091000Z
 DTEND:20250901T102500Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
- ｃｒｅｅｎＸ）
+SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+ 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
+ ｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -363,14 +295,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:cae6b964-4ade-501a-9ea1-bbae7f726867
+UID:ee39721f-6d8b-5a89-b00b-c47d0b4b0e16
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250831T231500Z
 DTEND:20250901T003000Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
- ｃｒｅｅｎＸ）
+SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+ 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
+ ｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -380,14 +312,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:222218c4-343e-59fa-bc2d-f6be8b99732c
+UID:83a9bdad-8b14-50f4-ba77-8f85006bee75
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250901T005500Z
 DTEND:20250901T021000Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
- ｃｒｅｅｎＸ）
+SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+ 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
+ ｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -397,14 +329,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:0a354eea-7b02-59a9-9348-aedf306a687f
+UID:1e83ca7b-7f05-5f07-9aab-0a047fbce2d3
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250901T023500Z
 DTEND:20250901T035000Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
- ｃｒｅｅｎＸ）
+SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+ 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
+ ｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -414,14 +346,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:57c160b4-800e-5564-a48d-31a88195327e
+UID:853e1da2-98c6-5ab8-8ee1-69c4ab75cffe
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250901T073000Z
 DTEND:20250901T084500Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
- ｃｒｅｅｎＸ）
+SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+ 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
+ ｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -431,14 +363,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:0dc17fe5-fa48-5f96-90ec-40fa10e99bbc
+UID:ba3f6f00-7276-5b9c-b726-9e5e419dc198
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250901T105000Z
 DTEND:20250901T120500Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
- ｃｒｅｅｎＸ）
+SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+ 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
+ ｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 池袋 SCREEN10
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -450,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:73061b62-8978-586b-a02b-4b0602f6f715
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250901T231500Z
 DTEND:20250902T003000Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -467,7 +399,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:37ef99bc-61c1-5bd0-9a87-5e3b7431f0c2
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250902T074500Z
 DTEND:20250902T090000Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -484,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1c20032c-29f4-56cb-a197-ed01d21b0a8f
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250902T124500Z
 DTEND:20250902T140000Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -501,7 +433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d295f00b-1c55-5141-a332-06e8edb999eb
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250903T081000Z
 DTEND:20250903T092500Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -518,7 +450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1857da7e-dffd-5cbe-a29f-e5db7a494bd5
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250903T031000Z
 DTEND:20250903T042500Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -535,7 +467,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f6de0189-0186-5891-8395-07a4f8c704e5
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250903T095000Z
 DTEND:20250903T110500Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -552,7 +484,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0087ac40-4847-5549-887f-5a885d25815c
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250903T231500Z
 DTEND:20250904T003000Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -569,7 +501,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:93cbe949-d5c1-55f6-b0a0-27b5c67831c3
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250904T074500Z
 DTEND:20250904T090000Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -586,7 +518,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e73eedbe-8ec8-5268-b542-d0a3364e8956
 SEQUENCE:0
-DTSTAMP:20250828T152829Z
+DTSTAMP:20250829T152645Z
 DTSTART:20250904T124500Z
 DTEND:20250904T140000Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ

@@ -1,45 +1,17 @@
 [
   {
-    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D",
-    "screenName": "3screen",
-    "startTime": "2025-08-27T02:15:00.000Z",
-    "endTime": "2025-08-27T03:28:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D",
-    "screenName": "3screen",
-    "startTime": "2025-08-27T09:50:00.000Z",
-    "endTime": "2025-08-27T11:06:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D",
-    "screenName": "3screen",
-    "startTime": "2025-08-28T02:15:00.000Z",
-    "endTime": "2025-08-28T03:28:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート1オバレ 4DX2D",
-    "screenName": "3screen",
-    "startTime": "2025-08-28T09:50:00.000Z",
-    "endTime": "2025-08-28T11:06:00.000Z",
-    "status": "○"
-  },
-  {
     "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
     "screenName": "3screen",
     "startTime": "2025-08-29T02:30:00.000Z",
     "endTime": "2025-08-29T03:43:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
     "screenName": "3screen",
     "startTime": "2025-08-29T09:50:00.000Z",
     "endTime": "2025-08-29T11:06:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
@@ -53,14 +25,14 @@
     "screenName": "3screen",
     "startTime": "2025-08-31T08:50:00.000Z",
     "endTime": "2025-08-31T10:06:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
     "screenName": "3screen",
     "startTime": "2025-09-01T08:50:00.000Z",
     "endTime": "2025-09-01T10:06:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D",
