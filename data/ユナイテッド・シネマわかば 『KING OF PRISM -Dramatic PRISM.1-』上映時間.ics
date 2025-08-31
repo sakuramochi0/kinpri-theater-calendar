@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマわかば 『KING OF PRISM -Dramatic PR
 X-WR-CALNAME:ユナイテッド・シネマわかば 『KING OF PRISM -Dra
  matic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:78b6f660-39bf-51cb-9837-d70ce2c269f8
+UID:eee864c3-5d3e-59c3-be96-991fea40d57c
 SEQUENCE:0
-DTSTAMP:20250828T154840Z
-DTSTART:20250829T030000Z
-DTEND:20250829T041000Z
-SUMMARY:[○]  [4DX] も～っとつながる！KING OF PRISM-Your Endless
-  Call- ルート2キング 4DX2D
+DTSTAMP:20250831T154346Z
+DTSTART:20250831T090500Z
+DTEND:20250831T101800Z
+SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
 LOCATION:ユナイテッド・シネマわかば 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=129
@@ -22,11 +22,11 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:e0714c61-b698-5e8f-946b-258ee9262aae
+UID:1fd4ba62-9d69-5714-93a2-05f780959f7b
 SEQUENCE:0
-DTSTAMP:20250828T154840Z
-DTSTART:20250829T095000Z
-DTEND:20250829T110300Z
+DTSTAMP:20250831T154346Z
+DTSTART:20250901T090000Z
+DTEND:20250901T101300Z
 SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
  PRISM-Your Endless Call- ルート2キング 4DX2D
 LOCATION:ユナイテッド・シネマわかば 5screen
@@ -38,61 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c2c11821-261b-5d1d-b010-1ae7cf05fb6f
+UID:611cdd4f-76ac-5cab-b66b-77e8299b3a4e
 SEQUENCE:0
-DTSTAMP:20250828T154840Z
-DTSTART:20250830T090500Z
-DTEND:20250830T101800Z
-SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
-LOCATION:ユナイテッド・シネマわかば 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=129
- 15&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=12915&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:ddd73bc1-67ee-5b06-8b37-779e46201f55
-SEQUENCE:0
-DTSTAMP:20250828T154840Z
-DTSTART:20250831T090500Z
-DTEND:20250831T101800Z
-SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
-LOCATION:ユナイテッド・シネマわかば 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=129
- 15&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=12915&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:5537e6ba-3a0f-5d72-a9f0-b7d6680058d0
-SEQUENCE:0
-DTSTAMP:20250828T154840Z
-DTSTART:20250901T090000Z
-DTEND:20250901T101300Z
-SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
-LOCATION:ユナイテッド・シネマわかば 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=129
- 15&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=12915&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:cef1dc90-a1ff-5033-ad07-afd3ca5af2a0
-SEQUENCE:0
-DTSTAMP:20250828T154840Z
+DTSTAMP:20250831T154346Z
 DTSTART:20250902T090000Z
 DTEND:20250902T101300Z
-SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート2キング 4DX2D
 LOCATION:ユナイテッド・シネマわかば 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=129
@@ -102,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/wakaba/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f2b0467a-cc34-5c4b-9a58-cf22524b9bfb
+UID:66fe048b-e805-5d5b-a98d-923025bc6f57
 SEQUENCE:0
-DTSTAMP:20250828T154840Z
+DTSTAMP:20250831T154346Z
 DTSTART:20250903T090000Z
 DTEND:20250903T101300Z
-SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート2キング 4DX2D
 LOCATION:ユナイテッド・シネマわかば 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/wakaba/film.php?movie=129
@@ -120,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3610d19f-621b-51db-b5a0-0ebfc121b1fd
 SEQUENCE:0
-DTSTAMP:20250828T154840Z
+DTSTAMP:20250831T154346Z
 DTSTART:20250904T090000Z
 DTEND:20250904T101300Z
 SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
