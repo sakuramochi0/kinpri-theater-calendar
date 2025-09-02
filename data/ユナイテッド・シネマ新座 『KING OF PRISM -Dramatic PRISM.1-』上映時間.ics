@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ新座 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ新座 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:5ab9d6e6-2285-562d-9402-ec3b944614c0
+UID:fe751d3a-df8c-55bb-abd2-2277a2ade67b
 SEQUENCE:0
-DTSTAMP:20250831T154321Z
-DTSTART:20250831T034000Z
-DTEND:20250831T045500Z
+DTSTAMP:20250902T153429Z
+DTSTART:20250902T034000Z
+DTEND:20250902T045500Z
 SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
  る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
 LOCATION:ユナイテッド・シネマ新座 5screen
@@ -22,41 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:006a30bc-9397-5fc6-a393-5f6c2a3dd2f4
-SEQUENCE:0
-DTSTAMP:20250831T154321Z
-DTSTART:20250901T034000Z
-DTEND:20250901T045500Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート2キング 4DX2D
-LOCATION:ユナイテッド・シネマ新座 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:b30a5083-d14a-5db3-8e94-8d8b48a4b0cd
-SEQUENCE:0
-DTSTAMP:20250831T154321Z
-DTSTART:20250902T034000Z
-DTEND:20250902T045500Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート2キング 4DX2D
-LOCATION:ユナイテッド・シネマ新座 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
 UID:06464aef-3762-525f-ae02-540072715ff0
 SEQUENCE:0
-DTSTAMP:20250831T154321Z
+DTSTAMP:20250902T153429Z
 DTSTART:20250903T034000Z
 DTEND:20250903T045500Z
 SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
@@ -70,13 +38,125 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:db2709b7-bd31-5c48-92b5-5d5493d31e8c
+UID:cce47937-f541-515a-8816-dcae992cdca3
 SEQUENCE:0
-DTSTAMP:20250831T154321Z
+DTSTAMP:20250902T153429Z
 DTSTART:20250904T034000Z
 DTEND:20250904T045500Z
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート2キング 4DX2D
+LOCATION:ユナイテッド・シネマ新座 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:8e37e0d5-02a4-5b01-b1bf-2dfa4375ae70
+SEQUENCE:0
+DTSTAMP:20250902T153429Z
+DTSTART:20250905T080000Z
+DTEND:20250905T091500Z
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート3クイーン 4DX2D
+LOCATION:ユナイテッド・シネマ新座 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:e2207d45-f117-5ed3-81e5-219390f49224
+SEQUENCE:0
+DTSTAMP:20250902T153429Z
+DTSTART:20250906T104500Z
+DTEND:20250906T120000Z
 SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
+ る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+LOCATION:ユナイテッド・シネマ新座 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:db3328d3-533f-59c5-8eee-8bbf400747bb
+SEQUENCE:0
+DTSTAMP:20250902T153429Z
+DTSTART:20250907T104500Z
+DTEND:20250907T120000Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+LOCATION:ユナイテッド・シネマ新座 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a66bf8af-cf3a-50a5-ad6f-c07748657a13
+SEQUENCE:0
+DTSTAMP:20250902T153429Z
+DTSTART:20250908T080000Z
+DTEND:20250908T091500Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+LOCATION:ユナイテッド・シネマ新座 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a7615d-02b0-5033-a160-b4257adc88d2
+SEQUENCE:0
+DTSTAMP:20250902T153429Z
+DTSTART:20250909T080000Z
+DTEND:20250909T091500Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+LOCATION:ユナイテッド・シネマ新座 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc17ddb-86dd-5346-92b5-19c7f0bfdbbd
+SEQUENCE:0
+DTSTAMP:20250902T153429Z
+DTSTART:20250910T080000Z
+DTEND:20250910T091500Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+LOCATION:ユナイテッド・シネマ新座 5screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
+ &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
+ i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/niza/film.php?movie=12915&from=
+ fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1cdc1b56-2544-520b-9193-d48db8e16155
+SEQUENCE:0
+DTSTAMP:20250902T153429Z
+DTSTART:20250911T080000Z
+DTEND:20250911T091500Z
+SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
 LOCATION:ユナイテッド・シネマ新座 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/niza/film.php?movie=12915
