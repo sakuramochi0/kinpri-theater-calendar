@@ -6,82 +6,14 @@ NAME:TOHOシネマズ 熊本サクラマチ 『KING OF PRISM -Dramatic PRI
 X-WR-CALNAME:TOHOシネマズ 熊本サクラマチ 『KING OF PRISM -Dram
  atic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:97efe024-a778-5a62-a8ff-f4b426c7419b
+UID:e8a7c1eb-1760-5520-a674-a6beba69e5d6
 SEQUENCE:0
-DTSTAMP:20250901T152828Z
-DTSTART:20250901T001500Z
-DTEND:20250901T013500Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
- ｃｒｅｅｎＸ）
-LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:7b8c88ff-a585-5dc6-b43b-c22ab02c5197
-SEQUENCE:0
-DTSTAMP:20250901T152828Z
-DTSTART:20250901T074500Z
-DTEND:20250901T090500Z
-SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
- Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
- ｃｒｅｅｎＸ）
-LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:de27fe3f-6dd8-5e92-b983-6c4ed8c4f54a
-SEQUENCE:0
-DTSTAMP:20250901T152828Z
-DTSTART:20250902T001500Z
-DTEND:20250902T013500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
-LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:b34bccd8-a9ee-5431-bcb0-2486e0d4e153
-SEQUENCE:0
-DTSTAMP:20250901T152828Z
-DTSTART:20250902T074500Z
-DTEND:20250902T090500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
-LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:29880c5b-eac0-5ca5-939e-b63aeee504b0
-SEQUENCE:0
-DTSTAMP:20250901T152828Z
+DTSTAMP:20250903T152829Z
 DTSTART:20250903T001500Z
 DTEND:20250903T013500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
+ ｃｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -91,14 +23,14 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:f5dd7121-aaaf-5e64-97a5-3d857091fd82
+UID:096c4686-2d1f-58b9-b50a-c36d4225fe64
 SEQUENCE:0
-DTSTAMP:20250901T152828Z
+DTSTAMP:20250903T152829Z
 DTSTART:20250903T074500Z
 DTEND:20250903T090500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
- ｒｅｅｎＸ）
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓ
+ ｃｒｅｅｎＸ）
 LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
@@ -110,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b095291d-d006-5367-9476-7e83e9f8dd00
 SEQUENCE:0
-DTSTAMP:20250901T152828Z
+DTSTAMP:20250903T152829Z
 DTSTART:20250904T001500Z
 DTEND:20250904T013500Z
 SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
@@ -127,12 +59,131 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dae82364-43dd-55f2-b685-3d5b6b0903e2
 SEQUENCE:0
-DTSTAMP:20250901T152828Z
+DTSTAMP:20250903T152829Z
 DTSTART:20250904T074500Z
 DTEND:20250904T090500Z
 SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
  　ＰＲＩＳＭ　ルート２　伝説のキングカップ（Ｓｃ
  ｒｅｅｎＸ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=027038
+END:VEVENT
+BEGIN:VEVENT
+UID:f6b776cd-48c1-5546-99e8-d690346eaec1
+SEQUENCE:0
+DTSTAMP:20250903T152829Z
+DTSTART:20250905T051500Z
+DTEND:20250905T063500Z
+SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+ 　ＰＲＩＳＭ　ルート３　奇跡のクイーンカップ（発
+ 声ＯＫ・ＳｃｒＸ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=027038
+END:VEVENT
+BEGIN:VEVENT
+UID:5fca50d7-a5ca-50a7-a6d7-8d1ac67ce9cb
+SEQUENCE:0
+DTSTAMP:20250903T152829Z
+DTSTART:20250906T002500Z
+DTEND:20250906T014500Z
+SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
+ 　ＰＲＩＳＭ　ルート３　奇跡のクイーンカップ（発
+ 声ＯＫ・ＳｃｒＸ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=027038
+END:VEVENT
+BEGIN:VEVENT
+UID:9a71630a-30cb-56cc-b2ce-d6c9dffc18df
+SEQUENCE:0
+DTSTAMP:20250903T152829Z
+DTSTART:20250907T051500Z
+DTEND:20250907T063500Z
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート３　奇跡のクイーンカップ（
+ 発声ＯＫ・ＳｃｒＸ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=027038
+END:VEVENT
+BEGIN:VEVENT
+UID:00e14cb9-0e63-5535-b63a-13d5452540a8
+SEQUENCE:0
+DTSTAMP:20250903T152829Z
+DTSTART:20250908T063000Z
+DTEND:20250908T075000Z
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート３　奇跡のクイーンカップ（
+ 発声ＯＫ・ＳｃｒＸ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=027038
+END:VEVENT
+BEGIN:VEVENT
+UID:d826afd4-a8d1-5ce5-817c-64a83ad7a8b4
+SEQUENCE:0
+DTSTAMP:20250903T152829Z
+DTSTART:20250909T063000Z
+DTEND:20250909T075000Z
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート３　奇跡のクイーンカップ（
+ 発声ＯＫ・ＳｃｒＸ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=027038
+END:VEVENT
+BEGIN:VEVENT
+UID:c936c42e-54e6-5a94-b655-1e15ece00b6e
+SEQUENCE:0
+DTSTAMP:20250903T152829Z
+DTSTART:20250910T063000Z
+DTEND:20250910T075000Z
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート３　奇跡のクイーンカップ（
+ 発声ＯＫ・ＳｃｒＸ）
+LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=027038
+END:VEVENT
+BEGIN:VEVENT
+UID:59ac5286-1930-51f1-ad65-9d24d30f0d3d
+SEQUENCE:0
+DTSTAMP:20250903T152829Z
+DTSTART:20250911T063000Z
+DTEND:20250911T075000Z
+SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
+ Ｆ　ＰＲＩＳＭ　ルート３　奇跡のクイーンカップ（
+ 発声ＯＫ・ＳｃｒＸ）
 LOCATION:TOHOシネマズ 熊本サクラマチ SCREEN9
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
