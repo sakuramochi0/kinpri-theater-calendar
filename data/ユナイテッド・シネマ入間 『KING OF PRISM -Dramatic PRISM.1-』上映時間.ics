@@ -6,61 +6,13 @@ NAME:ユナイテッド・シネマ入間 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ入間 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:76288904-1d8a-5b80-a498-f2af71d74ed8
+UID:90ba247e-dccf-5039-b244-381aff25da8e
 SEQUENCE:0
-DTSTAMP:20250904T155136Z
-DTSTART:20250903T233000Z
-DTEND:20250904T004000Z
-SUMMARY:[販売対象外]  [4DX] も～っとつながる！KING OF PRISM-
- Your Endless Call- ルート2キング 4DX2D
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:4c9fcf6e-3a48-50f8-b12c-53fd1c29cdd7
-SEQUENCE:0
-DTSTAMP:20250904T155136Z
-DTSTART:20250904T124500Z
-DTEND:20250904T135800Z
-SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート2キング 4DX2D
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:e87019e9-8102-573c-b02a-d66ab998d5f9
-SEQUENCE:0
-DTSTAMP:20250904T155136Z
-DTSTART:20250905T102500Z
-DTEND:20250905T113800Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:4f4bcc65-3efc-57e8-a35b-36bf66e93f21
-SEQUENCE:0
-DTSTAMP:20250904T155136Z
+DTSTAMP:20250906T152933Z
 DTSTART:20250906T102500Z
 DTEND:20250906T113800Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
+SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
+ る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -72,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a698fad3-5526-54b5-aefb-4fc28cdadd42
 SEQUENCE:0
-DTSTAMP:20250904T155136Z
+DTSTAMP:20250906T152933Z
 DTSTART:20250907T102500Z
 DTEND:20250907T113800Z
 SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
@@ -86,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:84397d3b-68d0-5761-a698-57b11f1fb9c3
+UID:9e190dd6-4f3d-5114-9956-3f83387d0f26
 SEQUENCE:0
-DTSTAMP:20250904T155136Z
+DTSTAMP:20250906T152933Z
 DTSTART:20250908T111000Z
 DTEND:20250908T122300Z
-SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート3クイーン 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -102,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d06f5fa0-a562-5643-a3f2-e1a9177f005a
+UID:7f7b5a26-4e85-59f2-915b-13afbdbd4109
 SEQUENCE:0
-DTSTAMP:20250904T155136Z
+DTSTAMP:20250906T152933Z
 DTSTART:20250909T111000Z
 DTEND:20250909T122300Z
-SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート3クイーン 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -120,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e95f8484-5119-521b-8aea-1cd138144bf3
 SEQUENCE:0
-DTSTAMP:20250904T155136Z
+DTSTAMP:20250906T152933Z
 DTSTART:20250910T111000Z
 DTEND:20250910T122300Z
 SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
@@ -136,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d27da05d-c647-501a-b716-0ed9c965c2c4
 SEQUENCE:0
-DTSTAMP:20250904T155136Z
+DTSTAMP:20250906T152933Z
 DTSTART:20250911T111000Z
 DTEND:20250911T122300Z
 SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが

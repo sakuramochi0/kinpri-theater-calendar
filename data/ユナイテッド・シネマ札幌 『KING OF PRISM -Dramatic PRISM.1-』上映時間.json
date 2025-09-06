@@ -1,38 +1,17 @@
 [
   {
-    "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D",
-    "screenName": "1screen",
-    "startTime": "2025-09-04T22:50:00.000Z",
-    "endTime": "2025-09-05T00:03:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D",
-    "screenName": "1screen",
-    "startTime": "2025-09-05T10:10:00.000Z",
-    "endTime": "2025-09-05T11:26:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート3クイーン ScreenX 2D",
-    "screenName": "6screen",
-    "startTime": "2025-09-05T07:50:00.000Z",
-    "endTime": "2025-09-05T09:06:00.000Z",
-    "status": "販売対象外"
-  },
-  {
     "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D",
     "screenName": "1screen",
     "startTime": "2025-09-05T22:50:00.000Z",
     "endTime": "2025-09-06T00:06:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート3クイーン ScreenX 2D",
     "screenName": "6screen",
     "startTime": "2025-09-06T07:50:00.000Z",
     "endTime": "2025-09-06T09:06:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D",
@@ -74,21 +53,21 @@
     "screenName": "1screen",
     "startTime": "2025-09-08T22:50:00.000Z",
     "endTime": "2025-09-09T00:03:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "[4DX] ＜応援上映＞も～っとつながる！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D",
     "screenName": "1screen",
     "startTime": "2025-09-09T10:10:00.000Z",
     "endTime": "2025-09-09T11:26:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート3クイーン ScreenX 2D",
     "screenName": "6screen",
     "startTime": "2025-09-09T07:50:00.000Z",
     "endTime": "2025-09-09T09:06:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "[4DX] も～っとつながる！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D",
