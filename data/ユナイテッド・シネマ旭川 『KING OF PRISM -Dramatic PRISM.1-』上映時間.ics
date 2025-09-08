@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:a0a496c3-c57c-5473-b0cf-3589f5ecdf19
+UID:923f29b1-b77e-5f82-a9df-99cf07349ba6
 SEQUENCE:0
-DTSTAMP:20250907T154509Z
-DTSTART:20250906T234000Z
-DTEND:20250907T005600Z
+DTSTAMP:20250908T155042Z
+DTSTART:20250907T234000Z
+DTEND:20250908T005600Z
 SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
  る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
 LOCATION:ユナイテッド・シネマ旭川 1screen
@@ -22,25 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12915&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:9bffe018-efec-57cb-a445-4f7ee656044d
-SEQUENCE:0
-DTSTAMP:20250907T154509Z
-DTSTART:20250907T234000Z
-DTEND:20250908T005600Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
-LOCATION:ユナイテッド・シネマ旭川 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
- 12915&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12915&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:c674a509-f1b8-53a5-a3ba-18ebbcf5e46e
 SEQUENCE:0
-DTSTAMP:20250907T154509Z
+DTSTAMP:20250908T155042Z
 DTSTART:20250908T234000Z
 DTEND:20250909T005600Z
 SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
@@ -56,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b4ea1836-f0d8-51de-95a8-0f49564e54e2
 SEQUENCE:0
-DTSTAMP:20250907T154509Z
+DTSTAMP:20250908T155042Z
 DTSTART:20250909T234000Z
 DTEND:20250910T005600Z
 SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
@@ -70,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12915&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:cb5c81f5-d5f5-594e-8d24-902005d819cc
+UID:ba692e74-d9bc-5d48-93d8-122b61f9fd36
 SEQUENCE:0
-DTSTAMP:20250907T154509Z
+DTSTAMP:20250908T155042Z
 DTSTART:20250910T234000Z
 DTEND:20250911T005600Z
-SUMMARY:[販売期間外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
+ PRISM-Your Endless Call- ルート3クイーン 4DX2D
 LOCATION:ユナイテッド・シネマ旭川 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
