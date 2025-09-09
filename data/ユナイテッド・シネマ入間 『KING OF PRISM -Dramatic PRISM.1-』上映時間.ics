@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ入間 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ入間 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:29681b69-5fd0-59cf-8a15-89683e5bae36
+UID:fdf71da3-cf86-51c9-9585-29981d24fdd8
 SEQUENCE:0
-DTSTAMP:20250908T155631Z
-DTSTART:20250908T111000Z
-DTEND:20250908T122300Z
+DTSTAMP:20250909T154600Z
+DTSTART:20250909T111000Z
+DTEND:20250909T122300Z
 SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
  る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
@@ -22,25 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7f7b5a26-4e85-59f2-915b-13afbdbd4109
-SEQUENCE:0
-DTSTAMP:20250908T155631Z
-DTSTART:20250909T111000Z
-DTEND:20250909T122300Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
 UID:bf00d4e8-6a96-51b0-9e87-fbcef24f66a9
 SEQUENCE:0
-DTSTAMP:20250908T155631Z
+DTSTAMP:20250909T154600Z
 DTSTART:20250910T111000Z
 DTEND:20250910T122300Z
 SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
@@ -56,11 +40,129 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e576ecaa-98c7-5bea-943e-4d13733954e8
 SEQUENCE:0
-DTSTAMP:20250908T155631Z
+DTSTAMP:20250909T154600Z
 DTSTART:20250911T111000Z
 DTEND:20250911T122300Z
 SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
  PRISM-Your Endless Call- ルート3クイーン 4DX2D
+LOCATION:ユナイテッド・シネマ入間 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
+ 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:02061127-e9a2-5476-82f2-635285bd1e5f
+SEQUENCE:0
+DTSTAMP:20250909T154600Z
+DTSTART:20250911T233000Z
+DTEND:20250912T004500Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D
+LOCATION:ユナイテッド・シネマ入間 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
+ 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1eed85c2-d0fe-501c-80ac-f41a182f6a1b
+SEQUENCE:0
+DTSTAMP:20250909T154600Z
+DTSTART:20250912T233000Z
+DTEND:20250913T004500Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
+LOCATION:ユナイテッド・シネマ入間 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
+ 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3c7d96-2d1f-521a-8c48-fe5a3720dac4
+SEQUENCE:0
+DTSTAMP:20250909T154600Z
+DTSTART:20250913T233000Z
+DTEND:20250914T004500Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
+LOCATION:ユナイテッド・シネマ入間 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
+ 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:8143e433-4db1-508b-b100-7382a4eabfba
+SEQUENCE:0
+DTSTAMP:20250909T154600Z
+DTSTART:20250914T233000Z
+DTEND:20250915T004500Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
+LOCATION:ユナイテッド・シネマ入間 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
+ 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:b945f09d-51dd-51ff-8054-99c4ec0f4ad4
+SEQUENCE:0
+DTSTAMP:20250909T154600Z
+DTSTART:20250915T233000Z
+DTEND:20250916T004500Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
+LOCATION:ユナイテッド・シネマ入間 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
+ 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:eef29738-025e-5775-bedb-e04d7de314e6
+SEQUENCE:0
+DTSTAMP:20250909T154600Z
+DTSTART:20250916T233000Z
+DTEND:20250917T004500Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
+LOCATION:ユナイテッド・シネマ入間 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
+ 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:276c5928-113e-56e8-858e-0eacbff2acc5
+SEQUENCE:0
+DTSTAMP:20250909T154600Z
+DTSTART:20250917T233000Z
+DTEND:20250918T004500Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
