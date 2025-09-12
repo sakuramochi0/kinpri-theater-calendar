@@ -6,13 +6,14 @@ NAME:ユナイテッド・シネマ春日部 『KING OF PRISM -Dramatic PR
 X-WR-CALNAME:ユナイテッド・シネマ春日部 『KING OF PRISM -Dra
  matic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:1ffaa955-4484-5911-8c7b-560e8afd9b45
+UID:ac680025-2f06-51d1-a9c2-255a99f9f0b1
 SEQUENCE:0
-DTSTAMP:20250908T155622Z
-DTSTART:20250908T114500Z
-DTEND:20250908T130100Z
-SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+DTSTAMP:20250912T154600Z
+DTSTART:20250912T112000Z
+DTEND:20250912T123800Z
+SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
 LOCATION:ユナイテッド・シネマ春日部 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
@@ -22,13 +23,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:006fa134-69e6-5506-84fd-258e35d97bf8
+UID:3b342462-bac0-50c4-84b8-171bfa24f449
 SEQUENCE:0
-DTSTAMP:20250908T155622Z
-DTSTART:20250909T114500Z
-DTEND:20250909T130100Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
+DTSTAMP:20250912T154600Z
+DTSTART:20250913T112000Z
+DTEND:20250913T123800Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D
 LOCATION:ユナイテッド・シネマ春日部 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
@@ -38,13 +39,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1f45dffe-d5cf-58e4-b4f6-6f9c19d2955e
+UID:9a75f33d-7781-5705-b8d7-b423901fb7fe
 SEQUENCE:0
-DTSTAMP:20250908T155622Z
-DTSTART:20250910T114500Z
-DTEND:20250910T130100Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
+DTSTAMP:20250912T154600Z
+DTSTART:20250914T112000Z
+DTEND:20250914T123800Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D
 LOCATION:ユナイテッド・シネマ春日部 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
@@ -54,13 +55,64 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d34b01e8-b2e3-5c56-8780-5213e23f1159
+UID:f0e62c9d-5a0e-5e82-b9ea-82807c0a194b
 SEQUENCE:0
-DTSTAMP:20250908T155622Z
-DTSTART:20250911T114500Z
-DTEND:20250911T130100Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
+DTSTAMP:20250912T154600Z
+DTSTART:20250915T112000Z
+DTEND:20250915T123800Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:0d63a635-4c58-58c1-9dd6-ba3085c6e9cc
+SEQUENCE:0
+DTSTAMP:20250912T154600Z
+DTSTART:20250916T112000Z
+DTEND:20250916T123800Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:61c79b42-fa1e-56fb-8859-6929dd1eb079
+SEQUENCE:0
+DTSTAMP:20250912T154600Z
+DTSTART:20250917T112000Z
+DTEND:20250917T123800Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
+LOCATION:ユナイテッド・シネマ春日部 3screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/kasukabe/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:deebc909-921e-53a3-a1f3-8cba73407618
+SEQUENCE:0
+DTSTAMP:20250912T154600Z
+DTSTART:20250918T112000Z
+DTEND:20250918T123800Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
 LOCATION:ユナイテッド・シネマ春日部 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/kasukabe/film.php?movie=1

@@ -6,45 +6,14 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:a618b52e-fd41-5183-ab66-e214c691735b
+UID:bdf0229b-e6ce-5984-926f-eaf7dd7cb83e
 SEQUENCE:0
-DTSTAMP:20250910T155647Z
-DTSTART:20250910T120500Z
-DTEND:20250910T132100Z
-SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
-LOCATION:ユナイテッド・シネマ水戸 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12915
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12915&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:d50f1f09-676b-58c4-a862-c97119c6869f
-SEQUENCE:0
-DTSTAMP:20250910T155647Z
-DTSTART:20250911T120500Z
-DTEND:20250911T132100Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
-LOCATION:ユナイテッド・シネマ水戸 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12915
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12915&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:e9adc74b-f05f-574b-aa03-0b8cc18da357
-SEQUENCE:0
-DTSTAMP:20250910T155647Z
+DTSTAMP:20250912T154419Z
 DTSTART:20250912T105000Z
 DTEND:20250912T120800Z
-SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
- つながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D
+SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
+ 2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12915
@@ -56,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8a2f4dc5-1345-50b5-ad52-dd5edfcb1e71
 SEQUENCE:0
-DTSTAMP:20250910T155647Z
+DTSTAMP:20250912T154419Z
 DTSTART:20250913T105000Z
 DTEND:20250913T120800Z
 SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
@@ -70,14 +39,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12915&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:06f2864b-5a3d-5e05-9aa7-a0b1b0a79705
+UID:3c44d7f5-cd0c-5c56-bc0f-c0baa6947554
 SEQUENCE:0
-DTSTAMP:20250910T155647Z
+DTSTAMP:20250912T154419Z
 DTSTART:20250914T105000Z
 DTEND:20250914T120800Z
-SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
- 2D
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12915
@@ -87,14 +55,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=12915&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f3b3aadb-daab-5dad-b1e0-7cc541e606b6
+UID:e5e20986-23ee-5ec8-b15d-5bb4f4b51c44
 SEQUENCE:0
-DTSTAMP:20250910T155647Z
+DTSTAMP:20250912T154419Z
 DTSTART:20250915T105000Z
 DTEND:20250915T120800Z
-SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
- 2D
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D
 LOCATION:ユナイテッド・シネマ水戸 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=12915
@@ -106,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:701b546b-94f1-5cae-a867-117bfc283de3
 SEQUENCE:0
-DTSTAMP:20250910T155647Z
+DTSTAMP:20250912T154419Z
 DTSTART:20250916T105000Z
 DTEND:20250916T120800Z
 SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
@@ -123,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b444bb79-4be5-51e1-be2b-1ca1ba856491
 SEQUENCE:0
-DTSTAMP:20250910T155647Z
+DTSTAMP:20250912T154419Z
 DTSTART:20250917T105000Z
 DTEND:20250917T120800Z
 SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
@@ -140,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b778628b-2c0b-58ea-b0bb-7a4250c841b1
 SEQUENCE:0
-DTSTAMP:20250910T155647Z
+DTSTAMP:20250912T154419Z
 DTSTART:20250918T105000Z
 DTEND:20250918T120800Z
 SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
