@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:097500fb-66fd-579d-952c-776ece9ab30d
+UID:0cbf7765-c6ab-5111-a474-5f6b8e9db730
 SEQUENCE:0
-DTSTAMP:20250913T154102Z
-DTSTART:20250912T232000Z
-DTEND:20250913T003800Z
+DTSTAMP:20250914T154705Z
+DTSTART:20250913T232000Z
+DTEND:20250914T003800Z
 SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
  も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
  2D
@@ -23,25 +23,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12915&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0de0aa1f-c896-5fc5-bc15-7beb1c8963c4
-SEQUENCE:0
-DTSTAMP:20250913T154102Z
-DTSTART:20250913T232000Z
-DTEND:20250914T003800Z
-SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
- つながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D
-LOCATION:ユナイテッド・シネマ旭川 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
- 12915&from=fm\nカレンダー生成プログラムのウェブサイト: 
- kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12915&
- from=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:bbdcc598-fc8b-53db-8539-1203db890d3d
 SEQUENCE:0
-DTSTAMP:20250913T154102Z
+DTSTAMP:20250914T154705Z
 DTSTART:20250914T232000Z
 DTEND:20250915T003800Z
 SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
@@ -57,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2ad502ef-1810-5d6e-a59a-31d2a0eae063
 SEQUENCE:0
-DTSTAMP:20250913T154102Z
+DTSTAMP:20250914T154705Z
 DTSTART:20250915T232000Z
 DTEND:20250916T003800Z
 SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
@@ -71,14 +55,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12915&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:43aa74b0-c610-56d7-80ff-23320ecc7539
+UID:f82c4ec3-7c98-5c60-99cc-b17bb64a7bdf
 SEQUENCE:0
-DTSTAMP:20250913T154102Z
+DTSTAMP:20250914T154705Z
 DTSTART:20250916T232000Z
 DTEND:20250917T003800Z
-SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
- 2D
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D
 LOCATION:ユナイテッド・シネマ旭川 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
@@ -90,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8cf9e782-641b-5499-970c-0a38638d8df2
 SEQUENCE:0
-DTSTAMP:20250913T154102Z
+DTSTAMP:20250914T154705Z
 DTSTART:20250917T232000Z
 DTEND:20250918T003800Z
 SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
