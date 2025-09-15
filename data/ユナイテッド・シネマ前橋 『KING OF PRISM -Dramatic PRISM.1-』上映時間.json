@@ -2,23 +2,9 @@
   {
     "title": "[4DX] 【生誕ウィーク】応援上映「も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D",
     "screenName": "1screen",
-    "startTime": "2025-09-12T23:15:00.000Z",
-    "endTime": "2025-09-13T00:33:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[4DX] 【生誕ウィーク】応援上映「も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D",
-    "screenName": "1screen",
-    "startTime": "2025-09-13T23:15:00.000Z",
-    "endTime": "2025-09-14T00:33:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "[4DX] 【生誕ウィーク】応援上映「も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D",
-    "screenName": "1screen",
     "startTime": "2025-09-14T23:15:00.000Z",
     "endTime": "2025-09-15T00:33:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[4DX] 【生誕ウィーク】応援上映「も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D",
@@ -32,13 +18,13 @@
     "screenName": "1screen",
     "startTime": "2025-09-16T23:15:00.000Z",
     "endTime": "2025-09-17T00:33:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "[4DX] 【生誕ウィーク】応援上映「も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX2D",
     "screenName": "1screen",
     "startTime": "2025-09-17T23:15:00.000Z",
     "endTime": "2025-09-18T00:33:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
