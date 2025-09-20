@@ -6,62 +6,13 @@ NAME:ユナイテッド・シネマ入間 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ入間 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:20d1bf22-0840-51de-940b-bc95913272cb
+UID:20f3b1ea-baa7-52eb-97f0-564d37208416
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
-DTSTART:20250917T233000Z
-DTEND:20250918T004500Z
-SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート4はじまり 4DX
- 2D
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:4f61e39d-79a7-5316-8eef-4ecd3f2007b2
-SEQUENCE:0
-DTSTAMP:20250918T155136Z
-DTSTART:20250918T234500Z
-DTEND:20250919T010000Z
-SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
- つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:e8f37bcf-9bc3-5174-bb8a-f1e55418aa33
-SEQUENCE:0
-DTSTAMP:20250918T155136Z
-DTSTART:20250919T094000Z
-DTEND:20250919T105500Z
-SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
- つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:ccb2f898-f8e1-5296-ae7e-2647ce4918ee
-SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250919T234500Z
 DTEND:20250920T010000Z
-SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
- つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
+SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -71,13 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b4a2b0e2-6f75-595c-acbd-fd2b9a9fb01d
+UID:50549fda-8ddb-52e8-b35d-50625b925a41
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250920T093500Z
 DTEND:20250920T105000Z
-SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
- つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
+SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -89,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9ff1e5d4-9094-52bc-b46b-da0680b9abe9
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250920T234500Z
 DTEND:20250921T010000Z
 SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
@@ -105,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b1c231ea-4c37-55c7-a324-34367fe07873
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250921T094000Z
 DTEND:20250921T105500Z
 SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
@@ -119,13 +70,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:f289dc9e-a027-5dc7-a280-517c979c5c07
+UID:53757422-eb94-58b0-8ee5-63ad9312db47
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250921T234500Z
 DTEND:20250922T010000Z
-SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -135,13 +86,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:299efe34-1d34-5a4f-aeb4-49c0df70f38c
+UID:bf1ec683-349f-59ca-8021-f5cb604c4882
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250922T094000Z
 DTEND:20250922T105500Z
-SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -151,13 +102,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1fb2e821-4797-5c2b-a947-2c78595bcadd
+UID:188d067d-c48b-5f5c-bfc5-b27223410ae2
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250922T234500Z
 DTEND:20250923T010000Z
-SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -167,13 +118,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:dbf225cd-4a17-5861-a5d5-d1978befe40a
+UID:58e37472-c9e8-59b9-9323-5899c6b1e9f0
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250923T093500Z
 DTEND:20250923T105000Z
-SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -185,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5fa4d047-408b-5c47-8d90-e097cb044ff6
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250923T234500Z
 DTEND:20250924T010000Z
 SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
@@ -201,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:144cd879-1b3b-5b35-8717-3b50072348da
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250924T094000Z
 DTEND:20250924T105500Z
 SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
@@ -217,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:537ffe0b-7f0a-56a3-ba16-ba7b4aa6aeaa
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250924T234500Z
 DTEND:20250925T010000Z
 SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
@@ -233,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7c89cfc1-876d-508f-84ed-fabe0ca38f37
 SEQUENCE:0
-DTSTAMP:20250918T155136Z
+DTSTAMP:20250920T154420Z
 DTSTART:20250925T094000Z
 DTEND:20250925T105500Z
 SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「

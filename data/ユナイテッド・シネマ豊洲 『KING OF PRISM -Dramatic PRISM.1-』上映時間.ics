@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ豊洲 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:8179e4a6-accd-5ab7-8eab-1dd3d778d6f1
+UID:853257fe-f799-5511-828a-dbd95044df1b
 SEQUENCE:0
-DTSTAMP:20250908T153536Z
-DTSTART:20250908T121000Z
-DTEND:20250908T132600Z
-SUMMARY:[販売対象外]  [4DX] ＜応援上映＞も～っとつなが
- る！KING OF PRISM-Your Endless Call- ルート3クイーン 4DX2D
+DTSTAMP:20250920T155220Z
+DTSTART:20250920T024500Z
+DTEND:20250920T040300Z
+SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ豊洲 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=129
@@ -22,13 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d90f1014-6437-5e30-8100-36326b1cc73f
+UID:00b3ca10-2f0f-5ebd-a8fa-3ffcb959e1ff
 SEQUENCE:0
-DTSTAMP:20250908T153536Z
-DTSTART:20250909T121000Z
-DTEND:20250909T132600Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
+DTSTAMP:20250920T155220Z
+DTSTART:20250921T031500Z
+DTEND:20250921T043300Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ豊洲 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=129
@@ -38,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:c626a8bb-8a84-5981-897d-60ef875dcbec
+UID:e920c786-2814-56ee-aee2-b02c3ffbc874
 SEQUENCE:0
-DTSTAMP:20250908T153536Z
-DTSTART:20250910T121000Z
-DTEND:20250910T132600Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
+DTSTAMP:20250920T155220Z
+DTSTART:20250922T101500Z
+DTEND:20250922T113300Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ豊洲 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=129
@@ -54,13 +54,45 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:10cff64b-1c70-5134-9fe3-36aac8ad5793
+UID:82d910dd-674d-57f6-8ac0-fe6f4c02f8c0
 SEQUENCE:0
-DTSTAMP:20250908T153536Z
-DTSTART:20250911T121000Z
-DTEND:20250911T132600Z
-SUMMARY:[○]  [4DX] ＜応援上映＞も～っとつながる！KING OF 
- PRISM-Your Endless Call- ルート3クイーン 4DX2D
+DTSTAMP:20250920T155220Z
+DTSTART:20250923T031500Z
+DTEND:20250923T043300Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ豊洲 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=129
+ 15&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=12915&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:53d71a28-bc11-5efc-8266-cc4f9440a9ce
+SEQUENCE:0
+DTSTAMP:20250920T155220Z
+DTSTART:20250924T101500Z
+DTEND:20250924T113300Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
+LOCATION:ユナイテッド・シネマ豊洲 7screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=129
+ 15&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/toyosu/film.php?movie=12915&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:db1673ec-f4e3-57db-8f7a-d8777b8bb33b
+SEQUENCE:0
+DTSTAMP:20250920T155220Z
+DTSTART:20250925T101500Z
+DTEND:20250925T113300Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマ豊洲 7screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toyosu/film.php?movie=129
