@@ -5,4 +5,19 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
+BEGIN:VEVENT
+UID:52b49a3b-4b2d-5eb8-baa0-af26b0432a28
+SEQUENCE:0
+DTSTAMP:20250921T152747Z
+DTSTART:20250922T101500Z
+DTEND:20250922T113000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート1オバレ
+LOCATION:T・ジョイ長岡 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C4251\n
+ カレンダー生成プログラムのウェブサイト: kinpri-theater-
+ calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C4251
+END:VEVENT
 END:VCALENDAR
