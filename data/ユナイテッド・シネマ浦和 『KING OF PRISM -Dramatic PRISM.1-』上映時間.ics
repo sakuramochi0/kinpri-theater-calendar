@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:2fe8e3e3-da18-5b93-b3eb-0848cacf7523
+UID:ffc30d8a-5a1d-5cfb-94e5-45d6a0fb1a87
 SEQUENCE:0
-DTSTAMP:20250923T154644Z
+DTSTAMP:20250924T154935Z
 DTSTART:20250924T113500Z
 DTEND:20250924T125300Z
-SUMMARY:[○]  【生誕ウィーク】応援上映「KING OF PRISM-Your E
- ndless Call-」route1オバレ
+SUMMARY:[販売対象外]  【生誕ウィーク】応援上映「KING OF 
+ PRISM-Your Endless Call-」route1オバレ
 LOCATION:ユナイテッド・シネマ浦和 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
@@ -22,11 +22,27 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:73db069d-893f-5288-9277-00278e8b74a4
+UID:155b6cc0-77d8-5f6c-949e-86403585f3e6
 SEQUENCE:0
-DTSTAMP:20250923T154644Z
+DTSTAMP:20250924T154935Z
 DTSTART:20250926T112500Z
 DTEND:20250926T124100Z
+SUMMARY:[△]  KING OF PRISM-Your Endless Call- route5 22世紀＜応援
+ 上映＞
+LOCATION:ユナイテッド・シネマ浦和 8screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
+ 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
+ ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
+ =fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a687547e-786a-5ab0-b406-0dd5b58f13bc
+SEQUENCE:0
+DTSTAMP:20250924T154935Z
+DTSTART:20250927T095000Z
+DTEND:20250927T110600Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call- route5 22世紀＜応援
  上映＞
 LOCATION:ユナイテッド・シネマ浦和 8screen
@@ -38,25 +54,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:28285115-4e5f-5a0a-a87f-84dd5a92b3a4
-SEQUENCE:0
-DTSTAMP:20250923T154644Z
-DTSTART:20250927T095000Z
-DTEND:20250927T110600Z
-SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世
- 紀＜応援上映＞
-LOCATION:ユナイテッド・シネマ浦和 8screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1241
- 8&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=12418&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
 UID:dde62110-d78d-532c-b17e-1b6a44438a84
 SEQUENCE:0
-DTSTAMP:20250923T154644Z
+DTSTAMP:20250924T154935Z
 DTSTART:20250928T112500Z
 DTEND:20250928T124100Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:53dd2ddf-beb2-5413-a370-118a4562ec5c
 SEQUENCE:0
-DTSTAMP:20250923T154644Z
+DTSTAMP:20250924T154935Z
 DTSTART:20250929T112500Z
 DTEND:20250929T124100Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:55412b8f-7f80-5c1b-8846-681d26de0c7b
 SEQUENCE:0
-DTSTAMP:20250923T154644Z
+DTSTAMP:20250924T154935Z
 DTSTART:20250930T112500Z
 DTEND:20250930T124100Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世
@@ -104,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a0d35a5f-154b-52b6-b7e2-6a944bd31e4e
 SEQUENCE:0
-DTSTAMP:20250923T154644Z
+DTSTAMP:20250924T154935Z
 DTSTART:20251001T092000Z
 DTEND:20251001T111000Z
 SUMMARY:[販売期間外]  「KING OF PRISM-Your Endless Call-」大ヒッ
@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6d1cd3ba-597c-56c4-b815-f3c951324c46
 SEQUENCE:0
-DTSTAMP:20250923T154644Z
+DTSTAMP:20250924T154935Z
 DTSTART:20251002T112500Z
 DTEND:20251002T124100Z
 SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世

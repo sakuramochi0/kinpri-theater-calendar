@@ -1,30 +1,58 @@
 [
   {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター３",
-    "startTime": "2025-08-18T08:50:00.000Z",
-    "endTime": "2025-08-18T10:05:00.000Z",
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート1オバレ",
+    "screenName": "シアター５",
+    "startTime": "2025-09-25T04:40:00.000Z",
+    "endTime": "2025-09-25T05:55:00.000Z",
     "status": "◎予約/購入"
   },
   {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート5 22世紀",
     "screenName": "シアター３",
-    "startTime": "2025-08-19T08:50:00.000Z",
-    "endTime": "2025-08-19T10:05:00.000Z",
+    "startTime": "2025-09-26T10:15:00.000Z",
+    "endTime": "2025-09-26T11:30:00.000Z",
     "status": "◎予約/購入"
   },
   {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター４",
-    "startTime": "2025-08-20T08:50:00.000Z",
-    "endTime": "2025-08-20T10:05:00.000Z",
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート5 22世紀",
+    "screenName": "シアター３",
+    "startTime": "2025-09-27T10:15:00.000Z",
+    "endTime": "2025-09-27T11:30:00.000Z",
     "status": "◎予約/購入"
   },
   {
-    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート4はじまり",
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート5 22世紀",
     "screenName": "シアター３",
-    "startTime": "2025-08-21T08:50:00.000Z",
-    "endTime": "2025-08-21T10:05:00.000Z",
+    "startTime": "2025-09-28T10:15:00.000Z",
+    "endTime": "2025-09-28T11:30:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート5 22世紀",
+    "screenName": "シアター３",
+    "startTime": "2025-09-29T10:15:00.000Z",
+    "endTime": "2025-09-29T11:30:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート5 22世紀",
+    "screenName": "シアター３",
+    "startTime": "2025-09-30T10:15:00.000Z",
+    "endTime": "2025-09-30T11:30:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援]【大ヒット御礼打上げ挨拶中継】KING OF PRISM-Your Endless Call-ルート5 22世紀",
+    "screenName": "シアター３",
+    "startTime": "2025-10-01T09:20:00.000Z",
+    "endTime": "2025-10-01T11:00:00.000Z",
+    "status": "-販売対象外"
+  },
+  {
+    "title": "[応援上映]KING OF PRISM-Your Endless Call-ルート5 22世紀",
+    "screenName": "シアター３",
+    "startTime": "2025-10-02T10:15:00.000Z",
+    "endTime": "2025-10-02T11:30:00.000Z",
     "status": "-販売対象外"
   }
 ]
