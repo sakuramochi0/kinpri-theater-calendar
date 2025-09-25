@@ -6,11 +6,11 @@ NAME:TOHOシネマズ 池袋 『KING OF PRISM -Dramatic PRISM.1-』上映
 X-WR-CALNAME:TOHOシネマズ 池袋 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:e85c4d22-8245-5c8d-93fb-642a9fecdaee
+UID:b414acc7-a43d-56e2-aa7b-94d68c43c48c
 SEQUENCE:0
-DTSTAMP:20250924T153246Z
-DTSTART:20250924T125000Z
-DTEND:20250924T140500Z
+DTSTAMP:20250925T153111Z
+DTSTART:20250925T125000Z
+DTEND:20250925T140500Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
  Ｆ　ＰＲＩＳＭ　ルート１　われらが青春（発声ＯＫ
  ・ＳｃｒｅｅｎＸ）
@@ -23,45 +23,11 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
-UID:a2dd91cf-3fdb-5a0d-a0d4-a9c7d48ca571
+UID:b5c38b0f-2333-553c-aef9-689b777e6cbd
 SEQUENCE:0
-DTSTAMP:20250924T153246Z
-DTSTART:20250925T125000Z
-DTEND:20250925T140500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート１　われらが青春（発声ＯＫ・
- ＳｃｒｅｅｎＸ）
-LOCATION:TOHOシネマズ 池袋 SCREEN10
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:46a0333f-75a0-5c6c-aa7f-036ac2f4ccb3
-SEQUENCE:0
-DTSTAMP:20250924T153246Z
+DTSTAMP:20250925T153111Z
 DTSTART:20250925T232000Z
 DTEND:20250926T003500Z
-SUMMARY:[◎販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
- 　ＰＲＩＳＭ　ルート５　２２世紀でハグしよう劇場
- （発声ＯＫ・ＳｃｒＸ
-LOCATION:TOHOシネマズ 池袋 SCREEN10
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
- kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
- : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
- cd=027038
-END:VEVENT
-BEGIN:VEVENT
-UID:840cd909-5756-50a7-b4e6-2d3aef040690
-SEQUENCE:0
-DTSTAMP:20250924T153246Z
-DTSTART:20250927T090000Z
-DTEND:20250927T101500Z
 SUMMARY:[○販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ
  　ＰＲＩＳＭ　ルート５　２２世紀でハグしよう劇場
  （発声ＯＫ・ＳｃｒＸ
@@ -74,9 +40,26 @@ URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
  cd=027038
 END:VEVENT
 BEGIN:VEVENT
+UID:2ed361e4-261c-5a10-84b6-7540eb9369c4
+SEQUENCE:0
+DTSTAMP:20250925T153111Z
+DTSTART:20250927T090000Z
+DTEND:20250927T101500Z
+SUMMARY:[販売中]  も～っとつながる！ＫＩＮＧ　ＯＦ　
+ ＰＲＩＳＭ　ルート５　２２世紀でハグしよう劇場（
+ 発声ＯＫ・ＳｃｒＸ
+LOCATION:TOHOシネマズ 池袋 SCREEN10
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sa
+ kuhin_cd=027038\nカレンダー生成プログラムのウェブサイト
+ : kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://hlo.tohotheater.jp/net/movie/TNPI3060J01.do?sakuhin_
+ cd=027038
+END:VEVENT
+BEGIN:VEVENT
 UID:66d628e8-09a4-5455-b7d0-f11c061f59a0
 SEQUENCE:0
-DTSTAMP:20250924T153246Z
+DTSTAMP:20250925T153111Z
 DTSTART:20250928T232000Z
 DTEND:20250929T003500Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -93,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:90280745-023c-5695-890f-0d15f957cf08
 SEQUENCE:0
-DTSTAMP:20250924T153246Z
+DTSTAMP:20250925T153111Z
 DTSTART:20250929T232000Z
 DTEND:20250930T003500Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -110,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:99ce3e58-2e85-5458-a0bb-d452e090638d
 SEQUENCE:0
-DTSTAMP:20250924T153246Z
+DTSTAMP:20250925T153111Z
 DTSTART:20251001T092000Z
 DTEND:20251001T110500Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
@@ -127,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0639af3d-707c-5ed9-acde-ddd20dbb0c27
 SEQUENCE:0
-DTSTAMP:20250924T153246Z
+DTSTAMP:20250925T153111Z
 DTSTART:20251001T232000Z
 DTEND:20251002T003500Z
 SUMMARY:[販売期間外]  も～っとつながる！ＫＩＮＧ　Ｏ
