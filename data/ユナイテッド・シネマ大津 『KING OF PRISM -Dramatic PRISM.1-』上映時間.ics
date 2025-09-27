@@ -6,45 +6,13 @@ NAME:ユナイテッド・シネマ大津 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ大津 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:92f7f59e-7258-5af8-bf82-4d8f0bfe069e
+UID:7e29e837-ad55-54bf-b603-271dd97d2716
 SEQUENCE:0
-DTSTAMP:20250925T153940Z
-DTSTART:20250925T113000Z
-DTEND:20250925T124800Z
-SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
-LOCATION:ユナイテッド・シネマ大津 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/otsu/film.php?movie=12915
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/otsu/film.php?movie=12915&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:847e51ea-d664-5a87-99ca-3704a56325aa
-SEQUENCE:0
-DTSTAMP:20250925T153940Z
-DTSTART:20250926T090000Z
-DTEND:20250926T101600Z
-SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
- all- route5 22世紀　4DX2D＜応援＞
-LOCATION:ユナイテッド・シネマ大津 5screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/otsu/film.php?movie=12915
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/otsu/film.php?movie=12915&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:55dc5ff7-5b92-50e7-af81-2cec610a3739
-SEQUENCE:0
-DTSTAMP:20250925T153940Z
+DTSTAMP:20250927T153506Z
 DTSTART:20250927T090000Z
 DTEND:20250927T101600Z
-SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
- all- route5 22世紀　4DX2D＜応援＞
+SUMMARY:[販売対象外]  [4DX] も～っとつながる!KING OF PRISM-Yo
+ ur Endless Call- route5 22世紀　4DX2D＜応援＞
 LOCATION:ユナイテッド・シネマ大津 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/otsu/film.php?movie=12915
@@ -56,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3e96730a-0fae-59ea-bf0c-aab6a8e3def7
 SEQUENCE:0
-DTSTAMP:20250925T153940Z
+DTSTAMP:20250927T153506Z
 DTSTART:20250928T090000Z
 DTEND:20250928T101600Z
 SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
@@ -70,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/otsu/film.php?movie=12915&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:8ed7e074-caf6-54b1-936b-473b82ef19f7
+UID:37bacdbf-d121-5e90-83a4-06ce54f7a540
 SEQUENCE:0
-DTSTAMP:20250925T153940Z
+DTSTAMP:20250927T153506Z
 DTSTART:20250929T090000Z
 DTEND:20250929T101600Z
-SUMMARY:[販売期間外]  [4DX] も～っとつながる!KING OF PRISM-Yo
- ur Endless Call- route5 22世紀　4DX2D＜応援＞
+SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
+ all- route5 22世紀　4DX2D＜応援＞
 LOCATION:ユナイテッド・シネマ大津 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/otsu/film.php?movie=12915
@@ -86,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/otsu/film.php?movie=12915&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:cc63b766-8247-5379-8661-07185799f87c
+UID:0a557586-b4ad-52e0-869a-3b2d5ad4a108
 SEQUENCE:0
-DTSTAMP:20250925T153940Z
+DTSTAMP:20250927T153506Z
 DTSTART:20250930T090000Z
 DTEND:20250930T101600Z
-SUMMARY:[販売期間外]  [4DX] も～っとつながる!KING OF PRISM-Yo
- ur Endless Call- route5 22世紀　4DX2D＜応援＞
+SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
+ all- route5 22世紀　4DX2D＜応援＞
 LOCATION:ユナイテッド・シネマ大津 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/otsu/film.php?movie=12915
@@ -104,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f779bb94-a8a1-5b60-b5aa-4c48b4237414
 SEQUENCE:0
-DTSTAMP:20250925T153940Z
+DTSTAMP:20250927T153506Z
 DTSTART:20251001T092000Z
 DTEND:20251001T111000Z
 SUMMARY:[販売期間外]  [4DX] 「も～っとつながる!KING OF PRISM
@@ -121,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:037ca175-7c7c-5df3-99da-10e7613854b6
 SEQUENCE:0
-DTSTAMP:20250925T153940Z
+DTSTAMP:20250927T153506Z
 DTSTART:20251002T090000Z
 DTEND:20251002T101600Z
 SUMMARY:[販売期間外]  [4DX] も～っとつながる!KING OF PRISM-Yo

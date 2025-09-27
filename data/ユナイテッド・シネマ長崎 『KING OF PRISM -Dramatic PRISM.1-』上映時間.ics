@@ -6,19 +6,52 @@ NAME:ユナイテッド・シネマ長崎 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ長崎 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:baffbba1-30fa-5cc4-91d2-3b03b70e4aea
+UID:db1b5a52-bf60-5654-9a28-06e78be9763a
 SEQUENCE:0
-DTSTAMP:20241128T163821Z
-DTSTART:20241128T095500Z
-DTEND:20241128T111400Z
-SUMMARY:[販売対象外]  [4DX] [応援上映]も～っと煌めく!KING 
- OF PRISM-Dramatic PRISM.1「∞ラブThanks Week」4DX2D
+DTSTAMP:20250927T153900Z
+DTSTART:20250926T224500Z
+DTEND:20250927T000100Z
+SUMMARY:[販売対象外]  [4DX] も～っとつながる!KING OF PRISM-Yo
+ ur Endless Call- route5 22世紀　4DX2D＜応援＞
 LOCATION:ユナイテッド・シネマ長崎 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
- 2086&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=12086&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:a81e2a9b-f377-54df-9d71-9d319dd4d856
+SEQUENCE:0
+DTSTAMP:20250927T153900Z
+DTSTART:20250927T224500Z
+DTEND:20250928T000100Z
+SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
+ all- route5 22世紀　4DX2D＜応援＞
+LOCATION:ユナイテッド・シネマ長崎 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=12915&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:7c671b90-7174-52f9-8380-483f3bc760f9
+SEQUENCE:0
+DTSTAMP:20250927T153900Z
+DTSTART:20251001T092000Z
+DTEND:20251001T111000Z
+SUMMARY:[販売期間外]  [4DX] 「も～っとつながる!KING OF PRISM
+ 」大ヒット御礼打ち上げ舞台挨拶ライブビューイング4D
+ X応援上映
+LOCATION:ユナイテッド・シネマ長崎 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/nagasaki/film.php?movie=1
+ 2915&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/nagasaki/film.php?movie=12915&f
  rom=fm
 END:VEVENT
 END:VCALENDAR

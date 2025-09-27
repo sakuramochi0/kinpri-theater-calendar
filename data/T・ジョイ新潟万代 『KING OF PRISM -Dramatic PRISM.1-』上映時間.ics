@@ -6,69 +6,9 @@ NAME:T・ジョイ新潟万代 『KING OF PRISM -Dramatic PRISM.1-』上
 X-WR-CALNAME:T・ジョイ新潟万代 『KING OF PRISM -Dramatic PRISM.1-
  』上映時間
 BEGIN:VEVENT
-UID:8b68e3a8-aa9f-5e36-a53c-f8ca1ed1dec6
-SEQUENCE:0
-DTSTAMP:20250925T153001Z
-DTSTART:20250926T041000Z
-DTEND:20250926T052000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート5 22世紀
-LOCATION:T・ジョイ新潟万代 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4
- 251\nカレンダー生成プログラムのウェブサイト: kinpri-the
- ater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:7ba4a467-68d0-55cb-a8fc-bb10b524eadc
-SEQUENCE:0
-DTSTAMP:20250925T153001Z
-DTSTART:20250926T092000Z
-DTEND:20250926T103500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート5 22世紀
-LOCATION:T・ジョイ新潟万代 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4
- 251\nカレンダー生成プログラムのウェブサイト: kinpri-the
- ater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:edbd7c81-fdfb-507b-a1e7-e94ffc912ea0
-SEQUENCE:0
-DTSTAMP:20250925T153001Z
-DTSTART:20250927T041000Z
-DTEND:20250927T052000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート5 22世紀
-LOCATION:T・ジョイ新潟万代 シアター８
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4
- 251\nカレンダー生成プログラムのウェブサイト: kinpri-the
- ater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:012c5483-a220-5b74-add3-b323a6c8bce4
-SEQUENCE:0
-DTSTAMP:20250925T153001Z
-DTSTART:20250927T092000Z
-DTEND:20250927T103500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート5 22世紀
-LOCATION:T・ジョイ新潟万代 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4
- 251\nカレンダー生成プログラムのウェブサイト: kinpri-the
- ater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
 UID:ae374215-8ea6-5de5-8fa5-66e7eaaf21d7
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20250928T041000Z
 DTEND:20250928T052000Z
 SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -83,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:16e7ac7f-bcf5-5e8e-9d6b-e4d287eb5b2a
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20250928T092000Z
 DTEND:20250928T103500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -96,12 +36,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:16fcf3b1-013b-5c52-968f-c67ffd5d448b
+UID:0f36683a-4d9b-5161-8637-05aa71c3d8d4
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20250929T041000Z
 DTEND:20250929T052000Z
-SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
  ルート5 22世紀
 LOCATION:T・ジョイ新潟万代 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -111,12 +51,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:17fc39b9-0451-579d-962d-38847454b477
+UID:0f864b2f-3151-55af-81b7-f404953a63cc
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20250929T092000Z
 DTEND:20250929T103500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート5 22世紀
 LOCATION:T・ジョイ新潟万代 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -126,12 +66,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:f7e25bc8-1300-5b5d-aba6-784da1a1f8ad
+UID:3fb7156d-223d-522d-8954-05fe9db00aea
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20250930T041000Z
 DTEND:20250930T052000Z
-SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
  ルート5 22世紀
 LOCATION:T・ジョイ新潟万代 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -141,12 +81,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_niigatabandai/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:29e6ce43-ae68-5a58-bba4-e9b913c702cc
+UID:76d02b7e-acae-5821-9d10-f6cd23333705
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20250930T092000Z
 DTEND:20250930T103500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート5 22世紀
 LOCATION:T・ジョイ新潟万代 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -158,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bdf58fa4-9eda-51cf-ba21-4d3b2beb3fc7
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20251001T092000Z
 DTEND:20251001T110000Z
 SUMMARY:[-販売対象外]  [応援]【大ヒット御礼打上げ挨拶
@@ -173,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aafd4ccf-6368-5cae-8edc-b0d58af09f3a
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20251001T041000Z
 DTEND:20251001T052000Z
 SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -188,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:87e65139-f5e7-5729-9df6-55b901197d69
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20251002T041000Z
 DTEND:20251002T052000Z
 SUMMARY:[-販売対象外]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -203,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:033d58c7-1693-5337-a43d-42832d6dfb4b
 SEQUENCE:0
-DTSTAMP:20250925T153001Z
+DTSTAMP:20250927T152544Z
 DTSTART:20251002T092000Z
 DTEND:20251002T103500Z
 SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-

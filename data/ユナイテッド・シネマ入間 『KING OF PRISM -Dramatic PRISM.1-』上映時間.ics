@@ -6,61 +6,13 @@ NAME:ユナイテッド・シネマ入間 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ入間 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b1d7c194-ea4e-5220-94fc-d8980df08383
+UID:786ed97a-d629-5255-85d4-b6e140408488
 SEQUENCE:0
-DTSTAMP:20250925T153708Z
-DTSTART:20250924T234500Z
-DTEND:20250925T010000Z
-SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:36a651c1-bf6f-5962-ab15-ae1870f5b3af
-SEQUENCE:0
-DTSTAMP:20250925T153708Z
-DTSTART:20250925T094000Z
-DTEND:20250925T105500Z
-SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
- も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:ba28c5ae-c1d2-5ca8-9f9a-b62c60b41f28
-SEQUENCE:0
-DTSTAMP:20250925T153708Z
-DTSTART:20250926T115000Z
-DTEND:20250926T130300Z
-SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
- all- route5 22世紀　4DX2D＜応援＞
-LOCATION:ユナイテッド・シネマ入間 1screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
- 5&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:74963cde-9132-52b5-97e6-26b6727356d6
-SEQUENCE:0
-DTSTAMP:20250925T153708Z
+DTSTAMP:20250927T154316Z
 DTSTART:20250926T234500Z
 DTEND:20250927T005800Z
-SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
- all- route5 22世紀　4DX2D＜応援＞
+SUMMARY:[販売対象外]  [4DX] も～っとつながる!KING OF PRISM-Yo
+ ur Endless Call- route5 22世紀　4DX2D＜応援＞
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -72,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9adefd6b-6ea0-5ce2-aa59-fd2859aab7ee
 SEQUENCE:0
-DTSTAMP:20250925T153708Z
+DTSTAMP:20250927T154316Z
 DTSTART:20250927T234500Z
 DTEND:20250928T005800Z
 SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
@@ -86,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:112ff3f9-9fbc-5910-9dcf-3e859b2fe30e
+UID:dcf5ca3c-53f9-5f48-9f92-f46f029697e5
 SEQUENCE:0
-DTSTAMP:20250925T153708Z
+DTSTAMP:20250927T154316Z
 DTSTART:20250929T115000Z
 DTEND:20250929T130300Z
-SUMMARY:[販売期間外]  [4DX] も～っとつながる!KING OF PRISM-Yo
- ur Endless Call- route5 22世紀　4DX2D＜応援＞
+SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
+ all- route5 22世紀　4DX2D＜応援＞
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -102,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/iruma/film.php?movie=12915&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:4d735f6b-ffb0-5208-9a5b-7f701cd7163a
+UID:38fa914d-32dc-5e92-bb8a-2535a1fc9ec4
 SEQUENCE:0
-DTSTAMP:20250925T153708Z
+DTSTAMP:20250927T154316Z
 DTSTART:20250930T115000Z
 DTEND:20250930T130300Z
-SUMMARY:[販売期間外]  [4DX] も～っとつながる!KING OF PRISM-Yo
- ur Endless Call- route5 22世紀　4DX2D＜応援＞
+SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
+ all- route5 22世紀　4DX2D＜応援＞
 LOCATION:ユナイテッド・シネマ入間 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/iruma/film.php?movie=1291
@@ -120,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7c671b90-7174-52f9-8380-483f3bc760f9
 SEQUENCE:0
-DTSTAMP:20250925T153708Z
+DTSTAMP:20250927T154316Z
 DTSTART:20251001T092000Z
 DTEND:20251001T111000Z
 SUMMARY:[販売期間外]  [4DX] 「も～っとつながる!KING OF PRISM
@@ -137,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ce7642de-2385-54e1-b168-b2ddb601ac20
 SEQUENCE:0
-DTSTAMP:20250925T153708Z
+DTSTAMP:20250927T154316Z
 DTSTART:20251002T115000Z
 DTEND:20251002T130300Z
 SUMMARY:[販売期間外]  [4DX] も～っとつながる!KING OF PRISM-Yo
