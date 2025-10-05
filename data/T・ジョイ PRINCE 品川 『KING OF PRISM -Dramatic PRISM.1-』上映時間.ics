@@ -6,14 +6,59 @@ NAME:T・ジョイ PRINCE 品川 『KING OF PRISM -Dramatic PRISM.1-』上
 X-WR-CALNAME:T・ジョイ PRINCE 品川 『KING OF PRISM -Dramatic PRISM.
  1-』上映時間
 BEGIN:VEVENT
-UID:bb0c20da-abbd-5a83-a3a6-e3f469b0f44a
+UID:c7d150db-9ca2-5be2-a827-d716edc9be23
 SEQUENCE:0
-DTSTAMP:20251002T153046Z
-DTSTART:20251003T102000Z
-DTEND:20251003T113000Z
+DTSTAMP:20251005T152337Z
+DTSTART:20251006T102000Z
+DTEND:20251006T113000Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート5 22世紀
 LOCATION:T・ジョイ PRINCE 品川 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:e2db5566-8da3-5c7f-8a15-ed115955c9ce
+SEQUENCE:0
+DTSTAMP:20251005T152337Z
+DTSTART:20251007T102000Z
+DTEND:20251007T113000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート5 22世紀
+LOCATION:T・ジョイ PRINCE 品川 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:a9cf2d99-827f-5ac9-9695-3a22515575f1
+SEQUENCE:0
+DTSTAMP:20251005T152337Z
+DTSTART:20251008T102000Z
+DTEND:20251008T113000Z
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート5 22世紀
+LOCATION:T・ジョイ PRINCE 品川 シアター５
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
+ C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
+ heater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
+END:VEVENT
+BEGIN:VEVENT
+UID:635e55dc-06fe-5096-b146-f82100e9044e
+SEQUENCE:0
+DTSTAMP:20251005T152337Z
+DTSTART:20251009T102000Z
+DTEND:20251009T113000Z
+SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+ ルート5 22世紀
+LOCATION:T・ジョイ PRINCE 品川 シアター８
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
  C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
