@@ -6,24 +6,9 @@ NAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ長岡 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:33230998-3934-5bd2-91c8-f9b9d41ca1ba
-SEQUENCE:0
-DTSTAMP:20251005T152257Z
-DTSTART:20251005T233000Z
-DTEND:20251006T004500Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート5 22世紀
-LOCATION:T・ジョイ長岡 シアター９
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C4251\n
- カレンダー生成プログラムのウェブサイト: kinpri-theater-
- calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
 UID:bfa77a80-c500-5219-bb61-aea4c2f352c7
 SEQUENCE:0
-DTSTAMP:20251005T152257Z
+DTSTAMP:20251006T152821Z
 DTSTART:20251006T233000Z
 DTEND:20251007T004500Z
 SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
@@ -38,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eb98d465-7fd7-50a1-9c5e-23bf60aee686
 SEQUENCE:0
-DTSTAMP:20251005T152257Z
+DTSTAMP:20251006T152821Z
 DTSTART:20251007T233000Z
 DTEND:20251008T004500Z
 SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
@@ -51,12 +36,12 @@ DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
 URL;VALUE=URI:https://tjoy.jp/t-joy_nagaoka/cinema_schedule/C4251
 END:VEVENT
 BEGIN:VEVENT
-UID:b55a94e6-68b3-53cd-8726-0be983a1cd34
+UID:37cfbf91-9b9e-59b0-9616-ff8a3670a27d
 SEQUENCE:0
-DTSTAMP:20251005T152257Z
+DTSTAMP:20251006T152821Z
 DTSTART:20251008T233000Z
 DTEND:20251009T004500Z
-SUMMARY:[-販売対象外]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート5 22世紀
 LOCATION:T・ジョイ長岡 シアター９
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
