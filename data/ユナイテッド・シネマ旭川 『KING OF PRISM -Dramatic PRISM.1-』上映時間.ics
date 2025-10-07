@@ -6,19 +6,19 @@ NAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ旭川 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:e03b4388-6463-5571-b26f-9d31eef3ac7d
+UID:c8aaaf84-7afa-5ad4-aef3-530d69ffee28
 SEQUENCE:0
-DTSTAMP:20251002T154651Z
-DTSTART:20251002T062000Z
-DTEND:20251002T073600Z
-SUMMARY:[販売対象外]  [4DX] も～っとつながる!KING OF PRISM-Yo
- ur Endless Call- route5 22世紀　4DX2D＜応援＞
-LOCATION:ユナイテッド・シネマ旭川 1screen
+DTSTAMP:20251007T154737Z
+DTSTART:20251010T101000Z
+DTEND:20251010T112800Z
+SUMMARY:[○]  【生誕ウィーク】応援上映「KING OF PRISM-Your E
+ ndless Call-」route1オバレ
+LOCATION:ユナイテッド・シネマ旭川 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/asahikawa/film.php?movie=
- 12915&from=fm\nカレンダー生成プログラムのウェブサイト: 
+ 12418&from=fm\nカレンダー生成プログラムのウェブサイト: 
  kinpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12915&
+URL;VALUE=URI:https://www.unitedcinemas.jp/asahikawa/film.php?movie=12418&
  from=fm
 END:VEVENT
 END:VCALENDAR
