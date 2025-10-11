@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマとしまえん 『KING OF PRISM -Drama
 X-WR-CALNAME:ユナイテッド・シネマとしまえん 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:c7b026d9-d189-527b-8a2c-68a937edeb26
+UID:4f1bd215-e22f-543e-b620-3cc00ca208b2
 SEQUENCE:0
-DTSTAMP:20250927T155140Z
-DTSTART:20250927T092000Z
-DTEND:20250927T103600Z
-SUMMARY:[販売対象外]  [4DX] も～っとつながる!KING OF PRISM-Yo
- ur Endless Call- route5 22世紀　4DX2D＜応援＞
+DTSTAMP:20251011T154853Z
+DTSTART:20251011T093000Z
+DTEND:20251011T104800Z
+SUMMARY:[販売対象外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマとしまえん 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
@@ -22,13 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=12915&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:14e2fcf0-cfbe-5248-8b3e-d4aeaaa9434b
+UID:8360e98c-64ac-5811-8caa-1dbfb8717a0d
 SEQUENCE:0
-DTSTAMP:20250927T155140Z
-DTSTART:20250928T092000Z
-DTEND:20250928T103600Z
-SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
- all- route5 22世紀　4DX2D＜応援＞
+DTSTAMP:20251011T154853Z
+DTSTART:20251012T093000Z
+DTEND:20251012T104800Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマとしまえん 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
@@ -38,13 +38,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=12915&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7052b689-2480-5cdb-94ba-ebe3435cf490
+UID:9ea941bb-18af-5e76-b892-6fa1ee3407fe
 SEQUENCE:0
-DTSTAMP:20250927T155140Z
-DTSTART:20250929T092000Z
-DTEND:20250929T103600Z
-SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
- all- route5 22世紀　4DX2D＜応援＞
+DTSTAMP:20251011T154853Z
+DTSTART:20251013T093000Z
+DTEND:20251013T104800Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマとしまえん 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
@@ -54,13 +54,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=12915&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:88eb3987-5ee8-59ba-8ffc-2064caa1ea94
+UID:4a99f303-891c-5510-81e9-2c308c5f43cb
 SEQUENCE:0
-DTSTAMP:20250927T155140Z
-DTSTART:20250930T092000Z
-DTEND:20250930T103600Z
-SUMMARY:[○]  [4DX] も～っとつながる!KING OF PRISM-Your Endless C
- all- route5 22世紀　4DX2D＜応援＞
+DTSTAMP:20251011T154853Z
+DTSTART:20251014T093000Z
+DTEND:20251014T104800Z
+SUMMARY:[○]  [4DX] 【生誕ウィーク】応援上映「も～っと
+ つながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマとしまえん 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
@@ -70,14 +70,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=12915&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2bc03aaf-2db4-52d4-b642-eaaa0819f816
+UID:cdf63143-7572-5f7b-be02-0ea78bcd81c1
 SEQUENCE:0
-DTSTAMP:20250927T155140Z
-DTSTART:20251001T092000Z
-DTEND:20251001T111000Z
-SUMMARY:[販売期間外]  [4DX] 「も～っとつながる!KING OF PRISM
- 」大ヒット御礼打ち上げ舞台挨拶ライブビューイング4D
- X応援上映
+DTSTAMP:20251011T154853Z
+DTSTART:20251015T093000Z
+DTEND:20251015T104800Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマとしまえん 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
@@ -87,13 +86,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/toshimaen/film.php?movie=12915&
  from=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1692b22e-7ea1-51b8-8c51-6edc6b58e213
+UID:2017f525-75da-590b-a55d-1bdaa099ee78
 SEQUENCE:0
-DTSTAMP:20250927T155140Z
-DTSTART:20251002T092000Z
-DTEND:20251002T103600Z
-SUMMARY:[販売期間外]  [4DX] も～っとつながる!KING OF PRISM-Yo
- ur Endless Call- route5 22世紀　4DX2D＜応援＞
+DTSTAMP:20251011T154853Z
+DTSTART:20251016T093000Z
+DTEND:20251016T104800Z
+SUMMARY:[販売期間外]  [4DX] 【生誕ウィーク】応援上映「
+ も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D
 LOCATION:ユナイテッド・シネマとしまえん 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/toshimaen/film.php?movie=
