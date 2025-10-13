@@ -2,16 +2,9 @@
   {
     "title": "[4DX] 【生誕ウィーク】応援上映「も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D",
     "screenName": "3screen",
-    "startTime": "2025-10-12T10:15:00.000Z",
-    "endTime": "2025-10-12T11:33:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[4DX] 【生誕ウィーク】応援上映「も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D",
-    "screenName": "3screen",
     "startTime": "2025-10-13T10:15:00.000Z",
     "endTime": "2025-10-13T11:33:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "[4DX] 【生誕ウィーク】応援上映「も～っとつながる！KING OF PRISM-YEC-」ルート1オバレ 4DX2D",
@@ -32,6 +25,6 @@
     "screenName": "3screen",
     "startTime": "2025-10-16T10:25:00.000Z",
     "endTime": "2025-10-16T11:43:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
