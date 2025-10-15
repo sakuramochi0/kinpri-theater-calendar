@@ -6,27 +6,12 @@ NAME:T・ジョイ PRINCE 品川 『KING OF PRISM -Dramatic PRISM.1-』上
 X-WR-CALNAME:T・ジョイ PRINCE 品川 『KING OF PRISM -Dramatic PRISM.
  1-』上映時間
 BEGIN:VEVENT
-UID:092aa177-725e-5dfd-9163-f356d1c36f6a
+UID:ddba6cf3-6878-5ccd-abfc-fee7be5bb296
 SEQUENCE:0
-DTSTAMP:20251014T153118Z
-DTSTART:20251015T124500Z
-DTEND:20251015T135500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート5 22世紀
-LOCATION:T・ジョイ PRINCE 品川 シアター７
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/
- C4251\nカレンダー生成プログラムのウェブサイト: kinpri-t
- heater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/tjoy-prince-shinagawa/cinema_schedule/C4251
-END:VEVENT
-BEGIN:VEVENT
-UID:efded05d-4de6-5a31-93a7-e03e861a2dd0
-SEQUENCE:0
-DTSTAMP:20251014T153118Z
+DTSTAMP:20251015T152854Z
 DTSTART:20251016T104000Z
 DTEND:20251016T115000Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
+SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
  ルート5 22世紀
 LOCATION:T・ジョイ PRINCE 品川 シアター７
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
