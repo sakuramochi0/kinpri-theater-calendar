@@ -1,16 +1,72 @@
 [
   {
-    "title": "＜爆音映画祭＞KING OF PRISM-Your Endless Call- route1オバレ プリズムスタァ応援上映",
-    "screenName": "3screen",
-    "startTime": "2025-10-19T00:45:00.000Z",
-    "endTime": "2025-10-19T01:48:00.000Z",
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-14T09:50:00.000Z",
+    "endTime": "2025-11-14T11:00:00.000Z",
+    "status": "販売対象外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-14T11:20:00.000Z",
+    "endTime": "2025-11-14T12:30:00.000Z",
+    "status": "販売対象外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-15T09:50:00.000Z",
+    "endTime": "2025-11-15T11:00:00.000Z",
     "status": "○"
   },
   {
-    "title": "＜爆音映画祭＞KING OF PRISM-Your Endless Call- route5 22世紀 プリズムスタァ応援上映",
-    "screenName": "3screen",
-    "startTime": "2025-10-19T02:15:00.000Z",
-    "endTime": "2025-10-19T03:18:00.000Z",
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-15T11:20:00.000Z",
+    "endTime": "2025-11-15T12:30:00.000Z",
     "status": "○"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-16T09:50:00.000Z",
+    "endTime": "2025-11-16T11:00:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-16T11:20:00.000Z",
+    "endTime": "2025-11-16T12:30:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-17T10:30:00.000Z",
+    "endTime": "2025-11-17T11:40:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-18T10:30:00.000Z",
+    "endTime": "2025-11-18T11:40:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-19T10:30:00.000Z",
+    "endTime": "2025-11-19T11:40:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D",
+    "screenName": "13screen",
+    "startTime": "2025-11-20T10:30:00.000Z",
+    "endTime": "2025-11-20T11:40:00.000Z",
+    "status": "販売期間外"
   }
 ]
