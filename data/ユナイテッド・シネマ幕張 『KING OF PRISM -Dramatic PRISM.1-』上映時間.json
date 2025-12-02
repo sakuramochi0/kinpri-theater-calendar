@@ -2,29 +2,43 @@
   {
     "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
     "screenName": "2screen",
-    "startTime": "2025-12-01T11:05:00.000Z",
-    "endTime": "2025-12-01T12:21:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
-    "screenName": "2screen",
     "startTime": "2025-12-02T11:05:00.000Z",
     "endTime": "2025-12-02T12:21:00.000Z",
-    "status": "販売期間外"
+    "status": "販売対象外"
   },
   {
     "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
     "screenName": "2screen",
     "startTime": "2025-12-03T11:05:00.000Z",
     "endTime": "2025-12-03T12:21:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   },
   {
     "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
     "screenName": "2screen",
     "startTime": "2025-12-04T11:05:00.000Z",
     "endTime": "2025-12-04T12:21:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route4夢と未来 はじまりの物語",
+    "screenName": "2screen",
+    "startTime": "2025-12-05T11:00:00.000Z",
+    "endTime": "2025-12-05T12:16:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route4夢と未来 はじまりの物語",
+    "screenName": "2screen",
+    "startTime": "2025-12-06T11:00:00.000Z",
+    "endTime": "2025-12-06T12:16:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route4夢と未来 はじまりの物語",
+    "screenName": "2screen",
+    "startTime": "2025-12-07T11:00:00.000Z",
+    "endTime": "2025-12-07T12:16:00.000Z",
     "status": "販売期間外"
   }
 ]
