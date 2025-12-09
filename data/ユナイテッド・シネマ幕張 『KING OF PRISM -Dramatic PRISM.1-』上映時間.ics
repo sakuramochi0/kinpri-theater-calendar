@@ -6,14 +6,78 @@ NAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:5acdfdff-c34f-5fd0-9fc3-b41a87c8ba28
+UID:b7dc9187-56ec-53e8-976a-cdd906fa9aae
 SEQUENCE:0
-DTSTAMP:20251207T152753Z
-DTSTART:20251207T110000Z
-DTEND:20251207T121600Z
-SUMMARY:[販売対象外]  ＜応援上映＞KING OF PRISM-Your Endless Ca
- ll- route4夢と未来 はじまりの物語
-LOCATION:ユナイテッド・シネマ幕張 2screen
+DTSTAMP:20251209T154440Z
+DTSTART:20251214T104000Z
+DTEND:20251214T115600Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世
+ 紀＜応援上映＞
+LOCATION:ユナイテッド・シネマ幕張 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 2418&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=12418&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:59a05215-3c8e-538a-ba89-16af383ad6b1
+SEQUENCE:0
+DTSTAMP:20251209T154440Z
+DTSTART:20251215T111000Z
+DTEND:20251215T122600Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世
+ 紀＜応援上映＞
+LOCATION:ユナイテッド・シネマ幕張 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 2418&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=12418&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:c9668433-596c-5e1c-b200-b7c934e5a06f
+SEQUENCE:0
+DTSTAMP:20251209T154440Z
+DTSTART:20251216T111000Z
+DTEND:20251216T122600Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世
+ 紀＜応援上映＞
+LOCATION:ユナイテッド・シネマ幕張 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 2418&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=12418&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1839c6-8da8-530e-a1bb-27fb072b1a26
+SEQUENCE:0
+DTSTAMP:20251209T154440Z
+DTSTART:20251217T111000Z
+DTEND:20251217T122600Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世
+ 紀＜応援上映＞
+LOCATION:ユナイテッド・シネマ幕張 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
+ 2418&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=12418&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:692476b2-bfee-5e1f-a174-58b4a29b4063
+SEQUENCE:0
+DTSTAMP:20251209T154440Z
+DTSTART:20251218T110000Z
+DTEND:20251218T121600Z
+SUMMARY:[販売期間外]  KING OF PRISM-Your Endless Call- route5 22世
+ 紀＜応援上映＞
+LOCATION:ユナイテッド・シネマ幕張 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
  2418&from=fm\nカレンダー生成プログラムのウェブサイト: k
