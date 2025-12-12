@@ -1,26 +1,5 @@
 [
   {
-    "title": "[応援上映]【ScreenX】も～っとKING OF PRISM-Your Endless Call-ルート2キング",
-    "screenName": "シアター６",
-    "startTime": "2025-12-12T07:50:00.000Z",
-    "endTime": "2025-12-12T09:00:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援上映]【ScreenX】も～っとKING OF PRISM-Your Endless Call-ルート3クイーン",
-    "screenName": "シアター６",
-    "startTime": "2025-12-12T09:20:00.000Z",
-    "endTime": "2025-12-12T10:30:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
-    "title": "[応援上映]【ScreenX】も～っとKING OF PRISM-Your Endless Call-ルート4はじまり",
-    "screenName": "シアター６",
-    "startTime": "2025-12-12T10:50:00.000Z",
-    "endTime": "2025-12-12T12:00:00.000Z",
-    "status": "◎予約/購入"
-  },
-  {
     "title": "[応援上映]【ScreenX】も～っとKING OF PRISM-Your Endless Call-ルート5 22世紀",
     "screenName": "シアター６",
     "startTime": "2025-12-13T10:10:00.000Z",
@@ -39,21 +18,21 @@
     "screenName": "シアター６",
     "startTime": "2025-12-15T07:50:00.000Z",
     "endTime": "2025-12-15T09:00:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]【ScreenX】も～っとKING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター６",
     "startTime": "2025-12-15T09:20:00.000Z",
     "endTime": "2025-12-15T10:30:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]【ScreenX】も～っとKING OF PRISM-Your Endless Call-ルート4はじまり",
     "screenName": "シアター６",
     "startTime": "2025-12-15T10:50:00.000Z",
     "endTime": "2025-12-15T12:00:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援上映]【ScreenX】も～っとKING OF PRISM-Your Endless Call-ルート1オバレ",

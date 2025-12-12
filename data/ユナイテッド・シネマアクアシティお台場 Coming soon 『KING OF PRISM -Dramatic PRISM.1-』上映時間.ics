@@ -6,47 +6,13 @@ NAME:ユナイテッド・シネマアクアシティお台場 Coming soon
 X-WR-CALNAME:ユナイテッド・シネマアクアシティお台場 Com
  ing soon 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:ba61bd0d-b12f-50c6-84e6-1612a905ca49
+UID:0db2cadd-a862-58a9-a32a-4a09436c2d02
 SEQUENCE:0
-DTSTAMP:20251211T154742Z
-DTSTART:20251211T095000Z
-DTEND:20251211T110000Z
-SUMMARY:[販売対象外]  [ScreenX] ＜応援上映＞も～っとつな
- がる！KING OF PRISM-YEC- ルート4ハジマリ ScreenX 2D
-LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 13screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=129
- 15&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12915&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:377f2172-6eed-5ae8-8d57-87d774f2a399
-SEQUENCE:0
-DTSTAMP:20251211T154742Z
-DTSTART:20251211T112000Z
-DTEND:20251211T123000Z
-SUMMARY:[販売対象外]  [ScreenX] ＜応援上映＞も～っとつな
- がる！KING OF PRISM-YEC- ルート4ハジマリ ScreenX 2D
-LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 13screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=129
- 15&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12915&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:282dd5be-7175-589b-a97c-210b4259c3c2
-SEQUENCE:0
-DTSTAMP:20251211T154742Z
+DTSTAMP:20251212T155801Z
 DTSTART:20251212T095000Z
 DTEND:20251212T110000Z
-SUMMARY:[○]  [ScreenX] も～っとつながる!KING OF PRISM-YEC- route
- 5 22世紀 ScreenX 2D＜応援＞
+SUMMARY:[販売対象外]  [ScreenX] も～っとつながる!KING OF PRIS
+ M-YEC- route5 22世紀 ScreenX 2D＜応援＞
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 13screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -57,13 +23,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b9913a3c-5e82-5f01-966a-6f8c098da05d
+UID:2ba81525-503b-52e6-b41d-b850b5f82832
 SEQUENCE:0
-DTSTAMP:20251211T154742Z
+DTSTAMP:20251212T155801Z
 DTSTART:20251212T112000Z
 DTEND:20251212T123000Z
-SUMMARY:[○]  [ScreenX] も～っとつながる!KING OF PRISM-YEC- route
- 5 22世紀 ScreenX 2D＜応援＞
+SUMMARY:[販売対象外]  [ScreenX] も～っとつながる!KING OF PRIS
+ M-YEC- route5 22世紀 ScreenX 2D＜応援＞
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 13screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -76,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4fe3f063-f2ff-55f2-bec0-0d0975f8ff76
 SEQUENCE:0
-DTSTAMP:20251211T154742Z
+DTSTAMP:20251212T155801Z
 DTSTART:20251213T093000Z
 DTEND:20251213T104000Z
 SUMMARY:[○]  [ScreenX] も～っとつながる!KING OF PRISM-YEC- route
@@ -93,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1bf9a653-c1bc-58f0-8097-ebb6c0a1f4d6
 SEQUENCE:0
-DTSTAMP:20251211T154742Z
+DTSTAMP:20251212T155801Z
 DTSTART:20251214T093000Z
 DTEND:20251214T104000Z
 SUMMARY:[○]  [ScreenX] も～っとつながる!KING OF PRISM-YEC- route
@@ -108,13 +74,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:65a706c3-7d16-53f6-94a7-36f2a99aaa1f
+UID:835d343f-c79a-5645-b7d4-45421e9b4b0d
 SEQUENCE:0
-DTSTAMP:20251211T154742Z
+DTSTAMP:20251212T155801Z
 DTSTART:20251215T093000Z
 DTEND:20251215T104000Z
-SUMMARY:[販売期間外]  [ScreenX] も～っとつながる!KING OF PRIS
- M-YEC- route5 22世紀 ScreenX 2D＜応援＞
+SUMMARY:[○]  [ScreenX] も～っとつながる!KING OF PRISM-YEC- route
+ 5 22世紀 ScreenX 2D＜応援＞
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 13screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -127,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cddb09df-5e22-50f5-9cd9-0c1c1628dc3d
 SEQUENCE:0
-DTSTAMP:20251211T154742Z
+DTSTAMP:20251212T155801Z
 DTSTART:20251216T093000Z
 DTEND:20251216T104000Z
 SUMMARY:[販売期間外]  [ScreenX] も～っとつながる!KING OF PRIS
@@ -144,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:992c29d0-02fc-57cd-9a44-f13577387189
 SEQUENCE:0
-DTSTAMP:20251211T154742Z
+DTSTAMP:20251212T155801Z
 DTSTART:20251217T093000Z
 DTEND:20251217T104000Z
 SUMMARY:[販売期間外]  [ScreenX] も～っとつながる!KING OF PRIS
@@ -161,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c650fc64-c4cb-5164-9ae5-9d6140df44de
 SEQUENCE:0
-DTSTAMP:20251211T154742Z
+DTSTAMP:20251212T155801Z
 DTSTART:20251218T093000Z
 DTEND:20251218T104000Z
 SUMMARY:[販売期間外]  [ScreenX] も～っとつながる!KING OF PRIS
