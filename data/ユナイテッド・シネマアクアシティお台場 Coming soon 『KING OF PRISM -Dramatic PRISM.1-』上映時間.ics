@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマアクアシティお台場 Coming soon
 X-WR-CALNAME:ユナイテッド・シネマアクアシティお台場 Com
  ing soon 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:2272c64f-603c-5468-a039-93926410242d
+UID:54c08fdd-f134-5e6f-bf30-6fe5eba5e3ab
 SEQUENCE:0
-DTSTAMP:20251215T155135Z
-DTSTART:20251215T093000Z
-DTEND:20251215T104000Z
-SUMMARY:[販売対象外]  [ScreenX] も～っとつながる!KING OF PRIS
- M-YEC- route5 22世紀 ScreenX 2D＜応援＞
+DTSTAMP:20251219T154232Z
+DTSTART:20251219T080500Z
+DTEND:20251219T091500Z
+SUMMARY:[販売対象外]  [ScreenX] ＜応援上映＞も～っとつな
+ がる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 13screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -23,13 +23,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:2327b256-76c0-5945-8bd9-6b84e070f8f6
+UID:19611fd6-14ca-52d9-b7ef-f23178ff546a
 SEQUENCE:0
-DTSTAMP:20251215T155135Z
-DTSTART:20251216T093000Z
-DTEND:20251216T104000Z
-SUMMARY:[○]  [ScreenX] も～っとつながる!KING OF PRISM-YEC- route
- 5 22世紀 ScreenX 2D＜応援＞
+DTSTAMP:20251219T154232Z
+DTSTART:20251221T080500Z
+DTEND:20251221T091500Z
+SUMMARY:[○]  [ScreenX] ＜応援上映＞も～っとつながる！KING
+  OF PRISM-YEC- ルート1オバレ ScreenX 2D
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 13screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -40,13 +40,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d81dc7f5-b44c-5a3e-8cc1-6c8128141da3
+UID:3b6bcff5-faed-55a6-a546-82fbddb2a320
 SEQUENCE:0
-DTSTAMP:20251215T155135Z
-DTSTART:20251217T093000Z
-DTEND:20251217T104000Z
-SUMMARY:[○]  [ScreenX] も～っとつながる!KING OF PRISM-YEC- route
- 5 22世紀 ScreenX 2D＜応援＞
+DTSTAMP:20251219T154232Z
+DTSTART:20251223T080500Z
+DTEND:20251223T091500Z
+SUMMARY:[販売期間外]  [ScreenX] ＜応援上映＞も～っとつな
+ がる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 13screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -57,13 +57,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12915&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:3ea0dc15-6f96-5504-aee5-fbc7035a0057
+UID:d480a711-b134-5c30-b9fe-8bd8afdc76fd
 SEQUENCE:0
-DTSTAMP:20251215T155135Z
-DTSTART:20251218T093000Z
-DTEND:20251218T104000Z
-SUMMARY:[○]  [ScreenX] も～っとつながる!KING OF PRISM-YEC- route
- 5 22世紀 ScreenX 2D＜応援＞
+DTSTAMP:20251219T154232Z
+DTSTART:20251225T080500Z
+DTEND:20251225T091500Z
+SUMMARY:[販売期間外]  [ScreenX] ＜応援上映＞も～っとつな
+ がる！KING OF PRISM-YEC- ルート1オバレ ScreenX 2D
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 13screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
