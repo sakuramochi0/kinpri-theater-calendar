@@ -1,17 +1,10 @@
 [
   {
-    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route1われらが青春 Over The Rainbow",
-    "screenName": "1screen",
-    "startTime": "2025-12-25T10:40:00.000Z",
-    "endTime": "2025-12-25T11:56:00.000Z",
-    "status": "販売対象外"
-  },
-  {
     "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route2伝説のキングカップ",
     "screenName": "1screen",
     "startTime": "2025-12-26T11:00:00.000Z",
     "endTime": "2025-12-26T12:16:00.000Z",
-    "status": "○"
+    "status": "販売対象外"
   },
   {
     "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route2伝説のキングカップ",
@@ -32,6 +25,6 @@
     "screenName": "6screen",
     "startTime": "2025-12-28T23:50:00.000Z",
     "endTime": "2025-12-29T01:06:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
