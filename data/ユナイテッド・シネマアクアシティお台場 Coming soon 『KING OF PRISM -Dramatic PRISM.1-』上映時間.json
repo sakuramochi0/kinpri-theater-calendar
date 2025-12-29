@@ -2,13 +2,6 @@
   {
     "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート2キング ScreenX 2D",
     "screenName": "13screen",
-    "startTime": "2025-12-28T10:30:00.000Z",
-    "endTime": "2025-12-28T11:40:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "[ScreenX] ＜応援上映＞も～っとつながる！KING OF PRISM-YEC- ルート2キング ScreenX 2D",
-    "screenName": "13screen",
     "startTime": "2025-12-30T10:30:00.000Z",
     "endTime": "2025-12-30T11:40:00.000Z",
     "status": "○"
@@ -18,6 +11,6 @@
     "screenName": "13screen",
     "startTime": "2025-01-01T11:15:00.000Z",
     "endTime": "2025-01-01T12:25:00.000Z",
-    "status": "販売期間外"
+    "status": "○"
   }
 ]
