@@ -6,37 +6,20 @@ NAME:ユナイテッド・シネマアクアシティお台場 Coming soon
 X-WR-CALNAME:ユナイテッド・シネマアクアシティお台場 Com
  ing soon 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:09a0d154-356a-5010-ae68-0b31398f4cf5
+UID:a3d139fe-fa24-5c5b-99a4-9852575f36b2
 SEQUENCE:0
-DTSTAMP:20251229T154759Z
-DTSTART:20251230T103000Z
-DTEND:20251230T114000Z
-SUMMARY:[○]  [ScreenX] ＜応援上映＞も～っとつながる！KING
-  OF PRISM-YEC- ルート2キング ScreenX 2D
+DTSTAMP:20251230T155958Z
+DTSTART:20250108T093000Z
+DTEND:20250108T112000Z
+SUMMARY:[販売期間外]  「KING OF PRISM10周年記念上映イベン
+ ト」前夜祭舞台挨拶ライブビューイング＜応援上映＞
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 13screen
+ soon 1screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=129
- 15&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=133
+ 72&from=fm\nカレンダー生成プログラムのウェブサイト: kin
  pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12915&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:9a599b7d-2b9d-5e72-81d3-6f39fb7094ec
-SEQUENCE:0
-DTSTAMP:20251229T154759Z
-DTSTART:20250101T111500Z
-DTEND:20250101T122500Z
-SUMMARY:[○]  [ScreenX] ＜応援上映＞も～っとつながる！KING
-  OF PRISM-YEC- ルート2キング ScreenX 2D
-LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 13screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=129
- 15&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12915&fro
+URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=13372&fro
  m=fm
 END:VEVENT
 END:VCALENDAR

@@ -5,19 +5,4 @@ NAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上映時
  間
 X-WR-CALNAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
-BEGIN:VEVENT
-UID:d1ec71c1-756f-5679-ba55-b15bf8f694b0
-SEQUENCE:0
-DTSTAMP:20251229T153151Z
-DTSTART:20251230T123000Z
-DTEND:20251230T134000Z
-SUMMARY:[◎予約/購入]  [応援上映]【ScreenX】も～っとKING OF
-  PRISM-Your Endless Call-ルート4はじまり
-LOCATION:T・ジョイ蘇我 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C4484\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C4484
-END:VEVENT
 END:VCALENDAR
