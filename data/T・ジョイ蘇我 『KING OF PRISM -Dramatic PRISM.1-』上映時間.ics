@@ -6,24 +6,9 @@ NAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ蘇我 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:6fecc0e5-950f-5847-a49c-fa40356dd08c
-SEQUENCE:0
-DTSTAMP:20260105T153309Z
-DTSTART:20260106T095000Z
-DTEND:20260106T110000Z
-SUMMARY:[◎予約/購入]  [応援上映]【ScreenX】も～っとKING OF
-  PRISM-Your Endless Call-ルート2キング
-LOCATION:T・ジョイ蘇我 シアター６
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_soga/cinema_schedule/C4484\nカ
- レンダー生成プログラムのウェブサイト: kinpri-theater-cal
- endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_soga/cinema_schedule/C4484
-END:VEVENT
-BEGIN:VEVENT
 UID:33892e8e-6b9b-51a0-9313-dbeb1eca7950
 SEQUENCE:0
-DTSTAMP:20260105T153309Z
+DTSTAMP:20260106T153210Z
 DTSTART:20260107T095000Z
 DTEND:20260107T110000Z
 SUMMARY:[◎予約/購入]  [応援上映]【ScreenX】も～っとKING OF
@@ -38,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:551541e4-cba1-52ed-a83f-d1b967e31d67
 SEQUENCE:0
-DTSTAMP:20260105T153309Z
+DTSTAMP:20260106T153210Z
 DTSTART:20260108T074500Z
 DTEND:20260108T085500Z
 SUMMARY:[◎予約/購入]  [応援上映]【ScreenX】も～っとKING OF

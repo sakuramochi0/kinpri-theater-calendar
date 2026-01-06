@@ -6,19 +6,179 @@ NAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ前橋 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:255483c6-f877-5933-8316-ddf9bb5059d4
+UID:09a27e23-bceb-5b95-bfcf-7a2aa60f3ec2
 SEQUENCE:0
-DTSTAMP:20260104T154456Z
-DTSTART:20260108T093000Z
-DTEND:20260108T112000Z
-SUMMARY:[○]  「KING OF PRISM10周年記念上映イベント」前夜
- 祭舞台挨拶ライブビューイング＜応援上映＞
-LOCATION:ユナイテッド・シネマ前橋 7screen
+DTSTAMP:20260106T153450Z
+DTSTART:20260109T094000Z
+DTEND:20260109T110600Z
+SUMMARY:[○]  KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応
+ 援上映＞
+LOCATION:ユナイテッド・シネマ前橋 4screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
- 3372&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
  inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13372&f
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:f150991a-9085-5fa8-8b53-8922f2f5deef
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260110T080500Z
+DTEND:20260110T093100Z
+SUMMARY:[販売期間外]  KING OF PRISM -PRIDE the HERO-＜プリズム
+ スタァ応援上映＞
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2341bd-a45d-5e9d-b3c7-6a58e5097f9a
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260110T032500Z
+DTEND:20260110T045100Z
+SUMMARY:[販売期間外]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリ
+ ズムスタァ応援上映＞4DX2D
+LOCATION:ユナイテッド・シネマ前橋 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:06fffecf-59e1-5c04-8243-23107c52cd77
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260111T063000Z
+DTEND:20260111T075600Z
+SUMMARY:[販売期間外]  KING OF PRISM -PRIDE the HERO-＜プリズム
+ スタァ応援上映＞
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:5051a104-3960-5cec-872f-2e8d0bb3b8c5
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260112T050000Z
+DTEND:20260112T062600Z
+SUMMARY:[販売期間外]  KING OF PRISM -PRIDE the HERO-＜プリズム
+ スタァ応援上映＞
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:45cdf968-7014-5244-abb9-87fcbb0538f0
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260111T231500Z
+DTEND:20260112T004100Z
+SUMMARY:[販売期間外]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリ
+ ズムスタァ応援上映＞4DX2D
+LOCATION:ユナイテッド・シネマ前橋 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:24066f1b-d245-531a-881e-649c2c6705e1
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260113T094000Z
+DTEND:20260113T110600Z
+SUMMARY:[販売期間外]  KING OF PRISM -PRIDE the HERO-＜プリズム
+ スタァ応援上映＞
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:d95086bd-a8c9-57fd-b290-ad6c0893f968
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260114T080500Z
+DTEND:20260114T093100Z
+SUMMARY:[販売期間外]  KING OF PRISM -PRIDE the HERO-＜プリズム
+ スタァ応援上映＞
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:59b9adf4-9335-5e55-8aae-072f24ccde13
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260114T033000Z
+DTEND:20260114T045600Z
+SUMMARY:[販売期間外]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリ
+ ズムスタァ応援上映＞4DX2D
+LOCATION:ユナイテッド・シネマ前橋 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:f4dcc558-883a-5585-8572-d1a2e5dd5684
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260115T063000Z
+DTEND:20260115T075600Z
+SUMMARY:[販売期間外]  KING OF PRISM -PRIDE the HERO-＜プリズム
+ スタァ応援上映＞
+LOCATION:ユナイテッド・シネマ前橋 4screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
+ rom=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:1bede4a0-5119-5dc1-8c8b-946eb0189b78
+SEQUENCE:0
+DTSTAMP:20260106T153450Z
+DTSTART:20260115T032500Z
+DTEND:20260115T045100Z
+SUMMARY:[販売期間外]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリ
+ ズムスタァ応援上映＞4DX2D
+LOCATION:ユナイテッド・シネマ前橋 1screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/maebashi/film.php?movie=1
+ 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
+ inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/maebashi/film.php?movie=13373&f
  rom=fm
 END:VEVENT
 END:VCALENDAR
