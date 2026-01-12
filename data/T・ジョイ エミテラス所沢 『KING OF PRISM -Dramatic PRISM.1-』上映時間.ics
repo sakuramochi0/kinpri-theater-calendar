@@ -6,51 +6,50 @@ NAME:T・ジョイ エミテラス所沢 『KING OF PRISM -Dramatic PRISM.
 X-WR-CALNAME:T・ジョイ エミテラス所沢 『KING OF PRISM -Dramati
  c PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b68a92b3-c76b-559f-9f91-4bb1afb1a748
+UID:fa54dc8a-50d6-571e-a68e-c55d8b9784b7
 SEQUENCE:0
-DTSTAMP:20250818T153149Z
-DTSTART:20250819T101500Z
-DTEND:20250819T113000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート4はじまり
-LOCATION:T・ジョイ エミテラス所沢 シアター４
+DTSTAMP:20260112T153543Z
+DTSTART:20260113T101500Z
+DTEND:20260113T113500Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -PRIDE the HERO-
+LOCATION:T・ジョイ エミテラス所沢 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
- edule/C4251\nカレンダー生成プログラムのウェブサイト: ki
+ edule/E2715\nカレンダー生成プログラムのウェブサイト: ki
  npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
 URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
- C4251
+ E2715
 END:VEVENT
 BEGIN:VEVENT
-UID:8b26e975-f02b-53fc-ad7e-61a5f6664904
+UID:af9a6d99-69dc-531e-b3d3-c63d8c51cf36
 SEQUENCE:0
-DTSTAMP:20250818T153149Z
-DTSTART:20250820T101500Z
-DTEND:20250820T113000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート4はじまり
-LOCATION:T・ジョイ エミテラス所沢 シアター４
+DTSTAMP:20260112T153543Z
+DTSTART:20260114T101500Z
+DTEND:20260114T112500Z
+SUMMARY:[◎予約/購入]  [応援]【ScreenX】も～っと煌めく！K
+ ING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ エミテラス所沢 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
- edule/C4251\nカレンダー生成プログラムのウェブサイト: ki
+ edule/E2715\nカレンダー生成プログラムのウェブサイト: ki
  npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
 URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
- C4251
+ E2715
 END:VEVENT
 BEGIN:VEVENT
-UID:ac7cc121-14a6-5dc0-9b65-f727cf68d807
+UID:02e67e62-5fce-5dd3-9f4b-4417b8897666
 SEQUENCE:0
-DTSTAMP:20250818T153149Z
-DTSTART:20250821T101500Z
-DTEND:20250821T113000Z
-SUMMARY:[◎予約/購入]  [通常上映]KING OF PRISM-Your Endless Call-
- ルート4はじまり
-LOCATION:T・ジョイ エミテラス所沢 シアター４
+DTSTAMP:20260112T153543Z
+DTSTART:20260115T101500Z
+DTEND:20260115T112500Z
+SUMMARY:[◎予約/購入]  [応援]【ScreenX】も～っとKING OF PRISM
+ -Your Endless Call-ルート1オバレ
+LOCATION:T・ジョイ エミテラス所沢 シアター３
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_sch
- edule/C4251\nカレンダー生成プログラムのウェブサイト: ki
+ edule/E2715\nカレンダー生成プログラムのウェブサイト: ki
  npri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
 URL;VALUE=URI:https://tjoy.jp/t-joy_emiterrace_tokorozawa/cinema_schedule/
- C4251
+ E2715
 END:VEVENT
 END:VCALENDAR

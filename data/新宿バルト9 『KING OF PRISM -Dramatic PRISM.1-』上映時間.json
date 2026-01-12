@@ -1,52 +1,24 @@
 [
   {
-    "title": "[応援]KING OF PRISM -Dramatic PRISM.1-",
-    "screenName": "シアター９",
-    "startTime": "2026-01-11T01:35:00.000Z",
-    "endTime": "2026-01-11T02:45:00.000Z",
-    "status": "-終了"
-  },
-  {
-    "title": "[応援]KING OF PRISM -Dramatic PRISM.1-",
-    "screenName": "シアター９",
-    "startTime": "2026-01-11T09:55:00.000Z",
-    "endTime": "2026-01-11T11:05:00.000Z",
-    "status": "-終了"
-  },
-  {
-    "title": "[応援]KING OF PRISM-Your Endless Call-ルート1オバレ",
-    "screenName": "シアター９",
-    "startTime": "2026-01-11T05:40:00.000Z",
-    "endTime": "2026-01-11T06:50:00.000Z",
-    "status": "-終了"
-  },
-  {
-    "title": "[応援]KING OF PRISM-Your Endless Call-ルート1オバレ",
-    "screenName": "シアター９",
-    "startTime": "2026-01-11T11:30:00.000Z",
-    "endTime": "2026-01-11T12:40:00.000Z",
-    "status": "-終了"
-  },
-  {
     "title": "[応援]KING OF PRISM by PrettyRhythm",
     "screenName": "シアター９",
     "startTime": "2026-01-11T23:00:00.000Z",
     "endTime": "2026-01-12T00:10:00.000Z",
-    "status": "◎予約/購入"
+    "status": "-終了"
   },
   {
     "title": "[応援]KING OF PRISM by PrettyRhythm",
     "screenName": "シアター９",
     "startTime": "2026-01-12T10:15:00.000Z",
     "endTime": "2026-01-12T11:25:00.000Z",
-    "status": "◎予約/購入"
+    "status": "-終了"
   },
   {
     "title": "[応援]KING OF PRISM by PrettyRhythm",
     "screenName": "シアター９",
     "startTime": "2026-01-12T11:50:00.000Z",
     "endTime": "2026-01-12T13:00:00.000Z",
-    "status": "◎予約/購入"
+    "status": "-終了"
   },
   {
     "title": "[応援]KING OF PRISM -PRIDE the HERO-",
@@ -67,7 +39,7 @@
     "screenName": "シアター９",
     "startTime": "2026-01-13T10:25:00.000Z",
     "endTime": "2026-01-13T11:45:00.000Z",
-    "status": "◎予約/購入"
+    "status": "○予約/購入"
   },
   {
     "title": "[応援]KING OF PRISM -PRIDE the HERO-",
@@ -102,7 +74,7 @@
     "screenName": "シアター５",
     "startTime": "2026-01-14T10:45:00.000Z",
     "endTime": "2026-01-14T11:55:00.000Z",
-    "status": "○予約/購入"
+    "status": "☓満席"
   },
   {
     "title": "[応援]KING OF PRISM -Dramatic PRISM.1-",
@@ -116,34 +88,34 @@
     "screenName": "シアター９",
     "startTime": "2026-01-15T02:15:00.000Z",
     "endTime": "2026-01-15T03:25:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援]KING OF PRISM-Your Endless Call-ルート2キング",
     "screenName": "シアター９",
     "startTime": "2026-01-15T06:25:00.000Z",
     "endTime": "2026-01-15T07:35:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   },
   {
     "title": "[応援]KING OF PRISM-Your Endless Call-ルート3クイーン",
     "screenName": "シアター９",
     "startTime": "2026-01-15T10:05:00.000Z",
     "endTime": "2026-01-15T11:15:00.000Z",
-    "status": "-販売対象外"
+    "status": "○予約/購入"
   },
   {
     "title": "[応援]KING OF PRISM-Your Endless Call-ルート4はじまり",
     "screenName": "シアター９",
     "startTime": "2026-01-15T11:40:00.000Z",
     "endTime": "2026-01-15T12:50:00.000Z",
-    "status": "-販売対象外"
+    "status": "○予約/購入"
   },
   {
     "title": "[応援]KING OF PRISM-Your Endless Call-ルート5 22世紀",
     "screenName": "シアター９",
     "startTime": "2026-01-15T13:15:00.000Z",
     "endTime": "2026-01-15T14:25:00.000Z",
-    "status": "-販売対象外"
+    "status": "◎予約/購入"
   }
 ]

@@ -6,19 +6,49 @@ NAME:T・ジョイ リバーウォーク 北九州 『KING OF PRISM -Drama
 X-WR-CALNAME:T・ジョイ リバーウォーク 北九州 『KING OF PRIS
  M -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:e0f83d5c-6482-5066-b53a-3400d11de15f
+UID:6dacde51-1692-57ca-940c-151f307b1958
 SEQUENCE:0
-DTSTAMP:20251001T153133Z
-DTSTART:20251002T103000Z
-DTEND:20251002T114500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート5 22世紀
-LOCATION:T・ジョイ リバーウォーク 北九州 シアター８
+DTSTAMP:20260112T153721Z
+DTSTART:20260113T104000Z
+DTEND:20260113T120500Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -PRIDE the HERO-
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター４
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
- dule/C4251\nカレンダー生成プログラムのウェブサイト: kin
+ dule/E2715\nカレンダー生成プログラムのウェブサイト: kin
  pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/C
- 4251
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/E
+ 2715
+END:VEVENT
+BEGIN:VEVENT
+UID:c299e088-7698-5d6e-b0ab-b99d57da0acb
+SEQUENCE:0
+DTSTAMP:20260112T153721Z
+DTSTART:20260114T104000Z
+DTEND:20260114T115500Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/E2715\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/E
+ 2715
+END:VEVENT
+BEGIN:VEVENT
+UID:92bfc3d6-f673-5896-bf46-b2f334d86119
+SEQUENCE:0
+DTSTAMP:20260112T153721Z
+DTSTART:20260115T104000Z
+DTEND:20260115T115500Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM-Your Endless Call-ルー
+ ト2キング
+LOCATION:T・ジョイ リバーウォーク 北九州 シアター４
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_sche
+ dule/E2715\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_riverwalk_kitakyusyu/cinema_schedule/E
+ 2715
 END:VEVENT
 END:VCALENDAR

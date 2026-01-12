@@ -6,48 +6,91 @@ NAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上映時
 X-WR-CALNAME:T・ジョイ梅田 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:e772dcf5-a9f1-5444-a1b1-84e32da5274b
+UID:c4ce8235-3dbf-5cac-b86d-0582a12e90b7
 SEQUENCE:0
-DTSTAMP:20251110T153024Z
-DTSTART:20251111T104500Z
-DTEND:20251111T115500Z
-SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
-LOCATION:T・ジョイ梅田 シアター３
+DTSTAMP:20260112T153603Z
+DTSTART:20260113T094000Z
+DTEND:20260113T105000Z
+SUMMARY:[○予約/購入]  [応援]KING OF PRISM-Your Endless Call-ルー
+ ト3クイーン
+LOCATION:T・ジョイ梅田 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715\nカ
  レンダー生成プログラムのウェブサイト: kinpri-theater-cal
  endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715
 END:VEVENT
 BEGIN:VEVENT
-UID:70a5aa5f-4c1c-5768-b301-adbc91904f58
+UID:a77e9734-83bc-50e3-97fc-44795cafd68e
 SEQUENCE:0
-DTSTAMP:20251110T153024Z
-DTSTART:20251112T104500Z
-DTEND:20251112T115500Z
-SUMMARY:[○予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
-LOCATION:T・ジョイ梅田 シアター３
+DTSTAMP:20260112T153603Z
+DTSTART:20260113T080000Z
+DTEND:20260113T092000Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM -PRIDE the HERO-
+LOCATION:T・ジョイ梅田 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715\nカ
  レンダー生成プログラムのウェブサイト: kinpri-theater-cal
  endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715
 END:VEVENT
 BEGIN:VEVENT
-UID:8b8ef798-1124-526f-84b9-5b9bbc593c42
+UID:12a77a38-8d40-54dc-92d0-16cf92d4f0de
 SEQUENCE:0
-DTSTAMP:20251110T153024Z
-DTSTART:20251113T104500Z
-DTEND:20251113T115500Z
-SUMMARY:[◎予約/購入]  [応援上映]KING OF PRISM-Your Endless Call-
- ルート1オバレ
-LOCATION:T・ジョイ梅田 シアター３
+DTSTAMP:20260112T153603Z
+DTSTART:20260114T080000Z
+DTEND:20260114T091000Z
+SUMMARY:[○予約/購入]  [応援]KING OF PRISM -Dramatic PRISM.1-
+LOCATION:T・ジョイ梅田 シアター６
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251\nカ
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715\nカ
  レンダー生成プログラムのウェブサイト: kinpri-theater-cal
  endar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/C4251
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715
+END:VEVENT
+BEGIN:VEVENT
+UID:f249203b-d05c-539f-a4b6-a3424c16d42b
+SEQUENCE:0
+DTSTAMP:20260112T153603Z
+DTSTART:20260114T093000Z
+DTEND:20260114T104000Z
+SUMMARY:[△予約/購入]  [応援]KING OF PRISM-Your Endless Call-ルー
+ ト4はじまり
+LOCATION:T・ジョイ梅田 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715
+END:VEVENT
+BEGIN:VEVENT
+UID:49cb55f2-b327-5804-b934-5ba83fdf2e80
+SEQUENCE:0
+DTSTAMP:20260112T153603Z
+DTSTART:20260115T080000Z
+DTEND:20260115T091000Z
+SUMMARY:[◎予約/購入]  [応援]KING OF PRISM-Your Endless Call-ルー
+ ト1オバレ
+LOCATION:T・ジョイ梅田 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715
+END:VEVENT
+BEGIN:VEVENT
+UID:3cde0ac5-45f2-51c1-a543-e98b74e44bc0
+SEQUENCE:0
+DTSTAMP:20260112T153603Z
+DTSTART:20260115T093000Z
+DTEND:20260115T104000Z
+SUMMARY:[○予約/購入]  [応援]KING OF PRISM-Your Endless Call-ルー
+ ト5 22世紀
+LOCATION:T・ジョイ梅田 シアター６
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715\nカ
+ レンダー生成プログラムのウェブサイト: kinpri-theater-cal
+ endar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://tjoy.jp/t-joy_umeda/cinema_schedule/E2715
 END:VEVENT
 END:VCALENDAR
