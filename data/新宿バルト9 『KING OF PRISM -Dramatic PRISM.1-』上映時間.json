@@ -1,52 +1,31 @@
 [
   {
-    "title": "[応援]KING OF PRISM by PrettyRhythm",
-    "screenName": "シアター９",
-    "startTime": "2026-01-11T23:00:00.000Z",
-    "endTime": "2026-01-12T00:10:00.000Z",
-    "status": "-終了"
-  },
-  {
-    "title": "[応援]KING OF PRISM by PrettyRhythm",
-    "screenName": "シアター９",
-    "startTime": "2026-01-12T10:15:00.000Z",
-    "endTime": "2026-01-12T11:25:00.000Z",
-    "status": "-終了"
-  },
-  {
-    "title": "[応援]KING OF PRISM by PrettyRhythm",
-    "screenName": "シアター９",
-    "startTime": "2026-01-12T11:50:00.000Z",
-    "endTime": "2026-01-12T13:00:00.000Z",
-    "status": "-終了"
-  },
-  {
     "title": "[応援]KING OF PRISM -PRIDE the HERO-",
     "screenName": "シアター９",
     "startTime": "2026-01-13T02:15:00.000Z",
     "endTime": "2026-01-13T03:35:00.000Z",
-    "status": "◎予約/購入"
+    "status": "-終了"
   },
   {
     "title": "[応援]KING OF PRISM -PRIDE the HERO-",
     "screenName": "シアター９",
     "startTime": "2026-01-13T06:35:00.000Z",
     "endTime": "2026-01-13T07:55:00.000Z",
-    "status": "◎予約/購入"
+    "status": "-終了"
   },
   {
     "title": "[応援]KING OF PRISM -PRIDE the HERO-",
     "screenName": "シアター９",
     "startTime": "2026-01-13T10:25:00.000Z",
     "endTime": "2026-01-13T11:45:00.000Z",
-    "status": "○予約/購入"
+    "status": "-終了"
   },
   {
     "title": "[応援]KING OF PRISM -PRIDE the HERO-",
     "screenName": "シアター９",
     "startTime": "2026-01-13T12:10:00.000Z",
     "endTime": "2026-01-13T13:30:00.000Z",
-    "status": "◎予約/購入"
+    "status": "-終了"
   },
   {
     "title": "[応援]KING OF PRISM -Dramatic PRISM.1-",
@@ -102,14 +81,14 @@
     "screenName": "シアター９",
     "startTime": "2026-01-15T10:05:00.000Z",
     "endTime": "2026-01-15T11:15:00.000Z",
-    "status": "○予約/購入"
+    "status": "△予約/購入"
   },
   {
     "title": "[応援]KING OF PRISM-Your Endless Call-ルート4はじまり",
     "screenName": "シアター９",
     "startTime": "2026-01-15T11:40:00.000Z",
     "endTime": "2026-01-15T12:50:00.000Z",
-    "status": "○予約/購入"
+    "status": "△予約/購入"
   },
   {
     "title": "[応援]KING OF PRISM-Your Endless Call-ルート5 22世紀",
