@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ浦和 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:8c5f5eab-921a-583d-abdf-adadac44c380
+UID:f0ce97fc-9696-5255-9d4c-52fdc74ed7ad
 SEQUENCE:0
-DTSTAMP:20260112T155756Z
-DTSTART:20260112T112000Z
-DTEND:20260112T123600Z
+DTSTAMP:20260114T155357Z
+DTSTART:20260114T114500Z
+DTEND:20260114T130100Z
 SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call-route1＜プリ
  ズムスタァ応援上映＞
 LOCATION:ユナイテッド・シネマ浦和 3screen
@@ -22,41 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=13376&from
  =fm
 END:VEVENT
 BEGIN:VEVENT
-UID:d1902d59-1400-58b4-ad7e-2c61abad270f
-SEQUENCE:0
-DTSTAMP:20260112T155756Z
-DTSTART:20260113T114500Z
-DTEND:20260113T130100Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call-route1＜プリズムスタ
- ァ応援上映＞
-LOCATION:ユナイテッド・シネマ浦和 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1337
- 6&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=13376&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
-UID:9720d991-8876-51ed-b680-0f82369c9962
-SEQUENCE:0
-DTSTAMP:20260112T155756Z
-DTSTART:20260114T114500Z
-DTEND:20260114T130100Z
-SUMMARY:[○]  KING OF PRISM-Your Endless Call-route1＜プリズムスタ
- ァ応援上映＞
-LOCATION:ユナイテッド・シネマ浦和 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/urawa/film.php?movie=1337
- 6&from=fm\nカレンダー生成プログラムのウェブサイト: kinp
- ri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/urawa/film.php?movie=13376&from
- =fm
-END:VEVENT
-BEGIN:VEVENT
 UID:99c03afb-cb6e-50a9-8d17-536af1a1e75e
 SEQUENCE:0
-DTSTAMP:20260112T155756Z
+DTSTAMP:20260114T155357Z
 DTSTART:20260115T114500Z
 DTEND:20260115T130100Z
 SUMMARY:[○]  KING OF PRISM-Your Endless Call-route1＜プリズムスタ

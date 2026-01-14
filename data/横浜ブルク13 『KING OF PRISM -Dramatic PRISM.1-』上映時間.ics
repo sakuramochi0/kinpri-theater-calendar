@@ -5,24 +5,9 @@ NAME:横浜ブルク13 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 X-WR-CALNAME:横浜ブルク13 『KING OF PRISM -Dramatic PRISM.1-』上
  映時間
 BEGIN:VEVENT
-UID:f2484be3-3df7-5a05-ba13-13499bf7f651
-SEQUENCE:0
-DTSTAMP:20260113T153759Z
-DTSTART:20260114T102500Z
-DTEND:20260114T114000Z
-SUMMARY:[○予約/購入]  [応援]【ScreenX】も～っと煌めく！K
- ING OF PRISM -Dramatic PRISM.1-
-LOCATION:横浜ブルク13 シアター１２
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://tjoy.jp/yokohama_burg13/cinema_schedule/E2715\
- nカレンダー生成プログラムのウェブサイト: kinpri-theater
- -calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://tjoy.jp/yokohama_burg13/cinema_schedule/E2715
-END:VEVENT
-BEGIN:VEVENT
 UID:89670875-62ed-509c-ab7c-3a06660033ef
 SEQUENCE:0
-DTSTAMP:20260113T153759Z
+DTSTAMP:20260114T153621Z
 DTSTART:20260115T102500Z
 DTEND:20260115T114000Z
 SUMMARY:[◎予約/購入]  [応援]【ScreenX】も～っとKING OF PRISM

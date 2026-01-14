@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ水戸 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:a72e4311-b7bb-5eca-905f-597aeb69bb1c
+UID:6d393689-84f4-5b55-8703-0a6a3838e50e
 SEQUENCE:0
-DTSTAMP:20260113T155431Z
-DTSTART:20260113T085000Z
-DTEND:20260113T101600Z
+DTSTAMP:20260114T155227Z
+DTSTART:20260114T120000Z
+DTEND:20260114T132600Z
 SUMMARY:[販売対象外]  KING OF PRISM -PRIDE the HERO-＜プリズム
  スタァ応援上映＞
 LOCATION:ユナイテッド・シネマ水戸 7screen
@@ -22,41 +22,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=13373&from=
  fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a7db911b-cc55-5da2-9821-c73d8d99bcb0
-SEQUENCE:0
-DTSTAMP:20260113T155431Z
-DTSTART:20260113T095000Z
-DTEND:20260113T111600Z
-SUMMARY:[販売対象外]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリ
- ズムスタァ応援上映＞4DX2D
-LOCATION:ユナイテッド・シネマ水戸 3screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=13373
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=13373&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
-UID:fdb35693-a285-5191-8824-6596b53f75e4
-SEQUENCE:0
-DTSTAMP:20260113T155431Z
-DTSTART:20260114T120000Z
-DTEND:20260114T132600Z
-SUMMARY:[○]  KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応
- 援上映＞
-LOCATION:ユナイテッド・シネマ水戸 7screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/mito/film.php?movie=13373
- &from=fm\nカレンダー生成プログラムのウェブサイト: kinpr
- i-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/mito/film.php?movie=13373&from=
- fm
-END:VEVENT
-BEGIN:VEVENT
 UID:9a15fc75-aba2-59b4-a113-f06d290d601f
 SEQUENCE:0
-DTSTAMP:20260113T155431Z
+DTSTAMP:20260114T155227Z
 DTSTART:20260115T085000Z
 DTEND:20260115T101600Z
 SUMMARY:[○]  KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応
@@ -72,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5541253d-1f46-510d-acd6-25f0c76cbd21
 SEQUENCE:0
-DTSTAMP:20260113T155431Z
+DTSTAMP:20260114T155227Z
 DTSTART:20260115T095000Z
 DTEND:20260115T111600Z
 SUMMARY:[○]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリズムスタ
