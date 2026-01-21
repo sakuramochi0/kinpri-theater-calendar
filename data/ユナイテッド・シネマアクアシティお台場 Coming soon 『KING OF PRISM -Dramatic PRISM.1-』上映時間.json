@@ -1,58 +1,30 @@
 [
   {
-    "title": "KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞",
-    "screenName": "3screen",
-    "startTime": "2026-01-12T09:45:00.000Z",
-    "endTime": "2026-01-12T11:05:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞",
-    "screenName": "3screen",
-    "startTime": "2026-01-13T02:05:00.000Z",
-    "endTime": "2026-01-13T03:25:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞",
-    "screenName": "3screen",
-    "startTime": "2026-01-13T07:05:00.000Z",
-    "endTime": "2026-01-13T08:25:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞",
-    "screenName": "3screen",
-    "startTime": "2026-01-14T02:05:00.000Z",
-    "endTime": "2026-01-14T03:25:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞",
-    "screenName": "3screen",
-    "startTime": "2026-01-14T07:05:00.000Z",
-    "endTime": "2026-01-14T08:25:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞",
-    "screenName": "3screen",
-    "startTime": "2026-01-15T02:05:00.000Z",
-    "endTime": "2026-01-15T03:25:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞",
-    "screenName": "3screen",
-    "startTime": "2026-01-15T09:30:00.000Z",
-    "endTime": "2026-01-15T10:50:00.000Z",
+    "title": "[4DX] KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞4DX2D",
+    "screenName": "8screen",
+    "startTime": "2026-01-23T11:15:00.000Z",
+    "endTime": "2026-01-23T12:35:00.000Z",
     "status": "○"
   },
   {
     "title": "[4DX] KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞4DX2D",
     "screenName": "8screen",
-    "startTime": "2026-01-15T08:25:00.000Z",
-    "endTime": "2026-01-15T09:45:00.000Z",
+    "startTime": "2026-01-24T11:15:00.000Z",
+    "endTime": "2026-01-24T12:35:00.000Z",
     "status": "○"
+  },
+  {
+    "title": "[4DX] KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞4DX2D",
+    "screenName": "8screen",
+    "startTime": "2026-01-25T11:15:00.000Z",
+    "endTime": "2026-01-25T12:35:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "[4DX] KING OF PRISM -PRIDE the HERO-＜プリズムスタァ応援上映＞4DX2D",
+    "screenName": "8screen",
+    "startTime": "2026-01-29T11:15:00.000Z",
+    "endTime": "2026-01-29T12:35:00.000Z",
+    "status": "販売期間外"
   }
 ]
