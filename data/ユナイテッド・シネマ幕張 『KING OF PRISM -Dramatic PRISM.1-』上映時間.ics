@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramatic PRISM
 X-WR-CALNAME:ユナイテッド・シネマ幕張 『KING OF PRISM -Dramat
  ic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:b6cf71b8-4b11-543d-a8dd-512faa0f1b58
+UID:841977f1-3235-5198-b9a2-5117c00e194c
 SEQUENCE:0
-DTSTAMP:20260124T154438Z
-DTSTART:20260124T021000Z
-DTEND:20260124T033600Z
+DTSTAMP:20260126T154158Z
+DTSTART:20260126T104000Z
+DTEND:20260126T120600Z
 SUMMARY:[販売対象外]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリ
  ズムスタァ応援上映＞4DX2D
 LOCATION:ユナイテッド・シネマ幕張 8screen
@@ -22,29 +22,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=13373&f
  rom=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:7da36f7e-4003-55b7-af69-f5e3e006ff3e
+UID:7e30b36b-8402-529d-9691-c9f082ac924c
 SEQUENCE:0
-DTSTAMP:20260124T154438Z
-DTSTART:20260126T104000Z
-DTEND:20260126T120600Z
-SUMMARY:[○]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリズムスタ
- ァ応援上映＞4DX2D
-LOCATION:ユナイテッド・シネマ幕張 8screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
- 3373&from=fm\nカレンダー生成プログラムのウェブサイト: k
- inpri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/makuhari/film.php?movie=13373&f
- rom=fm
-END:VEVENT
-BEGIN:VEVENT
-UID:e3cfb445-82e8-54be-b3ce-a702478e4e3e
-SEQUENCE:0
-DTSTAMP:20260124T154438Z
+DTSTAMP:20260126T154158Z
 DTSTART:20260129T122000Z
 DTEND:20260129T134600Z
-SUMMARY:[販売期間外]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリ
- ズムスタァ応援上映＞4DX2D
+SUMMARY:[○]  [4DX] KING OF PRISM -PRIDE the HERO-＜プリズムスタ
+ ァ応援上映＞4DX2D
 LOCATION:ユナイテッド・シネマ幕張 8screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/makuhari/film.php?movie=1
