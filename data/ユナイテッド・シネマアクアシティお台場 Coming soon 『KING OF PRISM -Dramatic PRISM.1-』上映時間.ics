@@ -6,11 +6,11 @@ NAME:ユナイテッド・シネマアクアシティお台場 Coming soon
 X-WR-CALNAME:ユナイテッド・シネマアクアシティお台場 Com
  ing soon 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:09d9557c-bd01-5d80-b979-1f9a69abf113
+UID:f689d0c5-77b0-55ae-ad06-9cc5a5082dcb
 SEQUENCE:0
-DTSTAMP:20260131T155128Z
-DTSTART:20260131T093500Z
-DTEND:20260131T104500Z
+DTSTAMP:20260201T154923Z
+DTSTART:20260201T093500Z
+DTEND:20260201T104500Z
 SUMMARY:[販売対象外]  ＜応援上映＞KING OF PRISM-Your Endless Ca
  ll- route1われらが青春 Over The Rainbow
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
@@ -23,26 +23,9 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:a075e301-be22-52fd-98cc-fa0ddc22d0ad
-SEQUENCE:0
-DTSTAMP:20260131T155128Z
-DTSTART:20260201T093500Z
-DTEND:20260201T104500Z
-SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route1
- われらが青春 Over The Rainbow
-LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 6screen
-DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
- スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=124
- 18&from=fm\nカレンダー生成プログラムのウェブサイト: kin
- pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
-URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
- m=fm
-END:VEVENT
-BEGIN:VEVENT
 UID:742b6f4e-7580-5a16-a52f-77b334f050fa
 SEQUENCE:0
-DTSTAMP:20260131T155128Z
+DTSTAMP:20260201T154923Z
 DTSTART:20260202T093500Z
 DTEND:20260202T104500Z
 SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route1
@@ -59,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:494c92d5-719c-5d6b-a614-2c4509bd9344
 SEQUENCE:0
-DTSTAMP:20260131T155128Z
+DTSTAMP:20260201T154923Z
 DTSTART:20260203T093500Z
 DTEND:20260203T104500Z
 SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route1
@@ -74,13 +57,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:085c7289-2fb8-5c45-9570-6d904d911b5a
+UID:6f60145f-541d-5a58-b7f9-17a2c372a0db
 SEQUENCE:0
-DTSTAMP:20260131T155128Z
+DTSTAMP:20260201T154923Z
 DTSTART:20260204T093500Z
 DTEND:20260204T104500Z
-SUMMARY:[販売期間外]  ＜応援上映＞KING OF PRISM-Your Endless Ca
- ll- route1われらが青春 Over The Rainbow
+SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route1
+ われらが青春 Over The Rainbow
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -93,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2d6185dd-41f9-5176-853c-08ee7955a84c
 SEQUENCE:0
-DTSTAMP:20260131T155128Z
+DTSTAMP:20260201T154923Z
 DTSTART:20260205T093500Z
 DTEND:20260205T104500Z
 SUMMARY:[販売期間外]  ＜応援上映＞KING OF PRISM-Your Endless Ca
