@@ -2,50 +2,64 @@
   {
     "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route2伝説のキングカップ",
     "screenName": "6screen",
-    "startTime": "2026-02-06T07:30:00.000Z",
-    "endTime": "2026-02-06T08:40:00.000Z",
-    "status": "販売対象外"
-  },
-  {
-    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route2伝説のキングカップ",
-    "screenName": "6screen",
-    "startTime": "2026-02-07T07:30:00.000Z",
-    "endTime": "2026-02-07T08:40:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route2伝説のキングカップ",
-    "screenName": "6screen",
-    "startTime": "2026-02-08T07:30:00.000Z",
-    "endTime": "2026-02-08T08:40:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route2伝説のキングカップ",
-    "screenName": "6screen",
-    "startTime": "2026-02-09T07:30:00.000Z",
-    "endTime": "2026-02-09T08:40:00.000Z",
-    "status": "○"
-  },
-  {
-    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route2伝説のキングカップ",
-    "screenName": "6screen",
-    "startTime": "2026-02-10T07:30:00.000Z",
-    "endTime": "2026-02-10T08:40:00.000Z",
-    "status": "販売期間外"
-  },
-  {
-    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route2伝説のキングカップ",
-    "screenName": "6screen",
     "startTime": "2026-02-11T07:30:00.000Z",
     "endTime": "2026-02-11T08:40:00.000Z",
-    "status": "販売期間外"
+    "status": "販売対象外"
   },
   {
     "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route2伝説のキングカップ",
     "screenName": "6screen",
     "startTime": "2026-02-12T07:30:00.000Z",
     "endTime": "2026-02-12T08:40:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
+    "screenName": "6screen",
+    "startTime": "2026-02-13T09:10:00.000Z",
+    "endTime": "2026-02-13T10:20:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
+    "screenName": "6screen",
+    "startTime": "2026-02-14T09:10:00.000Z",
+    "endTime": "2026-02-14T10:20:00.000Z",
+    "status": "○"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
+    "screenName": "6screen",
+    "startTime": "2026-02-15T09:10:00.000Z",
+    "endTime": "2026-02-15T10:20:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
+    "screenName": "6screen",
+    "startTime": "2026-02-16T09:10:00.000Z",
+    "endTime": "2026-02-16T10:20:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
+    "screenName": "6screen",
+    "startTime": "2026-02-17T09:10:00.000Z",
+    "endTime": "2026-02-17T10:20:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
+    "screenName": "6screen",
+    "startTime": "2026-02-18T09:10:00.000Z",
+    "endTime": "2026-02-18T10:20:00.000Z",
+    "status": "販売期間外"
+  },
+  {
+    "title": "＜応援上映＞KING OF PRISM-Your Endless Call- route3奇跡のクイーンカップ",
+    "screenName": "6screen",
+    "startTime": "2026-02-19T09:10:00.000Z",
+    "endTime": "2026-02-19T10:20:00.000Z",
     "status": "販売期間外"
   }
 ]
