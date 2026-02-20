@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマアクアシティお台場 Coming soon
 X-WR-CALNAME:ユナイテッド・シネマアクアシティお台場 Com
  ing soon 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:e289c9f0-ed7c-5150-87b8-dfdd06f11c03
+UID:7e31d243-6b46-5f33-afd7-51cad2ca08a7
 SEQUENCE:0
-DTSTAMP:20260214T155538Z
-DTSTART:20260214T091000Z
-DTEND:20260214T102000Z
+DTSTAMP:20260220T160540Z
+DTSTART:20260220T094000Z
+DTEND:20260220T105000Z
 SUMMARY:[販売対象外]  ＜応援上映＞KING OF PRISM-Your Endless Ca
- ll- route3奇跡のクイーンカップ
+ ll- route4夢と未来 はじまりの物語
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -23,13 +23,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ced745e2-d610-5ad4-9304-3af0ca31bc1f
+UID:ffb658e2-60a6-58f2-9618-5f5aba8c6c8d
 SEQUENCE:0
-DTSTAMP:20260214T155538Z
-DTSTART:20260215T091000Z
-DTEND:20260215T102000Z
-SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route3
- 奇跡のクイーンカップ
+DTSTAMP:20260220T160540Z
+DTSTART:20260221T094000Z
+DTEND:20260221T105000Z
+SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route4
+ 夢と未来 はじまりの物語
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -40,13 +40,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:df4d48be-33f1-54b5-bcae-ddb09a8dfb3b
+UID:2da0a74d-974e-5d04-9ddb-d9cb9d14eb5c
 SEQUENCE:0
-DTSTAMP:20260214T155538Z
-DTSTART:20260216T091000Z
-DTEND:20260216T102000Z
-SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route3
- 奇跡のクイーンカップ
+DTSTAMP:20260220T160540Z
+DTSTART:20260222T094000Z
+DTEND:20260222T105000Z
+SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route4
+ 夢と未来 はじまりの物語
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -57,13 +57,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:1cc9b826-7ed7-563b-9f26-63990d2c4579
+UID:6a431bb3-626c-57a3-b744-99d8098b819d
 SEQUENCE:0
-DTSTAMP:20260214T155538Z
-DTSTART:20260217T091000Z
-DTEND:20260217T102000Z
-SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route3
- 奇跡のクイーンカップ
+DTSTAMP:20260220T160540Z
+DTSTART:20260223T094500Z
+DTEND:20260223T105500Z
+SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route4
+ 夢と未来 はじまりの物語
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -74,13 +74,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:0f5ccf57-ad30-548f-86f4-6df78c9af8a7
+UID:fb6ae151-ce9c-547a-9d47-f3a108ca3827
 SEQUENCE:0
-DTSTAMP:20260214T155538Z
-DTSTART:20260218T091000Z
-DTEND:20260218T102000Z
+DTSTAMP:20260220T160540Z
+DTSTART:20260224T094000Z
+DTEND:20260224T105000Z
 SUMMARY:[販売期間外]  ＜応援上映＞KING OF PRISM-Your Endless Ca
- ll- route3奇跡のクイーンカップ
+ ll- route4夢と未来 はじまりの物語
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -91,13 +91,30 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:26d6444e-e997-54c6-a61b-6f6ab7aa8fbb
+UID:ca148bba-4443-5924-9799-e6d1517fb846
 SEQUENCE:0
-DTSTAMP:20260214T155538Z
-DTSTART:20260219T091000Z
-DTEND:20260219T102000Z
+DTSTAMP:20260220T160540Z
+DTSTART:20260225T111000Z
+DTEND:20260225T122000Z
 SUMMARY:[販売期間外]  ＜応援上映＞KING OF PRISM-Your Endless Ca
- ll- route3奇跡のクイーンカップ
+ ll- route4夢と未来 はじまりの物語
+LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
+ soon 6screen
+DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
+ スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=124
+ 18&from=fm\nカレンダー生成プログラムのウェブサイト: kin
+ pri-theater-calendar - https://kinpri-theater-calendar.skrm.ch/
+URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
+ m=fm
+END:VEVENT
+BEGIN:VEVENT
+UID:ddfbff9d-94f9-5d4d-8d7d-6dcbbd1e90f8
+SEQUENCE:0
+DTSTAMP:20260220T160540Z
+DTSTART:20260226T094000Z
+DTEND:20260226T105000Z
+SUMMARY:[販売期間外]  ＜応援上映＞KING OF PRISM-Your Endless Ca
+ ll- route4夢と未来 はじまりの物語
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 6screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
