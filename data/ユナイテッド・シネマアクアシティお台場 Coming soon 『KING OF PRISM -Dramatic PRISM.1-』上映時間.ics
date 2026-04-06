@@ -6,13 +6,13 @@ NAME:ユナイテッド・シネマアクアシティお台場 Coming soon
 X-WR-CALNAME:ユナイテッド・シネマアクアシティお台場 Com
  ing soon 『KING OF PRISM -Dramatic PRISM.1-』上映時間
 BEGIN:VEVENT
-UID:8f1dd9ff-fe52-5679-ae43-957256e11695
+UID:c1eca197-50ba-5839-9384-0a25efa32f84
 SEQUENCE:0
-DTSTAMP:20260329T160004Z
-DTSTART:20260330T110500Z
-DTEND:20260330T121500Z
-SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route4
- 夢と未来 はじまりの物語
+DTSTAMP:20260406T161848Z
+DTSTART:20260406T102000Z
+DTEND:20260406T113000Z
+SUMMARY:[販売対象外]  KING OF PRISM-Your Endless Call- route5 22世
+ 紀＜応援上映＞
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -23,13 +23,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:b5fcbbe8-95df-5da3-b605-5bef76df4aae
+UID:6fefe046-151b-5c14-9bf4-f9ffc37cd962
 SEQUENCE:0
-DTSTAMP:20260329T160004Z
-DTSTART:20260331T110500Z
-DTEND:20260331T121500Z
-SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route4
- 夢と未来 はじまりの物語
+DTSTAMP:20260406T161848Z
+DTSTART:20260407T102000Z
+DTEND:20260407T113000Z
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route5 22世紀＜応援
+ 上映＞
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -40,13 +40,13 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:ea2f890a-e6b4-5311-b9a0-7fba8d06cac3
+UID:3140c84a-3777-5ea8-8493-50cc86efbbcd
 SEQUENCE:0
-DTSTAMP:20260329T160004Z
-DTSTART:20260401T110500Z
-DTEND:20260401T121500Z
-SUMMARY:[○]  ＜応援上映＞KING OF PRISM-Your Endless Call- route4
- 夢と未来 はじまりの物語
+DTSTAMP:20260406T161848Z
+DTSTART:20260408T102000Z
+DTEND:20260408T113000Z
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route5 22世紀＜応援
+ 上映＞
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
  soon 5screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
@@ -57,15 +57,15 @@ URL;VALUE=URI:https://www.unitedcinemas.jp/odaiba/film.php?movie=12418&fro
  m=fm
 END:VEVENT
 BEGIN:VEVENT
-UID:508fbed9-6127-59e1-8d76-826a78d4e074
+UID:55e45663-d9a4-5e3a-b80b-944f618c8023
 SEQUENCE:0
-DTSTAMP:20260329T160004Z
-DTSTART:20260402T110500Z
-DTEND:20260402T121500Z
-SUMMARY:[販売期間外]  ＜応援上映＞KING OF PRISM-Your Endless Ca
- ll- route4夢と未来 はじまりの物語
+DTSTAMP:20260406T161848Z
+DTSTART:20260409T090000Z
+DTEND:20260409T101000Z
+SUMMARY:[○]  KING OF PRISM-Your Endless Call- route5 22世紀＜応援
+ 上映＞
 LOCATION:ユナイテッド・シネマアクアシティお台場 Coming 
- soon 5screen
+ soon 3screen
 DESCRIPTION:プリズムの煌めきをあなたに✨\n映画館の上映
  スケジュール: https://www.unitedcinemas.jp/odaiba/film.php?movie=124
  18&from=fm\nカレンダー生成プログラムのウェブサイト: kin
